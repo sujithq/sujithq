@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[My Github Stats](https://github-readme-stats.vercel.app/api?username=sujithq&show_icons=true&theme=monokai "My Github Stats")
+![alt text][githubstats]
 
+[githubstats]: https://github-readme-stats.vercel.app/api?username=sujithq "My Github Stats"
 
 <!--
 **sujithq/sujithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
