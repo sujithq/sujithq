@@ -6,9 +6,7 @@ This is a draft version to play with my profile
 
 [githubstats]: https://github-readme-stats.vercel.app/api?username=sujithq "My Github Stats"
 
-<!-- <link rel="stylesheet" type="text/css" media="all" href="pluralsight.css" /> -->
-
-(setq markdown-css-paths '("https://github.com/sujithq/sujithq/blob/master/pluralsight.css"))
+<link rel="stylesheet" type="text/css" media="all" href="https://s2.pluralsight.com/roleiq/static/css/main.e4cf.css" />
 
 <table>
   <tr>
