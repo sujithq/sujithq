@@ -1,15 +1,15 @@
 ### This is a draft version to play with my profile
 
-<img src="https://github.com/sujithq/sujithq/blob/master/banner-header.png" alt="Hi I Am Sujith">  
+<img src="https://github.com/sujithq/sujithq/blob/master/banner-header.png" alt="Hi I Am Sujith">
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" />  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" />  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" />
 
 
-<img align="left" src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" />  
+<img align="left" src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujithq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  
