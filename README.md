@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--img src="https://raw.githubusercontent.com/sujithq/sujithq/48c7275c46f25ca977af1b3456b68ffe4ca2a96b/Hi-I-Am-Sujith.svg" alt="Hi I Am Sujith"-->
-<img src="https://github.com/sujithq/sujithq/blob/master/test.svg" alt="Hi I Am Sujith">
+<img src="https://github.com/sujithq/sujithq/blob/master/Test.png" alt="Hi I Am Sujith">
 
 
 This is a draft version to play with my profile
