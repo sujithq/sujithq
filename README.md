@@ -6,11 +6,6 @@
 
 This is a draft version to play with my profile
 
-![My Github Stats][githubstats]
-
-<p>[githubstats]: https://github-readme-stats.vercel.app/api?username=sujithq "My Github Stats"</p>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="sujithq" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="sujithq" /></p>
 
