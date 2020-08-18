@@ -1,6 +1,6 @@
 ### This is a draft version to play with my profile
 
-<img src="https://github.com/sujithq/sujithq/blob/master/banner.png" alt="Hi I Am Sujith">
+<img src="https://github.com/sujithq/sujithq/blob/master/banner-header.png" alt="Hi I Am Sujith">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /></p>
