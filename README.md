@@ -6,11 +6,9 @@
 
 This is a draft version to play with my profile
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="sujithq" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="sujithq" /></p>
-
-[![HitCount](http://hits.dwyl.com/sujithq/sujithq.svg)](http://hits.dwyl.com/sujithq/sujithq)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /></p>
+<p><img align="left" src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /></p>
 
 <!--
 **sujithq/sujithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
