@@ -18,7 +18,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pluralsight.svg' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/SujithQ)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+[<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>](https://archiveprogram.github.com)
 
 <!--
 **sujithq/sujithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
