@@ -3,8 +3,11 @@
 <img src="https://github.com/sujithq/sujithq/blob/master/banner-header.png" alt="Hi I Am Sujith">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /></p>
+
 <br>
+
 <p><img align="left" src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /></p>
 
 <!--
