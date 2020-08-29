@@ -1,6 +1,6 @@
 ### This is a draft version to play with my profile
 
-<img src="https://github.com/sujithq/sujithq/blob/master/banner-header.png" alt="Hi I Am Sujith">
+<img src="./assets/banner-header.png" alt="Hi I Am Sujith">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" />
@@ -12,7 +12,23 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pluralsight.svg' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/SujithQ)  
 
 
-<img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" />
+<details>
+<summary>My Microsoft Certifications</summary>
+
+<img src="./assets/microsoft/0100-azure-solutions-architect-expert.png" width="100" height="100">
+
+
+<img src="./assets/microsoft/0101-DevOps-Engineer-expert.png" width="100" height="100">
+
+<img src="./assets/microsoft/0120-azure-administrator-associate.png" width="100" height="100">
+
+<img src="./assets/microsoft/0121-azure-security-engineer-associate.png" width="100" height="100">
+
+<img src="./assets/microsoft/0122-azure-developer-associate.png" width="100" height="100">
+</details>
+
+
+<!-- <img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /> -->
 
 
 <!--
