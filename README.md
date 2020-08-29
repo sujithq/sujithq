@@ -15,16 +15,16 @@
 <details>
 <summary>My Microsoft Certifications</summary>
 
-<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100" height="100">
+[<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100" height="100">](https://www.youracclaim.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c)
 
 
-<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100" height="100">
+[<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100" height="100">](https://www.youracclaim.com/earner/earned/badge/8be7e149-d0ac-47e8-909e-5a30f8b6a799)
 
-<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0120-azure-administrator-associate.png" width="100" height="100">
+[<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0120-azure-administrator-associate.png" width="100" height="100">](https://www.youracclaim.com/earner/earned/badge/cdf46779-5a7e-4677-94a2-c9c3c5a55d03)
 
-<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100" height="100">
+[<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100" height="100">](https://www.youracclaim.com/earner/earned/badge/bf467f1a-c7fe-472a-bc4e-565899a5d74b)
 
-<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0122-azure-developer-associate.png" width="100" height="100">
+[<img src="https://github.com/sujithq/sujithq/blob/master/assets/microsoft/0122-azure-developer-associate.png" width="100" height="100">](https://www.youracclaim.com/earner/earned/badge/14a23058-7390-4044-b1a4-8462520ef288)
 </details>
 
 
