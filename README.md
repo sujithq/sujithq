@@ -1,5 +1,3 @@
-### This is a draft version to play with my profile
-
 <img src="https://github.com/sujithq/sujithq/blob/master/assets/banner-header.png" alt="Hi I Am Sujith">
 
 
