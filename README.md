@@ -28,6 +28,13 @@
 <details>
 <summary>Other Certifications</summary>
 <a href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/terraform/Terraform-Associate-Badge.png" width="100" height="100"></a>
+
+<a href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/0401-Green Belt.png" width="100" height="100"></a>
+
+<a href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/0401-Yellow Belt.png" width="100" height="100"></a>
+
+<a href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/0401-White Belt.png" width="100" height="100"></a>
+
 </details>
 
 <!-- <img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /> -->
