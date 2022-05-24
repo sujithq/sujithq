@@ -29,7 +29,7 @@
 <summary>Other Certifications</summary>
 <a href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/terraform/Terraform-Associate-Badge.png" width="100"></a>
 
-<a href="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/Green-Yellow-White.pdf" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/0401-Green Belt.png" width="200"></a>
+<a href="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/Green-Yellow-White.pdf" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/0401-Green-Belt.png" width="200"></a>
 
 <a href="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/Green-Yellow-White.pdf" target="_blank"><img src="https://github.com/sujithq/sujithq/blob/master/assets/securityjourney/0402-Yellow-Belt.png" width="200"></a>
 
