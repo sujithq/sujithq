@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>Other Certifications</summary>
+<summary>Terraform</summary>
 <a target="_blank" href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/terraform/Terraform-Associate-Badge.png" width="100"></a>
 
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/0401-Green-Belt.png" width="200"></a>
@@ -36,6 +36,22 @@
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/0403-White-Belt.png" width="200"></a>
 
 </details>
+
+
+<details>
+<summary>Cloud Champion</summary>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0150-azure-technical-expert.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0151-azure-technical-associate.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0152-azure-technical-qualified.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0160-business-central-technical-expert.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0161-business-central-technical-associate.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0170-azure-sales-expert.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0171-azure-sales-associate.png" width="100"></a>
+<a target="_blank" href="" target="_blank"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0172-azure-sales-qualified.png" width="100"></a>
+
+
+</details>
+
 
 <!-- <img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /> -->
 
