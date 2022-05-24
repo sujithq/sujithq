@@ -44,11 +44,11 @@
 
 <details>
 <summary>Cloud Champion</summary>
-<a target="_blank" href=""><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0150-azure-technical-expert.png" width="100"></a>
-<a target="_blank" href=""><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0151-azure-technical-associate.png" width="100"></a>
-<a target="_blank" href=""><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0152-azure-technical-qualified.png" width="100"></a>
-<a target="_blank" href=""><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0160-business-central-technical-expert.png" width="100"></a>
-<a target="_blank" href=""><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0161-business-central-technical-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/3aa66697-b1cc-4eba-bd5e-ede1005a5147"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0150-azure-technical-expert.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/a0d21b67-ec0e-4805-9ace-795f284462ff"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0151-azure-technical-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/4fe1dca6-3bf9-401b-a1af-e3e035de537b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0152-azure-technical-qualified.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/201deded-59e3-47d6-bd24-a8b60d2e3f35"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0160-business-central-technical-expert.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/b01427ee-a247-4fac-a954-ab5c0f554c61"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0161-business-central-technical-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/6ff9e648-3a42-470f-a8da-6e7421a26f0f"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0170-azure-sales-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/e5952c6a-020e-418c-a36d-56158ea65f13"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0171-azure-sales-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/af983296-78cc-4bc4-a58e-49fffe981545"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0172-azure-sales-qualified.png" width="100"></a>
