@@ -52,6 +52,8 @@
 <a target="_blank" href="https://www.credential.net/6ff9e648-3a42-470f-a8da-6e7421a26f0f"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0170-azure-sales-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/e5952c6a-020e-418c-a36d-56158ea65f13"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0171-azure-sales-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/af983296-78cc-4bc4-a58e-49fffe981545"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0172-azure-sales-qualified.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/53244991-793b-4870-aceb-dbb0ce63a5fc"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0180-Security-Qualified.png" width="100"></a>
+<a target="_blank" href="https://www.credential.net/6a3a2203-daf0-43ae-a644-7f516eff2125"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0181-Security-Associate.png" width="100"></a>
 
 
 </details>
