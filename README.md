@@ -12,7 +12,7 @@
 
 <details>
 <summary>My Microsoft Certifications - Expert</summary>
-<a target="_blank" href="https://www.youracclaim.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a> <a target="_blank" href="https://www.youracclaim.com/badges/8be7e149-d0ac-47e8-909e-5a30f8b6a799"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a> 
+<a target="_blank" href="https://www.youracclaim.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a> <a target="_blank" href="https://www.youracclaim.com/badges/8be7e149-d0ac-47e8-909e-5a30f8b6a799"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a> <a target="_blank" href="https://www.youracclaim.com/badges/989abe8c-ffbe-46f0-b055-fbf36230157a"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0103-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a> 
 </details>
 
 <details>
