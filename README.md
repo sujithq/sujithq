@@ -22,7 +22,7 @@
 
 <details>
 <summary>Microsoft Certifications - Specialty</summary>
-<a><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty.png" width="100"></a>
+<a target="_blank" href="https://www.youracclaim.com/badges/a4580b93-3256-4734-8714-643caa92bf39"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty.png" width="100"></a>
 </details>
 
 <details>
