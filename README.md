@@ -27,7 +27,7 @@
 
 <details>
 <summary>GitHub</summary>
-<a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0145-github-actions.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-actions.png" width="100"></a>
 </details>
 
 <details>
