@@ -60,7 +60,7 @@
 <details>
 <summary>Azure Data Explorer</summary>
 <a target="_blank" href="https://www.credly.com/badges/f767ec60-ad67-4112-b9e5-7c5bbbf0cc5f"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/000-kusto-detective-agency-onboarding.png" width="100"></a>
-<a target="_blank" href="https://www.credly.com/badges/f767ec60-ad67-4112-b9e5-7c5bbbf0cc5f"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/001-kusto-detective-agency-case-1.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/2bce9379-3b75-4f69-867d-81136d643919"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/001-kusto-detective-agency-case-1.png" width="100"></a>
 </details>
 <!-- <img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /> -->
 
