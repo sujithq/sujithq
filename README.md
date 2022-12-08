@@ -65,7 +65,7 @@
 
 <details>
 <summary>Must Learn KQL</summary>
-<a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/must-learn-kql/001-must-learn-kql-completion.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/0401-Green-Belt.png" width="200"></a>
+<a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/must-learn-kql/001-must-learn-kql-completion.pdf"><img src="https://raw.githubusercontent.com/rod-trent/MustLearnKQL/main/Series_Images/MustLearnKQLBannerMissionSmall.png" width="200"></a>
 </details>
 
 
