@@ -68,6 +68,10 @@
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/must-learn-kql/001-must-learn-kql-completion.pdf"><img src="https://raw.githubusercontent.com/rod-trent/MustLearnKQL/main/Series_Images/MustLearnKQLBannerMissionSmall.png" width="200"></a>
 </details>
 
+<details>
+<summary>AWS</summary>
+<a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/was/0146-aws-cloud-quest-cloud-practitioner.png" width="200"></a>
+</details>
 
 
 <!-- <img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /> -->
