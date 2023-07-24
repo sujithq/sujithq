@@ -12,12 +12,19 @@
 
 <details>
 <summary>Microsoft Certifications - Expert</summary>
-<a target="_blank" href="https://www.credly.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a> <a target="_blank" href="https://www.credly.com/badges/8be7e149-d0ac-47e8-909e-5a30f8b6a799"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a> <a target="_blank" href="https://www.credly.com/badges/989abe8c-ffbe-46f0-b055-fbf36230157a"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0102-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a> 
+<a target="_blank" href="https://www.credly.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/8be7e149-d0ac-47e8-909e-5a30f8b6a799"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/989abe8c-ffbe-46f0-b055-fbf36230157a"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0102-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a> 
 </details>
 
 <details>
 <summary>Microsoft Certifications - Associate</summary>
-<a target="_blank" href="https://www.credly.com/badges/cdf46779-5a7e-4677-94a2-c9c3c5a55d03"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0120-azure-administrator-associate.png" width="100"></a> <a target="_blank" href="https://www.credly.com/badges/bf467f1a-c7fe-472a-bc4e-565899a5d74b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100"></a><a target="_blank" href="https://www.credly.com/badges/14a23058-7390-4044-b1a4-8462520ef288"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a> <a target="_blank" href="https://www.credly.com/badges/4372a0cc-dfb8-4311-a920-8289eedbf27c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0123-azure-ai-engineer-associate.png" width="100"></a><a target="_blank" href="https://www.credly.com/badges/e3fd2aee-78af-4972-8a8f-ae7bf79de9f7"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0124-azure-network-engineer-associate.png" width="100"></a><a target="_blank" href="https://www.credly.com/badges/242cf637-01fb-44ed-ab0f-bda642330cca"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0125-azure-identity-and-access-administrator-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/cdf46779-5a7e-4677-94a2-c9c3c5a55d03"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0120-azure-administrator-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/bf467f1a-c7fe-472a-bc4e-565899a5d74b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/14a23058-7390-4044-b1a4-8462520ef288"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/4372a0cc-dfb8-4311-a920-8289eedbf27c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0123-azure-ai-engineer-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/e3fd2aee-78af-4972-8a8f-ae7bf79de9f7"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0124-azure-network-engineer-associate.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/242cf637-01fb-44ed-ab0f-bda642330cca"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0125-azure-identity-and-access-administrator-associate.png" width="100"></a>
 </details>
 
 <details>
@@ -33,6 +40,11 @@
 <details>
 <summary>Terraform</summary>
 <a target="_blank" href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547"><img src="https://github.com/sujithq/sujithq/raw/master/assets/terraform/Terraform-Associate-Badge.png" width="100"></a>
+</details>
+
+<details>
+<summary>Microsoft Learn</summary>
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/9999 - AI Builder Challenge 2023.png" width="100">
 </details>
 
 <details>
