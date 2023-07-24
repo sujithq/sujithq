@@ -1,10 +1,18 @@
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/banner-header.png" alt="Hi I Am Sujith">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /> -->
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" />
+<img alt="sujithq's streak Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&mode=weekly&fire=DD2727">
+
+<img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+
+<img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
+
+<img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SuriyaTasmimDisha&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /> -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pluralsight.svg' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/SujithQ)  
