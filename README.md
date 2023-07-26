@@ -1,5 +1,7 @@
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/banner-header.png" alt="Hi I Am Sujith">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Typing SVG" /></a>
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /> -->
 
@@ -43,6 +45,7 @@
 <details>
 <summary>GitHub</summary>
 <a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-actions.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0146-github-advanced-security.png" width="100"></a>
 </details>
 
 <details>
