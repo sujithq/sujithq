@@ -46,6 +46,7 @@
 <summary>GitHub</summary>
 <a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-actions.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0146-github-advanced-security.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0147-github-administration.png" width="100"></a>
 </details>
 
 <details>
