@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/sujithq/sujithq/raw/master/assets/banner-header.png" alt="Hi I Am Sujith"> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=palatinate&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Typing SVG" />
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /> -->
