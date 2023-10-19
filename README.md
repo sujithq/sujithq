@@ -17,7 +17,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /> -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pluralsight.svg' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/SujithQ)  
+[<img src='https://cdn.simpleicons.org/linkedin/6C1D5F' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.simpleicons.org/pluralsight/6C1D5F' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/SujithQ)  
 
 
 <details>
