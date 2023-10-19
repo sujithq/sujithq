@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary style="color: #6C1D5F;">Microsoft Certifications - Associate</summary>
+<summary><span style="color: #6C1D5F;">Microsoft Certifications - Associate</span></summary>
 <a target="_blank" href="https://www.credly.com/badges/cdf46779-5a7e-4677-94a2-c9c3c5a55d03"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0120-azure-administrator-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/bf467f1a-c7fe-472a-bc4e-565899a5d74b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/14a23058-7390-4044-b1a4-8462520ef288"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a>
