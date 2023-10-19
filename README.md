@@ -10,7 +10,7 @@
 
 <img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff" height="192px">
 
-<img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=6C1D5F&icon_color=DBFCFF&hide=Jupyter%20Notebook" height="192px">
+<img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff&hide=Jupyter%20Notebook" height="192px">
 
 <img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=1F222E&color=DBFCFF&line=6c1d5f&point=FFFFFF&hide_border=true">
 
