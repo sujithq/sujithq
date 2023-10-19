@@ -6,7 +6,7 @@
 
 ![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff&hide=Jupyter%20Notebook "Top Languages")
 
-![Activity Graph!](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=7f96ff&line=E56399&point=a6cfd5&hide_border=true&custom_title=sujithq's%20Activity%20Graph "Activity Graph")
+![Activity Graph!](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=7f96ff&line=E56399&point=a6cfd5&hide_border=true&custom_title=Activity%20Graph "Activity Graph")
 
 [<img src='https://cdn.simpleicons.org/linkedin/6c1d5f' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)  
 
