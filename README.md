@@ -6,7 +6,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /> -->
 
 
-<img alt="sujithq's streak Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&mode=weekly&fire=6c1d5f">
+<img alt="sujithq's streak Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=E56399&currStreakNum=EB5454&sideNums=EB5454&stroke=DBFCFF&currStreakLabel=7F96FF&sideLabels=7F96FF&dates=A6CFD5">
 
 <img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff" height="192px">
 
