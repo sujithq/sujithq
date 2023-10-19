@@ -12,7 +12,7 @@
 
 <img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff&hide=Jupyter%20Notebook" height="192px">
 
-<img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=7f96ff&line=E56399&point=E57f96ff6399&hide_border=true&custom_title=sujithq's%20Activity%20Graph">
+<img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=7f96ff&line=E56399&point=7f96ff&hide_border=true&custom_title=sujithq's%20Activity%20Graph">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /> -->
 
