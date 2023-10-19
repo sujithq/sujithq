@@ -1,34 +1,14 @@
-<!-- <img src="https://github.com/sujithq/sujithq/raw/master/assets/banner-header.png" alt="Hi I Am Sujith"> -->
-
-
 ![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services "Skills")
-
-<!-- <img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Typing SVG" /> -->
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /> -->
 
 ![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=E56399&currStreakNum=EB5454&sideNums=EB5454&stroke=DBFCFF&currStreakLabel=7F96FF&sideLabels=7F96FF&dates=A6CFD5 "Streak Stats")
 
-<!-- <img alt="Github Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=E56399&currStreakNum=EB5454&sideNums=EB5454&stroke=DBFCFF&currStreakLabel=7F96FF&sideLabels=7F96FF&dates=A6CFD5"> -->
-
 ![Github Stats!](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff "Github Stats")
-
-<!-- <img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff" height="192px"> -->
 
 ![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff&hide=Jupyter%20Notebook "Top Languages")
 
-<!-- <img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=E56399&text_color=7f96ff&bg_color=1F222E&border_color=dbfcff&hide=Jupyter%20Notebook" height="192px"> -->
-
 ![Activity Graph!](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=7f96ff&line=E56399&point=a6cfd5&hide_border=true&custom_title=sujithq's%20Activity%20Graph "Activity Graph")
 
-<!-- <img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=7f96ff&line=E56399&point=a6cfd5&hide_border=true&custom_title=sujithq's%20Activity%20Graph"> -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /> -->
-
-[![LinkedIn!](https://cdn.simpleicons.org/linkedin/6C1D5F "LinkedIn")](https://www.linkedin.com/in/sujithquintelier/) [![Pluralsight!](https://cdn.simpleicons.org/pluralsight/6C1D5F "Pluralsight")](https://app.pluralsight.com/profile/SujithQ)
-
-<!-- [<img src='https://cdn.simpleicons.org/linkedin/6C1D5F' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.simpleicons.org/pluralsight/6C1D5F' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/SujithQ)   -->
+[<img src='https://cdn.simpleicons.org/linkedin/6c1d5f' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)  [<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)  
 
 
 <details>
@@ -119,9 +99,6 @@
 <summary>AWS</summary>
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
-
-
-<!-- <img src="http://hits.dwyl.com/sujithq/sujithq.svg" alt="count" /> -->
 
 
 <!--
