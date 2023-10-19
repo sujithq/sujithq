@@ -1,12 +1,12 @@
 <!-- <img src="https://github.com/sujithq/sujithq/raw/master/assets/banner-header.png" alt="Hi I Am Sujith"> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=425b76&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Typing SVG" />
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=sujithq&layout=compact&hide=html" alt="stats" /> -->
 
 
-<img alt="sujithq's streak Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&mode=weekly&fire=425b76">
+<img alt="sujithq's streak Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&mode=weekly&fire=6c1d5f">
 
 <img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
 
