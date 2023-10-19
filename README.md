@@ -21,14 +21,14 @@
 
 
 <details>
-<summary>Microsoft Certifications - Expert</summary>
+<summary style="color: #6C1D5F;">Microsoft Certifications - Expert</summary>
 <a target="_blank" href="https://www.credly.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/8be7e149-d0ac-47e8-909e-5a30f8b6a799"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/989abe8c-ffbe-46f0-b055-fbf36230157a"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0102-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a> 
 </details>
 
 <details>
-<summary>Microsoft Certifications - Associate</summary>
+<summary style="color: #6C1D5F;">Microsoft Certifications - Associate</summary>
 <a target="_blank" href="https://www.credly.com/badges/cdf46779-5a7e-4677-94a2-c9c3c5a55d03"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0120-azure-administrator-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/bf467f1a-c7fe-472a-bc4e-565899a5d74b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/14a23058-7390-4044-b1a4-8462520ef288"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a>
@@ -38,12 +38,12 @@
 </details>
 
 <details>
-<summary>Microsoft Certifications - Specialty</summary>
+<summary style="color: #6C1D5F;">Microsoft Certifications - Specialty</summary>
 <a target="_blank" href="https://www.credly.com/badges/a4580b93-3256-4734-8714-643caa92bf39"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty.png" width="100"></a>
 </details>
 
 <details>
-<summary>GitHub Certifications</summary>
+<summary style="color: #6C1D5F;">GitHub Certifications</summary>
 <a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-actions.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0146-github-advanced-security.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0147-github-administration.png" width="100"></a>
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary>GitHub Accreditations</summary>
+<summary style="color: #6C1D5F;">GitHub Accreditations</summary>
 - GitHub Actions
 - GitHub for Developers
 - GitHub Advanced Security Getting Started
@@ -62,24 +62,24 @@
 </details>
 
 <details>
-<summary>Terraform</summary>
+<summary style="color: #6C1D5F;">Terraform</summary>
 <a target="_blank" href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547"><img src="https://github.com/sujithq/sujithq/raw/master/assets/terraform/Terraform-Associate-Badge.png" width="100"></a>
 </details>
 
 <details>
-<summary>Microsoft Learn</summary>
+<summary style="color: #6C1D5F;">Microsoft Learn</summary>
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/9999 - AI Builder Challenge 2023.png" width="100">
 </details>
 
 <details>
-<summary>Security Journey</summary>
+<summary style="color: #6C1D5F;">Security Journey</summary>
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/0401-Green-Belt.png" width="200"></a>
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/0402-Yellow-Belt.png" width="200"></a>
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/0403-White-Belt.png" width="200"></a>
 </details>
 
 <details>
-<summary>Cloud Champion</summary>
+<summary style="color: #6C1D5F;">Cloud Champion</summary>
 <a target="_blank" href="https://www.credential.net/3aa66697-b1cc-4eba-bd5e-ede1005a5147"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0150-azure-technical-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/a0d21b67-ec0e-4805-9ace-795f284462ff"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0151-azure-technical-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credential.net/4fe1dca6-3bf9-401b-a1af-e3e035de537b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/cloud-champion/0152-azure-technical-qualified.png" width="100"></a>
@@ -94,18 +94,18 @@
 </details>
 
 <details>
-<summary>Azure Data Explorer</summary>
+<summary style="color: #6C1D5F;">Azure Data Explorer</summary>
 <a target="_blank" href="https://www.credly.com/badges/f767ec60-ad67-4112-b9e5-7c5bbbf0cc5f"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/000-kusto-detective-agency-onboarding.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/2bce9379-3b75-4f69-867d-81136d643919"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-azure-data-explorer/001-kusto-detective-agency-case-1.png" width="100"></a>
 </details>
 
 <details>
-<summary>Must Learn KQL</summary>
+<summary style="color: #6C1D5F;">Must Learn KQL</summary>
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/must-learn-kql/001-must-learn-kql-completion.pdf"><img src="https://raw.githubusercontent.com/rod-trent/MustLearnKQL/main/Series_Images/MustLearnKQLBannerMissionSmall.png" width="200"></a>
 </details>
 
 <details>
-<summary>AWS</summary>
+<summary style="color: #6C1D5F;">AWS</summary>
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
 
