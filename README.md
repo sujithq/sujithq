@@ -8,11 +8,11 @@
 
 <img alt="sujithq's streak Stats" src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&mode=weekly&fire=6c1d5f">
 
-<img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=A6CFD5&title_color=7F96FF&icon_color=F8D866" height="192px">
+<img alt="sujithq's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=A6CFD5&title_color=7F96FF&icon_color=DBFCFF" height="192px">
 
-<img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=A6CFD5&title_color=7F96FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
+<img alt="sujithq's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=A6CFD5&title_color=7F96FF&icon_color=DBFCFF&hide=Jupyter%20Notebook" height="192px">
 
-<img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=A6CFD5&color=F8D866&line=6c1d5f&point=FFFFFF&hide_border=true">
+<img alt="sujithq's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=A6CFD5&color=DBFCFF&line=6c1d5f&point=FFFFFF&hide_border=true">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&layout=compact&hide=html" alt="top-langs" /> -->
 
