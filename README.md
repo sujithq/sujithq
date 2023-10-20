@@ -1,5 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6)
 
+![Snake animation](https://github.com/sujithq/sujithq/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Skills!"></img>
 </p>
