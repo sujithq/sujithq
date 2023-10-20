@@ -1,6 +1,9 @@
 <p align="center">
-![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services "Skills")
+<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Skills"></img>
 </p>
+
+<!-- ![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services "Skills") -->
+
 
 ![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=E56399&currStreakNum=EB5454&sideNums=EB5454&stroke=DBFCFF&currStreakLabel=7F96FF&sideLabels=7F96FF&dates=A6CFD5 "Streak Stats")
 
