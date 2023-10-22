@@ -11,7 +11,7 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platasujithqne/sujithq/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
