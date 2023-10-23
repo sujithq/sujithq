@@ -3,6 +3,27 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6) -->
 
 
+👋 Hey there! Welcome to my GitHub Profile!
+
+Bio Summary ([Full Version](https://sujithq.github.io/cv/#about))
+
+> Azure Cloud Solutions & Cybersecurity Architect 
+
+> Azure (Identity and Access) Administrator 
+
+> Azure DevOps, AI, Security & Network Engineer 
+
+> Azure (Cosmos DB) Developer
+
+>  GitHub Accredited Trainer For Delivering
+> * GitHub Actions 
+> * GitHub for Developers
+> * GitHub Administration
+> * GitHub Advanced Security Gettings Started training
+> * GitHub Migrations
+> * GitHub Enterprise Importer
+> * Github Copilot for Business Fundamentals
+
 
 
 <p align="center">
