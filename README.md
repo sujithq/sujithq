@@ -1,4 +1,6 @@
+<p align="center">
 [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6)
+</p>
 
 <picture>
   <source
@@ -82,13 +84,21 @@
 
 <details>
 <summary>GitHub Accreditations</summary>
-- GitHub Actions
-- GitHub for Developers
-- GitHub Advanced Security Getting Started
-- GitHub Administration
-- GitHub Migrations
-- GitHub Enterprise Importer
-- GitHub Copilot for Business Fundamentals
+<p align="center">
+<img src="https://img.shields.io/badge/GitHub-Actions-6C1D5F?logo=github" alt="GitHub Actions"></img>
+
+<img src="https://img.shields.io/badge/GitHub-for%20Developers-6C1D5F?logo=github" alt="GitHub for Developers"></img>
+
+<img src="https://img.shields.io/badge/GitHub-Advanced%20Security%20Getting%20Started-6C1D5F?logo=github" alt="GitHub Advanced Security Getting Started"></img>
+
+<img src="https://img.shields.io/badge/GitHub-Administration-6C1D5F?logo=github" alt="GitHub Administration"></img>
+
+<img src="https://img.shields.io/badge/GitHub-Migrations-6C1D5F?logo=github" alt="GitHub Migrations"></img>
+
+<img src="https://img.shields.io/badge/GitHub-Enterprise%20Importer-6C1D5F?logo=github" alt="GitHub Enterprise Importer"></img>
+
+<img src="https://img.shields.io/badge/GitHub-Copilot%20for%20Business%20Fundamentals-6C1D5F?logo=github" alt="GitHub Copilot for Business Fundamentals"></img>
+</p>
 </details>
 
 <details>
