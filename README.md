@@ -1,18 +1,22 @@
+👋 Hey there! Welcome to my GitHub Profile Page!
 
+🔗 Connect with me
+
+[<img src='https://cdn.simpleicons.org/linkedin/6c1d5f' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)
+[<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)
+[<img src='https://cdn.simpleicons.org/x/6c1d5f' alt='x' height='40'>](https://twitter.com/Sujithq)
+[<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier) 
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6) -->
 
+📃 Bio ([Full Version](https://sujithq.github.io/cv/#about))
 
-👋 Hey there! Welcome to my GitHub Profile!
-
-Bio Summary ([Full Version](https://sujithq.github.io/cv/#about))
-
-> Azure Cloud Solutions & Cybersecurity Architect 
-
-> Azure (Identity and Access) Administrator 
-
-> Azure DevOps, AI, Security & Network Engineer 
-
+> Azure Cloud Solutions & Cybersecurity Architect
+> 
+> Azure (Identity and Access) Administrator
+> 
+> Azure DevOps, AI, Security & Network Engineer
+> 
 > Azure (Cosmos DB) Developer
 
 >  GitHub Accredited Trainer For Delivering
@@ -24,7 +28,7 @@ Bio Summary ([Full Version](https://sujithq.github.io/cv/#about))
 > * GitHub Enterprise Importer
 > * Github Copilot for Business Fundamentals
 
-
+> Terraform Associate
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Skills!"></img>
@@ -69,40 +73,26 @@ Bio Summary ([Full Version](https://sujithq.github.io/cv/#about))
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=E2702E&line=893253&point=FF8522&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph!"></img>
 </p>
 
-<!-- ![Activity Graph!](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=E2702E&line=893253&point=FF8522&hide_border=true&custom_title=Activity%20Graph "Activity Graph") -->
-
-
-
-[<img src='https://cdn.simpleicons.org/linkedin/6c1d5f' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/) [<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq) [<img src='https://cdn.simpleicons.org/x/6c1d5f' alt='x' height='40'>](https://twitter.com/Sujithq)  
-
 <details open>
-<summary>Microsoft Certifications - Expert</summary>
+<summary>Microsoft Certifications</summary>
 <a target="_blank" href="https://www.credly.com/badges/ae570eb5-5e80-49c0-b333-c10d98be139c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/8be7e149-d0ac-47e8-909e-5a30f8b6a799"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/989abe8c-ffbe-46f0-b055-fbf36230157a"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0102-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a> 
-</details>
-
-<details open>
-<summary>Microsoft Certifications - Associate</summary>
 <a target="_blank" href="https://www.credly.com/badges/cdf46779-5a7e-4677-94a2-c9c3c5a55d03"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0120-azure-administrator-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/bf467f1a-c7fe-472a-bc4e-565899a5d74b"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/14a23058-7390-4044-b1a4-8462520ef288"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/4372a0cc-dfb8-4311-a920-8289eedbf27c"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0123-azure-ai-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/e3fd2aee-78af-4972-8a8f-ae7bf79de9f7"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0124-azure-network-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/242cf637-01fb-44ed-ab0f-bda642330cca"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0125-azure-identity-and-access-administrator-associate.png" width="100"></a>
-</details>
-
-<details open>
-<summary>Microsoft Certifications - Specialty</summary>
 <a target="_blank" href="https://www.credly.com/badges/a4580b93-3256-4734-8714-643caa92bf39"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty.png" width="100"></a>
 </details>
 
 <details open>
 <summary>GitHub Certifications</summary>
+<a target="_blank" href="https://www.credly.com/badges/f2af80ea-f871-40e7-8ea7-ac135bf9a961"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0148-github-foundations-for-non-developers.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-actions.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0146-github-advanced-security.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0147-github-administration.png" width="100"></a>
-<a target="_blank" href="https://www.credly.com/badges/f2af80ea-f871-40e7-8ea7-ac135bf9a961"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0148-github-foundations-for-non-developers.png" width="100"></a>
 </details>
 
 <details open>
