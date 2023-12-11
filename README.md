@@ -19,6 +19,12 @@
 > 
 > Azure (Cosmos DB) Developer
 
+>  GitHub Certified
+> * GitHub Foundations
+> * GitHub Actions 
+> * GitHub Advanced Security
+> * GitHub Admin
+
 >  GitHub Accredited Trainer For Delivering
 > * GitHub Actions 
 > * GitHub for Developers
