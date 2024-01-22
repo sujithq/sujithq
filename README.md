@@ -135,8 +135,9 @@
 
 
 <a target="_blank" href="https://learn.microsoft.com/en-us/users/sujithq/achievements/3xqvqg9h"><img src="https://learn.microsoft.com/training/achievements/github-universe-2023-cloud-skills-challenge.svg" width="100"></a>
-<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/9999 - AI Builder Challenge 2023.png" width="100">
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/001-AI-Builder-Challenge-2023.png" width="100">
 <a target="_blank" href="https://learn.microsoft.com/api/achievements/share/en-us/SujithQuintelier/J5NZHN4T?sharingId=B2D5696D597C46D3"><img src="https://learn.microsoft.com/en-us/learn/achievements/microsoft-innovative-educator.svg" width="100"></a>
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/002-Cloud-Skills-Challenge-Ignite-2023" width="100">
 
 </details>
 
