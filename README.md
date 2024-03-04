@@ -136,7 +136,8 @@
 <details open>
 
 <summary>Terraform</summary>
-<a target="_blank" href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547"><img src="https://github.com/sujithq/sujithq/raw/master/assets/terraform/Terraform-Associate-Badge.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547"><img src="https://github.com/sujithq/sujithq/raw/master/assets/terraform/Terraform-Associate-Badge-002.png" width="100"></a>
+<a target="_blank" href="https://www.credly.com/badges/f229e81a-feef-4ddb-a16a-bb95642bc15a/public_url"><img src="https://github.com/sujithq/sujithq/raw/master/assets/terraform/Terraform-Associate-Badge-003.png" width="100"></a>
 </details>
 
 <details open>
