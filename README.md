@@ -1,11 +1,11 @@
-👋 Hey there! Welcome to my GitHub Profile Page!
+![Alt text](./assets/LinkedInHeader-XMS-BE.jpeg)
 
 🔗 Connect with me
 
 [<img src='https://cdn.simpleicons.org/linkedin/6c1d5f' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)
-[<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)
 [<img src='https://cdn.simpleicons.org/x/6c1d5f' alt='x' height='40'>](https://twitter.com/Sujithq)
 [<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier) 
+[<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6) -->
 
