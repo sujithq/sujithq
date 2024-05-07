@@ -94,7 +94,7 @@
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/56BE1BFB86C08DDA?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0125-azure-identity-and-access-administrator-associate.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/7AA4867AA17160AC?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty.png" width="100"></a>
 
-<a target="_blank" href="" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"></a>
+<a target="_blank" href=""><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"></a>
 </details>
 
 <details open>
