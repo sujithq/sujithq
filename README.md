@@ -36,6 +36,10 @@
 
 > Terraform Associate
 
+> Trainer
+> * Azure
+> * GitHub
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Skills!"></img>
 </p>
@@ -93,6 +97,7 @@
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/88BA5C9FD389F907?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0124-azure-network-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/56BE1BFB86C08DDA?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0125-azure-identity-and-access-administrator-associate.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/7AA4867AA17160AC?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty.png" width="100"></a>
+<a target="_blank" href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals" ><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100"></a>
 </details>
 
 <details open>
