@@ -100,6 +100,7 @@
 <details open>
 <summary>Fundamentals</summary>
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0001-microsoft-certified-fundamentals.png" width="100">
+
 - Azure
 - Azure AI
 </details>
