@@ -134,12 +134,11 @@
 
 <details open>
 <summary>GitHub Accreditations</summary>
-<img src="https://img.shields.io/badge/GitHub-Actions-6C1D5F?logo=github" alt="GitHub Actions"></img><br>
-<img src="https://img.shields.io/badge/GitHub-for%20Developers-6C1D5F?logo=github" alt="GitHub for Developers"></img><br>
-<img src="https://img.shields.io/badge/GitHub-Advanced%20Security%20Getting%20Started-6C1D5F?logo=github" alt="GitHub Advanced Security Getting Started"></img><br>
-<img src="https://img.shields.io/badge/GitHub-Administration-6C1D5F?logo=github" alt="GitHub Administration"></img><br>
-<img src="https://img.shields.io/badge/GitHub-Migrations-6C1D5F?logo=github" alt="GitHub Migrations"></img><br>
-<img src="https://img.shields.io/badge/GitHub-Enterprise%20Importer-6C1D5F?logo=github" alt="GitHub Enterprise Importer"></img><br>
+<img src="https://img.shields.io/badge/GitHub-Actions-6C1D5F?logo=github" alt="GitHub Actions"></img> <img src="https://img.shields.io/badge/GitHub-for%20Developers-6C1D5F?logo=github" alt="GitHub for Developers"></img> 
+<img src="https://img.shields.io/badge/GitHub-Advanced%20Security%20Getting%20Started-6C1D5F?logo=github" alt="GitHub Advanced Security Getting Started"></img> 
+<img src="https://img.shields.io/badge/GitHub-Administration-6C1D5F?logo=github" alt="GitHub Administration"></img> 
+<img src="https://img.shields.io/badge/GitHub-Migrations-6C1D5F?logo=github" alt="GitHub Migrations"></img> 
+<img src="https://img.shields.io/badge/GitHub-Enterprise%20Importer-6C1D5F?logo=github" alt="GitHub Enterprise Importer"></img> 
 <img src="https://img.shields.io/badge/GitHub-Copilot%20for%20Business%20Fundamentals-6C1D5F?logo=github" alt="GitHub Copilot for Business Fundamentals"></img>
 </details>
 
@@ -201,6 +200,23 @@
 <summary>AWS</summary>
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
+
+<details open>
+<summary>securiti.ai</summary>
+<a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.png" width="200"></a><br>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-governance-program-management/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-governance-program-mgmt.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-regulatory-compliance/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-regulatory-compliance.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-controlling-data-inputs-and-outputs/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-controlling-data-io.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-understanding-data-and-ai-relationships/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Understanding-Data-AI-Relationships-.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-risk-assessment/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-risk-assessment.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-model-discovery/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-intro-AI-Model-Discovery.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-introduction-to-ai-governance/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-intro-to-ai-governance.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-introduction-to-ai-and-generative-ai/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Intro-to-Gen-AI.png" width="100"></a>
+</details>
+
+
+
+
 
 
 <!--
