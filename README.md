@@ -154,6 +154,19 @@
 </details>
 
 <details open>
+<summary>securiti.ai</summary>
+<a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.png" width="200"></a><br>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-governance-program-management/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-governance-program-mgmt.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-regulatory-compliance/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-regulatory-compliance.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-controlling-data-inputs-and-outputs/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-controlling-data-io.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-understanding-data-and-ai-relationships/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Understanding-Data-AI-Relationships-.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-risk-assessment/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-risk-assessment.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-model-discovery/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-intro-AI-Model-Discovery.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-introduction-to-ai-governance/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-intro-to-ai-governance.png" width="100"></a>
+<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-introduction-to-ai-and-generative-ai/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Intro-to-Gen-AI.png" width="100"></a>
+</details>
+
+<details open>
 <summary>Microsoft Learn</summary>
 <a target="_blank" href="https://learn.microsoft.com/api/achievements/share/en-us/SujithQ/3XQVQG9H?sharingId=7E02E186AF4FAF6D"><img src="https://learn.microsoft.com/training/achievements/github-universe-2023-cloud-skills-challenge.svg" width="100"></a>
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/001-AI-Builder-Challenge-2023.png" width="100">
@@ -201,18 +214,7 @@
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
 
-<details open>
-<summary>securiti.ai</summary>
-<a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.png" width="200"></a><br>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-governance-program-management/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-governance-program-mgmt.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-regulatory-compliance/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-regulatory-compliance.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-controlling-data-inputs-and-outputs/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-controlling-data-io.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-understanding-data-and-ai-relationships/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Understanding-Data-AI-Relationships-.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-risk-assessment/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-ai-risk-assessment.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-ai-model-discovery/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-intro-AI-Model-Discovery.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-introduction-to-ai-governance/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-intro-to-ai-governance.png" width="100"></a>
-<a target="_blank" href="https://education.securiti.ai/badge/ai-security-governance-certification-introduction-to-ai-and-generative-ai/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Intro-to-Gen-AI.png" width="100"></a>
-</details>
+
 
 
 
