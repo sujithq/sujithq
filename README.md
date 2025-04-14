@@ -9,7 +9,7 @@
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6) -->
 
-📃 Bio ([Full Version](https://sujithq.github.io/cv/#about))
+📃 Bio ([Full Version](https://sujithq.github.io/resume))
 
 > Azure Cloud Solutions & Cybersecurity Architect
 > 
