@@ -83,7 +83,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=E2702E&line=893253&point=FF8522&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph!"></img>
 </p>
 
-
+<details open>
+<summary>Recent</summary>
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/recent/0001-gwr.jpg" width="100">
+</details>
 
 <details open>
 <summary>Microsoft Certifications</summary>
