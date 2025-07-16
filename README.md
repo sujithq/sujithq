@@ -89,6 +89,11 @@
 </details>
 
 <details open>
+<summary>Platform Engineering</summary>
+<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platforn-engineering/0010-foundation.png" width="100"></a>
+</details>
+
+<details open>
 <summary>Microsoft Certifications</summary>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/5B76D5650086FA71?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/1E14D97DCC88C8C6?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a>
