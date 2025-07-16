@@ -90,7 +90,7 @@
 
 <details open>
 <summary>Platform Engineering</summary>
-<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platforn-engineering/0010-foundation.png" width="100"></a>
+<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0010-foundation.png" width="100"></a>
 </details>
 
 <details open>
