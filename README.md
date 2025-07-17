@@ -135,9 +135,11 @@
 <summary>GitHub Certifications</summary>
 <a target="_blank" href="https://www.credly.com/badges/f2af80ea-f871-40e7-8ea7-ac135bf9a961"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0148-github-foundations-for-non-developers.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-actions.png" width="100"></a>
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0145-github-copilot.png" width="100">
 <a target="_blank" href="https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0146-github-advanced-security.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0147-github-administration.png" width="100"></a>
 <a target="_blank" href="https://www.credly.com/badges/a61c8cb7-0861-4a8e-9b56-5b3a06c86c8e"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0149-github-sales-professional.png" width="100"></a>
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/github/0150-github-technical-sales-professional.png" width="100">
 </details>
 
 <details open>
@@ -153,6 +155,7 @@
 <details open>
 <summary>GitHub Certificate Of Completion</summary>
 <a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/github/GHSP.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/GHSP.png" width="200"></a>
+<a target="_blank" href="https://github.com/sujithq/sujithq/raw/master/assets/github/GHTSP.pdf"><img src="https://github.com/sujithq/sujithq/raw/master/assets/github/GHTSP.png" width="200"></a>
 </details>
 
 <details open>
