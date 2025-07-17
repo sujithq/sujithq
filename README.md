@@ -24,6 +24,7 @@
 > * GitHub Actions 
 > * GitHub Advanced Security
 > * GitHub Admin
+> * GitHub Copiloik
 
 >  GitHub Accredited Trainer For Delivering
 > * GitHub Actions 
