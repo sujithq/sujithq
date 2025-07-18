@@ -126,7 +126,8 @@
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/78424700D5CCDF7?sharingId=B2D5696D597C46D3">Build an Azure AI Vision solution</a><br>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQ/8EBF6803F8A567C0?sharingId=7E02E186AF4FAF6D">Implement security through a pipeline using Azure DevOps</a><br>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/52634899052A0752?sharingId=B2D5696D597C46D3">Deploy cloud-native apps using Azure Container Apps</a><br>
-<a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BAFE8995F6D16FE0?sharingId=B2D5696D597C46D3">Migrate SQL Server workloads to Azure SQL Database</a>
+<a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BAFE8995F6D16FE0?sharingId=B2D5696D597C46D3">Migrate SQL Server workloads to Azure SQL Database</a><br>
+<a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/DE9C2B2AEE86809B?sharingId=B2D5696D597C46D3">Accelerate app development by using GitHub Copilot</a>
 </div>
 </details>
 </details>
