@@ -6,8 +6,8 @@
 [<img src='https://cdn.simpleicons.org/x/6c1d5f' alt='x' height='40'>](https://twitter.com/Sujithq)
 [<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier) 
 [<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)
-[<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier) 
-[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=sujithq&button_colour=7a219e&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00">](https://www.buymeacoffee.com/sujithq)
+[<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier)
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&slug=sujithq&button_colour=7a219e&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00)](https://www.buymeacoffee.com/sujithq)
 
 <!-- [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6) -->
 
