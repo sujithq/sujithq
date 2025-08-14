@@ -2,8 +2,7 @@
 
 🔗 Connect with me
 
-[<img src='https://github.com/sujithq/sujithq/raw/master/assets/icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)
-[<img src='https://cdn.simpleicons.org/x/6c1d5f' alt='x' height='40'>](https://twitter.com/Sujithq)
+[<img src='https://github.com/sujithq/sujithq/raw/master/assets/icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujithquintelier/)[<img src='https://cdn.simpleicons.org/x/6c1d5f' alt='x' height='40'>](https://twitter.com/Sujithq)
 [<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier) 
 [<img src='https://cdn.simpleicons.org/pluralsight/6c1d5f' alt='pluralsight' height='40'>](https://app.pluralsight.com/profile/sujithq)
 [<img src='https://cdn.simpleicons.org/facebook/6c1d5f' alt='x' height='40'>](https://www.facebook.com/sujith.quintelier)
