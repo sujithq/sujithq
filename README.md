@@ -2,9 +2,7 @@
 
 🔗 Connect with me
 
-<a target="_blank" href="https://www.linkedin.com/in/sujithquintelier/">
- <img src="https://github.com/sujithq/sujithq/raw/master/assets/icons/linkedin.png" width="40">
-</a>
+<a target="_blank" href="https://www.linkedin.com/in/sujithquintelier/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/icons/linkedin.png" width="40"></a>
 <a target="_blank" href="https://twitter.com/Sujithq"><img src="https://cdn.simpleicons.org/x/6c1d5f" width="40"></a>
 <a target="_blank" href="https://www.facebook.com/sujith.quintelier"><img src="https://cdn.simpleicons.org/facebook/6c1d5f" width="40"></a>
 <a target="_blank" href="https://app.pluralsight.com/profile/sujithq"><img src="https://cdn.simpleicons.org/pluralsight/6c1d5f" width="40"></a>
