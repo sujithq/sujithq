@@ -3,10 +3,7 @@
 🔗 Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/sujithquintelier/">
-  <svg role="img" width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-label="LinkedIn">
-    <title>LinkedIn</title>
-    <path fill="#6c1d5f" d="M22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.226.792 24 1.771 24h20.451C23.205 24 24 23.226 24 22.271V1.729C24 .774 23.205 0 22.225 0zM7.119 20.452H3.554V9h3.565v11.452zM5.337 7.433a2.065 2.065 0 1 1 0-4.13 2.065 2.065 0 0 1 0 4.13zM20.452 20.452h-3.554V14.8c0-1.345-.025-3.073-1.874-3.073-1.876 0-2.164 1.464-2.164 2.977v5.748H9.306V9h3.414v1.561h.049c.477-.9 1.637-1.85 3.37-1.85 3.605 0 4.271 2.373 4.271 5.455v6.286z"/>
-  </svg>
+ <img src="https://github.com/sujithq/sujithq/raw/master/assets/icons/linkedin.png" width="40">
 </a>
 <a target="_blank" href="https://twitter.com/Sujithq"><img src="https://cdn.simpleicons.org/x/6c1d5f" width="40"></a>
 <a target="_blank" href="https://www.facebook.com/sujith.quintelier"><img src="https://cdn.simpleicons.org/facebook/6c1d5f" width="40"></a>
