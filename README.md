@@ -12,32 +12,40 @@
 📃 Bio ([Full Version](https://sujithq.github.io/resume))
 
 > Azure Cloud Solutions & Cybersecurity Architect
-> 
+>
 > Azure (Identity and Access) Administrator
-> 
+>
 > Azure DevOps, AI, Security & Network Engineer
-> 
+>
 > Azure (Cosmos DB) Developer
-
->  GitHub Certified
+>
+> GitHub Certified
+>
 > * GitHub Foundations
-> * GitHub Actions 
+> * GitHub Actions
 > * GitHub Advanced Security
 > * GitHub Admin
 > * GitHub Copilot
-
->  GitHub Accredited Trainer For Delivering
-> * GitHub Actions 
+>
+> GitHub Accredited Trainer For Delivering
+>
+> * GitHub Actions
 > * GitHub for Developers
 > * GitHub Administration
 > * GitHub Advanced Security Gettings Started training
 > * GitHub Migrations
 > * GitHub Enterprise Importer
 > * Github Copilot for Business Fundamentals
-
+>
 > Terraform Associate
-
+>
+> Platform Engineering
+>
+> * Practitioner
+> * Foundation
+>
 > Trainer
+>
 > * Azure
 > * GitHub
 
@@ -91,14 +99,14 @@
 
 <details open>
 <summary>Platform Engineering</summary>
-<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0010-foundation.png" width="100"></a>
+<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0145-00-pe-foundation.png" width="100"></a>
 </details>
 
 <details open>
 <summary>Microsoft Certifications</summary>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/5B76D5650086FA71?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0100-azure-solutions-architect-expert.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/1E14D97DCC88C8C6?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0101-DevOps-Engineer-expert.png" width="100"></a>
-<a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BABFCDAFD2B59290?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0102-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a> 
+<a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BABFCDAFD2B59290?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0102-microsoft-certified-cybersecurity-architect-expert.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/C14926489686190E?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0120-azure-administrator-associate.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/CF0FECA413DC4F34?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0121-azure-security-engineer-associate.png" width="100"></a>
 <a target="_blank" href="https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/99D44C1AF2F152C8?sharingId=B2D5696D597C46D3"><img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0122-azure-developer-associate.png" width="100"></a>
@@ -110,8 +118,9 @@
 <summary>Fundamentals</summary>
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0001-microsoft-certified-fundamentals.png" width="100">
 
-- Azure
-- Azure AI
+* Azure
+* Azure AI
+
 </details>
 <details open>
 <summary>Applied Skills</summary>
@@ -146,11 +155,11 @@
 
 <details open>
 <summary>GitHub Accreditations</summary>
-<img src="https://img.shields.io/badge/GitHub-Actions-6C1D5F?logo=github" alt="GitHub Actions"></img> <img src="https://img.shields.io/badge/GitHub-for%20Developers-6C1D5F?logo=github" alt="GitHub for Developers"></img> 
-<img src="https://img.shields.io/badge/GitHub-Advanced%20Security%20Getting%20Started-6C1D5F?logo=github" alt="GitHub Advanced Security Getting Started"></img> 
-<img src="https://img.shields.io/badge/GitHub-Administration-6C1D5F?logo=github" alt="GitHub Administration"></img> 
-<img src="https://img.shields.io/badge/GitHub-Migrations-6C1D5F?logo=github" alt="GitHub Migrations"></img> 
-<img src="https://img.shields.io/badge/GitHub-Enterprise%20Importer-6C1D5F?logo=github" alt="GitHub Enterprise Importer"></img> 
+<img src="https://img.shields.io/badge/GitHub-Actions-6C1D5F?logo=github" alt="GitHub Actions"></img> <img src="https://img.shields.io/badge/GitHub-for%20Developers-6C1D5F?logo=github" alt="GitHub for Developers"></img>
+<img src="https://img.shields.io/badge/GitHub-Advanced%20Security%20Getting%20Started-6C1D5F?logo=github" alt="GitHub Advanced Security Getting Started"></img>
+<img src="https://img.shields.io/badge/GitHub-Administration-6C1D5F?logo=github" alt="GitHub Administration"></img>
+<img src="https://img.shields.io/badge/GitHub-Migrations-6C1D5F?logo=github" alt="GitHub Migrations"></img>
+<img src="https://img.shields.io/badge/GitHub-Enterprise%20Importer-6C1D5F?logo=github" alt="GitHub Enterprise Importer"></img>
 <img src="https://img.shields.io/badge/GitHub-Copilot%20for%20Business%20Fundamentals-6C1D5F?logo=github" alt="GitHub Copilot for Business Fundamentals"></img>
 </details>
 
@@ -226,13 +235,6 @@
 <summary>AWS</summary>
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
-
-
-
-
-
-
-
 
 <!--
 **sujithq/sujithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
