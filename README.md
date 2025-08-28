@@ -1,3 +1,4 @@
+![Alt text](./assets/contribution-grid-sujithq-dark.png)
 ![Alt text](./assets/LinkedInHeader-XMS-BE.jpeg)
 
 🔗 Connect with me
@@ -69,6 +70,8 @@
     src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=893253&currStreakNum=A74747&sideNums=A74747&stroke=C45B3A&currStreakLabel=E2702E&sideLabels=E2702E&dates=FF8522" alt="Streak Stats!"></img>
