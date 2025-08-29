@@ -18,47 +18,91 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y imagemagick librsvg2-bin
 
-      - name: Create 100x100 thumbnails for all PNGs (crop to square, keep transparency)
+      - name: Create 100x100 thumbnails for PNG/JPG/SVG
         run: |
           shopt -s globstar nullglob
           changed=0
-          for img in assets/**/*.png; do
-            [[ "$img" =~ -100x100\.png$ ]] && continue
-            [[ "$img" =~ -40x40\.png$ ]] && continue
-            out="${img%.png}-100x100.png"
-            # Keep alpha, set background to transparent BEFORE extent
-            convert "$img" \
-              -alpha on -background none \
-              -thumbnail 100x100^ -gravity center -extent 100x100 \
-              -strip -define png:color-type=6 "$out"
+
+          # PNG + JPG
+          for img in assets/**/*.{png,jpg,jpeg}; do
+            [[ "$img" =~ -100x100\.(png|jpg|jpeg)$ ]] && continue
+            [[ "$img" =~ -40x40\.(png|jpg|jpeg)$ ]] && continue
+
+            ext="${img##*.}"
+            out="${img%.*}-100x100.${ext}"
+
+            if [[ "$ext" == "png" ]]; then
+              convert "$img" \
+                -alpha on -background none \
+                -thumbnail 100x100^ -gravity center -extent 100x100 \
+                -strip -define png:color-type=6 "$out"
+            else
+              convert "$img" \
+                -background white -alpha remove -alpha off \
+                -thumbnail 100x100^ -gravity center -extent 100x100 \
+                -strip "$out"
+            fi
+
             if [[ -f "$out" ]]; then
               echo "Created: $out"
               changed=1
             fi
           done
+
+          # SVG → PNG 100x100
+          for svg in assets/**/*.svg; do
+            [[ "$svg" =~ -100x100\.svg$ ]] && continue
+            [[ "$svg" =~ -40x40\.svg$ ]] && continue
+            base="${svg%.svg}"
+            out="${base}-100x100.png"
+            [[ -f "$out" ]] && continue
+
+            if command -v rsvg-convert >/dev/null 2>&1; then
+              rsvg-convert -w 100 -h 100 -b transparent "$svg" -o "$out"
+            else
+              convert -background none -alpha on -resize 100x100 "$svg" "$out"
+            fi
+
+            if [[ -f "$out" ]]; then
+              echo "Created: $out"
+              changed=1
+            fi
+          done
+
           echo "CHANGED=$changed" >> $GITHUB_ENV
 
-      - name: Create 40x40 icons in assets/icons (PNG & SVG), keep transparency
+      - name: Create 40x40 icons in assets/icons (PNG, JPG, SVG)
         run: |
           shopt -s nullglob
           changed=${CHANGED:-0}
 
-          # PNG icon sources
-          for img in assets/icons/*.png; do
-            [[ "$img" =~ -40x40\.png$ ]] && continue
-            [[ "$img" =~ -100x100\.png$ ]] && continue
-            out="${img%.png}-40x40.png"
-            convert "$img" \
-              -alpha on -background none \
-              -thumbnail 40x40^ -gravity center -extent 40x40 \
-              -strip -define png:color-type=6 "$out"
+          # PNG + JPG icons
+          for img in assets/icons/*.{png,jpg,jpeg}; do
+            [[ "$img" =~ -40x40\.(png|jpg|jpeg)$ ]] && continue
+            [[ "$img" =~ -100x100\.(png|jpg|jpeg)$ ]] && continue
+
+            ext="${img##*.}"
+            out="${img%.*}-40x40.${ext}"
+
+            if [[ "$ext" == "png" ]]; then
+              convert "$img" \
+                -alpha on -background none \
+                -thumbnail 40x40^ -gravity center -extent 40x40 \
+                -strip -define png:color-type=6 "$out"
+            else
+              convert "$img" \
+                -background white -alpha remove -alpha off \
+                -thumbnail 40x40^ -gravity center -extent 40x40 \
+                -strip "$out"
+            fi
+
             if [[ -f "$out" ]]; then
               echo "Created: $out"
               changed=1
             fi
           done
 
-          # SVG icon sources → PNG 40x40
+          # SVG icons → PNG 40x40
           for svg in assets/icons/*.svg; do
             [[ "$svg" =~ -40x40\.svg$ ]] && continue
             [[ "$svg" =~ -100x100\.svg$ ]] && continue
@@ -67,10 +111,8 @@ jobs:
             [[ -f "$out" ]] && continue
 
             if command -v rsvg-convert >/dev/null 2>&1; then
-              # Keep transparency with rsvg-convert
               rsvg-convert -w 40 -h 40 -b transparent "$svg" -o "$out"
             else
-              # Fallback: ImageMagick conversion with transparent background
               convert -background none -alpha on -resize 40x40 "$svg" "$out"
             fi
 
@@ -82,12 +124,11 @@ jobs:
 
           echo "CHANGED=$changed" >> $GITHUB_ENV
 
-
       - name: Commit thumbnails (if any)
         if: env.CHANGED == '1'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/**/*-100x100.png assets/icons/*-40x40.png
+          git add assets/**/*-100x100.* assets/icons/*-40x40.*
           git commit -m "chore(assets): add 100x100 and 40x40 thumbnails"
           git push
