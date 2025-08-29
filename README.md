@@ -239,6 +239,11 @@
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
 
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- _(loading latest posts...)_
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **sujithq/sujithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
