@@ -23,11 +23,12 @@ jobs:
           shopt -s globstar nullglob
           changed=0
           for img in assets/**/*.png; do
-            # Skip already-generated thumbs (both sizes) and any in .git
-            [[ "$img" == *-100x100.png ]] && continue
-            [[ "$img" == *-40x40.png ]] && continue
+            # Skip already-generated thumbs
+            [[ "$img" =~ -100x100\.png$ ]] && continue
+            [[ "$img" =~ -40x40\.png$ ]] && continue
+
             out="${img%.png}-100x100.png"
-            # Cover-fit then center-crop to avoid distortion
+            # Cover-fit then center-crop (no distortion)
             convert "$img" -thumbnail 100x100^ -gravity center -extent 100x100 "$out"
             if [[ -f "$out" ]]; then
               echo "Created: $out"
@@ -41,9 +42,11 @@ jobs:
           shopt -s nullglob
           changed=${CHANGED:-0}
 
-          # PNG sources
+          # PNG icons
           for img in assets/icons/*.png; do
-            [[ "$img" == *-40x40.png ]] && continue
+            [[ "$img" =~ -40x40\.png$ ]] && continue
+            [[ "$img" =~ -100x100\.png$ ]] && continue
+
             out="${img%.png}-40x40.png"
             convert "$img" -thumbnail 40x40^ -gravity center -extent 40x40 "$out"
             if [[ -f "$out" ]]; then
@@ -52,12 +55,15 @@ jobs:
             fi
           done
 
-          # SVG sources → PNG 40x40 (transparent background preserved)
+          # SVG icons → PNG 40x40
           for svg in assets/icons/*.svg; do
+            [[ "$svg" =~ -40x40\.svg$ ]] && continue
+            [[ "$svg" =~ -100x100\.svg$ ]] && continue
+
             base="${svg%.svg}"
             out="${base}-40x40.png"
             [[ -f "$out" ]] && continue
-            # rsvg-convert gives crisp rasterization; fallback to convert if needed
+
             if command -v rsvg-convert >/dev/null 2>&1; then
               rsvg-convert -w 40 -h 40 "$svg" -o "$out"
             else
