@@ -1,3 +1,22 @@
+"""
+Blog Posts Automation Script for README.md
+
+This script fetches the latest blog posts from an RSS/Atom feed and updates
+the "Latest Blog Posts" section in README.md between the specified markers.
+
+Usage:
+    python scripts/update_blog_posts.py
+
+The script will:
+1. Fetch the RSS feed from FEED_URL
+2. Parse the latest 5 posts (title + URL)
+3. Update the content between BLOG-POST-LIST markers in README.md
+4. Only write changes if the content actually differs (idempotent)
+
+Environment: Designed to run in GitHub Actions with Python 3.x
+Author: GitHub Actions automation
+"""
+
 import re
 import sys
 from pathlib import Path
