@@ -2,7 +2,7 @@ name: Update latest blog posts (self-hosted)
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC ≈ 07:00 Europe/Brussels (most of the year)
+    - cron: "30 5 * * *"   # 05:30 UTC ≈ 07:30 Europe/Brussels (most of the year)
   workflow_dispatch: {}
 
 jobs:
