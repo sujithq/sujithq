@@ -241,7 +241,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- _(loading latest posts...)_
+- [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
+- [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
+- [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
+- [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
+- [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
