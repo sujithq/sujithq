@@ -8,8 +8,8 @@ Usage:
     python scripts/update_blog_posts.py
 
 The script will:
-1. Fetch the RSS feed from FEED_URL
-2. Parse the latest 5 posts (title + URL)
+    Fetch the RSS feed from FEED_URL
+    Parse the latest 5 blogs and 3 updates (title + URL)
 3. Update the content between BLOG-POST-LIST markers in README.md
 4. Only write changes if the content actually differs (idempotent)
 
@@ -19,27 +19,37 @@ Author: GitHub Actions automation
 
 import re
 import sys
+import logging
+import argparse
 from pathlib import Path
 from xml.etree import ElementTree as ET
 import urllib.request
 
 README = Path("README.md")
 FEED_URL = "https://sujithq.github.io/index.xml"
-START = "<!-- BLOG-POST-LIST:START -->"
-END = "<!-- BLOG-POST-LIST:END -->"
-COUNT = 5
+BLOG_START = "<!-- BLOG-POST-LIST:START -->"
+BLOG_END = "<!-- BLOG-POST-LIST:END -->"
+UPDATES_START = "<!-- UPDATES-LIST:START -->"
+UPDATES_END = "<!-- UPDATES-LIST:END -->"
+BLOG_COUNT = 5
+UPDATES_COUNT = 3
 
 def fetch_feed(url):
+    logging.debug(f"Fetching RSS/Atom feed from {url}")
     with urllib.request.urlopen(url) as resp:
-        return resp.read()
+        data = resp.read()
+    logging.debug(f"Fetched {len(data)} bytes from feed.")
+    return data
 
-def parse_items(xml_bytes, count):
+def parse_items(xml_bytes):
+    logging.debug("Parsing feed XML for items.")
     root = ET.fromstring(xml_bytes)
     items = []
     # RSS 2.0
     for item in root.findall(".//item"):
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
+        logging.debug(f"Found RSS item: title='{title}', link='{link}'")
         if title and link:
             items.append((title, link))
     # Atom fallback
@@ -49,30 +59,59 @@ def parse_items(xml_bytes, count):
             title = (entry.findtext("atom:title", namespaces=ns) or "").strip()
             link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
             link = (link_el.get("href") if link_el is not None else "").strip()
+            logging.debug(f"Found Atom entry: title='{title}', link='{link}'")
             if title and link:
                 items.append((title, link))
-    return items[:count]
+    logging.debug(f"Total items parsed: {len(items)}")
+    # Split into blogs and updates
+    updates = [(t, u) for t, u in items if re.search(r"Weekly – \d{4}", t)]
+    blogs = [(t, u) for t, u in items if not re.search(r"Weekly – \d{4}", t)]
+    logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
+    return blogs[:BLOG_COUNT], updates[:UPDATES_COUNT]
 
 def replace_section(content, start, end, new_block):
+    logging.debug(f"Replacing section in README.md between {start} and {end}.")
     pattern = re.compile(rf"({re.escape(start)})(.*)({re.escape(end)})", re.DOTALL)
     replacement = f"{start}\n{new_block}\n{end}"
     if not pattern.search(content):
+        logging.debug("Markers not found, appending new block.")
         return content.rstrip() + "\n\n" + replacement + "\n"
+    logging.debug("Markers found, replacing block.")
     return pattern.sub(replacement, content)
 
 def main():
-    xml = fetch_feed(FEED_URL)
-    items = parse_items(xml, COUNT)
-    lines = [f"- [{t}]({u})" for t, u in items] or ["- _(no posts found)_"]
-    new_block = "\n".join(lines)
+    parser = argparse.ArgumentParser(description="Update blog posts script")
+    parser.add_argument('--verbose', action='store_true', help='Enable extensive logging')
+    args = parser.parse_args()
 
+    log_level = logging.DEBUG if args.verbose else logging.INFO
+    logging.basicConfig(
+        level=log_level,
+        format='%(asctime)s - %(levelname)s - %(message)s'
+    )
+    logging.info("Script started.")
+    if args.verbose:
+        logging.debug("Verbose logging enabled.")
+
+    xml = fetch_feed(FEED_URL)
+    blogs, updates = parse_items(xml)
+    blog_lines = [f"* [{t}]({u})" for t, u in blogs] or ["* _(no blog posts found)_"]
+    update_lines = [f"* [{t}]({u})" for t, u in updates] or ["* _(no updates found)_"]
+    blog_block = "\n".join(blog_lines)
+    update_block = "\n".join(update_lines)
+
+    logging.debug(f"Generated blog block:\n{blog_block}")
+    logging.debug(f"Generated updates block:\n{update_block}")
     content = README.read_text(encoding="utf-8")
-    updated = replace_section(content, START, END, new_block)
+    logging.debug("Read README.md content.")
+    updated = replace_section(content, BLOG_START, BLOG_END, blog_block)
+    updated = replace_section(updated, UPDATES_START, UPDATES_END, update_block)
     if updated != content:
         README.write_text(updated, encoding="utf-8")
-        print("README updated.")
+        logging.info("README updated.")
     else:
-        print("No changes needed.")
+        logging.info("No changes needed.")
+    logging.info("Script finished.")
 
 if __name__ == "__main__":
     sys.exit(main())

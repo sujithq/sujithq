@@ -19,7 +19,7 @@ jobs:
 
       - name: Update README from RSS
         run: |
-          python scripts/update_blog_posts.py
+          python scripts/update_blog_posts.py --verbose
 
       - name: Commit changes if any
         run: |

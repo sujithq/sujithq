@@ -239,26 +239,16 @@
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
 
-## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
-- [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
-- [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
-- [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
-- [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
+* [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
+* [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
+* [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
+* [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
+* [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
-<!--
-**sujithq/sujithq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- UPDATES-LIST:START -->
+* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
+* [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
+* [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
+<!-- UPDATES-LIST:END -->
