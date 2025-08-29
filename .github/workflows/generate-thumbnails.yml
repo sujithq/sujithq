@@ -1,0 +1,61 @@
+name: Generate 100x100 thumbnails
+
+on:
+  push:
+    paths:
+      - "assets/**"
+  workflow_dispatch: {}
+
+jobs:
+  thumbs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      # Choose ONE of the next two steps depending on the resize behavior you prefer
+
+      # 1) Exact 100x100 (crops to square without distortion; best looking thumbnails)
+      - name: Create 100x100 thumbnails (crop to square)
+        run: |
+          shopt -s globstar nullglob
+          changed=0
+          for img in assets/**/*.png; do
+            [[ "$img" == *-100x100.png ]] && continue
+            out="${img%.png}-100x100.png"
+            # Resize to cover 100x100 and center-crop (no distortion)
+            convert "$img" -thumbnail 100x100^ -gravity center -extent 100x100 "$out"
+            if [[ -f "$out" ]]; then
+              echo "Created: $out"
+              changed=1
+            fi
+          done
+          echo "CHANGED=$changed" >> $GITHUB_ENV
+
+      # 2) Exact 100x100 (stretches if not square; uncomment this block and comment the block above to use)
+      # - name: Create 100x100 thumbnails (force exact, may distort)
+      #   run: |
+      #     shopt -s globstar nullglob
+      #     changed=0
+      #     for img in assets/**/*.png; do
+      #       [[ "$img" == *-100x100.png ]] && continue
+      #       out="${img%.png}-100x100.png"
+      #       convert "$img" -resize 100x100\! "$out"
+      #       if [[ -f "$out" ]]; then
+      #         echo "Created: $out"
+      #         changed=1
+      #       fi
+      #     done
+      #     echo "CHANGED=$changed" >> $GITHUB_ENV
+
+      - name: Commit thumbnails (if any)
+        if: env.CHANGED == '1'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/**/*-100x100.png
+          git commit -m "chore(assets): add 100x100 thumbnails"
+          git push
