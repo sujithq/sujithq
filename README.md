@@ -100,8 +100,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 <details open>
 <summary>Platform Engineering</summary>
-<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0145-00-pe-foundation.png" width="100"></a>
-[![PE Foundation](https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0145-00-pe-foundation.png)](https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec)
+<a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0145-01-pe-foundation.png" width="100"></a>
+[![PE Foundation](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-01-pe-foundation.png)](https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec)
 </details>
 
 <details open>
