@@ -1,4 +1,4 @@
-name: Generate 100x100 thumbnails
+name: Generate thumbnails (100x100 + icons 40x40)
 
 on:
   push:
@@ -13,20 +13,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install -y imagemagick
+      - name: Install ImageMagick (with SVG support)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick librsvg2-bin
 
-      # Choose ONE of the next two steps depending on the resize behavior you prefer
-
-      # 1) Exact 100x100 (crops to square without distortion; best looking thumbnails)
-      - name: Create 100x100 thumbnails (crop to square)
+      - name: Create 100x100 thumbnails for all PNGs (crop to square)
         run: |
           shopt -s globstar nullglob
           changed=0
           for img in assets/**/*.png; do
+            # Skip already-generated thumbs (both sizes) and any in .git
             [[ "$img" == *-100x100.png ]] && continue
+            [[ "$img" == *-40x40.png ]] && continue
             out="${img%.png}-100x100.png"
-            # Resize to cover 100x100 and center-crop (no distortion)
+            # Cover-fit then center-crop to avoid distortion
             convert "$img" -thumbnail 100x100^ -gravity center -extent 100x100 "$out"
             if [[ -f "$out" ]]; then
               echo "Created: $out"
@@ -35,27 +36,46 @@ jobs:
           done
           echo "CHANGED=$changed" >> $GITHUB_ENV
 
-      # 2) Exact 100x100 (stretches if not square; uncomment this block and comment the block above to use)
-      # - name: Create 100x100 thumbnails (force exact, may distort)
-      #   run: |
-      #     shopt -s globstar nullglob
-      #     changed=0
-      #     for img in assets/**/*.png; do
-      #       [[ "$img" == *-100x100.png ]] && continue
-      #       out="${img%.png}-100x100.png"
-      #       convert "$img" -resize 100x100\! "$out"
-      #       if [[ -f "$out" ]]; then
-      #         echo "Created: $out"
-      #         changed=1
-      #       fi
-      #     done
-      #     echo "CHANGED=$changed" >> $GITHUB_ENV
+      - name: Create 40x40 icons in assets/icons (PNG & SVG sources)
+        run: |
+          shopt -s nullglob
+          changed=${CHANGED:-0}
+
+          # PNG sources
+          for img in assets/icons/*.png; do
+            [[ "$img" == *-40x40.png ]] && continue
+            out="${img%.png}-40x40.png"
+            convert "$img" -thumbnail 40x40^ -gravity center -extent 40x40 "$out"
+            if [[ -f "$out" ]]; then
+              echo "Created: $out"
+              changed=1
+            fi
+          done
+
+          # SVG sources → PNG 40x40 (transparent background preserved)
+          for svg in assets/icons/*.svg; do
+            base="${svg%.svg}"
+            out="${base}-40x40.png"
+            [[ -f "$out" ]] && continue
+            # rsvg-convert gives crisp rasterization; fallback to convert if needed
+            if command -v rsvg-convert >/dev/null 2>&1; then
+              rsvg-convert -w 40 -h 40 "$svg" -o "$out"
+            else
+              convert -background none -resize 40x40 "$svg" "$out"
+            fi
+            if [[ -f "$out" ]]; then
+              echo "Created: $out"
+              changed=1
+            fi
+          done
+
+          echo "CHANGED=$changed" >> $GITHUB_ENV
 
       - name: Commit thumbnails (if any)
         if: env.CHANGED == '1'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/**/*-100x100.png
-          git commit -m "chore(assets): add 100x100 thumbnails"
+          git add assets/**/*-100x100.png assets/icons/*-40x40.png
+          git commit -m "chore(assets): add 100x100 and 40x40 thumbnails"
           git push
