@@ -71,19 +71,18 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
-- [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
-- [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
-- [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
-- [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
-
+* [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
+* [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
+* [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
+* [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
+* [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-- [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
-- [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
-- [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
+* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
+* [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
+* [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
