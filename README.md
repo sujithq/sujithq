@@ -1,108 +1,107 @@
+<!-- Banner -->
+<!-- markdownlint-disable MD041 -->
 ![Alt text](./assets/contribution-grid-sujithq-dark.png)
-![Alt text](./assets/LinkedInHeader-XMS-BE.jpeg)
 
-🔗 Connect with me
+# 👋 Hi, I'm Sujith Quintelier  
+
+🚀 Azure Architect • Dev(Sec)Ops Engineer • GitHub Accredited Trainer • Terraform Enthusiast  
+
+---
+
+## 🌟 About Me
+
+I help teams succeed with **Azure, DevOps, GitHub, and recently Platform Engineering** — from design to delivery.  
+Currently working on:  
+
+- ✍️ [Blog](https://sujithq.github.io) blog series  
+- 🛠️ Building GitHub + Azure training content  
+- ⚡ Exploring AI, Platform Engineering & MCP  
+
+---
+
+## 🔗 Connect with Me
 
 <a target="_blank" href="https://www.linkedin.com/in/sujithquintelier/"><img src="https://github.com/sujithq/sujithq/raw/master/assets/icons/linkedin.png" width="40"></a>
 <a target="_blank" href="https://twitter.com/Sujithq"><img src="https://cdn.simpleicons.org/x/6c1d5f" width="40"></a>
 <a target="_blank" href="https://www.facebook.com/sujith.quintelier"><img src="https://cdn.simpleicons.org/facebook/6c1d5f" width="40"></a>
 <a target="_blank" href="https://app.pluralsight.com/profile/sujithq"><img src="https://cdn.simpleicons.org/pluralsight/6c1d5f" width="40"></a>
 <a target="_blank" href="https://www.buymeacoffee.com/sujithq"><img src="https://cdn.simpleicons.org/buymeacoffee/6c1d5f" width="40"></a>
-<!-- [![wakatime](https://wakatime.com/badge/user/018b4c64-03a9-43a5-8d51-a95c7623f9e6.svg)](https://wakatime.com/@018b4c64-03a9-43a5-8d51-a95c7623f9e6) -->
 
-📃 Bio ([Full Version](https://sujithq.github.io/resume))
+---
 
-> Azure Cloud Solutions & Cybersecurity Architect
->
-> Azure (Identity and Access) Administrator
->
-> Azure DevOps, AI, Security & Network Engineer
->
-> Azure (Cosmos DB) Developer
->
-> GitHub Certified
->
-> * GitHub Foundations
-> * GitHub Actions
-> * GitHub Advanced Security
-> * GitHub Admin
-> * GitHub Copilot
->
-> GitHub Accredited Trainer For Delivering
->
-> * GitHub Actions
-> * GitHub for Developers
-> * GitHub Administration
-> * GitHub Advanced Security Gettings Started training
-> * GitHub Migrations
-> * GitHub Enterprise Importer
-> * Github Copilot for Business Fundamentals
->
-> Terraform Associate
->
-> Platform Engineering
->
-> * Practitioner
-> * Foundation
->
-> Trainer
->
-> * Azure
-> * GitHub
+## ✨ Highlights
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services" alt="Skills!"></img>
-</p>
+- 📖 Blog: [sujithq.github.io](https://sujithq.github.io)
+- Azure Certified
+  - Azure Cloud Solutions & Cybersecurity Architect
+  - Azure (Identity and Access) Administrator
+  - Azure DevOps, AI, Security & Network Engineer
+  - Azure (Cosmos DB) Developer
+- 🎓 GitHub Accredited Trainer
+  - GitHub Actions
+  - GitHub for Developers
+  - GitHub Administration
+  - GitHub Advanced Security Gettings Started training
+  - GitHub Migrations
+  - GitHub Enterprise Importer
+  - Github Copilot for Business Fundamentals
+- 📦 Terraform Associate
+- 🛠️ Platform Engineering
+  - Practitioner  
+<!-- - 🛠️ Projects:  
+  - [Battleship in C#](#) 🎮  
+  - [AKS Hardening with Terraform](#) 🔐  
+  - [Morse Commit Notifier](#) 🔔   -->
 
-<!-- ![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;ML;Cognitive+Services "Skills") -->
+---
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## 📊 GitHub Stats
 
+![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=893253&currStreakNum=A74747&sideNums=A74747&stroke=C45B3A&currStreakLabel=E2702E&sideLabels=E2702E&dates=FF8522 "Streak Stats!")
 
+![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=893253&currStreakNum=A74747&sideNums=A74747&stroke=C45B3A&currStreakLabel=E2702E&sideLabels=E2702E&dates=FF8522" alt="Streak Stats!"></img>
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A&hide=Jupyter%20Notebook)
 
-<!-- ![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=893253&currStreakNum=A74747&sideNums=A74747&stroke=C45B3A&currStreakLabel=E2702E&sideLabels=E2702E&dates=FF8522 "Streak Stats") -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=E2702E&line=893253&point=FF8522&hide_border=true&custom_title=Activity%20Graph)
 
-<p align="center">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A" alt="Github Stats!"></img>
-</p>
+---
 
-<!-- ![Github Stats!](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A "Github Stats") -->
+## Latest Posts
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A&hide=Jupyter%20Notebook" alt="Top Languages!"></img>
-</p>
+### 📝Blog
+<!-- BLOG-POST-LIST:START -->
+- [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
+- [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
+- [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
+- [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
+- [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
 
-<!-- ![Top Languages!](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A&hide=Jupyter%20Notebook "Top Languages") -->
+<!-- BLOG-POST-LIST:END -->
+### 🔃 Latest Updates
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=E2702E&line=893253&point=FF8522&hide_border=true&custom_title=Activity%20Graph" alt="Activity Graph!"></img>
-</p>
+<!-- UPDATES-LIST:START -->
+- [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
+- [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
+- [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
+<!-- UPDATES-LIST:END -->
 
-<details open>
-<summary>Recent</summary>
-<img src="https://github.com/sujithq/sujithq/raw/master/assets/recent/0001-gwr.jpg" width="100">
-</details>
+_(Auto-updated via GitHub Action)_
+
+---
+
+## 🏆 Certifications
+
+I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engineering, Security, and AI**.  
+👉 Full certification wall below 👇  
+
+<details>
+<summary>📜 View Certifications</summary>
 
 <details open>
 <summary>Platform Engineering</summary>
 <a target="_blank" href="https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec"><img src="https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0145-00-pe-foundation.png" width="100"></a>
+[![PE Foundation](https://github.com/sujithq/sujithq/raw/master/assets/platform-engineering/0145-00-pe-foundation.png)](https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec)
 </details>
 
 <details open>
@@ -121,8 +120,8 @@
 <summary>Fundamentals</summary>
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft/0001-microsoft-certified-fundamentals.png" width="100">
 
-* Azure
-* Azure AI
+- Azure
+- Azure AI
 
 </details>
 <details open>
@@ -193,6 +192,7 @@
 
 <details open>
 <summary>Microsoft Learn</summary>
+<img src="https://github.com/sujithq/sujithq/raw/master/assets/recent/0001-gwr.jpg" width="100">
 <a target="_blank" href="https://learn.microsoft.com/api/achievements/share/en-us/SujithQ/3XQVQG9H?sharingId=7E02E186AF4FAF6D"><img src="https://learn.microsoft.com/training/achievements/github-universe-2023-cloud-skills-challenge.svg" width="100"></a>
 <img src="https://github.com/sujithq/sujithq/raw/master/assets/microsoft-learn/001-AI-Builder-Challenge-2023.png" width="100">
 <a target="_blank" href="https://learn.microsoft.com/api/achievements/share/en-us/SujithQuintelier/J5NZHN4T?sharingId=B2D5696D597C46D3"><img src="https://learn.microsoft.com/en-us/learn/achievements/microsoft-innovative-educator.svg" width="100"></a>
@@ -239,16 +239,26 @@
 <a target="_blank" href="https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da"><img src="https://github.com/sujithq/sujithq/raw/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner.png" width="100"></a>
 </details>
 
-<!-- BLOG-POST-LIST:START -->
-* [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
-* [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
-* [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
-* [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
-* [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
-<!-- BLOG-POST-LIST:END -->
+</details>
 
-<!-- UPDATES-LIST:START -->
-* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
-* [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
-* [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
-<!-- UPDATES-LIST:END -->
+---
+
+## 🧑‍💻 Skills
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=435&lines=Azure;Dev(Sec)Ops;GitHub;Kubernetes;IaC(Terraform%2C+Bicep%2C+ARM%2C+Pulumi);Security;NOSQL+(CosmosDB%2C+RavenDB);Programming+Languages+(C%23%2C+Python%2C+Go);Application+Development;.NET;Architecture;AI;Cognitive+Services;Scripting(bash%2C+pwsh)" alt="Skills!"></img>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+<p align="center"><sub>⚡ Bridging Dev(Sec)Ops, Azure, and GitHub — one pipeline at a time ⚡</sub></p>

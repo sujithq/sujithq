@@ -64,10 +64,33 @@ def parse_items(xml_bytes):
                 items.append((title, link))
     logging.debug(f"Total items parsed: {len(items)}")
     # Split into blogs and updates
-    updates = [(t, u) for t, u in items if re.search(r"Weekly – \d{4}", t)]
-    blogs = [(t, u) for t, u in items if not re.search(r"Weekly – \d{4}", t)]
+    weekly_pattern = re.compile(r"Weekly\s*[–-]\s*\d{4}")
+    updates = [(t, u) for t, u in items if weekly_pattern.search(t)]
+    blogs = [(t, u) for t, u in items if not weekly_pattern.search(t)]
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
-    return blogs[:BLOG_COUNT], updates[:UPDATES_COUNT]
+
+    # Pick exactly one latest for each category: Terraform, GitHub, Azure
+    cat_regex = re.compile(r"^(Terraform|GitHub|Azure)\s+Weekly", re.IGNORECASE)
+    categories = ["Terraform", "GitHub", "Azure"]
+    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure"}
+    selected = {}
+    for title, url in updates:
+        m = cat_regex.search(title)
+        if not m:
+            continue
+        cat = canonical.get(m.group(1).lower())
+        if cat in categories and cat not in selected:
+            selected[cat] = (title, url)
+        if len(selected) == len(categories):
+            break
+
+    # Order updates consistently by category list, include only found ones
+    missing = [c for c in categories if c not in selected]
+    if missing:
+        logging.debug(f"No recent updates found for categories (will fall back to older in feed if present later): {missing}")
+    updates_by_category = [selected[c] for c in categories if c in selected]
+
+    return blogs[:BLOG_COUNT], updates_by_category
 
 def replace_section(content, start, end, new_block):
     logging.debug(f"Replacing section in README.md between {start} and {end}.")
