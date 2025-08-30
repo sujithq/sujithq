@@ -72,10 +72,10 @@ Currently working on:
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
 * [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
+* [Privacy Policy](https://sujithq.github.io/privacy/)
 * [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
 * [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
 * [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
-* [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
