@@ -71,18 +71,18 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [Copilot’s next edit suggestion (NES) in public preview in JetBrains](https://sujithq.github.io/updates2/copilot-s-next-edit-suggestion-nes-in-public-preview-in-jetbrains/)
 * [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
-* [Privacy Policy](https://sujithq.github.io/privacy/)
-* [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
-* [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
-* [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
+* [Added support for WebP images](https://sujithq.github.io/updates2/added-support-for-webp-images/)
+* [Copilot coding agent now supports AGENTS.md custom instructions](https://sujithq.github.io/updates2/copilot-coding-agent-now-supports-agents-md-custom-instructions/)
+* [Start and track Copilot coding agent tasks from Raycast](https://sujithq.github.io/updates2/start-and-track-copilot-coding-agent-tasks-from-raycast/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
 * [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
-* [GitHub Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-github-weekly-w35/)
-* [Azure Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-azure-weekly-w35/)
+* [GitHub Weekly – 2025 Week 36](https://sujithq.github.io/updates/2025-09-github-weekly-w36/)
+* [Azure Weekly – 2025 Week 36](https://sujithq.github.io/updates/2025-09-azure-weekly-w36/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
