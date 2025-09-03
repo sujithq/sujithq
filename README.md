@@ -71,18 +71,18 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-* [Copilot’s next edit suggestion (NES) in public preview in JetBrains](https://sujithq.github.io/updates2/copilot-s-next-edit-suggestion-nes-in-public-preview-in-jetbrains/)
-* [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
-* [Added support for WebP images](https://sujithq.github.io/updates2/added-support-for-webp-images/)
-* [Copilot coding agent now supports AGENTS.md custom instructions](https://sujithq.github.io/updates2/copilot-coding-agent-now-supports-agents-md-custom-instructions/)
-* [Start and track Copilot coding agent tasks from Raycast](https://sujithq.github.io/updates2/start-and-track-copilot-coding-agent-tasks-from-raycast/)
+* [Updating license-based budgets to accept license counts](https://sujithq.github.io/updates/updating-license-based-budgets-to-accept-license-counts/)
+* [Improved notifications in security campaigns](https://sujithq.github.io/updates/improved-notifications-in-security-campaigns/)
+* [GraphQL API resource limits](https://sujithq.github.io/updates/graphql-api-resource-limits/)
+* [[Launched] Generally Available: Azure App Service - New Premium v4 Offering](https://sujithq.github.io/updates/launched-generally-available-azure-app-service-new-premium-v4-offering/)
+* [[Launched] Generally Available: Azure Front Door Standard and Premium are now available in Azure China.](https://sujithq.github.io/updates/launched-generally-available-azure-front-door-standard-and-premium-are-now-available-in-azure-china/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates/2025-08-terraform-weekly-w35/)
-* [GitHub Weekly – 2025 Week 36](https://sujithq.github.io/updates/2025-09-github-weekly-w36/)
-* [Azure Weekly – 2025 Week 36](https://sujithq.github.io/updates/2025-09-azure-weekly-w36/)
+* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates-v1/terraform-weekly-2025-week-35/)
+* [GitHub Weekly – 2025 Week 36](https://sujithq.github.io/updates-v1/github-weekly-2025-week-36/)
+* [Azure Weekly – 2025 Week 36](https://sujithq.github.io/updates-v1/azure-weekly-2025-week-36/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
