@@ -71,11 +71,11 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-* [Updating license-based budgets to accept license counts](https://sujithq.github.io/updates/updating-license-based-budgets-to-accept-license-counts/)
-* [Improved notifications in security campaigns](https://sujithq.github.io/updates/improved-notifications-in-security-campaigns/)
-* [GraphQL API resource limits](https://sujithq.github.io/updates/graphql-api-resource-limits/)
-* [[Launched] Generally Available: Azure App Service - New Premium v4 Offering](https://sujithq.github.io/updates/launched-generally-available-azure-app-service-new-premium-v4-offering/)
-* [[Launched] Generally Available: Azure Front Door Standard and Premium are now available in Azure China.](https://sujithq.github.io/updates/launched-generally-available-azure-front-door-standard-and-premium-are-now-available-in-azure-china/)
+* [[In preview] Public Preview: Confluent Kafka Connector in Azure Logic Apps (Standard)](https://sujithq.github.io/updates/in-preview-public-preview-confluent-kafka-connector-in-azure-logic-apps-standard/)
+* [[In preview] Public Preview: Expanded support for the Model Context Protocol (MCP) in Azure API Management](https://sujithq.github.io/updates/in-preview-public-preview-expanded-support-for-the-model-context-protocol-mcp-in-azure-api-management/)
+* [[In preview] Public Preview: Organizational Templates in Azure Logic Apps](https://sujithq.github.io/updates/in-preview-public-preview-organizational-templates-in-azure-logic-apps/)
+* [[Launched] Generally Available: Azure Logic Apps Standard Automated Test Framework](https://sujithq.github.io/updates/launched-generally-available-azure-logic-apps-standard-automated-test-framework/)
+* [[Launched] Generally Available: Business Process Tracking in Azure Logic Apps (Standard)](https://sujithq.github.io/updates/launched-generally-available-business-process-tracking-in-azure-logic-apps-standard/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
