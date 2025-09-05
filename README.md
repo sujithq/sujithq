@@ -71,11 +71,11 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-* [[In preview] Public Preview: Confluent Kafka Connector in Azure Logic Apps (Standard)](https://sujithq.github.io/updates/in-preview-public-preview-confluent-kafka-connector-in-azure-logic-apps-standard/)
-* [[In preview] Public Preview: Expanded support for the Model Context Protocol (MCP) in Azure API Management](https://sujithq.github.io/updates/in-preview-public-preview-expanded-support-for-the-model-context-protocol-mcp-in-azure-api-management/)
-* [[In preview] Public Preview: Organizational Templates in Azure Logic Apps](https://sujithq.github.io/updates/in-preview-public-preview-organizational-templates-in-azure-logic-apps/)
-* [[Launched] Generally Available: Azure Logic Apps Standard Automated Test Framework](https://sujithq.github.io/updates/launched-generally-available-azure-logic-apps-standard-automated-test-framework/)
-* [[Launched] Generally Available: Business Process Tracking in Azure Logic Apps (Standard)](https://sujithq.github.io/updates/launched-generally-available-business-process-tracking-in-azure-logic-apps-standard/)
+* [Profile menu enhancements in global navigation](https://sujithq.github.io/updates/profile-menu-enhancements-in-global-navigation/)
+* [The dashboard-feed page gets a refreshed, faster experience](https://sujithq.github.io/updates/the-dashboard-feed-page-gets-a-refreshed-faster-experience/)
+* [[Launched] Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks](https://sujithq.github.io/updates/launched-generally-available-multiple-address-prefixes-for-subnets-in-azure-virtual-networks/)
+* [Improved file navigation and editing in the web UI](https://sujithq.github.io/updates/improved-file-navigation-and-editing-in-the-web-ui/)
+* [[Launched] Generally Available: Upgrade existing Azure Gen1 VMs to Gen2-Trusted launch](https://sujithq.github.io/updates/launched-generally-available-upgrade-existing-azure-gen1-vms-to-gen2-trusted-launch/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
