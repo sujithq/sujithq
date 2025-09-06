@@ -71,11 +71,11 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-* [Profile menu enhancements in global navigation](https://sujithq.github.io/updates/profile-menu-enhancements-in-global-navigation/)
-* [The dashboard-feed page gets a refreshed, faster experience](https://sujithq.github.io/updates/the-dashboard-feed-page-gets-a-refreshed-faster-experience/)
-* [[Launched] Generally Available: Multiple address prefixes for subnets in Azure Virtual Networks](https://sujithq.github.io/updates/launched-generally-available-multiple-address-prefixes-for-subnets-in-azure-virtual-networks/)
-* [Improved file navigation and editing in the web UI](https://sujithq.github.io/updates/improved-file-navigation-and-editing-in-the-web-ui/)
-* [[Launched] Generally Available: Upgrade existing Azure Gen1 VMs to Gen2-Trusted launch](https://sujithq.github.io/updates/launched-generally-available-upgrade-existing-azure-gen1-vms-to-gen2-trusted-launch/)
+* [GitHub Actions: AI labeler and moderator with the GitHub Models inference API](https://sujithq.github.io/updates/github-actions-ai-labeler-and-moderator-with-the-github-models-inference-api/)
+* [[Launched] Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas](https://sujithq.github.io/updates/launched-generally-available-azure-red-hat-openshift-now-available-in-uae-central-and-us-gov-texas/)
+* [New Spark sharing option and improved local dev experience](https://sujithq.github.io/updates/new-spark-sharing-option-and-improved-local-dev-experience/)
+* [[Launched] Generally Available: Azure NetApp Files migration assistant](https://sujithq.github.io/updates/launched-generally-available-azure-netapp-files-migration-assistant/)
+* [Retirement: Azure CDN will be retired on December 1 2025 in China](https://sujithq.github.io/updates/retirement-azure-cdn-will-be-retired-on-december-1-2025-in-china/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
