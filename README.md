@@ -71,18 +71,16 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-* [GitHub Actions: AI labeler and moderator with the GitHub Models inference API](https://sujithq.github.io/updates/github-actions-ai-labeler-and-moderator-with-the-github-models-inference-api/)
-* [[Launched] Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas](https://sujithq.github.io/updates/launched-generally-available-azure-red-hat-openshift-now-available-in-uae-central-and-us-gov-texas/)
-* [New Spark sharing option and improved local dev experience](https://sujithq.github.io/updates/new-spark-sharing-option-and-improved-local-dev-experience/)
-* [[Launched] Generally Available: Azure NetApp Files migration assistant](https://sujithq.github.io/updates/launched-generally-available-azure-netapp-files-migration-assistant/)
-* [Retirement: Azure CDN will be retired on December 1 2025 in China](https://sujithq.github.io/updates/retirement-azure-cdn-will-be-retired-on-december-1-2025-in-china/)
+* [Azure Weekly – 2025 Week 36](https://sujithq.github.io/updates-v1/azure-weekly-2025-week-36/)
+* [GitHub Weekly – 2025 Week 36](https://sujithq.github.io/updates-v1/github-weekly-2025-week-36/)
+* [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
+* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates-v1/terraform-weekly-2025-week-35/)
+* [Privacy Policy](https://sujithq.github.io/privacy/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [Terraform Weekly – 2025 Week 35](https://sujithq.github.io/updates-v1/terraform-weekly-2025-week-35/)
-* [GitHub Weekly – 2025 Week 36](https://sujithq.github.io/updates-v1/github-weekly-2025-week-36/)
-* [Azure Weekly – 2025 Week 36](https://sujithq.github.io/updates-v1/azure-weekly-2025-week-36/)
+* _(no updates found)_
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
