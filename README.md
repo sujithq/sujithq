@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Actions: AI labeler and moderator with the GitHub Models inference API](https://sujithq.github.io/updates/github-actions-ai-labeler-and-moderator-with-the-github-models-inference-api/)
+* [github: New features in GitHub Copilot in Eclipse](https://sujithq.github.io/updates/new-features-in-github-copilot-in-eclipse/)
 * [azure: [Launched] Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas](https://sujithq.github.io/updates/launched-generally-available-azure-red-hat-openshift-now-available-in-uae-central-and-us-gov-texas/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
 * [dotnet: Let Copilot Coding Agent handle the busy work](https://sujithq.github.io/updates/let-copilot-coding-agent-handle-the-busy-work/)
