@@ -77,7 +77,7 @@ def parse_items(xml_bytes):
     # Split into blogs and updates
     # weekly_pattern = re.compile(r"Weekly\s*[–-]\s*\d{4}")
     updates = [(t, u) for t, u in items if normalize_url(u).startswith("https://sujithq.github.io/updates/")]
-    blogs = [(t, u) for t, u in items if not normalize_url(u).startswith("https://sujithq.github.io/updates/")]
+    blogs = [(t, u) for t, u in items if normalize_url(u).startswith("https://sujithq.github.io/posts/")]
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
 
     # Pick exactly one latest for each category: Terraform, GitHub, Azure
