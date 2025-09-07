@@ -76,11 +76,21 @@ Currently working on:
 * [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
 * [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
 * [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
+* [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
+* [Auto-triage CI failures with Copilot](https://sujithq.github.io/posts/2025/08/ai-triage-github-actions-with-copilot/)
+* [🐙 GitHub Certification Journey: Part 1 - GitHub Foundations (GH-900)](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-900/)
+* [⚡ Local Energy Assistant: C# + GPT-OSS + RAG](https://sujithq.github.io/posts/2025/08/local-energy-assistant-csharp-gpt-oss/)
+* [🖥️ Zero to Hero: Terraform for Azure•Part 2](https://sujithq.github.io/posts/2025/08/zero-to-hero-terraform-for-azure-2/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* _(no updates found)_
+* [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
+* [github: GitHub Actions: AI labeler and moderator with the GitHub Models inference API](https://sujithq.github.io/updates/github-actions-ai-labeler-and-moderator-with-the-github-models-inference-api/)
+* [azure: [Launched] Generally Available: Azure Red Hat OpenShift Now Available in UAE Central and US Gov Texas](https://sujithq.github.io/updates/launched-generally-available-azure-red-hat-openshift-now-available-in-uae-central-and-us-gov-texas/)
+* [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
+* [dotnet: Let Copilot Coding Agent handle the busy work](https://sujithq.github.io/updates/let-copilot-coding-agent-handle-the-busy-work/)
+* [ai: What’s new in Azure AI Foundry | August 2025](https://sujithq.github.io/updates/what-s-new-in-azure-ai-foundry-august-2025/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
