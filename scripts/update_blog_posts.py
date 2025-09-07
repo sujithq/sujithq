@@ -51,6 +51,8 @@ def parse_items(xml_bytes):
         link = (item.findtext("link") or "").strip()
         # guid = (item.findtext("guid") or "").strip()
         logging.debug(f"Found RSS item: title='{title}', link='{link}'")
+        print(repr(link[:40]))
+        print([hex(ord(c)) for c in link[:8]])
         if title and link:
             items.append((title, link))
     # Atom fallback
