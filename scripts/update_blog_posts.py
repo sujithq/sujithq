@@ -49,24 +49,25 @@ def parse_items(xml_bytes):
     for item in root.findall(".//item"):
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
+        # guid = (item.findtext("guid") or "").strip()
         logging.debug(f"Found RSS item: title='{title}', link='{link}'")
         if title and link:
             items.append((title, link))
     # Atom fallback
-    if not items:
-        ns = {"atom": "http://www.w3.org/2005/Atom"}
-        for entry in root.findall(".//atom:entry", ns):
-            title = (entry.findtext("atom:title", namespaces=ns) or "").strip()
-            link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
-            link = (link_el.get("href") if link_el is not None else "").strip()
-            logging.debug(f"Found Atom entry: title='{title}', link='{link}'")
-            if title and link:
-                items.append((title, link))
+    # if not items:
+    #     ns = {"atom": "http://www.w3.org/2005/Atom"}
+    #     for entry in root.findall(".//atom:entry", ns):
+    #         title = (entry.findtext("atom:title", namespaces=ns) or "").strip()
+    #         link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
+    #         link = (link_el.get("href") if link_el is not None else "").strip()
+    #         logging.debug(f"Found Atom entry: title='{title}', link='{link}'")
+    #         if title and link:
+    #             items.append((title, link))
     logging.debug(f"Total items parsed: {len(items)}")
     # Split into blogs and updates
-    weekly_pattern = re.compile(r"Weekly\s*[–-]\s*\d{4}")
-    updates = [(t, u) for t, u in items if weekly_pattern.search(t)]
-    blogs = [(t, u) for t, u in items if not weekly_pattern.search(t)]
+    # weekly_pattern = re.compile(r"Weekly\s*[–-]\s*\d{4}")
+    updates = [(t, u) for t, u in items if u.startswith("https://sujithq.github.io/updates/")]
+    blogs = [(t, u) for t, u in items if not u.startswith("https://sujithq.github.io/updates/")]
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
 
     # Pick exactly one latest for each category: Terraform, GitHub, Azure
