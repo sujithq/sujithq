@@ -25,6 +25,8 @@ import argparse
 from pathlib import Path
 from xml.etree import ElementTree as ET
 import urllib.request
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
 README = Path("README.md")
 FEED_URL = "https://sujithq.github.io/index.xml"
@@ -41,6 +43,30 @@ def normalize_url(s: str) -> str:
     s = re.sub(r'[\u200B-\u200D\uFEFF]', '', s) # remove ZWSP/ZWJ/ZWNJ/BOM
     return s
 
+def parse_date(text: str):
+    """Parse common RSS/Atom date formats into timezone-aware datetime."""
+    if not text:
+        return None
+    s = text.strip()
+    # Try RFC2822 (RSS pubDate)
+    try:
+        dt = parsedate_to_datetime(s)
+        if dt is not None and dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        pass
+    # Try ISO-8601 (Atom updated/published)
+    try:
+        if s.endswith("Z"):
+            s = s[:-1] + "+00:00"
+        dt = datetime.fromisoformat(s)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        return None
+
 def fetch_feed(url):
     logging.debug(f"Fetching RSS/Atom feed from {url}")
     with urllib.request.urlopen(url) as resp:
@@ -51,57 +77,65 @@ def fetch_feed(url):
 def parse_items(xml_bytes):
     logging.debug("Parsing feed XML for items.")
     root = ET.fromstring(xml_bytes)
-    items = []
+    items = []  # (title, link, datetime)
     # RSS 2.0
     for item in root.findall(".//item"):
         title = (item.findtext("title") or "").strip()
         link = (item.findtext("link") or "").strip()
-        # guid = (item.findtext("guid") or "").strip()
-        logging.debug(f"Found RSS item: title='{title}', link='{link}'")
-        print(repr(link[:40]))
-        print([hex(ord(c)) for c in link[:8]])
-        bool(re.match(r'^\s*https?://sujithq\.github\.io/updates(?:/|$|[?#])', link, re.I))
+        date_text = (
+            item.findtext("pubDate")
+            or item.findtext("{http://purl.org/dc/elements/1.1/}date")
+            or item.findtext("lastmod")
+            or item.findtext("modified")
+        )
+        dt = parse_date(date_text) or datetime.min.replace(tzinfo=timezone.utc)
+        logging.debug(f"Found RSS item: title='{title}', link='{link}', date='{date_text}' -> {dt}")
         if title and link:
-            items.append((title, link))
+            items.append((title, link, dt))
     # Atom fallback
-    # if not items:
-    #     ns = {"atom": "http://www.w3.org/2005/Atom"}
-    #     for entry in root.findall(".//atom:entry", ns):
-    #         title = (entry.findtext("atom:title", namespaces=ns) or "").strip()
-    #         link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
-    #         link = (link_el.get("href") if link_el is not None else "").strip()
-    #         logging.debug(f"Found Atom entry: title='{title}', link='{link}'")
-    #         if title and link:
-    #             items.append((title, link))
+    if not items:
+        ns = {"atom": "http://www.w3.org/2005/Atom"}
+        for entry in root.findall(".//atom:entry", ns):
+            title = (entry.findtext("atom:title", namespaces=ns) or "").strip()
+            link_el = entry.find("atom:link[@rel='alternate']", ns) or entry.find("atom:link", ns)
+            link = (link_el.get("href") if link_el is not None else "").strip()
+            date_text = entry.findtext("atom:updated", namespaces=ns) or entry.findtext("atom:published", namespaces=ns)
+            dt = parse_date(date_text) or datetime.min.replace(tzinfo=timezone.utc)
+            logging.debug(f"Found Atom entry: title='{title}', link='{link}', date='{date_text}' -> {dt}")
+            if title and link:
+                items.append((title, link, dt))
     logging.debug(f"Total items parsed: {len(items)}")
     # Split into blogs and updates
-    # weekly_pattern = re.compile(r"Weekly\s*[–-]\s*\d{4}")
-    updates = [(t, u) for t, u in items if normalize_url(u).startswith("https://sujithq.github.io/updates/")]
-    blogs = [(t, u) for t, u in items if normalize_url(u).startswith("https://sujithq.github.io/posts/")]
+    updates = [(t, u, d) for t, u, d in items if normalize_url(u).startswith("https://sujithq.github.io/updates/")]
+    blogs = [(t, u, d) for t, u, d in items if normalize_url(u).startswith("https://sujithq.github.io/posts/")]
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
 
-    # Pick exactly one latest for each category: Terraform, GitHub, Azure
-    cat_regex = re.compile(r"^(?:terraform|github|azure|security|dotnet|ai):", re.IGNORECASE)
-    categories = ["Terraform", "GitHub", "Azure"] #, "Security", "DotNet", "AI"]
-    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure"} #, "security": "Security", "dotnet": "DotNet", "ai": "AI"}
-    selected = {}
-    for title, url in updates:
+    # Blogs: newest N by date
+    blogs_sorted = sorted(blogs, key=lambda x: x[2], reverse=True)[:BLOG_COUNT]
+    blog_pairs = [(t, u) for t, u, _ in blogs_sorted]
+
+    # Updates: latest by date per category
+    cat_regex = re.compile(r"^(terraform|github|azure|security|dotnet|ai):", re.IGNORECASE)
+    categories = ["Terraform", "GitHub", "Azure" , "Security", "DotNet", "AI"]
+    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure" , "security": "Security", "dotnet": "DotNet", "ai": "AI"}
+    latest_per_cat = {}
+    for title, url, dt in updates:
         m = cat_regex.search(title)
         if not m:
             continue
         cat = canonical.get(m.group(1).lower())
-        if cat in categories and cat not in selected:
-            selected[cat] = (title, url)
-        if len(selected) == len(categories):
-            break
+        prev = latest_per_cat.get(cat)
+        if prev is None or dt > prev[2]:
+            latest_per_cat[cat] = (title, url, dt)
+            logging.debug(f"Selected/updated latest for {cat}: {title} ({dt})")
 
-    # Order updates consistently by category list, include only found ones
-    missing = [c for c in categories if c not in selected]
+    missing = [c for c in categories if c not in latest_per_cat]
     if missing:
-        logging.debug(f"No recent updates found for categories (will fall back to older in feed if present later): {missing}")
-    updates_by_category = [selected[c] for c in categories if c in selected]
+        logging.debug(f"Missing categories (no items found in feed window): {missing}")
 
-    return blogs[:BLOG_COUNT], updates_by_category
+    updates_by_category = [(latest_per_cat[c][0], latest_per_cat[c][1]) for c in categories if c in latest_per_cat]
+
+    return blog_pairs, updates_by_category
 
 def replace_section(content, start, end, new_block):
     logging.debug(f"Replacing section in README.md between {start} and {end}.")
