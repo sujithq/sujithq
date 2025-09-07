@@ -18,6 +18,7 @@ Author: GitHub Actions automation
 """
 
 import re
+import unicodedata
 import sys
 import logging
 import argparse
@@ -33,6 +34,12 @@ UPDATES_START = "<!-- UPDATES-LIST:START -->"
 UPDATES_END = "<!-- UPDATES-LIST:END -->"
 BLOG_COUNT = 5
 UPDATES_COUNT = 3
+
+def normalize_url(s: str) -> str:
+    s = unicodedata.normalize("NFKC", s)       # unicode normalize
+    s = s.strip()                               # trim whitespace
+    s = re.sub(r'[\u200B-\u200D\uFEFF]', '', s) # remove ZWSP/ZWJ/ZWNJ/BOM
+    return s
 
 def fetch_feed(url):
     logging.debug(f"Fetching RSS/Atom feed from {url}")
@@ -69,8 +76,8 @@ def parse_items(xml_bytes):
     logging.debug(f"Total items parsed: {len(items)}")
     # Split into blogs and updates
     # weekly_pattern = re.compile(r"Weekly\s*[–-]\s*\d{4}")
-    updates = [(t, u) for t, u in items if u.startswith("https://sujithq.github.io/updates/")]
-    blogs = [(t, u) for t, u in items if not u.startswith("https://sujithq.github.io/updates/")]
+    updates = [(t, u) for t, u in items if normalize_url(u).startswith("https://sujithq.github.io/updates/")]
+    blogs = [(t, u) for t, u in items if not normalize_url(u).startswith("https://sujithq.github.io/updates/")]
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
 
     # Pick exactly one latest for each category: Terraform, GitHub, Azure
