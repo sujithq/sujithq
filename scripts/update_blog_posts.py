@@ -32,8 +32,8 @@ BLOG_START = "<!-- BLOG-POST-LIST:START -->"
 BLOG_END = "<!-- BLOG-POST-LIST:END -->"
 UPDATES_START = "<!-- UPDATES-LIST:START -->"
 UPDATES_END = "<!-- UPDATES-LIST:END -->"
-BLOG_COUNT = 5
-UPDATES_COUNT = 3
+BLOG_COUNT = 10
+UPDATES_COUNT = 6
 
 def normalize_url(s: str) -> str:
     s = unicodedata.normalize("NFKC", s)       # unicode normalize
@@ -81,9 +81,9 @@ def parse_items(xml_bytes):
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
 
     # Pick exactly one latest for each category: Terraform, GitHub, Azure
-    cat_regex = re.compile(r"^(Terraform|GitHub|Azure)\s+Weekly", re.IGNORECASE)
-    categories = ["Terraform", "GitHub", "Azure"]
-    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure"}
+    cat_regex = re.compile(r"^(?:terraform|github|azure|security|dotnet|ai):", re.IGNORECASE)
+    categories = ["Terraform", "GitHub", "Azure", "Security", "DotNet", "AI"]
+    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure", "security": "Security", "dotnet": "DotNet", "ai": "AI"}
     selected = {}
     for title, url in updates:
         m = cat_regex.search(title)
