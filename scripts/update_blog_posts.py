@@ -53,6 +53,7 @@ def parse_items(xml_bytes):
         logging.debug(f"Found RSS item: title='{title}', link='{link}'")
         print(repr(link[:40]))
         print([hex(ord(c)) for c in link[:8]])
+        bool(re.match(r'^\s*https?://sujithq\.github\.io/updates(?:/|$|[?#])', link, re.I))
         if title and link:
             items.append((title, link))
     # Atom fallback
