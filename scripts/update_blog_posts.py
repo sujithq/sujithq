@@ -82,8 +82,8 @@ def parse_items(xml_bytes):
 
     # Pick exactly one latest for each category: Terraform, GitHub, Azure
     cat_regex = re.compile(r"^(?:terraform|github|azure|security|dotnet|ai):", re.IGNORECASE)
-    categories = ["Terraform", "GitHub", "Azure", "Security", "DotNet", "AI"]
-    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure", "security": "Security", "dotnet": "DotNet", "ai": "AI"}
+    categories = ["Terraform", "GitHub", "Azure"] #, "Security", "DotNet", "AI"]
+    canonical = {"terraform": "Terraform", "github": "GitHub", "azure": "Azure"} #, "security": "Security", "dotnet": "DotNet", "ai": "AI"}
     selected = {}
     for title, url in updates:
         m = cat_regex.search(title)
