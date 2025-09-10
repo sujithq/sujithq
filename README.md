@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: New features in GitHub Copilot in Eclipse](https://sujithq.github.io/updates/new-features-in-github-copilot-in-eclipse/)
-* [azure: [In preview] Public Preview: Graph Query Language (GQL) in KQL graph semantics](https://sujithq.github.io/updates/in-preview-public-preview-graph-query-language-gql-in-kql-graph-semantics/)
+* [github: Secret scanning validity checks available for Proxima, new validators added](https://sujithq.github.io/updates/secret-scanning-validity-checks-available-for-proxima-new-validators-added/)
+* [azure: [In preview] Public Preview: Azure MySQL Self Heal](https://sujithq.github.io/updates/in-preview-public-preview-azure-mysql-self-heal/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
-* [dotnet: Let Copilot Coding Agent handle the busy work](https://sujithq.github.io/updates/let-copilot-coding-agent-handle-the-busy-work/)
+* [dotnet: Performance Improvements in .NET 10](https://sujithq.github.io/updates/performance-improvements-in-net-10/)
 * [ai: What’s new in Azure AI Foundry | August 2025](https://sujithq.github.io/updates/what-s-new-in-azure-ai-foundry-august-2025/)
 <!-- UPDATES-LIST:END -->
 
