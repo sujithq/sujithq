@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Bring Your Own Key (BYOK) support for JetBrains IDEs and Xcode in public preview](https://sujithq.github.io/updates/bring-your-own-key-byok-support-for-jetbrains-ides-and-xcode-in-public-preview/)
-* [azure: [In preview] Public Preview: Azure MySQL Self Heal](https://sujithq.github.io/updates/in-preview-public-preview-azure-mysql-self-heal/)
+* [azure: [Launched] Generally Available: Azure Cosmos DB for MongoDB (vCore) same-region replica cluster](https://sujithq.github.io/updates/launched-generally-available-azure-cosmos-db-for-mongodb-vcore-same-region-replica-cluster/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
 * [dotnet: Performance Improvements in .NET 10](https://sujithq.github.io/updates/performance-improvements-in-net-10/)
 * [ai: What’s new in Azure AI Foundry | August 2025](https://sujithq.github.io/updates/what-s-new-in-azure-ai-foundry-august-2025/)
