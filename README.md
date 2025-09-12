@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Bring Your Own Key (BYOK) support for JetBrains IDEs and Xcode in public preview](https://sujithq.github.io/updates/bring-your-own-key-byok-support-for-jetbrains-ides-and-xcode-in-public-preview/)
+* [github: GitHub Copilot in VS Code August release (v1.104)](https://sujithq.github.io/updates/github-copilot-in-vs-code-august-release-v1-104/)
 * [azure: [Launched] Generally Available: Bring Your Own License (BYOL) Support for JBoss EAP on Azure App Service](https://sujithq.github.io/updates/launched-generally-available-bring-your-own-license-byol-support-for-jboss-eap-on-azure-app-service/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
 * [dotnet: Performance Improvements in .NET 10](https://sujithq.github.io/updates/performance-improvements-in-net-10/)
