@@ -87,9 +87,9 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GitHub Enterprise license history tracking now available in public preview](https://sujithq.github.io/updates/github-enterprise-license-history-tracking-now-available-in-public-preview/)
-* [azure: Retirement: Azure Linux 2.0 on AKS](https://sujithq.github.io/updates/retirement-azure-linux-2-0-on-aks/)
+* [azure: [Launched] Generally Available: Enabling dedicated connections to backends in Azure Application Gateway](https://sujithq.github.io/updates/launched-generally-available-enabling-dedicated-connections-to-backends-in-azure-application-gateway/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
-* [dotnet: Performance Improvements in .NET 10](https://sujithq.github.io/updates/performance-improvements-in-net-10/)
+* [dotnet: Application Insights Code Optimizations for .NET Apps](https://sujithq.github.io/updates/application-insights-code-optimizations-for-net-apps/)
 * [ai: What’s new in Azure AI Foundry | August 2025](https://sujithq.github.io/updates/what-s-new-in-azure-ai-foundry-august-2025/)
 <!-- UPDATES-LIST:END -->
 
