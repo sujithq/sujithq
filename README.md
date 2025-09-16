@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Enterprise access restrictions with corporate proxies is now generally available](https://sujithq.github.io/updates/enterprise-access-restrictions-with-corporate-proxies-is-now-generally-available/)
-* [azure: Retirement: hsmPlatform 1 Keys in Azure Key Vault](https://sujithq.github.io/updates/retirement-hsmplatform-1-keys-in-azure-key-vault/)
+* [azure: Retirement: Azure Databricks Standard tier will retire by October 2026](https://sujithq.github.io/updates/retirement-azure-databricks-standard-tier-will-retire-by-october-2026/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
 * [dotnet: Application Insights Code Optimizations for .NET Apps](https://sujithq.github.io/updates/application-insights-code-optimizations-for-net-apps/)
 * [ai: What’s new in Azure AI Foundry | August 2025](https://sujithq.github.io/updates/what-s-new-in-azure-ai-foundry-august-2025/)
