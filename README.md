@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Enterprise access restrictions with corporate proxies is now generally available](https://sujithq.github.io/updates/enterprise-access-restrictions-with-corporate-proxies-is-now-generally-available/)
-* [azure: Retirement: Azure Databricks Standard tier will retire by October 2026](https://sujithq.github.io/updates/retirement-azure-databricks-standard-tier-will-retire-by-october-2026/)
+* [github: GitHub MCP Registry: The fastest way To discover AI tools](https://sujithq.github.io/updates/github-mcp-registry-the-fastest-way-to-discover-ai-tools/)
+* [azure: [Launched] Generally Available: Azure Container Storage v2.0.0 now with NVMe performance boost, open source, and no service fees](https://sujithq.github.io/updates/launched-generally-available-azure-container-storage-v2-0-0-now-with-nvme-performance-boost-open-source-and-no-service-fees/)
 * [security: Azure mandatory multifactor authentication: Phase 2 starting in October 2025](https://sujithq.github.io/updates/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/)
 * [dotnet: Application Insights Code Optimizations for .NET Apps](https://sujithq.github.io/updates/application-insights-code-optimizations-for-net-apps/)
-* [ai: What’s new in Azure AI Foundry | August 2025](https://sujithq.github.io/updates/what-s-new-in-azure-ai-foundry-august-2025/)
+* [ai: Announcing Computer Use tool (Preview) in Azure AI Foundry Agent Service](https://sujithq.github.io/updates/announcing-computer-use-tool-preview-in-azure-ai-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
