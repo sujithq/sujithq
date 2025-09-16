@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Conda ecosystem support for Dependabot now generally available](https://sujithq.github.io/updates/conda-ecosystem-support-for-dependabot-now-generally-available/)
-* [azure: [In preview] Public Preview: Azure HBv5-series VMs](https://sujithq.github.io/updates/in-preview-public-preview-azure-hbv5-series-vms/)
+* [azure: Retirement: Azure Kubernetes Service on VMware will be retired on March 16, 2026 - Replace with Azure Kubernetes Service on Azure Local](https://sujithq.github.io/updates/retirement-azure-kubernetes-service-on-vmware-will-be-retired-on-march-16-2026-replace-with-azure-kubernetes-service-on-azure-local/)
 * [security: Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era](https://sujithq.github.io/updates/microsoft-purview-innovations-for-your-fabric-data-unify-data-security-and-governance-for-the-ai-era/)
 * [dotnet: .NET STS releases supported for 24 months](https://sujithq.github.io/updates/net-sts-releases-supported-for-24-months/)
 * [ai: Announcing Computer Use tool (Preview) in Azure AI Foundry Agent Service](https://sujithq.github.io/updates/announcing-computer-use-tool-preview-in-azure-ai-foundry-agent-service/)
