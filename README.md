@@ -71,6 +71,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [Taming Dependabot: Bundle NuGet, npm, and GitHub Actions Updates Without Merge Conflicts](https://sujithq.github.io/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
 * [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
 * [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
 * [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
@@ -80,7 +81,6 @@ Currently working on:
 * [Auto-triage CI failures with Copilot](https://sujithq.github.io/posts/2025/08/ai-triage-github-actions-with-copilot/)
 * [🐙 GitHub Certification Journey: Part 1 - GitHub Foundations (GH-900)](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-900/)
 * [⚡ Local Energy Assistant: C# + GPT-OSS + RAG](https://sujithq.github.io/posts/2025/08/local-energy-assistant-csharp-gpt-oss/)
-* [🖥️ Zero to Hero: Terraform for Azure•Part 2](https://sujithq.github.io/posts/2025/08/zero-to-hero-terraform-for-azure-2/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
