@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Delegated bypass controls for push protection now available at the enterprise level](https://sujithq.github.io/updates/delegated-bypass-controls-for-push-protection-now-available-at-the-enterprise-level/)
-* [azure: [Launched] Generally Available: At-cost data transfer between Azure and an external endpoint](https://sujithq.github.io/updates/launched-generally-available-at-cost-data-transfer-between-azure-and-an-external-endpoint/)
+* [azure: [Launched] Generally Available: Confidential computing for Azure Database for PostgreSQL flexible server](https://sujithq.github.io/updates/launched-generally-available-confidential-computing-for-azure-database-for-postgresql-flexible-server/)
 * [security: Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era](https://sujithq.github.io/updates/microsoft-purview-innovations-for-your-fabric-data-unify-data-security-and-governance-for-the-ai-era/)
 * [dotnet: .NET STS releases supported for 24 months](https://sujithq.github.io/updates/net-sts-releases-supported-for-24-months/)
 * [ai: Ground Your Agents Faster with Native Azure AI Search Indexing in Foundry](https://sujithq.github.io/updates/ground-your-agents-faster-with-native-azure-ai-search-indexing-in-foundry/)
