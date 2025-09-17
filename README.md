@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Delegated bypass controls for push protection now available at the enterprise level](https://sujithq.github.io/updates/delegated-bypass-controls-for-push-protection-now-available-at-the-enterprise-level/)
+* [github: Share read-only Sparks with controlled data access](https://sujithq.github.io/updates/share-read-only-sparks-with-controlled-data-access/)
 * [azure: [In preview] Public Preview: Azure Functions .NET 10 support](https://sujithq.github.io/updates/in-preview-public-preview-azure-functions-net-10-support/)
 * [security: Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era](https://sujithq.github.io/updates/microsoft-purview-innovations-for-your-fabric-data-unify-data-security-and-governance-for-the-ai-era/)
 * [dotnet: Prompt Files and Instructions Files Explained](https://sujithq.github.io/updates/prompt-files-and-instructions-files-explained/)
