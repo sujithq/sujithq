@@ -90,7 +90,7 @@ Currently working on:
 * [azure: [Launched] Generally Available: At-cost data transfer between Azure and an external endpoint](https://sujithq.github.io/updates/launched-generally-available-at-cost-data-transfer-between-azure-and-an-external-endpoint/)
 * [security: Microsoft Purview innovations for your Fabric data: Unify data security and governance for the AI era](https://sujithq.github.io/updates/microsoft-purview-innovations-for-your-fabric-data-unify-data-security-and-governance-for-the-ai-era/)
 * [dotnet: .NET STS releases supported for 24 months](https://sujithq.github.io/updates/net-sts-releases-supported-for-24-months/)
-* [ai: Announcing Computer Use tool (Preview) in Azure AI Foundry Agent Service](https://sujithq.github.io/updates/announcing-computer-use-tool-preview-in-azure-ai-foundry-agent-service/)
+* [ai: Ground Your Agents Faster with Native Azure AI Search Indexing in Foundry](https://sujithq.github.io/updates/ground-your-agents-faster-with-native-azure-ai-search-indexing-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
