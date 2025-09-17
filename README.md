@@ -71,6 +71,8 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [Mastering Asynchronous Programming with C# async/await](https://sujithq.github.io/posts/2025/09/csharp-async-await/)
+* [Mastering Asynchronous Programming with C# async/await - Part 1: Introduction](https://sujithq.github.io/posts/2025/09/csharp-async-await-part1/)
 * [Taming Dependabot: Bundle NuGet, npm, and GitHub Actions Updates Without Merge Conflicts](https://sujithq.github.io/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
 * [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
 * [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
@@ -79,8 +81,6 @@ Currently working on:
 * [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
 * [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
 * [Auto-triage CI failures with Copilot](https://sujithq.github.io/posts/2025/08/ai-triage-github-actions-with-copilot/)
-* [🐙 GitHub Certification Journey: Part 1 - GitHub Foundations (GH-900)](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-900/)
-* [⚡ Local Energy Assistant: C# + GPT-OSS + RAG](https://sujithq.github.io/posts/2025/08/local-energy-assistant-csharp-gpt-oss/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
