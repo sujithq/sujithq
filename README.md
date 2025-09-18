@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot code review: Now in JetBrains IDEs and Visual Studio](https://sujithq.github.io/updates/copilot-code-review-now-in-jetbrains-ides-and-visual-studio/)
-* [azure: [In preview] Public Preview: Azure Kubernetes Fleet Manager – update run approval gates](https://sujithq.github.io/updates/in-preview-public-preview-azure-kubernetes-fleet-manager-update-run-approval-gates/)
+* [github: Assign Azure Boards work items to Copilot coding agent in public preview](https://sujithq.github.io/updates/assign-azure-boards-work-items-to-copilot-coding-agent-in-public-preview/)
+* [azure: [Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs)](https://sujithq.github.io/updates/launched-generally-available-dca-eca-v6-series-amd-based-confidential-virtual-machines-vms/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://sujithq.github.io/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 * [dotnet: Prompt Files and Instructions Files Explained](https://sujithq.github.io/updates/prompt-files-and-instructions-files-explained/)
-* [ai: Ground Your Agents Faster with Native Azure AI Search Indexing in Foundry](https://sujithq.github.io/updates/ground-your-agents-faster-with-native-azure-ai-search-indexing-in-foundry/)
+* [ai: AI-Assisted Development powered by Local Models](https://sujithq.github.io/updates/ai-assisted-development-powered-by-local-models/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
