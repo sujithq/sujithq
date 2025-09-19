@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Assign Azure Boards work items to Copilot coding agent in public preview](https://sujithq.github.io/updates/assign-azure-boards-work-items-to-copilot-coding-agent-in-public-preview/)
+* [github: GitHub Actions: macOS 13 runner image is closing down](https://sujithq.github.io/updates/github-actions-macos-13-runner-image-is-closing-down/)
 * [azure: [Launched] Generally Available: High Scale mode for Azure Monitor – Container Insights](https://sujithq.github.io/updates/launched-generally-available-high-scale-mode-for-azure-monitor-container-insights/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://sujithq.github.io/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 * [dotnet: Prompt Files and Instructions Files Explained](https://sujithq.github.io/updates/prompt-files-and-instructions-files-explained/)
