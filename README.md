@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Assign Azure Boards work items to Copilot coding agent in public preview](https://sujithq.github.io/updates/assign-azure-boards-work-items-to-copilot-coding-agent-in-public-preview/)
-* [azure: Retirement: Licensing changes for future Azure VMware Solution subscriptions starting October 16, 2025.](https://sujithq.github.io/updates/retirement-licensing-changes-for-future-azure-vmware-solution-subscriptions-starting-october-16-2025/)
+* [azure: [Launched] Generally Available: Azure Data Box Next Gen is now generally available in additional regions](https://sujithq.github.io/updates/launched-generally-available-azure-data-box-next-gen-is-now-generally-available-in-additional-regions/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://sujithq.github.io/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 * [dotnet: Prompt Files and Instructions Files Explained](https://sujithq.github.io/updates/prompt-files-and-instructions-files-explained/)
 * [ai: AI-Assisted Development powered by Local Models](https://sujithq.github.io/updates/ai-assisted-development-powered-by-local-models/)
