@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Actions: macOS 13 runner image is closing down](https://sujithq.github.io/updates/github-actions-macos-13-runner-image-is-closing-down/)
+* [github: Deprecation of Node 20 on GitHub Actions runners](https://sujithq.github.io/updates/deprecation-of-node-20-on-github-actions-runners/)
 * [azure: [In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel](https://sujithq.github.io/updates/in-preview-public-preview-azure-kubernetes-fleet-manager-auto-upgrade-target-kubernetes-version-channel/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://sujithq.github.io/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 * [dotnet: Prompt Files and Instructions Files Explained](https://sujithq.github.io/updates/prompt-files-and-instructions-files-explained/)
