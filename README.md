@@ -13,7 +13,7 @@
 I help teams succeed with **Azure, DevOps, GitHub, and recently Platform Engineering** — from design to delivery.  
 Currently working on:  
 
-- ✍️ [Blog](https://sujithq.github.io) blog series  
+- ✍️ [Blog](https://quintelier.dev) blog series  
 - 🛠️ Building GitHub + Azure training content  
 - ⚡ Exploring AI, Platform Engineering & MCP  
 
