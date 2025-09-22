@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Deprecation of Node 20 on GitHub Actions runners](https://quintelier.dev/updates/deprecation-of-node-20-on-github-actions-runners/)
-* [azure: [In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel](https://quintelier.dev/updates/in-preview-public-preview-azure-kubernetes-fleet-manager-auto-upgrade-target-kubernetes-version-channel/)
+* [github: Visualize GitHub Enterprise metered usage by organization](https://quintelier.dev/updates/visualize-github-enterprise-metered-usage-by-organization/)
+* [azure: [In preview] Public Preview: Signed request on Azure Front Door](https://quintelier.dev/updates/in-preview-public-preview-signed-request-on-azure-front-door/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://quintelier.dev/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 * [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
 * [ai: AI-Assisted Development powered by Local Models](https://quintelier.dev/updates/ai-assisted-development-powered-by-local-models/)
