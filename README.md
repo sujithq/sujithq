@@ -89,7 +89,7 @@ Currently working on:
 * [github: Deprecation of Node 20 on GitHub Actions runners](https://quintelier.dev/updates/deprecation-of-node-20-on-github-actions-runners/)
 * [azure: [In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel](https://quintelier.dev/updates/in-preview-public-preview-azure-kubernetes-fleet-manager-auto-upgrade-target-kubernetes-version-channel/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://quintelier.dev/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
-* [dotnet: Prompt Files and Instructions Files Explained](https://quintelier.dev/updates/prompt-files-and-instructions-files-explained/)
+* [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
 * [ai: AI-Assisted Development powered by Local Models](https://quintelier.dev/updates/ai-assisted-development-powered-by-local-models/)
 <!-- UPDATES-LIST:END -->
 
