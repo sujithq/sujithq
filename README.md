@@ -13,7 +13,7 @@
 I help teams succeed with **Azure, DevOps, GitHub, and recently Platform Engineering** — from design to delivery.  
 Currently working on:  
 
-- ✍️ [Blog](https://quintelier.dev) blog series  
+- ✍️ [Blog](https://quintelier.devlog series  
 - 🛠️ Building GitHub + Azure training content  
 - ⚡ Exploring AI, Platform Engineering & MCP  
 
@@ -31,7 +31,7 @@ Currently working on:
 
 ## ✨ Highlights
 
-- 📖 Blog: [sujithq.github.io](https://sujithq.github.io)
+- 📖 Blog: [quintelier.dev](https://quintelier.dev)
 - Azure Certified
   - Azure Cloud Solutions & Cybersecurity Architect
   - Azure (Identity and Access) Administrator
@@ -71,26 +71,26 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
-* [Mastering Asynchronous Programming with C# async/await](https://sujithq.github.io/posts/2025/09/csharp-async-await/)
-* [Mastering Asynchronous Programming with C# async/await - Part 1: Introduction](https://sujithq.github.io/posts/2025/09/csharp-async-await-part1/)
-* [Taming Dependabot: Bundle NuGet, npm, and GitHub Actions Updates Without Merge Conflicts](https://sujithq.github.io/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
-* [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-300/)
-* [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-getting-started/)
-* [Platform Engineering Course Guide 🚀](https://sujithq.github.io/posts/2025/08/platform-engineering-certified-practitioner/)
-* [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
-* [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-100/)
-* [⚙️ Automated Updates Pipeline](https://sujithq.github.io/posts/2025/08/automated-updates-pipeline/)
-* [Auto-triage CI failures with Copilot](https://sujithq.github.io/posts/2025/08/ai-triage-github-actions-with-copilot/)
+* [Mastering Asynchronous Programming with C# async/await](https://sujithq.github.ioquintelier.devharp-async-await/)
+* [Mastering Asynchronous Programming with Cquintelier.devart 1: Introduction](https://sujithq.github.io/posts/2025/09/csharp-async-await-part1/)
+* [Taming Dependabot: Bundle NuGet, npm, and GitHquintelier.devs Without Merge Conflicts](https://sujithq.github.io/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
+* [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery]quintelier.devgithub.io/posts/2025/08/github-certification-journey-gh-300/)
+* [Getting started with Dependabot](https://sujithq.github.io/posts/2025/08/dependabot-quintelier.dev
+* [Platform Engineering Course Guide 🚀](hquintelier.devthub.io/posts/2025/08/platform-engineering-certified-practitioner/)
+* [🚀 GitHub Actions Certification Guide (GH-200)quintelier.dev(https://sujithq.github.io/posts/2025/08/github-certification-journey-gh-200/)
+* [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](httquintelier.devub.io/posts/2025/08/github-certification-journey-gh-100/)
+* [⚙️ Automated Updates Pipeline](https://sujithq.github.quintelier.devautomated-updates-pipeline/)
+* [Auto-triage CI failures with Copilot](https://sujithq.quintelier.dev025/08/ai-triage-github-actions-with-copilot/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [terraform: 5 tips for credential management across multi-cloud](https://sujithq.github.io/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Deprecation of Node 20 on GitHub Actions runners](https://sujithq.github.io/updates/deprecation-of-node-20-on-github-actions-runners/)
-* [azure: [In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel](https://sujithq.github.io/updates/in-preview-public-preview-azure-kubernetes-fleet-manager-auto-upgrade-target-kubernetes-version-channel/)
-* [security: Microsoft Defender delivered 242% return on investment over three years​​](https://sujithq.github.io/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
-* [dotnet: Prompt Files and Instructions Files Explained](https://sujithq.github.io/updates/prompt-files-and-instructions-files-explained/)
-* [ai: AI-Assisted Development powered by Local Models](https://sujithq.github.io/updates/ai-assisted-development-powered-by-local-models/)
+* [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
+* [github: Deprecation of Node 20 on GitHub Actions runners](hquintelier.devthub.io/updates/deprecation-of-node-20-on-github-actions-runners/)
+* [azure: [In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel](hquintelier.devthub.io/updates/in-preview-public-preview-azure-kubernetes-fleet-manager-auto-upgrade-target-kubernetes-version-channel/)
+* [security: Microsoft Defender delivered 242% return on investment over three years​​](https://sujquintelier.devdates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
+* [dotnet: Prompt Files and Instructions Files Explained](https://quintelier.dev/updates/prompt-files-and-instructions-files-explained/)
+* [ai: AI-Assisted Development powered by Local Models](httpsquintelier.dev.io/updates/ai-assisted-development-powered-by-local-models/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)

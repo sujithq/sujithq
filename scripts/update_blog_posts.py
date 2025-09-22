@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
 README = Path("README.md")
-FEED_URL = "https://sujithq.github.io/index.xml"
+FEED_URL = "https://quintelier.dev/index.xml"
 BLOG_START = "<!-- BLOG-POST-LIST:START -->"
 BLOG_END = "<!-- BLOG-POST-LIST:END -->"
 UPDATES_START = "<!-- UPDATES-LIST:START -->"
@@ -106,8 +106,8 @@ def parse_items(xml_bytes):
                 items.append((title, link, dt))
     logging.debug(f"Total items parsed: {len(items)}")
     # Split into blogs and updates
-    updates = [(t, u, d) for t, u, d in items if normalize_url(u).startswith("https://sujithq.github.io/updates/")]
-    blogs = [(t, u, d) for t, u, d in items if normalize_url(u).startswith("https://sujithq.github.io/posts/")]
+    updates = [(t, u, d) for t, u, d in items if normalize_url(u).startswith("https://quintelier.dev/updates/")]
+    blogs = [(t, u, d) for t, u, d in items if normalize_url(u).startswith("https://quintelier.dev/posts/")]
     logging.debug(f"Updates found: {len(updates)}; Blogs found: {len(blogs)}")
 
     # Blogs: newest N by date
