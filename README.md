@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Accelerate remediation with security campaigns and assignable alerts for code scanning and secret scanning](https://quintelier.dev/updates/accelerate-remediation-with-security-campaigns-and-assignable-alerts-for-code-scanning-and-secret-scanning/)
+* [github: Claude Opus 4.1 is now generally available in GitHub Copilot](https://quintelier.dev/updates/claude-opus-4-1-is-now-generally-available-in-github-copilot/)
 * [azure: [Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-virtual-machines-with-premium-ssd-v2-disks/)
 * [security: Microsoft Purview delivered 30% reduction in data breach likelihood](https://quintelier.dev/updates/microsoft-purview-delivered-30-reduction-in-data-breach-likelihood/)
 * [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
