@@ -71,6 +71,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [🤖 When to Use GitHub Models, Azure AI Foundry, and OpenAI](https://quintelier.dev/posts/2025/09/when-to-use-github-models-azure-ai-foundry-openai/)
 * [Mastering Asynchronous Programming with C# async/await](https://quintelier.dev/posts/2025/09/csharp-async-await/)
 * [Mastering Asynchronous Programming with C# async/await - Part 1: Introduction](https://quintelier.dev/posts/2025/09/csharp-async-await-part1/)
 * [Taming Dependabot: Bundle NuGet, npm, and GitHub Actions Updates Without Merge Conflicts](https://quintelier.dev/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
@@ -80,7 +81,6 @@ Currently working on:
 * [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://quintelier.dev/posts/2025/08/github-certification-journey-gh-200/)
 * [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://quintelier.dev/posts/2025/08/github-certification-journey-gh-100/)
 * [⚙️ Automated Updates Pipeline](https://quintelier.dev/posts/2025/08/automated-updates-pipeline/)
-* [Auto-triage CI failures with Copilot](https://quintelier.dev/posts/2025/08/ai-triage-github-actions-with-copilot/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
