@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Incremental security analysis with CodeQL is now available for all languages](https://quintelier.dev/updates/incremental-security-analysis-with-codeql-is-now-available-for-all-languages/)
-* [azure: Retirement: NVv3-series Azure Virtual Machines will be retired on September 30,2026](https://quintelier.dev/updates/retirement-nvv3-series-azure-virtual-machines-will-be-retired-on-september-30-2026/)
-* [security: Microsoft Defender delivered 242% return on investment over three years​​](https://quintelier.dev/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
+* [github: Accelerate remediation with security campaigns and assignable alerts for code scanning and secret scanning](https://quintelier.dev/updates/accelerate-remediation-with-security-campaigns-and-assignable-alerts-for-code-scanning-and-secret-scanning/)
+* [azure: [Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-virtual-machines-with-premium-ssd-v2-disks/)
+* [security: Microsoft Purview delivered 30% reduction in data breach likelihood](https://quintelier.dev/updates/microsoft-purview-delivered-30-reduction-in-data-breach-likelihood/)
 * [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
 * [ai: AI-Assisted Development powered by Local Models](https://quintelier.dev/updates/ai-assisted-development-powered-by-local-models/)
 <!-- UPDATES-LIST:END -->
