@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot app modernization is now generally available for Java and .NET](https://quintelier.dev/updates/github-copilot-app-modernization-is-now-generally-available-for-java-and-net/)
-* [azure: [In preview] Public Preview: Signed request on Azure Front Door](https://quintelier.dev/updates/in-preview-public-preview-signed-request-on-azure-front-door/)
+* [github: Incremental security analysis with CodeQL is now available for all languages](https://quintelier.dev/updates/incremental-security-analysis-with-codeql-is-now-available-for-all-languages/)
+* [azure: Retirement: NVv3-series Azure Virtual Machines will be retired on September 30,2026](https://quintelier.dev/updates/retirement-nvv3-series-azure-virtual-machines-will-be-retired-on-september-30-2026/)
 * [security: Microsoft Defender delivered 242% return on investment over three years​​](https://quintelier.dev/updates/microsoft-defender-delivered-242-return-on-investment-over-three-years/)
 * [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
 * [ai: AI-Assisted Development powered by Local Models](https://quintelier.dev/updates/ai-assisted-development-powered-by-local-models/)
