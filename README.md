@@ -90,7 +90,7 @@ Currently working on:
 * [azure: [Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-virtual-machines-with-premium-ssd-v2-disks/)
 * [security: Microsoft Purview delivered 30% reduction in data breach likelihood](https://quintelier.dev/updates/microsoft-purview-delivered-30-reduction-in-data-breach-likelihood/)
 * [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
-* [ai: AI-Assisted Development powered by Local Models](https://quintelier.dev/updates/ai-assisted-development-powered-by-local-models/)
+* [ai: Foundry Local Meets More Silicon](https://quintelier.dev/updates/foundry-local-meets-more-silicon/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
