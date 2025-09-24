@@ -71,6 +71,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [Mastering Asynchronous Programming with C# async/await - Part 2: Deep Dive](https://quintelier.dev/posts/2025/09/csharp-async-await-part2/)
 * [🤖 When to Use GitHub Models, Azure AI Foundry, and OpenAI](https://quintelier.dev/posts/2025/09/when-to-use-github-models-azure-ai-foundry-openai/)
 * [Mastering Asynchronous Programming with C# async/await](https://quintelier.dev/posts/2025/09/csharp-async-await/)
 * [Mastering Asynchronous Programming with C# async/await - Part 1: Introduction](https://quintelier.dev/posts/2025/09/csharp-async-await-part1/)
@@ -80,7 +81,6 @@ Currently working on:
 * [Platform Engineering Course Guide 🚀](https://quintelier.dev/posts/2025/08/platform-engineering-certified-practitioner/)
 * [🚀 GitHub Actions Certification Guide (GH-200) - Complete Prep](https://quintelier.dev/posts/2025/08/github-certification-journey-gh-200/)
 * [🏢 GitHub Administration Certification Guide (GH-100) - Enterprise Mastery](https://quintelier.dev/posts/2025/08/github-certification-journey-gh-100/)
-* [⚙️ Automated Updates Pipeline](https://quintelier.dev/posts/2025/08/automated-updates-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
