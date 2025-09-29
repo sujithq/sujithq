@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Pick the repository and base branch when assigning issues to Copilot](https://quintelier.dev/updates/pick-the-repository-and-base-branch-when-assigning-issues-to-copilot/)
-* [azure: [Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-virtual-machines-with-premium-ssd-v2-disks/)
-* [security: Microsoft Purview delivered 30% reduction in data breach likelihood](https://quintelier.dev/updates/microsoft-purview-delivered-30-reduction-in-data-breach-likelihood/)
-* [dotnet: New Trusted Publishing enhances security on NuGet.org](https://quintelier.dev/updates/new-trusted-publishing-enhances-security-on-nuget-org/)
+* [github: CodeQL 2.23.1 adds support for Java 25, TypeScript 5.9 and Swift 6.1.3](https://quintelier.dev/updates/codeql-2-23-1-adds-support-for-java-25-typescript-5-9-and-swift-6-1-3/)
+* [azure: Azure VMware Solution AV36 Node Retirement on June 30, 2028](https://quintelier.dev/updates/azure-vmware-solution-av36-node-retirement-on-june-30-2028/)
+* [security: Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://quintelier.dev/updates/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/)
+* [dotnet: Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://quintelier.dev/updates/preparing-your-net-maui-apps-for-google-play-s-16-kb-page-size-requirement/)
 * [ai: Foundry Local Meets More Silicon](https://quintelier.dev/updates/foundry-local-meets-more-silicon/)
 <!-- UPDATES-LIST:END -->
 
