@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Spark in public preview for Copilot Enterprise subscribers](https://quintelier.dev/updates/github-spark-in-public-preview-for-copilot-enterprise-subscribers/)
-* [azure: Retirement: Spark Native Connector for Semantic Link](https://quintelier.dev/updates/retirement-spark-native-connector-for-semantic-link/)
+* [github: GitHub Copilot in Visual Studio — September update](https://quintelier.dev/updates/github-copilot-in-visual-studio-september-update/)
+* [azure: Retirement: Support for Service Connector (preview) on Azure Container Apps will end on March 30th, 2026](https://quintelier.dev/updates/retirement-support-for-service-connector-preview-on-azure-container-apps-will-end-on-march-30th-2026/)
 * [security: Empowering defenders in the era of agentic AI with Microsoft Sentinel](https://quintelier.dev/updates/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/)
 * [dotnet: Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://quintelier.dev/updates/preparing-your-net-maui-apps-for-google-play-s-16-kb-page-size-requirement/)
 * [ai: Foundry Local Meets More Silicon](https://quintelier.dev/updates/foundry-local-meets-more-silicon/)
