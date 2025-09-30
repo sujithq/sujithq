@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: New date for enforcement of cache eviction policy](https://quintelier.dev/updates/new-date-for-enforcement-of-cache-eviction-policy/)
+* [github: Strengthening npm security: Important changes to authentication and token management](https://quintelier.dev/updates/strengthening-npm-security-important-changes-to-authentication-and-token-management/)
 * [azure: [Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor](https://quintelier.dev/updates/launched-generally-available-visualize-new-azure-resource-manager-metrics-through-azure-monitor/)
 * [security: Introducing Microsoft Marketplace — Thousands of solutions. Millions of customers. One Marketplace.](https://quintelier.dev/updates/introducing-microsoft-marketplace-thousands-of-solutions-millions-of-customers-one-marketplace/)
 * [dotnet: Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://quintelier.dev/updates/preparing-your-net-maui-apps-for-google-play-s-16-kb-page-size-requirement/)
