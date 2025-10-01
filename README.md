@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Premium requests analytics page is now generally available](https://quintelier.dev/updates/premium-requests-analytics-page-is-now-generally-available/)
+* [github: Start your new repository with Copilot coding agent](https://quintelier.dev/updates/start-your-new-repository-with-copilot-coding-agent/)
 * [azure: [In preview] Public Preview: Soft Delete feature in Azure Compute Gallery](https://quintelier.dev/updates/in-preview-public-preview-soft-delete-feature-in-azure-compute-gallery/)
 * [security: Empowering defenders in the era of agentic AI with Microsoft Sentinel](https://quintelier.dev/updates/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/)
 * [dotnet: Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://quintelier.dev/updates/preparing-your-net-maui-apps-for-google-play-s-16-kb-page-size-requirement/)
