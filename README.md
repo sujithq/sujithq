@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Start your new repository with Copilot coding agent](https://quintelier.dev/updates/start-your-new-repository-with-copilot-coding-agent/)
+* [github: Auto model selection is now in VS Code for Copilot Business and Enterprise](https://quintelier.dev/updates/auto-model-selection-is-now-in-vs-code-for-copilot-business-and-enterprise/)
 * [azure: [In preview] Public Preview: Soft Delete feature in Azure Compute Gallery](https://quintelier.dev/updates/in-preview-public-preview-soft-delete-feature-in-azure-compute-gallery/)
 * [security: Empowering defenders in the era of agentic AI with Microsoft Sentinel](https://quintelier.dev/updates/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/)
-* [dotnet: Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://quintelier.dev/updates/preparing-your-net-maui-apps-for-google-play-s-16-kb-page-size-requirement/)
-* [ai: Foundry Local Meets More Silicon](https://quintelier.dev/updates/foundry-local-meets-more-silicon/)
+* [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
+* [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
