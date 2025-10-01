@@ -87,8 +87,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Auto model selection is now in VS Code for Copilot Business and Enterprise](https://quintelier.dev/updates/auto-model-selection-is-now-in-vs-code-for-copilot-business-and-enterprise/)
-* [azure: [In preview] Public Preview: Soft Delete feature in Azure Compute Gallery](https://quintelier.dev/updates/in-preview-public-preview-soft-delete-feature-in-azure-compute-gallery/)
-* [security: Empowering defenders in the era of agentic AI with Microsoft Sentinel](https://quintelier.dev/updates/empowering-defenders-in-the-era-of-agentic-ai-with-microsoft-sentinel/)
+* [azure: [In preview] Public Preview: Azure SQL updates for late September 2025](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-updates-for-late-september-2025/)
+* [security: Cybersecurity Awareness Month: Security starts with you](https://quintelier.dev/updates/cybersecurity-awareness-month-security-starts-with-you/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
 * [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
 <!-- UPDATES-LIST:END -->
