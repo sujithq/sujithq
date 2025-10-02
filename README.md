@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Spark: 🚀 Expanded access, enhanced reliability, and faster iteration history](https://quintelier.dev/updates/spark-expanded-access-enhanced-reliability-and-faster-iteration-history/)
+* [github: One-click merge conflict resolution now in the web interface](https://quintelier.dev/updates/one-click-merge-conflict-resolution-now-in-the-web-interface/)
 * [azure: [Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager](https://quintelier.dev/updates/launched-generally-available-new-health-check-infrastructure-for-azure-traffic-manager/)
 * [security: Microsoft named a Leader in the IDC MarketScape for XDR](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
