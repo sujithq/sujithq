@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: One-click merge conflict resolution now in the web interface](https://quintelier.dev/updates/one-click-merge-conflict-resolution-now-in-the-web-interface/)
-* [azure: [Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager](https://quintelier.dev/updates/launched-generally-available-new-health-check-infrastructure-for-azure-traffic-manager/)
+* [github: GitHub Copilot CLI: Enhanced model selection, image support, and streamlined UI](https://quintelier.dev/updates/github-copilot-cli-enhanced-model-selection-image-support-and-streamlined-ui/)
+* [azure: Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts](https://quintelier.dev/updates/retirement-general-purpose-v1-gpv1-and-legacy-blob-storage-accounts/)
 * [security: Microsoft named a Leader in the IDC MarketScape for XDR](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
 * [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
