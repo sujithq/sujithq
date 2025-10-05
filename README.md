@@ -71,6 +71,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [🔒 GitHub Advanced Security Certification Guide (GH-500) - Complete Prep](https://quintelier.dev/posts/2025/10/github-certification-journey-gh-500/)
 * [Mastering Asynchronous Programming with C# async/await - Part 3: Common Pitfalls and Best Practices](https://quintelier.dev/posts/2025/10/csharp-async-await-part3/)
 * [🤖 Automating Dependabot at Scale: GitHub Actions Strategy](https://quintelier.dev/posts/2025/09/automating-dependabot-at-scale-github-actions-strategy/)
 * [Mastering Asynchronous Programming with C# async/await - Part 2: Deep Dive](https://quintelier.dev/posts/2025/09/csharp-async-await-part2/)
@@ -80,7 +81,6 @@ Currently working on:
 * [Taming Dependabot: Bundle NuGet, npm, and GitHub Actions Updates Without Merge Conflicts](https://quintelier.dev/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
 * [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://quintelier.dev/posts/2025/08/github-certification-journey-gh-300/)
 * [Getting started with Dependabot](https://quintelier.dev/posts/2025/08/dependabot-getting-started/)
-* [Platform Engineering Course Guide 🚀](https://quintelier.dev/posts/2025/08/platform-engineering-certified-practitioner/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
