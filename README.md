@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot CLI: Enhanced model selection, image support, and streamlined UI](https://quintelier.dev/updates/github-copilot-cli-enhanced-model-selection-image-support-and-streamlined-ui/)
+* [github: Grok Code Fast 1 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/grok-code-fast-1-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
 * [azure: Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026](https://quintelier.dev/updates/retirement-azure-monitor-scom-managed-instance-will-be-retired-on-sep-30-2026/)
 * [security: Microsoft named a Leader in the IDC MarketScape for XDR](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-idc-marketscape-for-xdr/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
