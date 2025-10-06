@@ -87,8 +87,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Grok Code Fast 1 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/grok-code-fast-1-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
-* [azure: Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026](https://quintelier.dev/updates/retirement-azure-monitor-scom-managed-instance-will-be-retired-on-sep-30-2026/)
-* [security: Investigating active exploitation of CVE-2025-10035 GoAnywhere Managed File Transfer vulnerability](https://quintelier.dev/updates/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/)
+* [azure: [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/)
+* [security: Inside Microsoft Threat Intelligence: Calm in the chaos](https://quintelier.dev/updates/inside-microsoft-threat-intelligence-calm-in-the-chaos/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
 * [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
 <!-- UPDATES-LIST:END -->
