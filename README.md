@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Upcoming changes to GitHub Dependabot pull request comment commands](https://quintelier.dev/updates/upcoming-changes-to-github-dependabot-pull-request-comment-commands/)
-* [azure: [Launched] Generally Avaialbe: Azure NetApp Files short-term clones](https://quintelier.dev/updates/launched-generally-avaialbe-azure-netapp-files-short-term-clones/)
-* [security: Inside Microsoft Threat Intelligence: Calm in the chaos](https://quintelier.dev/updates/inside-microsoft-threat-intelligence-calm-in-the-chaos/)
-* [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
+* [github: Secret Protection expands default pattern support – September 2025](https://quintelier.dev/updates/secret-protection-expands-default-pattern-support-september-2025/)
+* [azure: [Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy](https://quintelier.dev/updates/launched-generally-available-azure-firewall-updates-ip-group-limit-increased-to-600-per-firewall-policy/)
+* [security: Disrupting threats targeting Microsoft Teams](https://quintelier.dev/updates/disrupting-threats-targeting-microsoft-teams/)
+* [dotnet: Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://quintelier.dev/updates/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-net/)
 * [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
 <!-- UPDATES-LIST:END -->
 
