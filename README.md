@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Grok Code Fast 1 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/grok-code-fast-1-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
+* [github: Enterprise access restrictions now supports multiple enterprises](https://quintelier.dev/updates/enterprise-access-restrictions-now-supports-multiple-enterprises/)
 * [azure: [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/)
 * [security: Inside Microsoft Threat Intelligence: Calm in the chaos](https://quintelier.dev/updates/inside-microsoft-threat-intelligence-calm-in-the-chaos/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
