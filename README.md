@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Secret Protection expands default pattern support – September 2025](https://quintelier.dev/updates/secret-protection-expands-default-pattern-support-september-2025/)
-* [azure: [Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy](https://quintelier.dev/updates/launched-generally-available-azure-firewall-updates-ip-group-limit-increased-to-600-per-firewall-policy/)
+* [github: GitHub now supports social login with Apple](https://quintelier.dev/updates/github-now-supports-social-login-with-apple/)
+* [azure: Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026](https://quintelier.dev/updates/retirement-azure-network-policy-manager-npm-for-windows-nodes-on-aks-to-be-retired-by-september-30-2026/)
 * [security: Disrupting threats targeting Microsoft Teams](https://quintelier.dev/updates/disrupting-threats-targeting-microsoft-teams/)
 * [dotnet: Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://quintelier.dev/updates/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-net/)
 * [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
