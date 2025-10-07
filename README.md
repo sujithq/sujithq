@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Enterprise access restrictions now supports multiple enterprises](https://quintelier.dev/updates/enterprise-access-restrictions-now-supports-multiple-enterprises/)
-* [azure: [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/)
+* [azure: [Launched] Generally Available: AI toolchain operator add-on (KAITO) for AKS](https://quintelier.dev/updates/launched-generally-available-ai-toolchain-operator-add-on-kaito-for-aks/)
 * [security: Inside Microsoft Threat Intelligence: Calm in the chaos](https://quintelier.dev/updates/inside-microsoft-threat-intelligence-calm-in-the-chaos/)
 * [dotnet: Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://quintelier.dev/updates/introducing-microsoft-agent-framework-preview-making-ai-agents-simple-for-every-developer/)
 * [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
