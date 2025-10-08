@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub now supports social login with Apple](https://quintelier.dev/updates/github-now-supports-social-login-with-apple/)
+* [github: Upcoming deprecation of Claude Sonnet 3.5](https://quintelier.dev/updates/upcoming-deprecation-of-claude-sonnet-3-5/)
 * [azure: Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026](https://quintelier.dev/updates/retirement-azure-network-policy-manager-npm-for-windows-nodes-on-aks-to-be-retired-by-september-30-2026/)
 * [security: Disrupting threats targeting Microsoft Teams](https://quintelier.dev/updates/disrupting-threats-targeting-microsoft-teams/)
 * [dotnet: Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://quintelier.dev/updates/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-net/)
-* [ai: Introducing Microsoft Agent Framework: The Open-Source Engine for Agentic AI Apps](https://quintelier.dev/updates/introducing-microsoft-agent-framework-the-open-source-engine-for-agentic-ai-apps/)
+* [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
