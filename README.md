@@ -89,7 +89,7 @@ Currently working on:
 * [github: Upcoming deprecation of Claude Sonnet 3.5](https://quintelier.dev/updates/upcoming-deprecation-of-claude-sonnet-3-5/)
 * [azure: Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026](https://quintelier.dev/updates/retirement-azure-network-policy-manager-npm-for-windows-nodes-on-aks-to-be-retired-by-september-30-2026/)
 * [security: Disrupting threats targeting Microsoft Teams](https://quintelier.dev/updates/disrupting-threats-targeting-microsoft-teams/)
-* [dotnet: Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://quintelier.dev/updates/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-net/)
+* [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
 * [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
 <!-- UPDATES-LIST:END -->
 
