@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Upcoming deprecation of Claude Sonnet 3.5](https://quintelier.dev/updates/upcoming-deprecation-of-claude-sonnet-3-5/)
-* [azure: [In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage](https://quintelier.dev/updates/in-preview-public-preview-introducing-vaulted-backup-for-azure-data-lake-storage/)
+* [azure: Retirement: Azure AI Health Insights and related models](https://quintelier.dev/updates/retirement-azure-ai-health-insights-and-related-models/)
 * [security: Disrupting threats targeting Microsoft Teams](https://quintelier.dev/updates/disrupting-threats-targeting-microsoft-teams/)
 * [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
 * [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
