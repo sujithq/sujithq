@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Improved blocked users view in organization and personal settings](https://quintelier.dev/updates/improved-blocked-users-view-in-organization-and-personal-settings/)
+* [github: CodeQL 2.23.2 adds additional detections for Rust, and improves accuracy across languages](https://quintelier.dev/updates/codeql-2-23-2-adds-additional-detections-for-rust-and-improves-accuracy-across-languages/)
 * [azure: [Launched] Generally Available: Custom port support for Azure Database for MySQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-custom-port-support-for-azure-database-for-mysql-flexible-server/)
 * [security: Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog](https://quintelier.dev/updates/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/)
 * [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
