@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Upcoming deprecation of Claude Sonnet 3.5](https://quintelier.dev/updates/upcoming-deprecation-of-claude-sonnet-3-5/)
-* [azure: [Launched] Generally Available: Firmware analysis enabled by Azure Arc](https://quintelier.dev/updates/launched-generally-available-firmware-analysis-enabled-by-azure-arc/)
-* [security: Disrupting threats targeting Microsoft Teams](https://quintelier.dev/updates/disrupting-threats-targeting-microsoft-teams/)
+* [github: Improved blocked users view in organization and personal settings](https://quintelier.dev/updates/improved-blocked-users-view-in-organization-and-personal-settings/)
+* [azure: [Launched] Generally Available: Custom port support for Azure Database for MySQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-custom-port-support-for-azure-database-for-mysql-flexible-server/)
+* [security: Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog](https://quintelier.dev/updates/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/)
 * [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
 * [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
 <!-- UPDATES-LIST:END -->
