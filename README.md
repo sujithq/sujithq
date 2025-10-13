@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot CLI: Faster, more concise, and prettier](https://quintelier.dev/updates/github-copilot-cli-faster-more-concise-and-prettier/)
-* [azure: [In preview] Public Preview: PostgreSQL 18 on Azure Database for PostgreSQL – Flexible Server](https://quintelier.dev/updates/in-preview-public-preview-postgresql-18-on-azure-database-for-postgresql-flexible-server/)
-* [security: Securing agentic AI: Your guide to the Microsoft Ignite sessions catalog](https://quintelier.dev/updates/securing-agentic-ai-your-guide-to-the-microsoft-ignite-sessions-catalog/)
+* [github: Anthropic’s Claude Sonnet 4.5 is now generally available in GitHub Copilot](https://quintelier.dev/updates/anthropic-s-claude-sonnet-4-5-is-now-generally-available-in-github-copilot/)
+* [azure: [Launched] Generally Available: Open-Source - Containerization Assist MCP Server](https://quintelier.dev/updates/launched-generally-available-open-source-containerization-assist-mcp-server/)
+* [security: Building a lasting security culture at Microsoft](https://quintelier.dev/updates/building-a-lasting-security-culture-at-microsoft/)
 * [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
 * [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
 <!-- UPDATES-LIST:END -->
