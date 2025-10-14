@@ -88,8 +88,8 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GitHub MCP Server now supports GitHub Projects and more](https://quintelier.dev/updates/github-mcp-server-now-supports-github-projects-and-more/)
 * [azure: [Launched] Generally Available: Spot Placement Score](https://quintelier.dev/updates/launched-generally-available-spot-placement-score/)
-* [security: Building a lasting security culture at Microsoft](https://quintelier.dev/updates/building-a-lasting-security-culture-at-microsoft/)
-* [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
+* [security: Microsoft raises the bar: A smarter way to measure AI for cybersecurity](https://quintelier.dev/updates/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/)
+* [dotnet: Announcing the .NET Security Group](https://quintelier.dev/updates/announcing-the-net-security-group/)
 * [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
 <!-- UPDATES-LIST:END -->
 
