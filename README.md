@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Anthropic’s Claude Sonnet 4.5 is now generally available in GitHub Copilot](https://quintelier.dev/updates/anthropic-s-claude-sonnet-4-5-is-now-generally-available-in-github-copilot/)
-* [azure: [Launched] Generally Available: Azure Site Recovery support for Ultra Disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-ultra-disks/)
+* [github: GitHub MCP Server now supports GitHub Projects and more](https://quintelier.dev/updates/github-mcp-server-now-supports-github-projects-and-more/)
+* [azure: [Launched] Generally Available: Spot Placement Score](https://quintelier.dev/updates/launched-generally-available-spot-placement-score/)
 * [security: Building a lasting security culture at Microsoft](https://quintelier.dev/updates/building-a-lasting-security-culture-at-microsoft/)
 * [dotnet: Preparing for the .NET 10 GC (DATAS)](https://quintelier.dev/updates/preparing-for-the-net-10-gc-datas/)
 * [ai: What’s new in Azure AI Foundry | September 2025](https://quintelier.dev/updates/what-s-new-in-azure-ai-foundry-september-2025/)
