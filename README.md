@@ -87,9 +87,9 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: CodeQL scanning Rust and C/C++ without builds is now generally available](https://quintelier.dev/updates/codeql-scanning-rust-and-c-c-without-builds-is-now-generally-available/)
-* [azure: [Launched] Generally Available: Spot Placement Score](https://quintelier.dev/updates/launched-generally-available-spot-placement-score/)
+* [azure: [Launched] Generally Available: Azure Event Grid new capabilities](https://quintelier.dev/updates/launched-generally-available-azure-event-grid-new-capabilities/)
 * [security: Microsoft raises the bar: A smarter way to measure AI for cybersecurity](https://quintelier.dev/updates/microsoft-raises-the-bar-a-smarter-way-to-measure-ai-for-cybersecurity/)
-* [dotnet: Announcing the .NET Security Group](https://quintelier.dev/updates/announcing-the-net-security-group/)
+* [dotnet: Announcing .NET 10 Release Candidate 2](https://quintelier.dev/updates/announcing-net-10-release-candidate-2/)
 * [ai: The Developer’s Guide to Smarter Fine-tuning: Unlock custom AI for every business challenge](https://quintelier.dev/updates/the-developer-s-guide-to-smarter-fine-tuning-unlock-custom-ai-for-every-business-challenge/)
 <!-- UPDATES-LIST:END -->
 
