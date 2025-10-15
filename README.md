@@ -71,6 +71,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [Mastering Asynchronous Programming with C# async/await - Part 5: Real-World Use Cases](https://quintelier.dev/posts/2025/10/csharp-async-await-part5/)
 * [Mastering Asynchronous Programming with C# async/await - Part 4: Patterns with Async](https://quintelier.dev/posts/2025/10/csharp-async-await-part4/)
 * [🔒 GitHub Advanced Security Certification Guide (GH-500) - Complete Prep](https://quintelier.dev/posts/2025/10/github-certification-journey-gh-500/)
 * [Mastering Asynchronous Programming with C# async/await - Part 3: Common Pitfalls and Best Practices](https://quintelier.dev/posts/2025/10/csharp-async-await-part3/)
@@ -80,7 +81,6 @@ Currently working on:
 * [Mastering Asynchronous Programming with C# async/await](https://quintelier.dev/posts/2025/09/csharp-async-await/)
 * [Mastering Asynchronous Programming with C# async/await - Part 1: Introduction](https://quintelier.dev/posts/2025/09/csharp-async-await-part1/)
 * [Taming Dependabot: Bundle NuGet, npm, and GitHub Actions Updates Without Merge Conflicts](https://quintelier.dev/posts/2025/09/taming-dependabot-bundle-nuget-npm-github-actions-updates-without-merge-conflicts/)
-* [🤖 GitHub Copilot Certification Guide (GH-300) - AI Development Mastery](https://quintelier.dev/posts/2025/08/github-certification-journey-gh-300/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
