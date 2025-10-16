@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot-generated commit messages on github.com are generally available](https://quintelier.dev/updates/copilot-generated-commit-messages-on-github-com-are-generally-available/)
 * [azure: [Launched] Generally Available: Prescaling in Azure Firewall](https://quintelier.dev/updates/launched-generally-available-prescaling-in-azure-firewall/)
-* [security: Extortion and ransomware drive over half of cyberattacks](https://quintelier.dev/updates/extortion-and-ransomware-drive-over-half-of-cyberattacks/)
+* [security: Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
 * [ai: The Developer’s Guide to Smarter Fine-tuning: Unlock custom AI for every business challenge](https://quintelier.dev/updates/the-developer-s-guide-to-smarter-fine-tuning-unlock-custom-ai-for-every-business-challenge/)
 <!-- UPDATES-LIST:END -->
