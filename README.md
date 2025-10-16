@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot-generated commit messages on github.com are generally available](https://quintelier.dev/updates/copilot-generated-commit-messages-on-github-com-are-generally-available/)
+* [github: Grok Code Fast 1 is now generally available in GitHub Copilot](https://quintelier.dev/updates/grok-code-fast-1-is-now-generally-available-in-github-copilot/)
 * [azure: [Launched] Generally Available: Prescaling in Azure Firewall](https://quintelier.dev/updates/launched-generally-available-prescaling-in-azure-firewall/)
 * [security: Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
