@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot-generated commit messages on github.com are generally available](https://quintelier.dev/updates/copilot-generated-commit-messages-on-github-com-are-generally-available/)
-* [azure: [Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption](https://quintelier.dev/updates/launched-generally-available-availability-zones-and-network-restricted-key-vault-and-app-configuration-references-for-flex-consumption/)
+* [azure: [Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service](https://quintelier.dev/updates/launched-generally-available-powershell-az-cmdlets-and-python-sdk-for-azure-database-migration-service/)
 * [security: The importance of hardening customer support tools against cyberattacks](https://quintelier.dev/updates/the-importance-of-hardening-customer-support-tools-against-cyberattacks/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
 * [ai: The Developer’s Guide to Smarter Fine-tuning: Unlock custom AI for every business challenge](https://quintelier.dev/updates/the-developer-s-guide-to-smarter-fine-tuning-unlock-custom-ai-for-every-business-challenge/)
