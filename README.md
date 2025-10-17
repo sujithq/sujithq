@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot coding agent can now search the web](https://quintelier.dev/updates/copilot-coding-agent-can-now-search-the-web/)
-* [azure: [Launched] Generally Available: Prescaling in Azure Firewall](https://quintelier.dev/updates/launched-generally-available-prescaling-in-azure-firewall/)
+* [github: GPT-4.1 Copilot code completion model — October update](https://quintelier.dev/updates/gpt-4-1-copilot-code-completion-model-october-update/)
+* [azure: [In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)](https://quintelier.dev/updates/in-development-private-preview-new-planned-datacenter-region-in-malaysia-southeast-asia-3/)
 * [security: Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
 * [ai: The Developer’s Guide to Smarter Fine-tuning: Unlock custom AI for every business challenge](https://quintelier.dev/updates/the-developer-s-guide-to-smarter-fine-tuning-unlock-custom-ai-for-every-business-challenge/)
