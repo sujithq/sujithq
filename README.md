@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot CLI: Multiline input, new MCP enhancements, and Haiku 4.5](https://quintelier.dev/updates/copilot-cli-multiline-input-new-mcp-enhancements-and-haiku-4-5/)
+* [github: Copilot knowledge bases can now be converted to Copilot Spaces](https://quintelier.dev/updates/copilot-knowledge-bases-can-now-be-converted-to-copilot-spaces/)
 * [azure: [In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)](https://quintelier.dev/updates/in-development-private-preview-new-planned-datacenter-region-in-malaysia-southeast-asia-3/)
 * [security: Microsoft named a Leader in the 2025 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-siem/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
