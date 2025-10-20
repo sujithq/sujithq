@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot knowledge bases can now be converted to Copilot Spaces](https://quintelier.dev/updates/copilot-knowledge-bases-can-now-be-converted-to-copilot-spaces/)
-* [azure: [In preview] Public Preview: Sharing Capacity Reservation Groups](https://quintelier.dev/updates/in-preview-public-preview-sharing-capacity-reservation-groups/)
+* [azure: [Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover](https://quintelier.dev/updates/launched-generally-available-cloud-to-cloud-migration-made-simple-with-azure-storage-mover/)
 * [security: Inside the attack chain: Threat activity targeting Azure Blob Storage](https://quintelier.dev/updates/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
