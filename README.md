@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot knowledge bases can now be converted to Copilot Spaces](https://quintelier.dev/updates/copilot-knowledge-bases-can-now-be-converted-to-copilot-spaces/)
+* [github: Claude Haiku 4.5 is generally available in all supported IDEs](https://quintelier.dev/updates/claude-haiku-4-5-is-generally-available-in-all-supported-ides/)
 * [azure: [Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover](https://quintelier.dev/updates/launched-generally-available-cloud-to-cloud-migration-made-simple-with-azure-storage-mover/)
-* [security: Inside the attack chain: Threat activity targeting Azure Blob Storage](https://quintelier.dev/updates/inside-the-attack-chain-threat-activity-targeting-azure-blob-storage/)
+* [security: The new Microsoft Security Store unites partners and innovation](https://quintelier.dev/updates/the-new-microsoft-security-store-unites-partners-and-innovation/)
 * [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
