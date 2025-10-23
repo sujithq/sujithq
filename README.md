@@ -89,7 +89,7 @@ Currently working on:
 * [github: CodeQL 2.23.3 adds a new Rust query, Rust support, and easier C/C++ scanning](https://quintelier.dev/updates/codeql-2-23-3-adds-a-new-rust-query-rust-support-and-easier-c-c-scanning/)
 * [azure: Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028](https://quintelier.dev/updates/retirement-azure-computer-vision-image-analysis-will-be-retired-on-september-25-2028/)
 * [security: Harden your identity defense with improved protection, deeper correlation, and richer context](https://quintelier.dev/updates/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/)
-* [dotnet: Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://quintelier.dev/updates/upgrading-to-microsoft-agent-framework-in-your-net-ai-chat-app/)
+* [dotnet: Announcing Sponsorship on NuGet.org](https://quintelier.dev/updates/announcing-sponsorship-on-nuget-org/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
 
