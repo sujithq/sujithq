@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Claude Haiku 4.5 is generally available in all supported IDEs](https://quintelier.dev/updates/claude-haiku-4-5-is-generally-available-in-all-supported-ides/)
+* [github: Selected Claude, OpenAI, and Gemini Copilot models are now deprecated](https://quintelier.dev/updates/selected-claude-openai-and-gemini-copilot-models-are-now-deprecated/)
 * [azure: Retirement: Azure Computer Vision – Image Analysis will be retired on September 25, 2028](https://quintelier.dev/updates/retirement-azure-computer-vision-image-analysis-will-be-retired-on-september-25-2028/)
-* [security: The CISO imperative: Building resilience in an era of accelerated cyberthreats](https://quintelier.dev/updates/the-ciso-imperative-building-resilience-in-an-era-of-accelerated-cyberthreats/)
-* [dotnet: .NET and .NET Framework October 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-october-2025-servicing-releases-updates/)
+* [security: Harden your identity defense with improved protection, deeper correlation, and richer context](https://quintelier.dev/updates/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/)
+* [dotnet: Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://quintelier.dev/updates/upgrading-to-microsoft-agent-framework-in-your-net-ai-chat-app/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
 
