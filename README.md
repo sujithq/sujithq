@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: CodeQL 2.23.3 adds a new Rust query, Rust support, and easier C/C++ scanning](https://quintelier.dev/updates/codeql-2-23-3-adds-a-new-rust-query-rust-support-and-easier-c-c-scanning/)
-* [azure: [Launched] Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target](https://quintelier.dev/updates/launched-generally-available-azure-storage-mover-support-for-nfs-source-to-azure-file-share-nfs-4-1-target/)
+* [github: GitHub Copilot in Visual Studio Code gets upgraded](https://quintelier.dev/updates/github-copilot-in-visual-studio-code-gets-upgraded/)
+* [azure: [Launched] Generaly Available: Azure Sphere OS version 25.10 is now available for evaluation](https://quintelier.dev/updates/launched-generaly-available-azure-sphere-os-version-25-10-is-now-available-for-evaluation/)
 * [security: Harden your identity defense with improved protection, deeper correlation, and richer context](https://quintelier.dev/updates/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/)
 * [dotnet: Announcing Sponsorship on NuGet.org](https://quintelier.dev/updates/announcing-sponsorship-on-nuget-org/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
