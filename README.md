@@ -89,7 +89,7 @@ Currently working on:
 * [github: GitHub Copilot in Visual Studio Code gets upgraded](https://quintelier.dev/updates/github-copilot-in-visual-studio-code-gets-upgraded/)
 * [azure: [Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door](https://quintelier.dev/updates/launched-generally-available-azure-waf-captcha-challenge-for-azure-front-door/)
 * [security: Harden your identity defense with improved protection, deeper correlation, and richer context](https://quintelier.dev/updates/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/)
-* [dotnet: Announcing Sponsorship on NuGet.org](https://quintelier.dev/updates/announcing-sponsorship-on-nuget-org/)
+* [dotnet: Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://quintelier.dev/updates/introducing-custom-agents-for-net-developers-c-expert-winforms-expert/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
 
