@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot in Visual Studio Code gets upgraded](https://quintelier.dev/updates/github-copilot-in-visual-studio-code-gets-upgraded/)
-* [azure: [Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door](https://quintelier.dev/updates/launched-generally-available-azure-waf-captcha-challenge-for-azure-front-door/)
+* [github: GitHub MCP Server now comes with server instructions, better tools, and more](https://quintelier.dev/updates/github-mcp-server-now-comes-with-server-instructions-better-tools-and-more/)
+* [azure: Retirement: Remove dependency on these preview features before March 31, 2026](https://quintelier.dev/updates/retirement-remove-dependency-on-these-preview-features-before-march-31-2026/)
 * [security: Harden your identity defense with improved protection, deeper correlation, and richer context](https://quintelier.dev/updates/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/)
 * [dotnet: Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://quintelier.dev/updates/introducing-custom-agents-for-net-developers-c-expert-winforms-expert/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
