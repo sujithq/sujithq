@@ -71,6 +71,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [Mastering Asynchronous Programming with C# async/await - Part 7: Testing & Debugging](https://quintelier.dev/posts/2025/10/csharp-async-await-part7/)
 * [Mastering Asynchronous Programming with C# async/await - Part 6: Advanced Topics](https://quintelier.dev/posts/2025/10/csharp-async-await-part6/)
 * [Mastering Asynchronous Programming with C# async/await - Part 5: Real-World Use Cases](https://quintelier.dev/posts/2025/10/csharp-async-await-part5/)
 * [Mastering Asynchronous Programming with C# async/await - Part 4: Patterns with Async](https://quintelier.dev/posts/2025/10/csharp-async-await-part4/)
@@ -80,7 +81,6 @@ Currently working on:
 * [Mastering Asynchronous Programming with C# async/await - Part 2: Deep Dive](https://quintelier.dev/posts/2025/09/csharp-async-await-part2/)
 * [🤖 When to Use GitHub Models, Azure AI Foundry, and OpenAI](https://quintelier.dev/posts/2025/09/when-to-use-github-models-azure-ai-foundry-openai/)
 * [Mastering Asynchronous Programming with C# async/await](https://quintelier.dev/posts/2025/09/csharp-async-await/)
-* [Mastering Asynchronous Programming with C# async/await - Part 1: Introduction](https://quintelier.dev/posts/2025/09/csharp-async-await-part1/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
