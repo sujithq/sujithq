@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GitHub MCP Server now comes with server instructions, better tools, and more](https://quintelier.dev/updates/github-mcp-server-now-comes-with-server-instructions-better-tools-and-more/)
 * [azure: [In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption](https://quintelier.dev/updates/in-preview-public-preview-azure-functions-zero-downtime-deployments-with-rolling-updates-in-flex-consumption/)
-* [security: Harden your identity defense with improved protection, deeper correlation, and richer context](https://quintelier.dev/updates/harden-your-identity-defense-with-improved-protection-deeper-correlation-and-richer-context/)
+* [security: The 5 generative AI security threats you need to know about detailed in new e-book](https://quintelier.dev/updates/the-5-generative-ai-security-threats-you-need-to-know-about-detailed-in-new-e-book/)
 * [dotnet: Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://quintelier.dev/updates/introducing-custom-agents-for-net-developers-c-expert-winforms-expert/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
