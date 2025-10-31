@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub MCP Server now comes with server instructions, better tools, and more](https://quintelier.dev/updates/github-mcp-server-now-comes-with-server-instructions-better-tools-and-more/)
+* [github: Deprecated models in GitHub Models](https://quintelier.dev/updates/deprecated-models-in-github-models/)
 * [azure: [In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption](https://quintelier.dev/updates/in-preview-public-preview-azure-functions-zero-downtime-deployments-with-rolling-updates-in-flex-consumption/)
 * [security: The 5 generative AI security threats you need to know about detailed in new e-book](https://quintelier.dev/updates/the-5-generative-ai-security-threats-you-need-to-know-about-detailed-in-new-e-book/)
 * [dotnet: Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://quintelier.dev/updates/introducing-custom-agents-for-net-developers-c-expert-winforms-expert/)
