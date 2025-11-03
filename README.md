@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot policy now supports agent mode in the IDE](https://quintelier.dev/updates/github-copilot-policy-now-supports-agent-mode-in-the-ide/)
+* [github: Delegate AI controls management to members of your enterprise](https://quintelier.dev/updates/delegate-ai-controls-management-to-members-of-your-enterprise/)
 * [azure: [In preview] Public Preview: Azure NetApp Files Object REST API](https://quintelier.dev/updates/in-preview-public-preview-azure-netapp-files-object-rest-api/)
 * [security: SesameOp: Novel backdoor uses OpenAI Assistants API for command and control](https://quintelier.dev/updates/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/)
 * [dotnet: Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://quintelier.dev/updates/introducing-custom-agents-for-net-developers-c-expert-winforms-expert/)
