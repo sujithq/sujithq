@@ -88,8 +88,8 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Delegate AI controls management to members of your enterprise](https://quintelier.dev/updates/delegate-ai-controls-management-to-members-of-your-enterprise/)
 * [azure: [In preview] Public Preview: Azure NetApp Files Object REST API](https://quintelier.dev/updates/in-preview-public-preview-azure-netapp-files-object-rest-api/)
-* [security: SesameOp: Novel backdoor uses OpenAI Assistants API for command and control](https://quintelier.dev/updates/sesameop-novel-backdoor-uses-openai-assistants-api-for-command-and-control/)
-* [dotnet: Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://quintelier.dev/updates/introducing-custom-agents-for-net-developers-c-expert-winforms-expert/)
+* [security: ​​Learn what generative AI can do for your security operations center](https://quintelier.dev/updates/learn-what-generative-ai-can-do-for-your-security-operations-center/)
+* [dotnet: Get Ready for .NET Conf 2025!](https://quintelier.dev/updates/get-ready-for-net-conf-2025/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
 
