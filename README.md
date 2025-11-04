@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Delegate AI controls management to members of your enterprise](https://quintelier.dev/updates/delegate-ai-controls-management-to-members-of-your-enterprise/)
+* [github: GitHub Copilot policy update for unconfigured policies](https://quintelier.dev/updates/github-copilot-policy-update-for-unconfigured-policies/)
 * [azure: [In preview] Public Preview: Azure NetApp Files Object REST API](https://quintelier.dev/updates/in-preview-public-preview-azure-netapp-files-object-rest-api/)
 * [security: ​​Learn what generative AI can do for your security operations center](https://quintelier.dev/updates/learn-what-generative-ai-can-do-for-your-security-operations-center/)
 * [dotnet: Get Ready for .NET Conf 2025!](https://quintelier.dev/updates/get-ready-for-net-conf-2025/)
