@@ -87,9 +87,9 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: npm security update: Classic token creation disabled and granular token changes](https://quintelier.dev/updates/npm-security-update-classic-token-creation-disabled-and-granular-token-changes/)
-* [azure: [Launched] Open Source: Announcing the DocumentDB Kubernetes Operator](https://quintelier.dev/updates/launched-open-source-announcing-the-documentdb-kubernetes-operator/)
+* [azure: [Launched] Generally Available: Azure Database for MySQL – Flexible Server now supports high availability with dedicated Azure Standard Load Balancer](https://quintelier.dev/updates/launched-generally-available-azure-database-for-mysql-flexible-server-now-supports-high-availability-with-dedicated-azure-standard-load-balancer/)
 * [security: ​​Learn what generative AI can do for your security operations center](https://quintelier.dev/updates/learn-what-generative-ai-can-do-for-your-security-operations-center/)
-* [dotnet: Get Ready for .NET Conf 2025!](https://quintelier.dev/updates/get-ready-for-net-conf-2025/)
+* [dotnet: How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://quintelier.dev/updates/how-copilot-studio-uses-net-and-webassembly-for-performance-and-innovation/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
 
