@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: The legacy Copilot usage report CSV is no longer available](https://quintelier.dev/updates/the-legacy-copilot-usage-report-csv-is-no-longer-available/)
-* [azure: [Launched] Generally Available: Planned Failover for Azure Storage](https://quintelier.dev/updates/launched-generally-available-planned-failover-for-azure-storage/)
+* [azure: [Launched] Generally Available: Object Replication Metrics](https://quintelier.dev/updates/launched-generally-available-object-replication-metrics/)
 * [security: ​​Securing critical infrastructure: Why Europe’s risk-based regulations matter](https://quintelier.dev/updates/securing-critical-infrastructure-why-europe-s-risk-based-regulations-matter/)
 * [dotnet: How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://quintelier.dev/updates/how-copilot-studio-uses-net-and-webassembly-for-performance-and-innovation/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
