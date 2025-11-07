@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Removing notifications for @mentions in commit messages](https://quintelier.dev/updates/removing-notifications-for-mentions-in-commit-messages/)
-* [azure: [Launched] Generally Available: Ultra Disk’s new flexible provisioning model](https://quintelier.dev/updates/launched-generally-available-ultra-disk-s-new-flexible-provisioning-model/)
+* [azure: [In preview] Public Preview: openCypher support for KQL graph semantics](https://quintelier.dev/updates/in-preview-public-preview-opencypher-support-for-kql-graph-semantics/)
 * [security: ​​Whisper Leak: A novel side-channel attack on remote language models](https://quintelier.dev/updates/whisper-leak-a-novel-side-channel-attack-on-remote-language-models/)
 * [dotnet: How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://quintelier.dev/updates/how-copilot-studio-uses-net-and-webassembly-for-performance-and-innovation/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
