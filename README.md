@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Pull request “Files changed” public preview and merge experience – November 6 updates](https://quintelier.dev/updates/pull-request-files-changed-public-preview-and-merge-experience-november-6-updates/)
+* [github: GraphQL Explorer removal from API documentation on November 7, 2025](https://quintelier.dev/updates/graphql-explorer-removal-from-api-documentation-on-november-7-2025/)
 * [azure: [Launched] Generally Available: Ultra Disk’s new flexible provisioning model](https://quintelier.dev/updates/launched-generally-available-ultra-disk-s-new-flexible-provisioning-model/)
 * [security: New IDC research highlights a major cloud security shift](https://quintelier.dev/updates/new-idc-research-highlights-a-major-cloud-security-shift/)
 * [dotnet: How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://quintelier.dev/updates/how-copilot-studio-uses-net-and-webassembly-for-performance-and-innovation/)
