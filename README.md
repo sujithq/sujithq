@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Removing notifications for @mentions in commit messages](https://quintelier.dev/updates/removing-notifications-for-mentions-in-commit-messages/)
-* [azure: [In preview] Public Preview: openCypher support for KQL graph semantics](https://quintelier.dev/updates/in-preview-public-preview-opencypher-support-for-kql-graph-semantics/)
-* [security: ​​Whisper Leak: A novel side-channel attack on remote language models](https://quintelier.dev/updates/whisper-leak-a-novel-side-channel-attack-on-remote-language-models/)
+* [github: Claude Sonnet 3.5 deprecated, Claude Haiku 4.5 available in Copilot Free](https://quintelier.dev/updates/claude-sonnet-3-5-deprecated-claude-haiku-4-5-available-in-copilot-free/)
+* [azure: [Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)](https://quintelier.dev/updates/launched-generally-available-application-gateway-for-containers-with-web-application-firewall-waf/)
+* [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://quintelier.dev/updates/how-copilot-studio-uses-net-and-webassembly-for-performance-and-innovation/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
 <!-- UPDATES-LIST:END -->
