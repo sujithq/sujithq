@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Claude Sonnet 3.5 deprecated, Claude Haiku 4.5 available in Copilot Free](https://quintelier.dev/updates/claude-sonnet-3-5-deprecated-claude-haiku-4-5-available-in-copilot-free/)
+* [github: Auto model selection for Copilot in Visual Studio in public preview](https://quintelier.dev/updates/auto-model-selection-for-copilot-in-visual-studio-in-public-preview/)
 * [azure: [Launched] Generally Available: LocalDNS for AKS](https://quintelier.dev/updates/launched-generally-available-localdns-for-aks/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
