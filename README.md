@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Claude Sonnet 3.5 deprecated, Claude Haiku 4.5 available in Copilot Free](https://quintelier.dev/updates/claude-sonnet-3-5-deprecated-claude-haiku-4-5-available-in-copilot-free/)
-* [azure: [Launched] Generally Available: Geo Priority Replication for Azure Blob](https://quintelier.dev/updates/launched-generally-available-geo-priority-replication-for-azure-blob/)
+* [azure: [Launched] Generally Available: LocalDNS for AKS](https://quintelier.dev/updates/launched-generally-available-localdns-for-aks/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
