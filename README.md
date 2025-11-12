@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Auto model selection for Copilot in Visual Studio in public preview](https://quintelier.dev/updates/auto-model-selection-for-copilot-in-visual-studio-in-public-preview/)
-* [azure: [Launched] Generally Available: LocalDNS for AKS](https://quintelier.dev/updates/launched-generally-available-localdns-for-aks/)
+* [azure: [Launched] Generally Available: .NET 10](https://quintelier.dev/updates/launched-generally-available-net-10/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
 * [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
