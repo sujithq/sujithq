@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Secret scanning improves private key detection, updates Sentry pattern names](https://quintelier.dev/updates/secret-scanning-improves-private-key-detection-updates-sentry-pattern-names/)
+* [github: Copilot code review and coding agent now support agent-specific instructions](https://quintelier.dev/updates/copilot-code-review-and-coding-agent-now-support-agent-specific-instructions/)
 * [azure: [Launched] Generally Available: .NET 10](https://quintelier.dev/updates/launched-generally-available-net-10/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
