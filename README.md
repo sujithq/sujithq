@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: New GitHub Actions OIDC token claims](https://quintelier.dev/updates/new-github-actions-oidc-token-claims/)
-* [azure: [Launched] Generally Available: .NET 10](https://quintelier.dev/updates/launched-generally-available-net-10/)
+* [azure: [Launched] Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-ip-address-management-pool-association-recommendation/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
