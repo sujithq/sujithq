@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: New GitHub Actions OIDC token claims](https://quintelier.dev/updates/new-github-actions-oidc-token-claims/)
-* [azure: [Launched] Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-ip-address-management-pool-association-recommendation/)
+* [github: OpenAI’s GPT-5.1, GPT-5.1-Codex and GPT-5.1-Codex-Mini are now in public preview for GitHub Copilot](https://quintelier.dev/updates/openai-s-gpt-5-1-gpt-5-1-codex-and-gpt-5-1-codex-mini-are-now-in-public-preview-for-github-copilot/)
+* [azure: [Launched] Generally Available: Azure Virtual Network Manager UseExisting Mode for UDR management](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-useexisting-mode-for-udr-management/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
