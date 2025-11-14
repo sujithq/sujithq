@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Configure Copilot coding agent as a bypass actor for rulesets](https://quintelier.dev/updates/configure-copilot-coding-agent-as-a-bypass-actor-for-rulesets/)
-* [azure: Retirement: Windows Server 2022 on Azure Kubernetes Service enabled by Azure Arc](https://quintelier.dev/updates/retirement-windows-server-2022-on-azure-kubernetes-service-enabled-by-azure-arc/)
+* [azure: Retirement: Support for Python 3.10 ends on October 1st, 2026](https://quintelier.dev/updates/retirement-support-for-python-3-10-ends-on-october-1st-2026/)
 * [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
