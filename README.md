@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Configure Copilot coding agent as a bypass actor for rulesets](https://quintelier.dev/updates/configure-copilot-coding-agent-as-a-bypass-actor-for-rulesets/)
-* [azure: Retirement: Support for Python 3.10 ends on October 1st, 2026](https://quintelier.dev/updates/retirement-support-for-python-3-10-ends-on-october-1st-2026/)
-* [security: ​​Securing our future: November 2025 progress report on Microsoft’s Secure Future Initiative ​​](https://quintelier.dev/updates/securing-our-future-november-2025-progress-report-on-microsoft-s-secure-future-initiative/)
-* [dotnet: Announcing .NET 10](https://quintelier.dev/updates/announcing-net-10/)
+* [github: Billing date standardized to the first of the month for self-serve credit card metered Enterprise customers now generally available](https://quintelier.dev/updates/billing-date-standardized-to-the-first-of-the-month-for-self-serve-credit-card-metered-enterprise-customers-now-generally-available/)
+* [azure: [In preview] Public Preview: Support 5x churn in Azure Site Recovery](https://quintelier.dev/updates/in-preview-public-preview-support-5x-churn-in-azure-site-recovery/)
+* [security: Collaborative research by Microsoft and NVIDIA on real-time immunity](https://quintelier.dev/updates/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/)
+* [dotnet: Introducing C# 14](https://quintelier.dev/updates/introducing-c-14/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
 <!-- UPDATES-LIST:END -->
 
