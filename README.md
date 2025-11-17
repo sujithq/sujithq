@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Billing date standardized to the first of the month for self-serve credit card metered Enterprise customers now generally available](https://quintelier.dev/updates/billing-date-standardized-to-the-first-of-the-month-for-self-serve-credit-card-metered-enterprise-customers-now-generally-available/)
-* [azure: [In preview] Public Preview: Support 5x churn in Azure Site Recovery](https://quintelier.dev/updates/in-preview-public-preview-support-5x-churn-in-azure-site-recovery/)
+* [azure: [In preview] Public Preview: Introducing SDK Stats to the Azure Monitor OpenTelemetry Distro](https://quintelier.dev/updates/in-preview-public-preview-introducing-sdk-stats-to-the-azure-monitor-opentelemetry-distro/)
 * [security: Collaborative research by Microsoft and NVIDIA on real-time immunity](https://quintelier.dev/updates/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/)
 * [dotnet: Introducing C# 14](https://quintelier.dev/updates/introducing-c-14/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
