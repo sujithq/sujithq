@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Migrating repositories with GitHub-owned blob storage is now generally available](https://quintelier.dev/updates/migrating-repositories-with-github-owned-blob-storage-is-now-generally-available/)
-* [azure: [In preview] Public preview: Support for large volume breakthrough mode](https://quintelier.dev/updates/in-preview-public-preview-support-for-large-volume-breakthrough-mode/)
-* [security: Collaborative research by Microsoft and NVIDIA on real-time immunity](https://quintelier.dev/updates/collaborative-research-by-microsoft-and-nvidia-on-real-time-immunity/)
-* [dotnet: Introducing C# 14](https://quintelier.dev/updates/introducing-c-14/)
+* [github: Internal MCP registry and allowlist controls for VS Code Stable in public preview](https://quintelier.dev/updates/internal-mcp-registry-and-allowlist-controls-for-vs-code-stable-in-public-preview/)
+* [azure: [In preview] Public Preview: Azure Copilot observability agent](https://quintelier.dev/updates/in-preview-public-preview-azure-copilot-observability-agent/)
+* [security: Agents built into your workflow: Get Security Copilot with Microsoft 365 E5](https://quintelier.dev/updates/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/)
+* [dotnet: Post-Quantum Cryptography in .NET](https://quintelier.dev/updates/post-quantum-cryptography-in-net/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
 <!-- UPDATES-LIST:END -->
 
