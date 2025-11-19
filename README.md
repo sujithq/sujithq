@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Auto model selection for Copilot in JetBrains IDEs, Xcode, and Eclipse in public preview](https://quintelier.dev/updates/auto-model-selection-for-copilot-in-jetbrains-ides-xcode-and-eclipse-in-public-preview/)
-* [azure: [In preview] Public Preview: Azure Copilot agents - a closer look at the deployment agent](https://quintelier.dev/updates/in-preview-public-preview-azure-copilot-agents-a-closer-look-at-the-deployment-agent/)
+* [github: GitHub Copilot CLI: New models, enhanced code search, and better image support](https://quintelier.dev/updates/github-copilot-cli-new-models-enhanced-code-search-and-better-image-support/)
+* [azure: [Launched] Generally Available: Claude in Microsoft Foundry](https://quintelier.dev/updates/launched-generally-available-claude-in-microsoft-foundry/)
 * [security: Agents built into your workflow: Get Security Copilot with Microsoft 365 E5](https://quintelier.dev/updates/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/)
 * [dotnet: A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://quintelier.dev/updates/a-step-by-step-guide-to-modernizing-net-applications-with-github-copilot-agent-mode/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
