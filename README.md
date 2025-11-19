@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot CLI: New models, enhanced code search, and better image support](https://quintelier.dev/updates/github-copilot-cli-new-models-enhanced-code-search-and-better-image-support/)
-* [azure: [Launched] Generally Available: Claude in Microsoft Foundry](https://quintelier.dev/updates/launched-generally-available-claude-in-microsoft-foundry/)
+* [github: CodeQL 2.23.5 adds support for Swift 6.2, new Java queries, and improved analysis accuracy](https://quintelier.dev/updates/codeql-2-23-5-adds-support-for-swift-6-2-new-java-queries-and-improved-analysis-accuracy/)
+* [azure: [In preview] Public Preview: Auto-import for Azure Managed Lustre](https://quintelier.dev/updates/in-preview-public-preview-auto-import-for-azure-managed-lustre/)
 * [security: Agents built into your workflow: Get Security Copilot with Microsoft 365 E5](https://quintelier.dev/updates/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/)
-* [dotnet: A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://quintelier.dev/updates/a-step-by-step-guide-to-modernizing-net-applications-with-github-copilot-agent-mode/)
+* [dotnet: Supercharge Your Test Coverage with GitHub Copilot Testing for .NET](https://quintelier.dev/updates/supercharge-your-test-coverage-with-github-copilot-testing-for-net/)
 * [ai: Session Guide to Azure AI Foundry @ Microsoft Ignite: Must-See Developer Sessions](https://quintelier.dev/updates/session-guide-to-azure-ai-foundry-microsoft-ignite-must-see-developer-sessions/)
 <!-- UPDATES-LIST:END -->
 
