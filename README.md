@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: CodeQL 2.23.5 adds support for Swift 6.2, new Java queries, and improved analysis accuracy](https://quintelier.dev/updates/codeql-2-23-5-adds-support-for-swift-6-2-new-java-queries-and-improved-analysis-accuracy/)
-* [azure: [Launched] Generally Available: DNS security policy Threat Intelligence feed](https://quintelier.dev/updates/launched-generally-available-dns-security-policy-threat-intelligence-feed/)
+* [github: Linter integration with Copilot code review now in public preview](https://quintelier.dev/updates/linter-integration-with-copilot-code-review-now-in-public-preview/)
+* [azure: [In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS](https://quintelier.dev/updates/in-preview-public-preview-container-network-metrics-filtering-in-advanced-container-networking-services-for-acns-for-aks/)
 * [security: Agents built into your workflow: Get Security Copilot with Microsoft 365 E5](https://quintelier.dev/updates/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/)
 * [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
 * [ai: Foundry Local comes to Android—plus on-device speech, on-prem support, and a simpler SDK](https://quintelier.dev/updates/foundry-local-comes-to-android-plus-on-device-speech-on-prem-support-and-a-simpler-sdk/)
