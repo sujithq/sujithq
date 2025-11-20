@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Linter integration with Copilot code review now in public preview](https://quintelier.dev/updates/linter-integration-with-copilot-code-review-now-in-public-preview/)
+* [github: GitHub Actions cache size can now exceed 10 GB per repository](https://quintelier.dev/updates/github-actions-cache-size-can-now-exceed-10-gb-per-repository/)
 * [azure: [In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS](https://quintelier.dev/updates/in-preview-public-preview-container-network-metrics-filtering-in-advanced-container-networking-services-for-acns-for-aks/)
 * [security: Agents built into your workflow: Get Security Copilot with Microsoft 365 E5](https://quintelier.dev/updates/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/)
 * [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
