@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Pull request “Files changed” public preview – November 20 updates](https://quintelier.dev/updates/pull-request-files-changed-public-preview-november-20-updates/)
-* [azure: [In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS](https://quintelier.dev/updates/in-preview-public-preview-container-network-metrics-filtering-in-advanced-container-networking-services-for-acns-for-aks/)
+* [azure: [Launched] Generally Available: Custom handler support in Azure Functions Flex consumption](https://quintelier.dev/updates/launched-generally-available-custom-handler-support-in-azure-functions-flex-consumption/)
 * [security: Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/)
 * [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
 * [ai: Foundry Local comes to Android—plus on-device speech, on-prem support, and a simpler SDK](https://quintelier.dev/updates/foundry-local-comes-to-android-plus-on-device-speech-on-prem-support-and-a-simpler-sdk/)
