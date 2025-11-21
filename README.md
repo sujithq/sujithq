@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot policy update for unconfigured policies](https://quintelier.dev/updates/github-copilot-policy-update-for-unconfigured-policies/)
-* [azure: [In preview] Public Preview: Azure NetApp Files Object REST API](https://quintelier.dev/updates/in-preview-public-preview-azure-netapp-files-object-rest-api/)
-* [security: ​​Learn what generative AI can do for your security operations center](https://quintelier.dev/updates/learn-what-generative-ai-can-do-for-your-security-operations-center/)
-* [dotnet: Get Ready for .NET Conf 2025!](https://quintelier.dev/updates/get-ready-for-net-conf-2025/)
-* [ai: A Developer’s Guide to Fine-Tuning GPT-4o for Image Classification on Azure AI Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-fine-tuning-gpt-4o-for-image-classification-on-azure-ai-foundry/)
+* [github: Pull request “Files changed” public preview – November 20 updates](https://quintelier.dev/updates/pull-request-files-changed-public-preview-november-20-updates/)
+* [azure: [In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS](https://quintelier.dev/updates/in-preview-public-preview-container-network-metrics-filtering-in-advanced-container-networking-services-for-acns-for-aks/)
+* [security: Agents built into your workflow: Get Security Copilot with Microsoft 365 E5](https://quintelier.dev/updates/agents-built-into-your-workflow-get-security-copilot-with-microsoft-365-e5/)
+* [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
+* [ai: Foundry Local comes to Android—plus on-device speech, on-prem support, and a simpler SDK](https://quintelier.dev/updates/foundry-local-comes-to-android-plus-on-device-speech-on-prem-support-and-a-simpler-sdk/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
