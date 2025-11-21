@@ -162,7 +162,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Administration](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0147-github-administration-100x100.png)](https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4)
 [![Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0149-github-sales-professional-100x100.png)](https://www.credly.com/badges/a61c8cb7-0861-4a8e-9b56-5b3a06c86c8e)
 ![Technical Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0150-github-technical-sales-professional-100x100.png)
-
+[![AzureDevOps to GitHub Migrations Delivery Credential](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-delivery-validation-azdo-2-github-migration-100x100.png)](https://www.credly.com/badges/e413fab8-bfa8-4d93-a122-ffb3929a12df)
+[![GitHub Migrations Partner Delivery Credential](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-delivery-validation-migrations-100x100.png)](https://www.credly.com/badges/39368409-ab07-49fc-be84-5fff28d950e3)
 ---
 
 ### 🏆 GitHub Accreditations
