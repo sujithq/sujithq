@@ -183,6 +183,14 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![GHSP](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/GHSP-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/GHSP.pdf)
 [![GHTSP](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/GHTSP-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/GHTSP.pdf)
 
+
+[![GHRSB](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-revenue.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/fy26-GitHub-revenue.pdf)
+[![GHASB](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-advanced.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/fy26-GitHub-advanced.pdf)
+[![GHCSB](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-copilot.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/fy26-GitHub-copilot.pdf)
+[![GHPSB](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-platform.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/fy26-GitHub-platform.pdf)
+
+
+
 ---
 
 ### 🌍 Terraform
