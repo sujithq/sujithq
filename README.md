@@ -164,6 +164,10 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 ![Technical Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0150-github-technical-sales-professional-100x100.png)
 [![AzureDevOps to GitHub Migrations Delivery Credential](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-delivery-validation-azdo-2-github-migration-100x100.png)](https://www.credly.com/badges/e413fab8-bfa8-4d93-a122-ffb3929a12df)
 [![GitHub Migrations Partner Delivery Credential](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-delivery-validation-migrations-100x100.png)](https://www.credly.com/badges/39368409-ab07-49fc-be84-5fff28d950e3)
+[![FY26 Revenue Motions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-revenue-100x100.png)](https://www.credly.com/badges/0cb81f56-e374-4ea3-8d0b-6e3527f582ae)
+[![FY26 GitHub Advanced Security](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-advanced-100x100.png)](https://www.credly.com/badges/0d42e4c1-a0f7-46e5-bf9c-851c56694116)
+[![FY26 GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-copilot-100x100.png)](https://www.credly.com/badges/1b2b36c4-7442-4c9e-b0b5-3dd95a365ed2)
+[![FY26 GitHub Platform](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-platform-100x100.png)](https://www.credly.com/badges/988f564f-b58e-4439-b51c-2b6823c5d38d)
 ---
 
 ### 🏆 GitHub Accreditations
