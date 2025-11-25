@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Secret scanning alert assignees, security campaigns are generally available](https://quintelier.dev/updates/secret-scanning-alert-assignees-security-campaigns-are-generally-available/)
 * [azure: [In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture](https://quintelier.dev/updates/in-preview-public-preview-managed-identity-support-in-network-watcher-vnet-flow-log-traffic-analytics-and-packet-capture/)
-* [security: Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/)
+* [security: Charting the future of SOC: Human and AI collaboration for better security](https://quintelier.dev/updates/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/)
 * [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
 * [ai: Introducing Memory in Foundry Agent Service](https://quintelier.dev/updates/introducing-memory-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
