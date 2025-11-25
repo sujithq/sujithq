@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Code scanning default setup bypasses GitHub Actions policy blocks](https://quintelier.dev/updates/code-scanning-default-setup-bypasses-github-actions-policy-blocks/)
-* [azure: [In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry](https://quintelier.dev/updates/in-preview-public-preview-claude-opus-4-5-available-in-microsoft-foundry/)
+* [github: Secret scanning alert assignees, security campaigns are generally available](https://quintelier.dev/updates/secret-scanning-alert-assignees-security-campaigns-are-generally-available/)
+* [azure: [In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture](https://quintelier.dev/updates/in-preview-public-preview-managed-identity-support-in-network-watcher-vnet-flow-log-traffic-analytics-and-packet-capture/)
 * [security: Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/)
 * [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
 * [ai: Introducing Memory in Foundry Agent Service](https://quintelier.dev/updates/introducing-memory-in-foundry-agent-service/)
