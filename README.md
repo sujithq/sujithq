@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Secret scanning alert assignees, security campaigns are generally available](https://quintelier.dev/updates/secret-scanning-alert-assignees-security-campaigns-are-generally-available/)
+* [github: Copilot agent sessions from external apps are now available on GitHub Mobile for Android](https://quintelier.dev/updates/copilot-agent-sessions-from-external-apps-are-now-available-on-github-mobile-for-android/)
 * [azure: [In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture](https://quintelier.dev/updates/in-preview-public-preview-managed-identity-support-in-network-watcher-vnet-flow-log-traffic-analytics-and-packet-capture/)
 * [security: Charting the future of SOC: Human and AI collaboration for better security](https://quintelier.dev/updates/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/)
 * [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
