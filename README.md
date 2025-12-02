@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Block repository administrators from installing GitHub Apps on their own now generally available](https://quintelier.dev/updates/block-repository-administrators-from-installing-github-apps-on-their-own-now-generally-available/)
+* [github: Copilot Spaces: Public spaces and code view support](https://quintelier.dev/updates/copilot-spaces-public-spaces-and-code-view-support/)
 * [azure: [Launched] Generally Available: Perth - Azure Extended Zones](https://quintelier.dev/updates/launched-generally-available-perth-azure-extended-zones/)
 * [security: Charting the future of SOC: Human and AI collaboration for better security](https://quintelier.dev/updates/charting-the-future-of-soc-human-and-ai-collaboration-for-better-security/)
 * [dotnet: Cross-Platform Age Verification in .NET MAUI Applications](https://quintelier.dev/updates/cross-platform-age-verification-in-net-maui-applications/)
