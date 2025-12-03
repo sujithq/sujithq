@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Secret scanning updates — November 2025](https://quintelier.dev/updates/secret-scanning-updates-november-2025/)
+* [github: GitHub Enterprise Server 3.19 release candidate is now available](https://quintelier.dev/updates/github-enterprise-server-3-19-release-candidate-is-now-available/)
 * [azure: [Launched] Generally Available: Perth - Azure Extended Zones](https://quintelier.dev/updates/launched-generally-available-perth-azure-extended-zones/)
 * [security: How to build forward-thinking cybersecurity teams for tomorrow](https://quintelier.dev/updates/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/)
 * [dotnet: Cross-Platform Age Verification in .NET MAUI Applications](https://quintelier.dev/updates/cross-platform-age-verification-in-net-maui-applications/)
