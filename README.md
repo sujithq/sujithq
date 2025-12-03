@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Enterprise Server 3.19 release candidate is now available](https://quintelier.dev/updates/github-enterprise-server-3-19-release-candidate-is-now-available/)
+* [github: Claude Opus 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/claude-opus-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
 * [azure: [Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central](https://quintelier.dev/updates/launched-generally-available-azure-database-for-postgresql-flexible-server-in-belgium-central/)
 * [security: How to build forward-thinking cybersecurity teams for tomorrow](https://quintelier.dev/updates/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/)
 * [dotnet: Introducing Data Ingestion Building Blocks (Preview)](https://quintelier.dev/updates/introducing-data-ingestion-building-blocks-preview/)
-* [ai: ⭐Upcoming Virtual Event⭐ AI Dev Days, Level-Up Your AI Skills with Microsoft Reactor](https://quintelier.dev/updates/upcoming-virtual-event-ai-dev-days-level-up-your-ai-skills-with-microsoft-reactor/)
+* [ai: Announcing Foundry MCP Server (preview), speeding up AI development with Microsoft Foundry](https://quintelier.dev/updates/announcing-foundry-mcp-server-preview-speeding-up-ai-development-with-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
