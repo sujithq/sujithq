@@ -90,7 +90,7 @@ Currently working on:
 * [azure: [Launched] Generally Available: Perth - Azure Extended Zones](https://quintelier.dev/updates/launched-generally-available-perth-azure-extended-zones/)
 * [security: How to build forward-thinking cybersecurity teams for tomorrow](https://quintelier.dev/updates/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/)
 * [dotnet: Cross-Platform Age Verification in .NET MAUI Applications](https://quintelier.dev/updates/cross-platform-age-verification-in-net-maui-applications/)
-* [ai: Introducing Memory in Foundry Agent Service](https://quintelier.dev/updates/introducing-memory-in-foundry-agent-service/)
+* [ai: ⭐Upcoming Virtual Event⭐ AI Dev Days, Level-Up Your AI Skills with Microsoft Reactor](https://quintelier.dev/updates/upcoming-virtual-event-ai-dev-days-level-up-your-ai-skills-with-microsoft-reactor/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
