@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Claude Opus 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/claude-opus-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
-* [azure: Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026](https://quintelier.dev/updates/retirement-remove-dependency-on-these-azure-ml-sdks-before-june-30-2026/)
+* [azure: [Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads](https://quintelier.dev/updates/launched-generally-available-azure-blob-storage-sftp-resumable-uploads/)
 * [security: How to build forward-thinking cybersecurity teams for tomorrow](https://quintelier.dev/updates/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/)
 * [dotnet: Introducing Data Ingestion Building Blocks (Preview)](https://quintelier.dev/updates/introducing-data-ingestion-building-blocks-preview/)
 * [ai: Announcing Foundry MCP Server (preview), speeding up AI development with Microsoft Foundry](https://quintelier.dev/updates/announcing-foundry-mcp-server-preview-speeding-up-ai-development-with-microsoft-foundry/)
