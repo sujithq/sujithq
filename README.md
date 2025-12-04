@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Claude Opus 4.5 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/claude-opus-4-5-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
-* [azure: [In preview] Public Preview: Serverless workspaces in Azure Databricks](https://quintelier.dev/updates/in-preview-public-preview-serverless-workspaces-in-azure-databricks/)
-* [security: How to build forward-thinking cybersecurity teams for tomorrow](https://quintelier.dev/updates/how-to-build-forward-thinking-cybersecurity-teams-for-tomorrow/)
-* [dotnet: Introducing Data Ingestion Building Blocks (Preview)](https://quintelier.dev/updates/introducing-data-ingestion-building-blocks-preview/)
+* [github: Notifications triggered by spam accounts are now correctly hidden](https://quintelier.dev/updates/notifications-triggered-by-spam-accounts-are-now-correctly-hidden/)
+* [azure: [Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger](https://quintelier.dev/updates/launched-generally-availaible-azure-mcp-server-support-for-azure-confidential-ledger/)
+* [security: Cybersecurity strategies to prioritize now​​](https://quintelier.dev/updates/cybersecurity-strategies-to-prioritize-now/)
+* [dotnet: .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More](https://quintelier.dev/updates/net-conf-2025-recap-celebrating-net-10-visual-studio-2026-ai-community-more/)
 * [ai: Announcing Foundry MCP Server (preview), speeding up AI development with Microsoft Foundry](https://quintelier.dev/updates/announcing-foundry-mcp-server-preview-speeding-up-ai-development-with-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
