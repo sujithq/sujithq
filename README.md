@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Actions workflow dispatch workflows now support 25 inputs](https://quintelier.dev/updates/actions-workflow-dispatch-workflows-now-support-25-inputs/)
 * [azure: [In preview] Public Preview: Mistral Large 3 in Foundry](https://quintelier.dev/updates/in-preview-public-preview-mistral-large-3-in-foundry/)
-* [security: Cybersecurity strategies to prioritize now​​](https://quintelier.dev/updates/cybersecurity-strategies-to-prioritize-now/)
+* [security: Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/)
 * [dotnet: .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More](https://quintelier.dev/updates/net-conf-2025-recap-celebrating-net-10-visual-studio-2026-ai-community-more/)
 * [ai: Announcing Foundry MCP Server (preview), speeding up AI development with Microsoft Foundry](https://quintelier.dev/updates/announcing-foundry-mcp-server-preview-speeding-up-ai-development-with-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
