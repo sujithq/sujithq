@@ -88,8 +88,8 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Track Copilot code generation metrics in a dashboard](https://quintelier.dev/updates/track-copilot-code-generation-metrics-in-a-dashboard/)
 * [azure: [Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.](https://quintelier.dev/updates/launched-generally-available-zonal-placement-for-azure-file-shares-azure-files-premium-lrs-in-select-regions/)
-* [security: Microsoft named a leader in the 2025 Gartner® Magic Quadrant™ for Email Security](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2025-gartner-magic-quadrant-for-email-security/)
-* [dotnet: .NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More](https://quintelier.dev/updates/net-conf-2025-recap-celebrating-net-10-visual-studio-2026-ai-community-more/)
+* [security: Stronger together: New Beazley collaboration enhances cyber resilience](https://quintelier.dev/updates/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/)
+* [dotnet: .NET 10 Networking Improvements](https://quintelier.dev/updates/net-10-networking-improvements/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
 
