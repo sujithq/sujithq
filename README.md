@@ -89,7 +89,7 @@ Currently working on:
 * [github: npm classic tokens revoked, session-based auth and CLI token management now available](https://quintelier.dev/updates/npm-classic-tokens-revoked-session-based-auth-and-cli-token-management-now-available/)
 * [azure: [Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://quintelier.dev/updates/launched-generally-available-fips-compliant-mode-for-application-gateway-v2-skus/)
 * [security: Changing the physics of cyber defense](https://quintelier.dev/updates/changing-the-physics-of-cyber-defense/)
-* [dotnet: Implementing Cross-Platform In-App Billing in .NET MAUI Applications](https://quintelier.dev/updates/implementing-cross-platform-in-app-billing-in-net-maui-applications/)
+* [dotnet: .NET and .NET Framework December 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-december-2025-servicing-releases-updates/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
 
