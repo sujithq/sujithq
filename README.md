@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: npm classic tokens revoked, session-based auth and CLI token management now available](https://quintelier.dev/updates/npm-classic-tokens-revoked-session-based-auth-and-cli-token-management-now-available/)
 * [azure: [Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://quintelier.dev/updates/launched-generally-available-fips-compliant-mode-for-application-gateway-v2-skus/)
-* [security: Changing the physics of cyber defense](https://quintelier.dev/updates/changing-the-physics-of-cyber-defense/)
+* [security: Shai-Hulud 2.0: Guidance for detecting, investigating, and defending against the supply chain attack](https://quintelier.dev/updates/shai-hulud-2-0-guidance-for-detecting-investigating-and-defending-against-the-supply-chain-attack/)
 * [dotnet: .NET and .NET Framework December 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-december-2025-servicing-releases-updates/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
