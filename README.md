@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Enterprise teams product limits increased by over 10x](https://quintelier.dev/updates/enterprise-teams-product-limits-increased-by-over-10x/)
+* [github: npm classic tokens revoked, session-based auth and CLI token management now available](https://quintelier.dev/updates/npm-classic-tokens-revoked-session-based-auth-and-cli-token-management-now-available/)
 * [azure: [Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://quintelier.dev/updates/launched-generally-available-fips-compliant-mode-for-application-gateway-v2-skus/)
 * [security: Stronger together: New Beazley collaboration enhances cyber resilience](https://quintelier.dev/updates/stronger-together-new-beazley-collaboration-enhances-cyber-resilience/)
 * [dotnet: Microsoft Learn MCP Server Elevates Development](https://quintelier.dev/updates/microsoft-learn-mcp-server-elevates-development/)
