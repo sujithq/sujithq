@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Auto model selection is generally available in GitHub Copilot in Visual Studio Code](https://quintelier.dev/updates/auto-model-selection-is-generally-available-in-github-copilot-in-visual-studio-code/)
+* [github: Repository dashboard: Find, search, and save queries in preview](https://quintelier.dev/updates/repository-dashboard-find-search-and-save-queries-in-preview/)
 * [azure: [Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs](https://quintelier.dev/updates/launched-generally-available-fips-compliant-mode-for-application-gateway-v2-skus/)
 * [security: From awareness to action: Building a security-first culture for the agentic AI era](https://quintelier.dev/updates/from-awareness-to-action-building-a-security-first-culture-for-the-agentic-ai-era/)
 * [dotnet: .NET and .NET Framework December 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-december-2025-servicing-releases-updates/)
