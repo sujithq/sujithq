@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Post as Admin now available in GitHub Discussions](https://quintelier.dev/updates/post-as-admin-now-available-in-github-discussions/)
-* [azure: [Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation](https://quintelier.dev/updates/launched-generally-available-azure-sphere-os-version-25-12-is-now-available-for-evaluation/)
+* [azure: [In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-dashboard-subscriptions-now-support-microsoft-teams/)
 * [security: Imposter for hire: How fake people can gain very real access](https://quintelier.dev/updates/imposter-for-hire-how-fake-people-can-gain-very-real-access/)
 * [dotnet: .NET and .NET Framework December 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-december-2025-servicing-releases-updates/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
