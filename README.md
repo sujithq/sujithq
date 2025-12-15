@@ -89,7 +89,7 @@ Currently working on:
 * [github: Gemini 3 Pro is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gemini-3-pro-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
 * [azure: Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://quintelier.dev/updates/update-the-retirement-date-for-default-outbound-access-has-been-extended-to-march-31-2026/)
 * [security: Imposter for hire: How fake people can gain very real access](https://quintelier.dev/updates/imposter-for-hire-how-fake-people-can-gain-very-real-access/)
-* [dotnet: .NET and .NET Framework December 2025 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-december-2025-servicing-releases-updates/)
+* [dotnet: How to Build iOS Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-ios-widgets-with-net-maui/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
 
