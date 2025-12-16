@@ -86,11 +86,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Pull request “Files changed” public preview – November 20 updates](https://quintelier.dev/updates/pull-request-files-changed-public-preview-november-20-updates/)
-* [azure: [Launched] Generally Available: Custom handler support in Azure Functions Flex consumption](https://quintelier.dev/updates/launched-generally-available-custom-handler-support-in-azure-functions-flex-consumption/)
-* [security: Microsoft named a Leader in the Gartner® Magic Quadrant™ for Access Management for the ninth consecutive year](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-gartner-magic-quadrant-for-access-management-for-the-ninth-consecutive-year/)
-* [dotnet: Reinventing how .NET Builds and Ships (Again)](https://quintelier.dev/updates/reinventing-how-net-builds-and-ships-again/)
-* [ai: Foundry Local comes to Android—plus on-device speech, on-prem support, and a simpler SDK](https://quintelier.dev/updates/foundry-local-comes-to-android-plus-on-device-speech-on-prem-support-and-a-simpler-sdk/)
+* [github: Gemini 3 Pro is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gemini-3-pro-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
+* [azure: Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://quintelier.dev/updates/update-the-retirement-date-for-default-outbound-access-has-been-extended-to-march-31-2026/)
+* [security: Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components](https://quintelier.dev/updates/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/)
+* [dotnet: How to Build iOS Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-ios-widgets-with-net-maui/)
+* [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
