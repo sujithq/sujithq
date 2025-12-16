@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Track organization Copilot usage](https://quintelier.dev/updates/track-organization-copilot-usage/)
+* [github: Dependabot version updates now support Julia](https://quintelier.dev/updates/dependabot-version-updates-now-support-julia/)
 * [azure: [In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR)](https://quintelier.dev/updates/in-preview-generally-available-azure-netapp-files-cross-zone-region-replication-czrr/)
 * [security: Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components](https://quintelier.dev/updates/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/)
-* [dotnet: How to Build iOS Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-ios-widgets-with-net-maui/)
+* [dotnet: Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://quintelier.dev/updates/microsoft-testing-platform-now-fully-supported-in-azure-devops/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
 
