@@ -195,6 +195,22 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
+### ☁️ Linux Foundation
+
+[![ethics-for-open-source-development](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfc104-ethics-for-open-source-development-100x100.png)](https://www.credly.com/badges/ba9887b6-4d40-4b2d-837d-425a9944f866/public_url)
+
+[![introduction-to-webassembly](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfd133-introduction-to-webassembly-100x100.png)](https://www.credly.com/badges/9eb2be00-5d93-48e6-a1d2-97dfc8e019ee/public_url)
+
+[![introduction-to-cilium](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfs146-introduction-to-cilium-100x100.png)](https://www.credly.com/badges/f9d5494c-118f-4ccf-8474-f699619ef26b/public_url)
+
+[![introduction-to-kubernetes](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfs158-introduction-to-kubernetes-100x100.png)](https://www.credly.com/badges/ca0186f6-53b7-4681-8985-a5e92d048cab/public_url)
+
+[![introduction-to-gitops](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfs169-introduction-to-gitops-100x100.png)](https://www.credly.com/badges/a8e8a589-fb78-43f6-8325-3db417d3e441/public_url)
+
+</details>
+
+---
+
 ### 🔐 securiti.ai
 
 [![AI Security Governance Certification](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/securiti.ai/AI-Security-Governance-Certification-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.pdf)
