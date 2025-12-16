@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: More accurate Copilot Autofix usage metrics on security overview](https://quintelier.dev/updates/more-accurate-copilot-autofix-usage-metrics-on-security-overview/)
-* [azure: Update: The retirement date for default outbound access has been extended to March 31, 2026.](https://quintelier.dev/updates/update-the-retirement-date-for-default-outbound-access-has-been-extended-to-march-31-2026/)
+* [github: Track organization Copilot usage](https://quintelier.dev/updates/track-organization-copilot-usage/)
+* [azure: [In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR)](https://quintelier.dev/updates/in-preview-generally-available-azure-netapp-files-cross-zone-region-replication-czrr/)
 * [security: Defending against the CVE-2025-55182 (React2Shell) vulnerability in React Server Components](https://quintelier.dev/updates/defending-against-the-cve-2025-55182-react2shell-vulnerability-in-react-server-components/)
 * [dotnet: How to Build iOS Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-ios-widgets-with-net-maui/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
