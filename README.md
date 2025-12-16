@@ -207,8 +207,6 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 [![introduction-to-gitops](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfs169-introduction-to-gitops-100x100.png)](https://www.credly.com/badges/a8e8a589-fb78-43f6-8325-3db417d3e441/public_url)
 
-</details>
-
 ---
 
 ### 🔐 securiti.ai
