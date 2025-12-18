@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot code review preview features now supported in GitHub Enterprise Cloud with data residency](https://quintelier.dev/updates/copilot-code-review-preview-features-now-supported-in-github-enterprise-cloud-with-data-residency/)
+* [github: Assigning GitHub Copilot to an issue now adds you as an assignee](https://quintelier.dev/updates/assigning-github-copilot-to-an-issue-now-adds-you-as-an-assignee/)
 * [azure: [In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js](https://quintelier.dev/updates/in-preview-public-preview-service-bus-sdk-type-bindings-in-azure-functions-for-node-js/)
-* [security: Access Fabric: A modern approach to identity and network access](https://quintelier.dev/updates/access-fabric-a-modern-approach-to-identity-and-network-access/)
+* [security: New Microsoft e-book: 3 reasons point solutions are holding you back](https://quintelier.dev/updates/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/)
 * [dotnet: Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://quintelier.dev/updates/microsoft-testing-platform-now-fully-supported-in-azure-devops/)
 * [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
 <!-- UPDATES-LIST:END -->
