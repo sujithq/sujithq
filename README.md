@@ -90,7 +90,7 @@ Currently working on:
 * [azure: [In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://quintelier.dev/updates/in-preview-public-preview-azure-blob-to-blob-migration-made-simple-with-azure-storage-mover/)
 * [security: New Microsoft e-book: 3 reasons point solutions are holding you back](https://quintelier.dev/updates/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/)
 * [dotnet: Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://quintelier.dev/updates/microsoft-testing-platform-now-fully-supported-in-azure-devops/)
-* [ai: Foundry IQ in Microsoft Agent Framework](https://quintelier.dev/updates/foundry-iq-in-microsoft-agent-framework/)
+* [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
