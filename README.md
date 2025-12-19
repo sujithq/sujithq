@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: CodeQL 2.23.7 and 2.23.8 add security queries for Go and Rust](https://quintelier.dev/updates/codeql-2-23-7-and-2-23-8-add-security-queries-for-go-and-rust/)
+* [github: Copilot Memory early access for Pro and Pro+](https://quintelier.dev/updates/copilot-memory-early-access-for-pro-and-pro/)
 * [azure: [In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://quintelier.dev/updates/in-preview-public-preview-azure-blob-to-blob-migration-made-simple-with-azure-storage-mover/)
 * [security: New Microsoft e-book: 3 reasons point solutions are holding you back](https://quintelier.dev/updates/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/)
 * [dotnet: Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://quintelier.dev/updates/microsoft-testing-platform-now-fully-supported-in-azure-devops/)
