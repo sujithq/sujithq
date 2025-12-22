@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: You can now require reviews before closing Dependabot alerts with delegated alert dismissal](https://quintelier.dev/updates/you-can-now-require-reviews-before-closing-dependabot-alerts-with-delegated-alert-dismissal/)
+* [github: Control who can request apps for your organization now in public preview](https://quintelier.dev/updates/control-who-can-request-apps-for-your-organization-now-in-public-preview/)
 * [azure: [In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover](https://quintelier.dev/updates/in-preview-public-preview-azure-blob-to-blob-migration-made-simple-with-azure-storage-mover/)
 * [security: New Microsoft e-book: 3 reasons point solutions are holding you back](https://quintelier.dev/updates/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/)
 * [dotnet: Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://quintelier.dev/updates/microsoft-testing-platform-now-fully-supported-in-azure-devops/)
