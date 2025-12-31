@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Improved performance for GitHub Actions workflows page](https://quintelier.dev/updates/improved-performance-for-github-actions-workflows-page/)
-* [azure: Retirement: Deprecation of Custom Resource Providers](https://quintelier.dev/updates/retirement-deprecation-of-custom-resource-providers/)
+* [azure: [Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario](https://quintelier.dev/updates/launched-generally-available-cloud-native-apps-on-kubernetes-pricing-calculator-scenario/)
 * [security: New Microsoft e-book: 3 reasons point solutions are holding you back](https://quintelier.dev/updates/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/)
 * [dotnet: Top .NET Videos & Live Streams of 2025](https://quintelier.dev/updates/top-net-videos-live-streams-of-2025/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
