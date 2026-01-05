@@ -89,7 +89,7 @@ Currently working on:
 * [github: Reduced pricing for GitHub-hosted runners usage](https://quintelier.dev/updates/reduced-pricing-for-github-hosted-runners-usage/)
 * [azure: [Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario](https://quintelier.dev/updates/launched-generally-available-cloud-native-apps-on-kubernetes-pricing-calculator-scenario/)
 * [security: New Microsoft e-book: 3 reasons point solutions are holding you back](https://quintelier.dev/updates/new-microsoft-e-book-3-reasons-point-solutions-are-holding-you-back/)
-* [dotnet: Top .NET Videos & Live Streams of 2025](https://quintelier.dev/updates/top-net-videos-live-streams-of-2025/)
+* [dotnet: Generative AI with Large Language Models in C# in 2026](https://quintelier.dev/updates/generative-ai-with-large-language-models-in-c-in-2026/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
 
