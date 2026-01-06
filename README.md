@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Reduced pricing for GitHub-hosted runners usage](https://quintelier.dev/updates/reduced-pricing-for-github-hosted-runners-usage/)
+* [github: Gemini 3 Flash is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gemini-3-flash-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
 * [azure: [Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario](https://quintelier.dev/updates/launched-generally-available-cloud-native-apps-on-kubernetes-pricing-calculator-scenario/)
-* [security: Introducing the Microsoft Defender Experts Suite: Elevate your security with expert-led services](https://quintelier.dev/updates/introducing-the-microsoft-defender-experts-suite-elevate-your-security-with-expert-led-services/)
+* [security: Phishing actors exploit complex routing and misconfigurations to spoof domains](https://quintelier.dev/updates/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/)
 * [dotnet: Generative AI with Large Language Models in C# in 2026](https://quintelier.dev/updates/generative-ai-with-large-language-models-in-c-in-2026/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
