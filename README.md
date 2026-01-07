@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Gemini 3 Flash is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gemini-3-flash-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
 * [azure: [Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario](https://quintelier.dev/updates/launched-generally-available-cloud-native-apps-on-kubernetes-pricing-calculator-scenario/)
-* [security: Phishing actors exploit complex routing and misconfigurations to spoof domains](https://quintelier.dev/updates/phishing-actors-exploit-complex-routing-and-misconfigurations-to-spoof-domains/)
+* [security: Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://quintelier.dev/updates/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
 * [dotnet: Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://quintelier.dev/updates/secure-and-intelligent-queryable-encryption-and-vector-search-in-mongodb-ef-core-provider/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
