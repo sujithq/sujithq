@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Gemini 3 Flash is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gemini-3-flash-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
+* [github: Deprecation of user to organization account transformation](https://quintelier.dev/updates/deprecation-of-user-to-organization-account-transformation/)
 * [azure: [In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints](https://quintelier.dev/updates/in-preview-public-preview-azure-cosmos-db-mirroring-with-private-endpoints/)
 * [security: Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://quintelier.dev/updates/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
-* [dotnet: Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://quintelier.dev/updates/secure-and-intelligent-queryable-encryption-and-vector-search-in-mongodb-ef-core-provider/)
+* [dotnet: How to Build Android Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-android-widgets-with-net-maui/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
 
