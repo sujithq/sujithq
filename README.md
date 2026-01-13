@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Selectively showing "act on your behalf" warning for GitHub Apps is in public preview](https://quintelier.dev/updates/selectively-showing-act-on-your-behalf-warning-for-github-apps-is-in-public-preview/)
+* [github: New fine-grained permission for artifact metadata is now generally available](https://quintelier.dev/updates/new-fine-grained-permission-for-artifact-metadata-is-now-generally-available/)
 * [azure: [In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints](https://quintelier.dev/updates/in-preview-public-preview-azure-cosmos-db-mirroring-with-private-endpoints/)
 * [security: Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://quintelier.dev/updates/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
 * [dotnet: How to Build Android Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-android-widgets-with-net-maui/)
