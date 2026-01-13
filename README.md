@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: New fine-grained permission for artifact metadata is now generally available](https://quintelier.dev/updates/new-fine-grained-permission-for-artifact-metadata-is-now-generally-available/)
 * [azure: [In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints](https://quintelier.dev/updates/in-preview-public-preview-azure-cosmos-db-mirroring-with-private-endpoints/)
-* [security: Explore the latest Microsoft Incident Response proactive services for enhanced resilience](https://quintelier.dev/updates/explore-the-latest-microsoft-incident-response-proactive-services-for-enhanced-resilience/)
+* [security: How Microsoft builds privacy and security to work hand-in-hand](https://quintelier.dev/updates/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/)
 * [dotnet: How to Build Android Widgets with .NET MAUI](https://quintelier.dev/updates/how-to-build-android-widgets-with-net-maui/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
