@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GPT-5.2-Codex is now generally available in GitHub Copilot](https://quintelier.dev/updates/gpt-5-2-codex-is-now-generally-available-in-github-copilot/)
+* [github: GitHub Copilot CLI: Enhanced agents, context management, and new ways to install](https://quintelier.dev/updates/github-copilot-cli-enhanced-agents-context-management-and-new-ways-to-install/)
 * [azure: [In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints](https://quintelier.dev/updates/in-preview-public-preview-azure-cosmos-db-mirroring-with-private-endpoints/)
 * [security: Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://quintelier.dev/updates/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
