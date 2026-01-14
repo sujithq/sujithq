@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Upcoming deprecation of select GitHub Copilot models from Claude, Google, and OpenAI](https://quintelier.dev/updates/upcoming-deprecation-of-select-github-copilot-models-from-claude-google-and-openai/)
 * [azure: [In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints](https://quintelier.dev/updates/in-preview-public-preview-azure-cosmos-db-mirroring-with-private-endpoints/)
-* [security: How Microsoft builds privacy and security to work hand-in-hand](https://quintelier.dev/updates/how-microsoft-builds-privacy-and-security-to-work-hand-in-hand/)
+* [security: Inside RedVDS: How a single virtual desktop provider fueled worldwide cybercriminal operations](https://quintelier.dev/updates/inside-redvds-how-a-single-virtual-desktop-provider-fueled-worldwide-cybercriminal-operations/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
