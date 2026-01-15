@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot SDK in technical preview](https://quintelier.dev/updates/copilot-sdk-in-technical-preview/)
+* [github: Hierarchy view now available in GitHub Projects](https://quintelier.dev/updates/hierarchy-view-now-available-in-github-projects/)
 * [azure: [Launched] Generally Available: Ubuntu 24.04 support in AKS](https://quintelier.dev/updates/launched-generally-available-ubuntu-24-04-support-in-aks/)
 * [security: Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://quintelier.dev/updates/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
