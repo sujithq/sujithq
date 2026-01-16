@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Secret scanning extended metadata to be automatically enabled for certain repositories](https://quintelier.dev/updates/secret-scanning-extended-metadata-to-be-automatically-enabled-for-certain-repositories/)
-* [azure: [Launched] Generally Available: Ubuntu 24.04 support in AKS](https://quintelier.dev/updates/launched-generally-available-ubuntu-24-04-support-in-aks/)
+* [azure: [In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues](https://quintelier.dev/updates/in-preview-public-preview-user-delegation-sas-for-azure-tables-azure-files-and-azure-queues/)
 * [security: Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://quintelier.dev/updates/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
