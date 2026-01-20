@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Enterprise-scoped budgets that exclude cost center usage in public preview](https://quintelier.dev/updates/enterprise-scoped-budgets-that-exclude-cost-center-usage-in-public-preview/)
+* [github: Strengthen your supply chain with code-to-cloud traceability and SLSA Build Level 3 security](https://quintelier.dev/updates/strengthen-your-supply-chain-with-code-to-cloud-traceability-and-slsa-build-level-3-security/)
 * [azure: [In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues](https://quintelier.dev/updates/in-preview-public-preview-user-delegation-sas-for-azure-tables-azure-files-and-azure-queues/)
-* [security: Microsoft named a Leader in IDC MarketScape for Unified AI Governance Platforms](https://quintelier.dev/updates/microsoft-named-a-leader-in-idc-marketscape-for-unified-ai-governance-platforms/)
+* [security: Four priorities for AI-powered identity and network access security in 2026](https://quintelier.dev/updates/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
