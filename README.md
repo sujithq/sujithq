@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: CodeQL 2.23.9 has been released](https://quintelier.dev/updates/codeql-2-23-9-has-been-released/)
 * [azure: [In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues](https://quintelier.dev/updates/in-preview-public-preview-user-delegation-sas-for-azure-tables-azure-files-and-azure-queues/)
-* [security: Four priorities for AI-powered identity and network access security in 2026](https://quintelier.dev/updates/four-priorities-for-ai-powered-identity-and-network-access-security-in-2026/)
+* [security: A new era of agents, a new era of posture](https://quintelier.dev/updates/a-new-era-of-agents-a-new-era-of-posture/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
