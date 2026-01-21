@@ -86,8 +86,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Install and Use GitHub Copilot CLI directly from the GitHub CLI](https://quintelier.dev/updates/install-and-use-github-copilot-cli-directly-from-the-github-cli/)
-* [azure: [Launched] Generally Available: Ubuntu 24.04 support in AKS](https://quintelier.dev/updates/launched-generally-available-ubuntu-24-04-support-in-aks/)
+* [github: GitHub Copilot CLI: Plan before you build, steer as you go](https://quintelier.dev/updates/github-copilot-cli-plan-before-you-build-steer-as-you-go/)
+* [azure: [Launched] Generally Available: Azure File Sync in Israel Central](https://quintelier.dev/updates/launched-generally-available-azure-file-sync-in-israel-central/)
 * [security: A new era of agents, a new era of posture](https://quintelier.dev/updates/a-new-era-of-agents-a-new-era-of-posture/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
