@@ -86,7 +86,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: 1 vCPU Linux runner now generally available in GitHub Actions](https://quintelier.dev/updates/1-vcpu-linux-runner-now-generally-available-in-github-actions/)
+* [github: Faster loading for GitHub Issues](https://quintelier.dev/updates/faster-loading-for-github-issues/)
 * [azure: [Launched] Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs](https://quintelier.dev/updates/launched-generally-available-standardv2-nat-gateway-with-zone-redundancy-and-standardv2-public-ips/)
 * [security: Microsoft Security success stories: Why integrated security is the foundation of AI transformation](https://quintelier.dev/updates/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
