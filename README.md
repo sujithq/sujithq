@@ -86,9 +86,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot CLI: Plan before you build, steer as you go](https://quintelier.dev/updates/github-copilot-cli-plan-before-you-build-steer-as-you-go/)
-* [azure: [Launched] Generally Available: Application volume group for Oracle create data protection volume group (API)](https://quintelier.dev/updates/launched-generally-available-application-volume-group-for-oracle-create-data-protection-volume-group-api/)
-* [security: Resurgence of a multi‑stage AiTM phishing and BEC campaign abusing SharePoint](https://quintelier.dev/updates/resurgence-of-a-multi-stage-aitm-phishing-and-bec-campaign-abusing-sharepoint/)
+* [github: 1 vCPU Linux runner now generally available in GitHub Actions](https://quintelier.dev/updates/1-vcpu-linux-runner-now-generally-available-in-github-actions/)
+* [azure: [Launched] Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs](https://quintelier.dev/updates/launched-generally-available-standardv2-nat-gateway-with-zone-redundancy-and-standardv2-public-ips/)
+* [security: Microsoft Security success stories: Why integrated security is the foundation of AI transformation](https://quintelier.dev/updates/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
