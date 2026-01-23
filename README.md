@@ -88,7 +88,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Improved pull request “Files changed” page on by default](https://quintelier.dev/updates/improved-pull-request-files-changed-page-on-by-default/)
 * [azure: [Launched] Generally Available: Deployment safeguards – pod security standard support in AKS](https://quintelier.dev/updates/launched-generally-available-deployment-safeguards-pod-security-standard-support-in-aks/)
-* [security: Microsoft Security success stories: Why integrated security is the foundation of AI transformation](https://quintelier.dev/updates/microsoft-security-success-stories-why-integrated-security-is-the-foundation-of-ai-transformation/)
+* [security: From runtime risk to real‑time defense: Securing AI agents](https://quintelier.dev/updates/from-runtime-risk-to-real-time-defense-securing-ai-agents/)
 * [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
