@@ -86,10 +86,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Improved pull request “Files changed” page on by default](https://quintelier.dev/updates/improved-pull-request-files-changed-page-on-by-default/)
+* [github: GPT-5.2-Codex is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gpt-5-2-codex-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
 * [azure: [Launched] Generally Available: Deployment safeguards – pod security standard support in AKS](https://quintelier.dev/updates/launched-generally-available-deployment-safeguards-pod-security-standard-support-in-aks/)
-* [security: From runtime risk to real‑time defense: Securing AI agents](https://quintelier.dev/updates/from-runtime-risk-to-real-time-defense-securing-ai-agents/)
-* [dotnet: .NET and .NET Framework January 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-january-2026-servicing-releases-updates/)
+* [security: Security strategies for safeguarding governmental data](https://quintelier.dev/updates/security-strategies-for-safeguarding-governmental-data/)
+* [dotnet: Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://quintelier.dev/updates/join-microsoft-at-ndc-london-2026-let-s-build-the-future-of-net-together/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
 
