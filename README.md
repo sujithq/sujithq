@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GPT-5.2-Codex is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gpt-5-2-codex-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
-* [azure: [Launched] Generally Available: Deployment safeguards – pod security standard support in AKS](https://quintelier.dev/updates/launched-generally-available-deployment-safeguards-pod-security-standard-support-in-aks/)
+* [azure: [In preview] Public Preview: Azure Command Launcher for Java](https://quintelier.dev/updates/in-preview-public-preview-azure-command-launcher-for-java/)
 * [security: Security strategies for safeguarding governmental data](https://quintelier.dev/updates/security-strategies-for-safeguarding-governmental-data/)
 * [dotnet: Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://quintelier.dev/updates/join-microsoft-at-ndc-london-2026-let-s-build-the-future-of-net-together/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
