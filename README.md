@@ -87,9 +87,9 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: ACP support in Copilot CLI is now in public preview](https://quintelier.dev/updates/acp-support-in-copilot-cli-is-now-in-public-preview/)
-* [azure: [In preview] Public Preview: 7th generation Intel-based VMs – Dlsv7/Dsv7/Esv7](https://quintelier.dev/updates/in-preview-public-preview-7th-generation-intel-based-vms-dlsv7-dsv7-esv7/)
+* [azure: [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/)
 * [security: Microsoft announces the 2026 Security Excellence Awards winners](https://quintelier.dev/updates/microsoft-announces-the-2026-security-excellence-awards-winners/)
-* [dotnet: Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://quintelier.dev/updates/join-microsoft-at-ndc-london-2026-let-s-build-the-future-of-net-together/)
+* [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
 
