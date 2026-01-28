@@ -87,7 +87,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: ACP support in Copilot CLI is now in public preview](https://quintelier.dev/updates/acp-support-in-copilot-cli-is-now-in-public-preview/)
-* [azure: [Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server](https://quintelier.dev/updates/launched-generally-available-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/)
+* [azure: [Launched] Generally Available: Azure AMD Turin Dasv7, Easv7, and Fasv7-series Virtual Machines](https://quintelier.dev/updates/launched-generally-available-azure-amd-turin-dasv7-easv7-and-fasv7-series-virtual-machines/)
 * [security: Microsoft announces the 2026 Security Excellence Awards winners](https://quintelier.dev/updates/microsoft-announces-the-2026-security-excellence-awards-winners/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
