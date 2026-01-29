@@ -87,9 +87,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Closing down notice of legacy Copilot metrics APIs](https://quintelier.dev/updates/closing-down-notice-of-legacy-copilot-metrics-apis/)
+* [github: arm64 standard runners are now available in private repositories](https://quintelier.dev/updates/arm64-standard-runners-are-now-available-in-private-repositories/)
 * [azure: Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13](https://quintelier.dev/updates/retirement-support-for-python-3-10-ends-on-october-1-2026-upgrade-your-azure-functions-apps-to-python-3-13/)
-* [security: Microsoft announces the 2026 Security Excellence Awards winners](https://quintelier.dev/updates/microsoft-announces-the-2026-security-excellence-awards-winners/)
+* [security: New Microsoft Data Security Index report explores secure AI adoption to protect sensitive data](https://quintelier.dev/updates/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
