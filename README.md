@@ -58,13 +58,13 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=monokai-metallian&hide_border=true&mode=weekly&fire=6C1D5F&ring=893253&currStreakNum=A74747&sideNums=A74747&stroke=C45B3A&currStreakLabel=E2702E&sideLabels=E2702E&dates=FF8522 "Streak Stats!")
+![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=github-dark-blue&hide_border=true&mode=weekly)
 
-![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A)
+![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=6C1D5F&icon_color=893253&text_color=E2702E&bg_color=1F222E&border_color=C45B3A&hide=Jupyter%20Notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19&hide=Jupyter%20Notebook)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&title_color=6C1D5F&bg_color=1F222E&color=E2702E&line=893253&point=FF8522&hide_border=true&custom_title=Activity%20Graph)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=0B0F19&color=C9D1D9&line=0078D4&point=00BCF2&hide_border=true&custom_title=Activity%20Graph&title_color=0078D4)
 
 ---
 
