@@ -279,7 +279,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ## 🧑‍💻 Skills
 
-![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=6c1d5f&center=true&vCenter=true&width=600&lines=Azure+Solutions+Architect;Cloud+%26+Cybersecurity;Platform+Engineering;DevOps+%2F+DevSecOps;GitHub+Actions+%26+Advanced+Security;Kubernetes+(AKS);Infrastructure+as+Code+(Terraform%2C+Bicep%2C+Pulumi);Identity+%26+Access+Management;Networking+%26+Zero+Trust;Application+Development+.NET+%26+C%23;Programming+(Python%2C+Go);Data+(Cosmos+DB%2C+KQL);AI+%26+Cognitive+Services;Trainer+(Azure+%26+GitHub))
+![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Customer+Success+Architect+(AI+Apps);Azure+Architecture+%26+Landing+Zones;AI+App+Delivery+(RAG%2C+Agents%2C+MCP);DevOps+%2F+DevSecOps+%26+Platform+Engineering;GitHub+(Actions%2C+Advanced+Security%2C+Copilot);Kubernetes+(AKS)+%26+Containers;Infrastructure+as+Code+(Terraform%2C+Bicep%2C+Pulumi);Identity+%26+Access+(Entra)+%26+Zero+Trust;Observability+(Azure+Monitor%2C+App+Insights);.NET+%26+C%23+%7C+Python+%7C+Go;Data+(Cosmos+DB%2C+KQL);Trainer+(Azure+%26+GitHub))
 
 ---
 
