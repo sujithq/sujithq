@@ -4,7 +4,8 @@
 
 # 👋 Hi, I'm Sujith Quintelier  
 
-🚀 Azure Architect • Dev(Sec)Ops Engineer • GitHub Accredited Trainer • Terraform Enthusiast  
+🚀 Cloud Solutions Architect (AI Apps) @ Microsoft • Azure Architect • Dev(Sec)Ops Engineer • GitHub Accredited Trainer • Terraform Enthusiast  
+*Views are my own.*
 
 ---
 
@@ -293,4 +294,4 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-⚡ Bridging Dev(Sec)Ops, Azure, and GitHub — one pipeline at a time ⚡
+⚡ Bridging Azure, GitHub, and AI apps — one pipeline at a time ⚡
