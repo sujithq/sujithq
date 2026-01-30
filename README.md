@@ -87,7 +87,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot metrics in GitHub Enterprise Cloud with data residency in public preview](https://quintelier.dev/updates/copilot-metrics-in-github-enterprise-cloud-with-data-residency-in-public-preview/)
+* [github: Codespaces is now in public preview for GitHub Enterprise with data residency](https://quintelier.dev/updates/codespaces-is-now-in-public-preview-for-github-enterprise-with-data-residency/)
 * [azure: Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13](https://quintelier.dev/updates/retirement-support-for-python-3-10-ends-on-october-1-2026-upgrade-your-azure-functions-apps-to-python-3-13/)
 * [security: Turning threat reports into detection insights with AI](https://quintelier.dev/updates/turning-threat-reports-into-detection-insights-with-ai/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
