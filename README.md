@@ -87,9 +87,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Codespaces is now in public preview for GitHub Enterprise with data residency](https://quintelier.dev/updates/codespaces-is-now-in-public-preview-for-github-enterprise-with-data-residency/)
-* [azure: Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13](https://quintelier.dev/updates/retirement-support-for-python-3-10-ends-on-october-1-2026-upgrade-your-azure-functions-apps-to-python-3-13/)
-* [security: Turning threat reports into detection insights with AI](https://quintelier.dev/updates/turning-threat-reports-into-detection-insights-with-ai/)
+* [github: Docker and Docker Compose version upgrades on hosted runners](https://quintelier.dev/updates/docker-and-docker-compose-version-upgrades-on-hosted-runners/)
+* [azure: Retirement: "Send data to Event Hubs & Storage (Preview)" retiring July 31, 2026](https://quintelier.dev/updates/retirement-send-data-to-event-hubs-storage-preview-retiring-july-31-2026/)
+* [security: Case study: Securing AI application supply chains](https://quintelier.dev/updates/case-study-securing-ai-application-supply-chains/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
