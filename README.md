@@ -291,7 +291,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
 
 </picture>
-
+</br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
