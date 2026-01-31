@@ -1,6 +1,7 @@
 no<!-- Banner -->
 <!-- markdownlint-disable MD041 -->
 ![Alt text](./assets/contribution-grid-sujithq-dark.png)
+![Alt text](./game.gif)
 
 # 👋 Hi, I'm Sujith Quintelier  
 
