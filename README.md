@@ -1,7 +1,7 @@
 no<!-- Banner -->
 <!-- markdownlint-disable MD041 -->
 ![Alt text](./assets/contribution-grid-sujithq-dark.png)
-![Alt text](./game.gif)
+
 
 # 👋 Hi, I'm Sujith Quintelier  
 
@@ -292,13 +292,10 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
 
 </picture>
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
 
-</picture>
+</br>
+
+![gh game](./game.gif)
 
 ---
 
