@@ -1,4 +1,4 @@
-<!-- Banner -->
+no<!-- Banner -->
 <!-- markdownlint-disable MD041 -->
 ![Alt text](./assets/contribution-grid-sujithq-dark.png)
 
@@ -289,6 +289,13 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
+
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/game.gif" />
 
 </picture>
 
