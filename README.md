@@ -89,8 +89,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Docker and Docker Compose version upgrades on hosted runners](https://quintelier.dev/updates/docker-and-docker-compose-version-upgrades-on-hosted-runners/)
-* [azure: Retirement: "Send data to Event Hubs & Storage (Preview)" retiring July 31, 2026](https://quintelier.dev/updates/retirement-send-data-to-event-hubs-storage-preview-retiring-july-31-2026/)
-* [security: Case study: Securing AI application supply chains](https://quintelier.dev/updates/case-study-securing-ai-application-supply-chains/)
+* [azure: [Launched] Generally Available: Serverless workspaces in Azure Databricks](https://quintelier.dev/updates/launched-generally-available-serverless-workspaces-in-azure-databricks/)
+* [security: Infostealers without borders: macOS, Python stealers, and platform abuse](https://quintelier.dev/updates/infostealers-without-borders-macos-python-stealers-and-platform-abuse/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
 <!-- UPDATES-LIST:END -->
