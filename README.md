@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Docker and Docker Compose version upgrades on hosted runners](https://quintelier.dev/updates/docker-and-docker-compose-version-upgrades-on-hosted-runners/)
+* [github: The Dependabot Proxy is now open source with an MIT license](https://quintelier.dev/updates/the-dependabot-proxy-is-now-open-source-with-an-mit-license/)
 * [azure: [Launched] Generally Available: Serverless workspaces in Azure Databricks](https://quintelier.dev/updates/launched-generally-available-serverless-workspaces-in-azure-databricks/)
 * [security: Infostealers without borders: macOS, Python stealers, and platform abuse](https://quintelier.dev/updates/infostealers-without-borders-macos-python-stealers-and-platform-abuse/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
