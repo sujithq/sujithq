@@ -89,7 +89,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: The Dependabot Proxy is now open source with an MIT license](https://quintelier.dev/updates/the-dependabot-proxy-is-now-open-source-with-an-mit-license/)
-* [azure: [Launched] Generally Available: Serverless workspaces in Azure Databricks](https://quintelier.dev/updates/launched-generally-available-serverless-workspaces-in-azure-databricks/)
+* [azure: [In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2](https://quintelier.dev/updates/in-development-public-preview-x-forwarded-for-xff-grouping-for-rate-limiting-on-application-gateway-waf-v2/)
 * [security: Microsoft SDL: Evolving security practices for an AI-powered world](https://quintelier.dev/updates/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
 * [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
