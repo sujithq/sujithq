@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: The Dependabot Proxy is now open source with an MIT license](https://quintelier.dev/updates/the-dependabot-proxy-is-now-open-source-with-an-mit-license/)
+* [github: Dependabot now supports OIDC authentication](https://quintelier.dev/updates/dependabot-now-supports-oidc-authentication/)
 * [azure: [In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2](https://quintelier.dev/updates/in-development-public-preview-x-forwarded-for-xff-grouping-for-rate-limiting-on-application-gateway-waf-v2/)
 * [security: Microsoft SDL: Evolving security practices for an AI-powered world](https://quintelier.dev/updates/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/)
 * [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
