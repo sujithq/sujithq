@@ -88,11 +88,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Dependabot now supports OIDC authentication](https://quintelier.dev/updates/dependabot-now-supports-oidc-authentication/)
-* [azure: [In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2](https://quintelier.dev/updates/in-development-public-preview-x-forwarded-for-xff-grouping-for-rate-limiting-on-application-gateway-waf-v2/)
-* [security: Microsoft SDL: Evolving security practices for an AI-powered world](https://quintelier.dev/updates/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/)
-* [dotnet: .NET AI Essentials – The Core Building Blocks Explained](https://quintelier.dev/updates/net-ai-essentials-the-core-building-blocks-explained/)
-* [ai: What’s new in Microsoft Foundry | October and November 2025](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-october-and-november-2025/)
+* [github: GitHub Apps can now utilize public preview Enterprise Teams APIs via fine-grained permissions](https://quintelier.dev/updates/github-apps-can-now-utilize-public-preview-enterprise-teams-apis-via-fine-grained-permissions/)
+* [azure: [In development] Private Preview: Vaulted Backups for Azure Disk](https://quintelier.dev/updates/in-development-private-preview-vaulted-backups-for-azure-disk/)
+* [security: Analysis of active exploitation of SolarWinds Web Help Desk](https://quintelier.dev/updates/analysis-of-active-exploitation-of-solarwinds-web-help-desk/)
+* [dotnet: .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://quintelier.dev/updates/net-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)
+* [ai: Building an AI Skills Executor in .NET: Bringing Anthropic’s Agent Pattern to the Microsoft Ecosystem](https://quintelier.dev/updates/building-an-ai-skills-executor-in-net-bringing-anthropic-s-agent-pattern-to-the-microsoft-ecosystem/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
