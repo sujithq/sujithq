@@ -88,9 +88,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Apps can now utilize public preview Enterprise Teams APIs via fine-grained permissions](https://quintelier.dev/updates/github-apps-can-now-utilize-public-preview-enterprise-teams-apis-via-fine-grained-permissions/)
+* [github: GPT-5.3-Codex is now generally available for GitHub Copilot](https://quintelier.dev/updates/gpt-5-3-codex-is-now-generally-available-for-github-copilot/)
 * [azure: [In development] Private Preview: Vaulted Backups for Azure Disk](https://quintelier.dev/updates/in-development-private-preview-vaulted-backups-for-azure-disk/)
-* [security: Analysis of active exploitation of SolarWinds Web Help Desk](https://quintelier.dev/updates/analysis-of-active-exploitation-of-solarwinds-web-help-desk/)
+* [security: A one-prompt attack that breaks LLM safety alignment](https://quintelier.dev/updates/a-one-prompt-attack-that-breaks-llm-safety-alignment/)
 * [dotnet: .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://quintelier.dev/updates/net-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)
 * [ai: Building an AI Skills Executor in .NET: Bringing Anthropic’s Agent Pattern to the Microsoft Ecosystem](https://quintelier.dev/updates/building-an-ai-skills-executor-in-net-bringing-anthropic-s-agent-pattern-to-the-microsoft-ecosystem/)
 <!-- UPDATES-LIST:END -->
