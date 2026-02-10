@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GPT-5.3-Codex is now generally available for GitHub Copilot](https://quintelier.dev/updates/gpt-5-3-codex-is-now-generally-available-for-github-copilot/)
+* [github: Track additional Dependabot configuration changes in audit logs](https://quintelier.dev/updates/track-additional-dependabot-configuration-changes-in-audit-logs/)
 * [azure: [In preview] Public Preview: Application Gateway for Containers - AKS managed add-on](https://quintelier.dev/updates/in-preview-public-preview-application-gateway-for-containers-aks-managed-add-on/)
 * [security: A one-prompt attack that breaks LLM safety alignment](https://quintelier.dev/updates/a-one-prompt-attack-that-breaks-llm-safety-alignment/)
 * [dotnet: .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://quintelier.dev/updates/net-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)
