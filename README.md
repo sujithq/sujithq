@@ -89,9 +89,9 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Track additional Dependabot configuration changes in audit logs](https://quintelier.dev/updates/track-additional-dependabot-configuration-changes-in-audit-logs/)
-* [azure: [Launched] Generally Available: Azure Databricks Supervisor Agent](https://quintelier.dev/updates/launched-generally-available-azure-databricks-supervisor-agent/)
+* [azure: [In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North](https://quintelier.dev/updates/in-preview-public-preview-azure-front-door-premium-now-supports-azure-private-link-origins-in-uae-north/)
 * [security: 80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier](https://quintelier.dev/updates/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/)
-* [dotnet: .NET and .NET Framework February 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-february-2026-servicing-releases-updates/)
+* [dotnet: .NET 11 Preview 1 is now available!](https://quintelier.dev/updates/net-11-preview-1-is-now-available/)
 * [ai: Building an AI Skills Executor in .NET: Bringing Anthropic’s Agent Pattern to the Microsoft Ecosystem](https://quintelier.dev/updates/building-an-ai-skills-executor-in-net-bringing-anthropic-s-agent-pattern-to-the-microsoft-ecosystem/)
 <!-- UPDATES-LIST:END -->
 
