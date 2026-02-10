@@ -90,7 +90,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Track additional Dependabot configuration changes in audit logs](https://quintelier.dev/updates/track-additional-dependabot-configuration-changes-in-audit-logs/)
 * [azure: [In preview] Public Preview: Application Gateway for Containers - AKS managed add-on](https://quintelier.dev/updates/in-preview-public-preview-application-gateway-for-containers-aks-managed-add-on/)
-* [security: A one-prompt attack that breaks LLM safety alignment](https://quintelier.dev/updates/a-one-prompt-attack-that-breaks-llm-safety-alignment/)
+* [security: 80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier](https://quintelier.dev/updates/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/)
 * [dotnet: .NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://quintelier.dev/updates/net-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)
 * [ai: Building an AI Skills Executor in .NET: Bringing Anthropic’s Agent Pattern to the Microsoft Ecosystem](https://quintelier.dev/updates/building-an-ai-skills-executor-in-net-bringing-anthropic-s-agent-pattern-to-the-microsoft-ecosystem/)
 <!-- UPDATES-LIST:END -->
