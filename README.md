@@ -90,9 +90,9 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Track additional Dependabot configuration changes in audit logs](https://quintelier.dev/updates/track-additional-dependabot-configuration-changes-in-audit-logs/)
 * [azure: [In preview] Public Preview: Azure Front Door Premium now supports Azure Private Link origins in UAE North](https://quintelier.dev/updates/in-preview-public-preview-azure-front-door-premium-now-supports-azure-private-link-origins-in-uae-north/)
-* [security: 80% of Fortune 500 use active AI Agents: Observability, governance, and security shape the new frontier](https://quintelier.dev/updates/80-of-fortune-500-use-active-ai-agents-observability-governance-and-security-shape-the-new-frontier/)
-* [dotnet: .NET 11 Preview 1 is now available!](https://quintelier.dev/updates/net-11-preview-1-is-now-available/)
-* [ai: Building an AI Skills Executor in .NET: Bringing Anthropic’s Agent Pattern to the Microsoft Ecosystem](https://quintelier.dev/updates/building-an-ai-skills-executor-in-net-bringing-anthropic-s-agent-pattern-to-the-microsoft-ecosystem/)
+* [security: The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era](https://quintelier.dev/updates/the-strategic-siem-buyer-s-guide-choosing-an-ai-ready-platform-for-the-agentic-era/)
+* [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
+* [ai: Beyond the Prompt – Why and How to Fine-tune Your Own Models](https://quintelier.dev/updates/beyond-the-prompt-why-and-how-to-fine-tune-your-own-models/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
