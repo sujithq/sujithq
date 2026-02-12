@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Track additional Dependabot configuration changes in audit logs](https://quintelier.dev/updates/track-additional-dependabot-configuration-changes-in-audit-logs/)
+* [github: GitHub Mobile: Model picker for Copilot coding agent](https://quintelier.dev/updates/github-mobile-model-picker-for-copilot-coding-agent/)
 * [azure: [In preview] Public Preview: Azure SQL updates for mid-February 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-updates-for-mid-february-2026/)
 * [security: The strategic SIEM buyer’s guide: Choosing an AI-ready platform for the agentic era](https://quintelier.dev/updates/the-strategic-siem-buyer-s-guide-choosing-an-ai-ready-platform-for-the-agentic-era/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
