@@ -90,7 +90,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GitHub Mobile: Model picker for Copilot coding agent](https://quintelier.dev/updates/github-mobile-model-picker-for-copilot-coding-agent/)
 * [azure: [In preview] Public Preview: Azure SQL updates for mid-February 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-updates-for-mid-february-2026/)
-* [security: Your complete guide to Microsoft experiences at RSAC™ 2026 Conference](https://quintelier.dev/updates/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/)
+* [security: Copilot Studio agent security: Top 10 risks you can detect and prevent](https://quintelier.dev/updates/copilot-studio-agent-security-top-10-risks-you-can-detect-and-prevent/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
 * [ai: Beyond the Prompt – Why and How to Fine-tune Your Own Models](https://quintelier.dev/updates/beyond-the-prompt-why-and-how-to-fine-tune-your-own-models/)
 <!-- UPDATES-LIST:END -->
