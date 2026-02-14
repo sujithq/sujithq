@@ -88,11 +88,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Show profile names (first and last name) alongside user handles](https://quintelier.dev/updates/show-profile-names-first-and-last-name-alongside-user-handles/)
+* [github: New features and improvements in GitHub Copilot in JetBrains IDEs](https://quintelier.dev/updates/new-features-and-improvements-in-github-copilot-in-jetbrains-ides/)
 * [azure: [Launched] Generally Available: AKS support for Kubernetes version 1.34](https://quintelier.dev/updates/launched-generally-available-aks-support-for-kubernetes-version-1-34/)
 * [security: Copilot Studio agent security: Top 10 risks you can detect and prevent](https://quintelier.dev/updates/copilot-studio-agent-security-top-10-risks-you-can-detect-and-prevent/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
-* [ai: Beyond the Prompt – Why and How to Fine-tune Your Own Models](https://quintelier.dev/updates/beyond-the-prompt-why-and-how-to-fine-tune-your-own-models/)
+* [ai: DPO Fine-Tuning Using Microsoft Foundry SDK](https://quintelier.dev/updates/dpo-fine-tuning-using-microsoft-foundry-sdk/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
