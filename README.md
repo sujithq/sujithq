@@ -88,9 +88,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Custom properties and rule insights improvements](https://quintelier.dev/updates/custom-properties-and-rule-insights-improvements/)
-* [azure: [Launched] Generally Available: AKS support for Kubernetes version 1.34](https://quintelier.dev/updates/launched-generally-available-aks-support-for-kubernetes-version-1-34/)
-* [security: Copilot Studio agent security: Top 10 risks you can detect and prevent](https://quintelier.dev/updates/copilot-studio-agent-security-top-10-risks-you-can-detect-and-prevent/)
+* [github: Enterprise-wide credential management tools for incident response](https://quintelier.dev/updates/enterprise-wide-credential-management-tools-for-incident-response/)
+* [azure: [Launched] General Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk](https://quintelier.dev/updates/launched-general-availability-instant-access-support-for-incremental-snapshots-of-azure-premium-ssd-v2-and-ultra-disk/)
+* [security: Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://quintelier.dev/updates/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
 * [ai: DPO Fine-Tuning Using Microsoft Foundry SDK](https://quintelier.dev/updates/dpo-fine-tuning-using-microsoft-foundry-sdk/)
 <!-- UPDATES-LIST:END -->
