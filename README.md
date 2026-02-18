@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Claude Opus 4.6 is now available in Visual Studio, JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/claude-opus-4-6-is-now-available-in-visual-studio-jetbrains-ides-xcode-and-eclipse/)
+* [github: Use Copilot coding agent with Windows projects](https://quintelier.dev/updates/use-copilot-coding-agent-with-windows-projects/)
 * [azure: [In preview] Public Preview: Cluster mode for the agentic CLI for AKS](https://quintelier.dev/updates/in-preview-public-preview-cluster-mode-for-the-agentic-cli-for-aks/)
 * [security: Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://quintelier.dev/updates/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
