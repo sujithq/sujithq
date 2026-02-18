@@ -89,7 +89,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: API access to billing usage reports in public preview](https://quintelier.dev/updates/api-access-to-billing-usage-reports-in-public-preview/)
-* [azure: [Launched] General Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk](https://quintelier.dev/updates/launched-general-availability-instant-access-support-for-incremental-snapshots-of-azure-premium-ssd-v2-and-ultra-disk/)
+* [azure: [Launched] Generally Available: Encryption at host & disk encryption sets support in node auto-provisioning](https://quintelier.dev/updates/launched-generally-available-encryption-at-host-disk-encryption-sets-support-in-node-auto-provisioning/)
 * [security: Unify now or pay later: New research exposes the operational cost of a fragmented SOC](https://quintelier.dev/updates/unify-now-or-pay-later-new-research-exposes-the-operational-cost-of-a-fragmented-soc/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
 * [ai: DPO Fine-Tuning Using Microsoft Foundry SDK](https://quintelier.dev/updates/dpo-fine-tuning-using-microsoft-foundry-sdk/)
