@@ -88,9 +88,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Use Copilot coding agent with Windows projects](https://quintelier.dev/updates/use-copilot-coding-agent-with-windows-projects/)
+* [github: Gemini 3.1 Pro is now in public preview in GitHub Copilot](https://quintelier.dev/updates/gemini-3-1-pro-is-now-in-public-preview-in-github-copilot/)
 * [azure: [In preview] Public Preview: Cluster mode for the agentic CLI for AKS](https://quintelier.dev/updates/in-preview-public-preview-cluster-mode-for-the-agentic-cli-for-aks/)
-* [security: Running OpenClaw safely: identity, isolation, and runtime risk](https://quintelier.dev/updates/running-openclaw-safely-identity-isolation-and-runtime-risk/)
+* [security: New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://quintelier.dev/updates/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
 * [ai: What’s new in Microsoft Foundry | Dec 2025 & Jan 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-dec-2025-jan-2026/)
 <!-- UPDATES-LIST:END -->
