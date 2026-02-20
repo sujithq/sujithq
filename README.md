@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot support in Zed generally available](https://quintelier.dev/updates/github-copilot-support-in-zed-generally-available/)
+* [github: Workflow dispatch API now returns run IDs](https://quintelier.dev/updates/workflow-dispatch-api-now-returns-run-ids/)
 * [azure: [In preview] Public Preview: Cluster mode for the agentic CLI for AKS](https://quintelier.dev/updates/in-preview-public-preview-cluster-mode-for-the-agentic-cli-for-aks/)
 * [security: New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://quintelier.dev/updates/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
