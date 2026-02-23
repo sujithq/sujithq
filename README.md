@@ -89,7 +89,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Organization-level Copilot usage metrics dashboard available in public preview](https://quintelier.dev/updates/organization-level-copilot-usage-metrics-dashboard-available-in-public-preview/)
-* [azure: [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Brazil Southeast, and in a third Availability Zone in Malaysia West and Indonesia Central](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-is-now-available-in-brazil-southeast-and-in-a-third-availability-zone-in-malaysia-west-and-indonesia-central/)
+* [azure: [In preview] Public Preview: WAF Insights for Application Gateway](https://quintelier.dev/updates/in-preview-public-preview-waf-insights-for-application-gateway/)
 * [security: New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://quintelier.dev/updates/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
