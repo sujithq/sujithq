@@ -90,7 +90,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Enterprise-defined custom organization roles are generally available](https://quintelier.dev/updates/enterprise-defined-custom-organization-roles-are-generally-available/)
 * [azure: Retirement: Windows Server Annual Channel (preview)](https://quintelier.dev/updates/retirement-windows-server-annual-channel-preview/)
-* [security: New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://quintelier.dev/updates/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
+* [security: Scaling security operations with Microsoft Defender autonomous defense and expert-led services](https://quintelier.dev/updates/scaling-security-operations-with-microsoft-defender-autonomous-defense-and-expert-led-services/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
 <!-- UPDATES-LIST:END -->
