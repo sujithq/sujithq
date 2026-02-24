@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: IP allow list coverage extended to EMU namespaces in public preview](https://quintelier.dev/updates/ip-allow-list-coverage-extended-to-emu-namespaces-in-public-preview/)
+* [github: Enterprise-defined custom organization roles are generally available](https://quintelier.dev/updates/enterprise-defined-custom-organization-roles-are-generally-available/)
 * [azure: Retirement: Windows Server Annual Channel (preview)](https://quintelier.dev/updates/retirement-windows-server-annual-channel-preview/)
 * [security: New e-book: Establishing a proactive defense with Microsoft Security Exposure Management](https://quintelier.dev/updates/new-e-book-establishing-a-proactive-defense-with-microsoft-security-exposure-management/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
