@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Repository dashboard is now generally available](https://quintelier.dev/updates/repository-dashboard-is-now-generally-available/)
+* [github: GitHub Code Quality: Organization-level dashboard in public preview](https://quintelier.dev/updates/github-code-quality-organization-level-dashboard-in-public-preview/)
 * [azure: Retirement: Windows Server Annual Channel (preview)](https://quintelier.dev/updates/retirement-windows-server-annual-channel-preview/)
 * [security: Developer-targeting campaign using malicious Next.js repositories](https://quintelier.dev/updates/developer-targeting-campaign-using-malicious-next-js-repositories/)
 * [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
