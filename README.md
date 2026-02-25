@@ -88,8 +88,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Enterprise Server 3.20 release candidate is available](https://quintelier.dev/updates/github-enterprise-server-3-20-release-candidate-is-available/)
-* [azure: Retirement: Windows Server Annual Channel (preview)](https://quintelier.dev/updates/retirement-windows-server-annual-channel-preview/)
+* [github: GitHub Copilot CLI is now generally available](https://quintelier.dev/updates/github-copilot-cli-is-now-generally-available/)
+* [azure: [In preview] Public Preview: Geo‑redundant backups for Premium SSD v2 in Azure Database for PostgreSQL](https://quintelier.dev/updates/in-preview-public-preview-geo-redundant-backups-for-premium-ssd-v2-in-azure-database-for-postgresql/)
 * [security: Developer-targeting campaign using malicious Next.js repositories](https://quintelier.dev/updates/developer-targeting-campaign-using-malicious-next-js-repositories/)
 * [dotnet: The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://quintelier.dev/updates/the-dongle-died-at-midnight-winforms-agent-saved-my-german-mom-s-business-trip/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
