@@ -88,10 +88,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: CodeQL adds Go 1.26 and Kotlin 2.3.10 support and improves query accuracy](https://quintelier.dev/updates/codeql-adds-go-1-26-and-kotlin-2-3-10-support-and-improves-query-accuracy/)
+* [github: GitHub Enterprise Server 3.20 release candidate is available](https://quintelier.dev/updates/github-enterprise-server-3-20-release-candidate-is-available/)
 * [azure: Retirement: Windows Server Annual Channel (preview)](https://quintelier.dev/updates/retirement-windows-server-annual-channel-preview/)
 * [security: Developer-targeting campaign using malicious Next.js repositories](https://quintelier.dev/updates/developer-targeting-campaign-using-malicious-next-js-repositories/)
-* [dotnet: GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://quintelier.dev/updates/github-copilot-testing-for-net-brings-ai-powered-unit-tests-to-visual-studio-2026/)
+* [dotnet: The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://quintelier.dev/updates/the-dongle-died-at-midnight-winforms-agent-saved-my-german-mom-s-business-trip/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
 <!-- UPDATES-LIST:END -->
 
