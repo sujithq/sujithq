@@ -88,8 +88,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot CLI is now generally available](https://quintelier.dev/updates/github-copilot-cli-is-now-generally-available/)
-* [azure: [Launched] Generally Available: Azure SQL updates for late-February 2026](https://quintelier.dev/updates/launched-generally-available-azure-sql-updates-for-late-february-2026/)
+* [github: Generate pull request titles with Copilot on the web](https://quintelier.dev/updates/generate-pull-request-titles-with-copilot-on-the-web/)
+* [azure: [In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline](https://quintelier.dev/updates/in-preview-public-preview-secure-ingestion-and-pod-placement-for-azure-monitor-pipeline/)
 * [security: Developer-targeting campaign using malicious Next.js repositories](https://quintelier.dev/updates/developer-targeting-campaign-using-malicious-next-js-repositories/)
 * [dotnet: The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://quintelier.dev/updates/the-dongle-died-at-midnight-winforms-agent-saved-my-german-mom-s-business-trip/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
