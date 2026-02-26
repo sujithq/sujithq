@@ -88,8 +88,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: macos-26 is now generally available for GitHub-hosted runners](https://quintelier.dev/updates/macos-26-is-now-generally-available-for-github-hosted-runners/)
-* [azure: [In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline](https://quintelier.dev/updates/in-preview-public-preview-secure-ingestion-and-pod-placement-for-azure-monitor-pipeline/)
+* [github: Claude and Codex now available for Copilot Business & Pro users](https://quintelier.dev/updates/claude-and-codex-now-available-for-copilot-business-pro-users/)
+* [azure: [In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity](https://quintelier.dev/updates/in-preview-public-preview-restrict-usage-of-user-delegation-sas-to-an-entra-id-identity/)
 * [security: Threat modeling AI applications](https://quintelier.dev/updates/threat-modeling-ai-applications/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
