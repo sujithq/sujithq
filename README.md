@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Claude and Codex now available for Copilot Business & Pro users](https://quintelier.dev/updates/claude-and-codex-now-available-for-copilot-business-pro-users/)
+* [github: Copilot metrics report URLs update](https://quintelier.dev/updates/copilot-metrics-report-urls-update/)
 * [azure: [In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity](https://quintelier.dev/updates/in-preview-public-preview-restrict-usage-of-user-delegation-sas-to-an-entra-id-identity/)
 * [security: Threat modeling AI applications](https://quintelier.dev/updates/threat-modeling-ai-applications/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
