@@ -88,7 +88,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Generate pull request titles with Copilot on the web](https://quintelier.dev/updates/generate-pull-request-titles-with-copilot-on-the-web/)
+* [github: macos-26 is now generally available for GitHub-hosted runners](https://quintelier.dev/updates/macos-26-is-now-generally-available-for-github-hosted-runners/)
 * [azure: [In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline](https://quintelier.dev/updates/in-preview-public-preview-secure-ingestion-and-pod-placement-for-azure-monitor-pipeline/)
 * [security: Developer-targeting campaign using malicious Next.js repositories](https://quintelier.dev/updates/developer-targeting-campaign-using-malicious-next-js-repositories/)
 * [dotnet: The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://quintelier.dev/updates/the-dongle-died-at-midnight-winforms-agent-saved-my-german-mom-s-business-trip/)
