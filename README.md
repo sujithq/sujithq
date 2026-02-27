@@ -88,8 +88,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Actions now supports uploading and downloading non-zipped artifacts](https://quintelier.dev/updates/github-actions-now-supports-uploading-and-downloading-non-zipped-artifacts/)
-* [azure: [In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity](https://quintelier.dev/updates/in-preview-public-preview-restrict-usage-of-user-delegation-sas-to-an-entra-id-identity/)
+* [github: Copilot usage metrics now includes enterprise-level GitHub Copilot CLI activity](https://quintelier.dev/updates/copilot-usage-metrics-now-includes-enterprise-level-github-copilot-cli-activity/)
+* [azure: [Launched] Generally Available: Azure Red Hat OpenShift is now available in Malaysia West, New Zealand North, and Mexico Central](https://quintelier.dev/updates/launched-generally-available-azure-red-hat-openshift-is-now-available-in-malaysia-west-new-zealand-north-and-mexico-central/)
 * [security: Threat modeling AI applications](https://quintelier.dev/updates/threat-modeling-ai-applications/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
