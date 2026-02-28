@@ -1,77 +1,96 @@
-no<!-- Banner -->
+<!-- Banner -->
 <!-- markdownlint-disable MD041 -->
 ![Alt text](./assets/contribution-grid-sujithq-dark.png)
 
+# Sujith Quintelier
 
-# 👋 Hi, I'm Sujith Quintelier  
+**Cloud Solution Architect (AI Apps)** @ Microsoft
+Architecture & implementation at the intersection of AI, application modernization, and developer productivity
 
-🚀 Cloud Solutions Architect (AI Apps) @ Microsoft • Azure Architect • Dev(Sec)Ops Engineer • GitHub Accredited Trainer • Terraform Enthusiast  
 *Views are my own.*
 
 ---
 
-## 🌟 About Me
+## What Changed
 
-I help teams succeed with **Azure, DevOps, GitHub, and recently Platform Engineering** — from design to delivery.  
-Currently working on:  
-
-- ✍️ [Blog](https://quintelier.dev) blog series  
-- 🛠️ Building GitHub + Azure training content  
-- ⚡ Exploring AI, Platform Engineering & MCP  
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/li-40x40.png)](https://www.linkedin.com/in/sujithquintelier/)
-[![Twitter/X](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/x-40x40.png)](https://twitter.com/Sujithq)
-[![Facebook](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/fb-40x40.png)](https://www.facebook.com/sujith.quintelier)
-[![Pluralsight](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/ps-40x40.png)](https://app.pluralsight.com/profile/sujithq)
-[![Buy Me a Coffee](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/bmc-40x40.png)](https://www.buymeacoffee.com/sujithq)
+- **Removed marketing language**: Eliminated emojis, hype, and promotional tone in favor of direct technical language
+- **Repositioned headline**: Now leads with CSA role and AI/app focus, emphasizing architecture + implementation
+- **Restructured content flow**: Moved from "About Me" to "Current Focus" → "Technical Expertise" → "GitHub Usage" for better scanning
+- **Clarified scope**: Made GitHub work context explicit (demos, learning, reference architectures vs. production claims)
+- **Preserved all facts**: Kept all certifications, achievements, roles, and automated content intact
 
 ---
 
-## ✨ Highlights
+## About
 
-- 📖 Blog: [quintelier.dev](https://quintelier.dev)
-- Azure Certified
-  - Azure Cloud Solutions & Cybersecurity Architect
-  - Azure (Identity and Access) Administrator
-  - Azure DevOps, AI, Security & Network Engineer
-  - Azure (Cosmos DB) Developer
-- 🎓 GitHub Accredited Trainer
-  - GitHub Actions
-  - GitHub for Developers
-  - GitHub Administration
-  - GitHub Advanced Security Gettings Started training
-  - GitHub Migrations
-  - GitHub Enterprise Importer
-  - Github Copilot for Business Fundamentals
-- 📦 Terraform Associate
-- 🛠️ Platform Engineering
-  - Practitioner  
-<!-- - 🛠️ Projects:  
-  - [Battleship in C#](#) 🎮  
-  - [AKS Hardening with Terraform](#) 🔐  
-  - [Morse Commit Notifier](#) 🔔   -->
+I work with enterprise customers and engineering teams on Azure-based solutions spanning cloud architecture, AI application delivery, and developer tooling. My focus is on practical implementation—designing systems that ship, scale, and meet real-world constraints in regulated industries.
+
+Background includes Azure architecture, DevOps/platform engineering, and GitHub-based delivery workflows. Currently exploring AI agent frameworks, Copilot extensibility, and Model Context Protocol (MCP) integrations.
 
 ---
 
-## 📊 GitHub Stats
+## Current Focus
 
-![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=github-dark-blue&hide_border=true&mode=weekly)
+**AI & Application Modernization**
+- Copilot-assisted development workflows and agent-based architectures
+- RAG pattern implementation and AI application delivery
+- Secure AI adoption in enterprise and regulated environments
 
-![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19)
+**Platform Engineering & DevOps**
+- Azure landing zones and Kubernetes (AKS) deployments
+- GitHub Actions pipelines and Advanced Security integration
+- Infrastructure as Code (Terraform, Bicep, Pulumi)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19&hide=Jupyter%20Notebook)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=0B0F19&color=C9D1D9&line=0078D4&point=00BCF2&hide_border=true&custom_title=Activity%20Graph&title_color=0078D4)
+**Developer Productivity**
+- GitHub Copilot adoption and productivity measurement
+- DevSecOps toolchain design
+- Training delivery (Azure & GitHub certifications)
 
 ---
 
-## Latest Posts
+## Technical Expertise
 
-### 📝Blog
+**Cloud & Infrastructure**
+- Azure architecture, landing zones, networking, and identity (Entra ID)
+- Kubernetes (AKS), container orchestration, and cloud-native patterns
+- Infrastructure as Code: Terraform, Bicep, Pulumi
+- Observability: Azure Monitor, Application Insights, KQL
+
+**AI & Application Development**
+- AI application patterns (RAG, agents, MCP)
+- .NET/C#, Python, Go
+- Cosmos DB, Azure AI services, Azure OpenAI
+- API design and microservices architecture
+
+**DevOps & Security**
+- GitHub (Actions, Advanced Security, Copilot, Migrations)
+- Azure DevOps, CI/CD pipeline design
+- Zero Trust architecture and secure SDLC
+- DevSecOps tooling and compliance automation
+
+**Training & Enablement**
+- GitHub Accredited Trainer (Actions, Admin, Advanced Security, Copilot, Migrations)
+- Azure certification preparation and technical workshops
+- Customer-facing architecture reviews
+
+---
+
+## How I Use GitHub
+
+This profile contains:
+- **Demos and experiments**: Testing new Azure/GitHub features, AI patterns, and tooling
+- **Reference architectures**: Examples for workshops and customer conversations
+- **Learning in public**: Documenting explorations in AI agents, MCP, and platform engineering
+
+These repositories represent prototypes and learning—not production-ready systems. Use them as starting points for your own implementations.
+
+---
+
+## Blog & Recent Writing
+
+I write about Azure architecture, AI application patterns, GitHub workflows, and DevOps at [quintelier.dev](https://quintelier.dev).
+
+### Recent Posts
 <!-- BLOG-POST-LIST:START -->
 * [Mastering Asynchronous Programming with C# async/await - Part 7: Testing & Debugging](https://quintelier.dev/posts/2025/10/csharp-async-await-part7/)
 * [Mastering Asynchronous Programming with C# async/await - Part 6: Advanced Topics](https://quintelier.dev/posts/2025/10/csharp-async-await-part6/)
@@ -84,8 +103,8 @@ Currently working on:
 * [🤖 When to Use GitHub Models, Azure AI Foundry, and OpenAI](https://quintelier.dev/posts/2025/09/when-to-use-github-models-azure-ai-foundry-openai/)
 * [Mastering Asynchronous Programming with C# async/await](https://quintelier.dev/posts/2025/09/csharp-async-await/)
 <!-- BLOG-POST-LIST:END -->
-### 🔃 Latest Updates
 
+### Latest Updates
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot usage metrics now includes enterprise-level GitHub Copilot CLI activity](https://quintelier.dev/updates/copilot-usage-metrics-now-includes-enterprise-level-github-copilot-cli-activity/)
@@ -95,20 +114,30 @@ Currently working on:
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
 <!-- UPDATES-LIST:END -->
 
-#### (Auto-updated via GitHub Action)
+*Auto-updated via GitHub Action*
 
 ---
 
-## 🏆 Certifications
+## Connect
 
-I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engineering, Security, and AI**.  
-  
+[![LinkedIn](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/li-40x40.png)](https://www.linkedin.com/in/sujithquintelier/)
+[![Twitter/X](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/x-40x40.png)](https://twitter.com/Sujithq)
+[![Facebook](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/fb-40x40.png)](https://www.facebook.com/sujith.quintelier)
+[![Pluralsight](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/ps-40x40.png)](https://app.pluralsight.com/profile/sujithq)
+[![Buy Me a Coffee](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/icons/bmc-40x40.png)](https://www.buymeacoffee.com/sujithq)
+
+---
+
+## Certifications & Accreditations
+
+I hold multiple certifications across Azure, GitHub, Terraform, Platform Engineering, Security, and AI. These credentials support customer engagements and training delivery.
+
 <details>
-<summary>👉 Full certification wall below 👇</summary>
+<summary>View full certification list</summary>
 
 ---
 
-### 🛠️ Platform Engineering
+### Platform Engineering
 
 [![PE Practitioner](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-00-pe-practitioner-100x100.png)](https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec)
 ![PE Foundation](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-01-pe-foundation-100x100.png)
@@ -116,7 +145,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### ☁️ Microsoft Certifications
+### Microsoft Certifications
 
 [![Azure Solutions Architect Expert](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0100-azure-solutions-architect-expert-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/5B76D5650086FA71?sharingId=B2D5696D597C46D3)
 [![DevOps Engineer Expert](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0101-DevOps-Engineer-expert-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/1E14D97DCC88C8C6?sharingId=B2D5696D597C46D3)
@@ -133,8 +162,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ![Fundamentals](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0001-microsoft-certified-fundamentals-100x100.png)
 
-- Azure  
-- Azure AI  
+- Azure
+- Azure AI
 
 #### Applied Skills
 
@@ -155,7 +184,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 🐙 GitHub Certifications
+### GitHub Certifications
 
 [![GitHub Foundations](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0148-github-foundations-for-non-developers-100x100.png)](https://www.credly.com/badges/f2af80ea-f871-40e7-8ea7-ac135bf9a961)
 [![GitHub Actions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-actions-100x100.png)](https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33)
@@ -171,9 +200,10 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![FY26 GitHub Advanced Security](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-advanced-100x100.png)](https://www.credly.com/badges/0d42e4c1-a0f7-46e5-bf9c-851c56694116)
 [![FY26 GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-copilot-100x100.png)](https://www.credly.com/badges/1b2b36c4-7442-4c9e-b0b5-3dd95a365ed2)
 [![FY26 GitHub Platform](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-platform-100x100.png)](https://www.credly.com/badges/988f564f-b58e-4439-b51c-2b6823c5d38d)
+
 ---
 
-### 🏆 GitHub Accreditations
+### GitHub Accreditations
 
 ![Actions](https://img.shields.io/badge/GitHub-Actions-6C1D5F?logo=github)
 ![For Developers](https://img.shields.io/badge/GitHub-for%20Developers-6C1D5F?logo=github)
@@ -185,20 +215,21 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 📑 GitHub Certificate of Completion
+### GitHub Certificate of Completion
 
 [![GHSP](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/GHSP-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/GHSP.pdf)
 [![GHTSP](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/GHTSP-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/github/GHTSP.pdf)
+
 ---
 
-### 🌍 Terraform
+### Terraform
 
 [![Terraform Associate](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-002-100x100.png)](https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547)
 [![Terraform Associate 003](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-003-100x100.png)](https://www.credly.com/badges/f229e81a-feef-4ddb-a16a-bb95642bc15a/public_url)
 
 ---
 
-### ☁️ Linux Foundation
+### Linux Foundation
 
 [![ethics-for-open-source-development](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfc104-ethics-for-open-source-development-100x100.png)](https://www.credly.com/badges/ba9887b6-4d40-4b2d-837d-425a9944f866/public_url)
 [![introduction-to-webassembly](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/linux-foundation/lfd133-introduction-to-webassembly-100x100.png)](https://www.credly.com/badges/9eb2be00-5d93-48e6-a1d2-97dfc8e019ee/public_url)
@@ -208,7 +239,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 🔐 securiti.ai
+### securiti.ai
 
 [![AI Security Governance Certification](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/securiti.ai/AI-Security-Governance-Certification-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/securiti.ai/AI-Security-Governance-Certification.pdf)
 [![Program Management](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/securiti.ai/AI-Security-Governance-ai-governance-program-mgmt-100x100.png)](https://education.securiti.ai/badge/ai-security-governance-certification-ai-governance-program-management/)
@@ -222,7 +253,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 📘 Microsoft Learn
+### Microsoft Learn
 
 ![Recent](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/recent/0001-gwr-100x100.jpg)
 [![GitHub Universe Challenge](https://learn.microsoft.com/training/achievements/github-universe-2023-cloud-skills-challenge.svg)](https://learn.microsoft.com/api/achievements/share/en-us/SujithQ/3XQVQG9H?sharingId=7E02E186AF4FAF6D)
@@ -234,7 +265,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 🥋 Security Journey
+### Security Journey
 
 [![Green Belt](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/securityjourney/0401-Green-Belt-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf)
 [![Yellow Belt](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/securityjourney/0402-Yellow-Belt-100x100.png)](https://github.com/sujithq/sujithq/raw/master/assets/securityjourney/Green-Yellow-White.pdf)
@@ -242,7 +273,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### ☁️ Cloud Champion
+### Cloud Champion
 
 [![Azure Technical Expert](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/cloud-champion/0150-azure-technical-expert-100x100.png)](https://www.credential.net/3aa66697-b1cc-4eba-bd5e-ede1005a5147)
 [![Azure Technical Associate](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/cloud-champion/0151-azure-technical-associate-100x100.png)](https://www.credential.net/a0d21b67-ec0e-4805-9ace-795f284462ff)
@@ -258,20 +289,20 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 🔎 Azure Data Explorer
+### Azure Data Explorer
 
 [![Kusto Detective Onboarding](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-azure-data-explorer/000-kusto-detective-agency-onboarding-100x100.png)](https://www.credly.com/badges/f767ec60-ad67-4112-b9e5-7c5bbbf0cc5f)
 [![Kusto Case 1](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-azure-data-explorer/001-kusto-detective-agency-case-1-100x100.png)](https://www.credly.com/badges/2bce9379-3b75-4f69-867d-81136d643919)
 
 ---
 
-### 📊 Must Learn KQL
+### Must Learn KQL
 
 [![Must Learn KQL](https://raw.githubusercontent.com/rod-trent/MustLearnKQL/main/Series_Images/MustLearnKQLBannerMissionSmall.png)](https://github.com/sujithq/sujithq/raw/master/assets/must-learn-kql/001-must-learn-kql-completion.pdf)
 
 ---
 
-### ☁️ AWS
+### AWS
 
 [![AWS Cloud Quest](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/aws/0146-aws-cloud-quest-cloud-practitioner-100x100.png)](https://www.credly.com/badges/3de2cb38-cd6c-4f74-8c0a-9d7f823c46da)
 
@@ -279,25 +310,26 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-## 🧑‍💻 Skills
+## GitHub Stats
 
-![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Customer+Success+Architect+(AI+Apps);Azure+Architecture+%26+Landing+Zones;AI+App+Delivery+(RAG%2C+Agents%2C+MCP);DevOps+%2F+DevSecOps+%26+Platform+Engineering;GitHub+(Actions%2C+Advanced+Security%2C+Copilot);Kubernetes+(AKS)+%26+Containers;Infrastructure+as+Code+(Terraform%2C+Bicep%2C+Pulumi);Identity+%26+Access+(Entra)+%26+Zero+Trust;Observability+(Azure+Monitor%2C+App+Insights);.NET+%26+C%23+%7C+Python+%7C+Go;Data+(Cosmos+DB%2C+KQL);Trainer+(Azure+%26+GitHub))
+![Streak Stats!](https://streak-stats.demolab.com?user=sujithq&theme=github-dark-blue&hide_border=true&mode=weekly)
+
+![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19&hide=Jupyter%20Notebook)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=0B0F19&color=C9D1D9&line=0078D4&point=00BCF2&hide_border=true&custom_title=Activity%20Graph&title_color=0078D4)
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sujithq/sujithq/output/github-contribution-grid-snake.svg" />
-
 </picture>
-
-</br>
-
-![gh game](./game.gif)
 
 ---
 
-⚡ Bridging Azure, GitHub, and AI apps — one pipeline at a time ⚡
+![Skills!](https://readme-typing-svg.demolab.com?font=orbitron&duration=1000&pause=1000&color=0078D4&center=true&vCenter=true&width=800&lines=Cloud+Solution+Architect+(AI+Apps);Azure+Architecture+%26+Landing+Zones;AI+App+Delivery+(RAG%2C+Agents%2C+MCP);DevOps+%2F+DevSecOps+%26+Platform+Engineering;GitHub+(Actions%2C+Advanced+Security%2C+Copilot);Kubernetes+(AKS)+%26+Containers;Infrastructure+as+Code+(Terraform%2C+Bicep%2C+Pulumi);Identity+%26+Access+(Entra)+%26+Zero+Trust;Observability+(Azure+Monitor%2C+App+Insights);.NET+%26+C%23+%7C+Python+%7C+Go;Data+(Cosmos+DB%2C+KQL);Trainer+(Azure+%26+GitHub))
