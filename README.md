@@ -1,4 +1,4 @@
-no<!-- Banner -->
+<!-- Banner -->
 <!-- markdownlint-disable MD041 -->
 ![Alt text](./assets/contribution-grid-sujithq-dark.png)
 
@@ -63,7 +63,9 @@ Currently working on:
 
 ![GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=sujithq&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19)
 
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujithq&langs_count=8&layout=compact&theme=github_dark&hide_border=true&title_color=0078D4&icon_color=00BCF2&text_color=C9D1D9&bg_color=0B0F19&border_color=0B0F19&hide=Jupyter%20Notebook)
+-->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=sujithq&bg_color=0B0F19&color=C9D1D9&line=0078D4&point=00BCF2&hide_border=true&custom_title=Activity%20Graph&title_color=0078D4)
 
@@ -152,6 +154,10 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 - [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/52634899052A0752?sharingId=B2D5696D597C46D3)
 - [Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BAFE8995F6D16FE0?sharingId=B2D5696D597C46D3)
 - [Accelerate app development by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/DE9C2B2AEE86809B?sharingId=B2D5696D597C46D3)
+
+#### MCAPS Academy
+
+[![Agentic AI Solutions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0140-agentic-ai-solutions-expert-100x100.png)](https://www.credly.com/badges/45695232-2d77-45f9-b071-4c301aa75d81/public_url)
 
 ---
 
