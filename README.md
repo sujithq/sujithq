@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot usage metrics now includes enterprise-level GitHub Copilot CLI activity](https://quintelier.dev/updates/copilot-usage-metrics-now-includes-enterprise-level-github-copilot-cli-activity/)
+* [github: Copilot metrics now includes plan mode](https://quintelier.dev/updates/copilot-metrics-now-includes-plan-mode/)
 * [azure: [Launched] Generally available: Azure Premium SSD v2 Disk Storage is now available in a third Availability Zone in New Zealan North](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-a-third-availability-zone-in-new-zealan-north/)
 * [security: Threat modeling AI applications](https://quintelier.dev/updates/threat-modeling-ai-applications/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
