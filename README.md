@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Dependabot alert assignees are now generally available](https://quintelier.dev/updates/dependabot-alert-assignees-are-now-generally-available/)
+* [github: Copilot Memory now on by default for Pro and Pro+ users in public preview](https://quintelier.dev/updates/copilot-memory-now-on-by-default-for-pro-and-pro-users-in-public-preview/)
 * [azure: [Launched] Generally Available: Draft & Deploy on Azure Firewall](https://quintelier.dev/updates/launched-generally-available-draft-deploy-on-azure-firewall/)
 * [security: Signed malware impersonating workplace apps deploys RMM backdoors](https://quintelier.dev/updates/signed-malware-impersonating-workplace-apps-deploys-rmm-backdoors/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
