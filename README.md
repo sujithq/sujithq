@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Code Quality enterprise policy](https://quintelier.dev/updates/github-code-quality-enterprise-policy/)
+* [github: Dependabot alert assignees are now generally available](https://quintelier.dev/updates/dependabot-alert-assignees-are-now-generally-available/)
 * [azure: [Launched] Generally Available: Draft & Deploy on Azure Firewall](https://quintelier.dev/updates/launched-generally-available-draft-deploy-on-azure-firewall/)
-* [security: OAuth redirection abuse enables phishing and malware delivery](https://quintelier.dev/updates/oauth-redirection-abuse-enables-phishing-and-malware-delivery/)
+* [security: Signed malware impersonating workplace apps deploys RMM backdoors](https://quintelier.dev/updates/signed-malware-impersonating-workplace-apps-deploys-rmm-backdoors/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
 <!-- UPDATES-LIST:END -->
