@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Grok Code Fast 1 is now available in Copilot Free auto model selection](https://quintelier.dev/updates/grok-code-fast-1-is-now-available-in-copilot-free-auto-model-selection/)
-* [azure: [Launched] Generally Available: Draft & Deploy on Azure Firewall](https://quintelier.dev/updates/launched-generally-available-draft-deploy-on-azure-firewall/)
+* [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
 * [security: Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale](https://quintelier.dev/updates/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/)
 * [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
