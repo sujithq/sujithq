@@ -90,10 +90,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Lock and unlock draft repository security advisories](https://quintelier.dev/updates/lock-and-unlock-draft-repository-security-advisories/)
+* [github: Copilot usage metrics now includes user-level GitHub Copilot CLI activity](https://quintelier.dev/updates/copilot-usage-metrics-now-includes-user-level-github-copilot-cli-activity/)
 * [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
-* [security: Inside Tycoon2FA: How a leading AiTM phishing kit operated at scale](https://quintelier.dev/updates/inside-tycoon2fa-how-a-leading-aitm-phishing-kit-operated-at-scale/)
-* [dotnet: Vector Data in .NET – Building Blocks for AI Part 2](https://quintelier.dev/updates/vector-data-in-net-building-blocks-for-ai-part-2/)
+* [security: Women’s History Month: Encouraging women in cybersecurity at every career stage](https://quintelier.dev/updates/women-s-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/)
+* [dotnet: Release v1.0 of the official MCP C# SDK](https://quintelier.dev/updates/release-v1-0-of-the-official-mcp-c-sdk/)
 * [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
 <!-- UPDATES-LIST:END -->
 
