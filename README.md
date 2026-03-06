@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GPT-5.4 is generally available in GitHub Copilot](https://quintelier.dev/updates/gpt-5-4-is-generally-available-in-github-copilot/)
+* [github: GitHub Copilot in Visual Studio Code v1.110 – February release](https://quintelier.dev/updates/github-copilot-in-visual-studio-code-v1-110-february-release/)
 * [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
 * [security: AI as tradecraft: How threat actors operationalize AI](https://quintelier.dev/updates/ai-as-tradecraft-how-threat-actors-operationalize-ai/)
 * [dotnet: Release v1.0 of the official MCP C# SDK](https://quintelier.dev/updates/release-v1-0-of-the-official-mcp-c-sdk/)
