@@ -94,7 +94,7 @@ Currently working on:
 * [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
 * [security: AI as tradecraft: How threat actors operationalize AI](https://quintelier.dev/updates/ai-as-tradecraft-how-threat-actors-operationalize-ai/)
 * [dotnet: Release v1.0 of the official MCP C# SDK](https://quintelier.dev/updates/release-v1-0-of-the-official-mcp-c-sdk/)
-* [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
+* [ai: What’s new in Microsoft Foundry | February 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-february-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
