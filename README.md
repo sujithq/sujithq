@@ -164,8 +164,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 ### 🐙 GitHub Certifications
 
 [![GitHub Foundations](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0148-github-foundations-for-non-developers-100x100.png)](https://www.credly.com/badges/f2af80ea-f871-40e7-8ea7-ac135bf9a961)
-[![GitHub Actions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-actions-100x100.png)](https://www.credly.com/badges/6ae13777-6422-4083-b469-b46d5cf16a33)
-![GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-copilot-100x100.png)
+[![GitHub Actions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-actions-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/6B86503125DB5D0?sharingId=B2D5696D597C46D3)
+[![GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-copilot-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/29732ECDA4353955?sharingId=B2D5696D597C46D3)
 [![Advanced Security](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0146-github-advanced-security-100x100.png)](https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc)
 [![Administration](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0147-github-administration-100x100.png)](https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4)
 [![Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0149-github-sales-professional-100x100.png)](https://www.credly.com/badges/a61c8cb7-0861-4a8e-9b56-5b3a06c86c8e)
@@ -177,12 +177,10 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![FY26 GitHub Advanced Security](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-advanced-100x100.png)](https://www.credly.com/badges/0d42e4c1-a0f7-46e5-bf9c-851c56694116)
 [![FY26 GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-copilot-100x100.png)](https://www.credly.com/badges/1b2b36c4-7442-4c9e-b0b5-3dd95a365ed2)
 [![FY26 GitHub Platform](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-platform-100x100.png)](https://www.credly.com/badges/988f564f-b58e-4439-b51c-2b6823c5d38d)
-
 [![Azure DevOps To GitHub Migrations PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-azuredevops-to-github-migrations-partner-delivery-c-100x100.png)](https://www.credly.com/badges/e413fab8-bfa8-4d93-a122-ffb3929a12df/public_url)
 [![Advanced Security PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-github-advanced-security-partner-delivery-credentia-100x100.png)](https://www.credly.com/badges/7edf875e-30b2-4886-a45a-9fb84a789947/public_url)
 [![Copilot Core Skills Application PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-github-copilot-core-skills-application-partner-deli-100x100.png)](https://www.credly.com/badges/a4a89331-5665-4ebc-a086-9097bfe3f4b8/public_url)
 [![Migrations PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-github-migrations-partner-delivery-credential-100x100.png)](https://www.credly.com/badges/39368409-ab07-49fc-be84-5fff28d950e3/public_url)
-
 
 ---
 
@@ -206,7 +204,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ### 🌍 Terraform
 
-[![Terraform Associate](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-002-100x100.png)](https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547)
+[![Terraform Associate 002](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-002-100x100.png)](https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547)
 [![Terraform Associate 003](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-003-100x100.png)](https://www.credly.com/badges/f229e81a-feef-4ddb-a16a-bb95642bc15a/public_url)
 
 ---
