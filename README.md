@@ -110,14 +110,6 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ---
 
-### 🛠️ Platform Engineering
-
-[![PE Practitioner](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-00-pe-practitioner-100x100.png)](https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec)
-![PE Foundation](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-01-pe-foundation-100x100.png)
-[![PE k8s](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-01-pe-k8s-100x100.png)](https://www.virtualbadge.io/certificate-validator?credential=43c88d0b-928e-4dda-9d13-32cef83c8ae8)
-
----
-
 ### ☁️ Microsoft Certifications
 
 [![Azure Solutions Architect Expert](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0100-azure-solutions-architect-expert-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/5B76D5650086FA71?sharingId=B2D5696D597C46D3)
@@ -158,6 +150,12 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 #### MCAPS Academy
 
 [![Agentic AI Solutions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0140-agentic-ai-solutions-expert-100x100.png)](https://www.credly.com/badges/45695232-2d77-45f9-b071-4c301aa75d81/public_url)
+
+#### Employee Learning
+
+[![EMEA Becoming Frontier Achiever Badge](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/001-emea-becoming-frontier-achiever-badge-100x100.png)](https://www.credly.com/badges/54f97f53-6abf-4e1d-8dfa-6315fbd75734/public_url)
+
+001-emea-becoming-frontier-achiever-badge
 
 ---
 
@@ -206,6 +204,14 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 [![Terraform Associate 002](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-002-100x100.png)](https://www.credly.com/badges/17ed3835-f672-4919-bd71-bc6ac76e9547)
 [![Terraform Associate 003](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/terraform/Terraform-Associate-Badge-003-100x100.png)](https://www.credly.com/badges/f229e81a-feef-4ddb-a16a-bb95642bc15a/public_url)
+
+---
+
+### 🛠️ Platform Engineering
+
+[![PE Practitioner](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-00-pe-practitioner-100x100.png)](https://www.virtualbadge.io/certificate-validator?credential=f3b2b9c5-225b-4285-9a7f-b6c3a7a7c5ec)
+![PE Foundation](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-01-pe-foundation-100x100.png)
+[![PE k8s](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/platform-engineering/0145-01-pe-k8s-100x100.png)](https://www.virtualbadge.io/certificate-validator?credential=43c88d0b-928e-4dda-9d13-32cef83c8ae8)
 
 ---
 
