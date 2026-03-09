@@ -92,7 +92,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Figma MCP server can now generate design layers from VS Code](https://quintelier.dev/updates/figma-mcp-server-can-now-generate-design-layers-from-vs-code/)
 * [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
-* [security: AI as tradecraft: How threat actors operationalize AI](https://quintelier.dev/updates/ai-as-tradecraft-how-threat-actors-operationalize-ai/)
+* [security: Secure agentic AI for your Frontier Transformation](https://quintelier.dev/updates/secure-agentic-ai-for-your-frontier-transformation/)
 * [dotnet: Release v1.0 of the official MCP C# SDK](https://quintelier.dev/updates/release-v1-0-of-the-official-mcp-c-sdk/)
 * [ai: What’s new in Microsoft Foundry | February 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-february-2026/)
 <!-- UPDATES-LIST:END -->
