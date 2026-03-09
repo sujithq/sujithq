@@ -90,11 +90,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GPT-5.4 is generally available in GitHub Copilot](https://quintelier.dev/updates/gpt-5-4-is-generally-available-in-github-copilot/)
+* [github: Figma MCP server can now generate design layers from VS Code](https://quintelier.dev/updates/figma-mcp-server-can-now-generate-design-layers-from-vs-code/)
 * [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
-* [security: Women’s History Month: Encouraging women in cybersecurity at every career stage](https://quintelier.dev/updates/women-s-history-month-encouraging-women-in-cybersecurity-at-every-career-stage/)
+* [security: AI as tradecraft: How threat actors operationalize AI](https://quintelier.dev/updates/ai-as-tradecraft-how-threat-actors-operationalize-ai/)
 * [dotnet: Release v1.0 of the official MCP C# SDK](https://quintelier.dev/updates/release-v1-0-of-the-official-mcp-c-sdk/)
-* [ai: Microsoft Agent Framework Reaches Release Candidate](https://quintelier.dev/updates/microsoft-agent-framework-reaches-release-candidate/)
+* [ai: What’s new in Microsoft Foundry | February 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-february-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
