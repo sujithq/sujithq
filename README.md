@@ -90,11 +90,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Figma MCP server can now generate design layers from VS Code](https://quintelier.dev/updates/figma-mcp-server-can-now-generate-design-layers-from-vs-code/)
-* [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
-* [security: Secure agentic AI for your Frontier Transformation](https://quintelier.dev/updates/secure-agentic-ai-for-your-frontier-transformation/)
-* [dotnet: Extend your coding agent with .NET Skills](https://quintelier.dev/updates/extend-your-coding-agent-with-net-skills/)
-* [ai: What’s new in Microsoft Foundry | February 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-february-2026/)
+* [github: Configure Copilot coding agent’s validation tools](https://quintelier.dev/updates/configure-copilot-coding-agent-s-validation-tools/)
+* [azure: Retirement: Emissions Impact Dashboard for Azure](https://quintelier.dev/updates/retirement-emissions-impact-dashboard-for-azure/)
+* [security: When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures](https://quintelier.dev/updates/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/)
+* [dotnet: RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://quintelier.dev/updates/rt-assistant-a-multi-agent-voice-bot-using-net-and-openai/)
+* [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
