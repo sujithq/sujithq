@@ -90,10 +90,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot coding agent now starts work 50% faster](https://quintelier.dev/updates/copilot-coding-agent-now-starts-work-50-faster/)
+* [github: GitHub Actions: Late March 2026 updates](https://quintelier.dev/updates/github-actions-late-march-2026-updates/)
 * [azure: [In preview] Public Preview: Azure Databricks OneLake Catalog Federation](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-onelake-catalog-federation/)
 * [security: New tools and guidance: Announcing Zero Trust for AI](https://quintelier.dev/updates/new-tools-and-guidance-announcing-zero-trust-for-ai/)
-* [dotnet: RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://quintelier.dev/updates/rt-assistant-a-multi-agent-voice-bot-using-net-and-openai/)
+* [dotnet: Accelerating .NET MAUI Development with AI Agents](https://quintelier.dev/updates/accelerating-net-maui-development-with-ai-agents/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
 
