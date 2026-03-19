@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Configure Copilot coding agent’s validation tools](https://quintelier.dev/updates/configure-copilot-coding-agent-s-validation-tools/)
-* [azure: Retirement: Emissions Impact Dashboard for Azure](https://quintelier.dev/updates/retirement-emissions-impact-dashboard-for-azure/)
+* [github: Codespaces with data residency now available in Japan](https://quintelier.dev/updates/codespaces-with-data-residency-now-available-in-japan/)
+* [azure: [In preview] Public Preview: Azure Databricks OneLake Catalog Federation](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-onelake-catalog-federation/)
 * [security: When tax season becomes cyberattack season: Phishing and malware campaigns using tax-related lures](https://quintelier.dev/updates/when-tax-season-becomes-cyberattack-season-phishing-and-malware-campaigns-using-tax-related-lures/)
 * [dotnet: RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://quintelier.dev/updates/rt-assistant-a-multi-agent-voice-bot-using-net-and-openai/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
