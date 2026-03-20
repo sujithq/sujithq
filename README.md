@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: More visibility into Copilot coding agent sessions](https://quintelier.dev/updates/more-visibility-into-copilot-coding-agent-sessions/)
+* [github: Monitor Copilot coding agent logs live in Raycast](https://quintelier.dev/updates/monitor-copilot-coding-agent-logs-live-in-raycast/)
 * [azure: [In preview] Public Preview: Azure Databricks OneLake Catalog Federation](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-onelake-catalog-federation/)
 * [security: New tools and guidance: Announcing Zero Trust for AI](https://quintelier.dev/updates/new-tools-and-guidance-announcing-zero-trust-for-ai/)
 * [dotnet: Accelerating .NET MAUI Development with AI Agents](https://quintelier.dev/updates/accelerating-net-maui-development-with-ai-agents/)
