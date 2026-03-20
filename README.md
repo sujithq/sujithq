@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Monitor Copilot coding agent logs live in Raycast](https://quintelier.dev/updates/monitor-copilot-coding-agent-logs-live-in-raycast/)
-* [azure: [In preview] Public Preview: Azure Databricks OneLake Catalog Federation](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-onelake-catalog-federation/)
-* [security: New tools and guidance: Announcing Zero Trust for AI](https://quintelier.dev/updates/new-tools-and-guidance-announcing-zero-trust-for-ai/)
+* [github: Trace any Copilot coding agent commit to its session logs](https://quintelier.dev/updates/trace-any-copilot-coding-agent-commit-to-its-session-logs/)
+* [azure: Retirement: Azure Sphere will be retired on July 31, 2031](https://quintelier.dev/updates/retirement-azure-sphere-will-be-retired-on-july-31-2031/)
+* [security: CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents](https://quintelier.dev/updates/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/)
 * [dotnet: Accelerating .NET MAUI Development with AI Agents](https://quintelier.dev/updates/accelerating-net-maui-development-with-ai-agents/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
