@@ -93,7 +93,7 @@ Currently working on:
 * [github: Copilot usage metrics now resolve auto model selection to actual models](https://quintelier.dev/updates/copilot-usage-metrics-now-resolve-auto-model-selection-to-actual-models/)
 * [azure: [In preview] Public Preview: Azure SQL updates for mid-March 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-updates-for-mid-march-2026/)
 * [security: CTI-REALM: A new benchmark for end-to-end detection rule generation with AI agents](https://quintelier.dev/updates/cti-realm-a-new-benchmark-for-end-to-end-detection-rule-generation-with-ai-agents/)
-* [dotnet: Accelerating .NET MAUI Development with AI Agents](https://quintelier.dev/updates/accelerating-net-maui-development-with-ai-agents/)
+* [dotnet: Ten Months with Copilot Coding Agent in dotnet/runtime](https://quintelier.dev/updates/ten-months-with-copilot-coding-agent-in-dotnet-runtime/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
 
