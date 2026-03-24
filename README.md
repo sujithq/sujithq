@@ -91,8 +91,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Faster incremental analysis with CodeQL in pull requests](https://quintelier.dev/updates/faster-incremental-analysis-with-codeql-in-pull-requests/)
-* [azure: [In preview] Public Preview: Azure SQL updates for mid-March 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-updates-for-mid-march-2026/)
-* [security: Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started](https://quintelier.dev/updates/case-study-how-predictive-shielding-in-defender-stopped-gpo-based-ransomware-before-it-started/)
+* [azure: [In preview] Public Preview: AKS managed GPU metrics in Azure Monitor](https://quintelier.dev/updates/in-preview-public-preview-aks-managed-gpu-metrics-in-azure-monitor/)
+* [security: Governing AI agent behavior: Aligning user, developer, role, and organizational intent](https://quintelier.dev/updates/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-intent/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
