@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Ask @copilot to make changes to any pull request](https://quintelier.dev/updates/ask-copilot-to-make-changes-to-any-pull-request/)
-* [azure: [In preview] Public Preview: AKS managed GPU metrics in Azure Monitor](https://quintelier.dev/updates/in-preview-public-preview-aks-managed-gpu-metrics-in-azure-monitor/)
+* [azure: [In preview] Public Preview: AI Agent for container networking troubleshooting](https://quintelier.dev/updates/in-preview-public-preview-ai-agent-for-container-networking-troubleshooting/)
 * [security: Governing AI agent behavior: Aligning user, developer, role, and organizational intent](https://quintelier.dev/updates/governing-ai-agent-behavior-aligning-user-developer-role-and-organizational-intent/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
