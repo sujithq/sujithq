@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Gemini 3.1 Pro is now available in JetBrains IDEs, Xcode, and Eclipse](https://quintelier.dev/updates/gemini-3-1-pro-is-now-available-in-jetbrains-ides-xcode-and-eclipse/)
+* [github: Faster incremental analysis with CodeQL in pull requests](https://quintelier.dev/updates/faster-incremental-analysis-with-codeql-in-pull-requests/)
 * [azure: [In preview] Public Preview: Azure SQL updates for mid-March 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-updates-for-mid-march-2026/)
 * [security: Case study: How predictive shielding in Defender stopped GPO-based ransomware before it started](https://quintelier.dev/updates/case-study-how-predictive-shielding-in-defender-stopped-gpo-based-ransomware-before-it-started/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
