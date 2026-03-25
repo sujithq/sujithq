@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Ask @copilot to make changes to any pull request](https://quintelier.dev/updates/ask-copilot-to-make-changes-to-any-pull-request/)
-* [azure: [Launched] Generally Available: Container network metrics filtering for AKS](https://quintelier.dev/updates/launched-generally-available-container-network-metrics-filtering-for-aks/)
+* [github: Disable comments on individual commits](https://quintelier.dev/updates/disable-comments-on-individual-commits/)
+* [azure: [In preview] Public Preview: Fabric Mirroring integration for Azure Database for MySQL](https://quintelier.dev/updates/in-preview-public-preview-fabric-mirroring-integration-for-azure-database-for-mysql/)
 * [security: Identity security is the new pressure point for modern cyberattacks](https://quintelier.dev/updates/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
