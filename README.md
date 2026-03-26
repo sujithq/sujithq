@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Custom images for GitHub-hosted runners are now generally available](https://quintelier.dev/updates/custom-images-for-github-hosted-runners-are-now-generally-available/)
+* [github: Credential revocation API now supports GitHub OAuth and GitHub app credentials](https://quintelier.dev/updates/credential-revocation-api-now-supports-github-oauth-and-github-app-credentials/)
 * [azure: [Launched] Generally Available: Azure SQL updates for late-March 2026](https://quintelier.dev/updates/launched-generally-available-azure-sql-updates-for-late-march-2026/)
 * [security: Identity security is the new pressure point for modern cyberattacks](https://quintelier.dev/updates/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
