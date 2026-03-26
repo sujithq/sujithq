@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Updates to our Privacy Statement and Terms of Service: How we use your data](https://quintelier.dev/updates/updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/)
+* [github: GitHub Copilot for Jira — Public preview enhancements](https://quintelier.dev/updates/github-copilot-for-jira-public-preview-enhancements/)
 * [azure: [In preview] Public Preview: Blue-green agent pool upgrade in AKS](https://quintelier.dev/updates/in-preview-public-preview-blue-green-agent-pool-upgrade-in-aks/)
 * [security: Identity security is the new pressure point for modern cyberattacks](https://quintelier.dev/updates/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
