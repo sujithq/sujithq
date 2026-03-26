@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot for Jira — Public preview enhancements](https://quintelier.dev/updates/github-copilot-for-jira-public-preview-enhancements/)
-* [azure: [In preview] Public Preview: Blue-green agent pool upgrade in AKS](https://quintelier.dev/updates/in-preview-public-preview-blue-green-agent-pool-upgrade-in-aks/)
+* [github: Custom images for GitHub-hosted runners are now generally available](https://quintelier.dev/updates/custom-images-for-github-hosted-runners-are-now-generally-available/)
+* [azure: [Launched] Generally Available: Azure SQL updates for late-March 2026](https://quintelier.dev/updates/launched-generally-available-azure-sql-updates-for-late-march-2026/)
 * [security: Identity security is the new pressure point for modern cyberattacks](https://quintelier.dev/updates/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
