@@ -92,7 +92,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Gemini 3 Pro deprecated](https://quintelier.dev/updates/gemini-3-pro-deprecated/)
 * [azure: [Launched] Generally Available: Azure SQL updates for late-March 2026](https://quintelier.dev/updates/launched-generally-available-azure-sql-updates-for-late-march-2026/)
-* [security: Identity security is the new pressure point for modern cyberattacks](https://quintelier.dev/updates/identity-security-is-the-new-pressure-point-for-modern-cyberattacks/)
+* [security: How Microsoft Defender protects high-value assets in real-world attack scenarios](https://quintelier.dev/updates/how-microsoft-defender-protects-high-value-assets-in-real-world-attack-scenarios/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
