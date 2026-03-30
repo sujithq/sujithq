@@ -91,8 +91,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Create issues from Slack with Copilot](https://quintelier.dev/updates/create-issues-from-slack-with-copilot/)
-* [azure: [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in South India](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-is-now-available-in-south-india/)
-* [security: How Microsoft Defender protects high-value assets in real-world attack scenarios](https://quintelier.dev/updates/how-microsoft-defender-protects-high-value-assets-in-real-world-attack-scenarios/)
+* [azure: Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029](https://quintelier.dev/updates/retirement-azure-cosmos-db-for-postgresql-will-retire-on-march-31-2029/)
+* [security: Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio](https://quintelier.dev/updates/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
