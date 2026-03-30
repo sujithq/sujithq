@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Create issues from Slack with Copilot](https://quintelier.dev/updates/create-issues-from-slack-with-copilot/)
-* [azure: Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029](https://quintelier.dev/updates/retirement-azure-cosmos-db-for-postgresql-will-retire-on-march-31-2029/)
+* [azure: [In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS](https://quintelier.dev/updates/in-preview-public-preview-ephemeral-os-disk-with-full-caching-for-vm-vmss/)
 * [security: Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio](https://quintelier.dev/updates/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
