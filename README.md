@@ -146,6 +146,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 - [Deploy cloud-native apps using Azure Container Apps](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/52634899052A0752?sharingId=B2D5696D597C46D3)
 - [Migrate SQL Server workloads to Azure SQL Database](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BAFE8995F6D16FE0?sharingId=B2D5696D597C46D3)
 - [Accelerate app development by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/DE9C2B2AEE86809B?sharingId=B2D5696D597C46D3)
+- [Microsoft Applied Skills: Automate Azure Load Testing by using GitHub Actions](https://learn.microsoft.com/api/credentials/share/en-us/SujithQ/35F6E7D4E521B791?sharingId=7E02E186AF4FAF6D)
+
 
 #### MCAPS Academy
 
