@@ -90,11 +90,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Figma MCP server can now generate design layers from VS Code](https://quintelier.dev/updates/figma-mcp-server-can-now-generate-design-layers-from-vs-code/)
-* [azure: Retirement: Azure Policy faster enforcement and retirement of login/logout workaround](https://quintelier.dev/updates/retirement-azure-policy-faster-enforcement-and-retirement-of-login-logout-workaround/)
-* [security: AI as tradecraft: How threat actors operationalize AI](https://quintelier.dev/updates/ai-as-tradecraft-how-threat-actors-operationalize-ai/)
-* [dotnet: Release v1.0 of the official MCP C# SDK](https://quintelier.dev/updates/release-v1-0-of-the-official-mcp-c-sdk/)
-* [ai: What’s new in Microsoft Foundry | February 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-february-2026/)
+* [github: CodeQL pull requests insights on security overview now cover all protected branches](https://quintelier.dev/updates/codeql-pull-requests-insights-on-security-overview-now-cover-all-protected-branches/)
+* [azure: [In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS](https://quintelier.dev/updates/in-preview-public-preview-ephemeral-os-disk-with-full-caching-for-vm-vmss/)
+* [security: Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio](https://quintelier.dev/updates/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/)
+* [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
+* [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
