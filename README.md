@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: CodeQL 2.25.0 adds Swift 6.2.4 support](https://quintelier.dev/updates/codeql-2-25-0-adds-swift-6-2-4-support/)
-* [azure: [In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS](https://quintelier.dev/updates/in-preview-public-preview-ephemeral-os-disk-with-full-caching-for-vm-vmss/)
-* [security: WhatsApp malware campaign delivers VBS payloads and MSI backdoors](https://quintelier.dev/updates/whatsapp-malware-campaign-delivers-vbs-payloads-and-msi-backdoors/)
+* [github: GitHub secret scanning — coverage update](https://quintelier.dev/updates/github-secret-scanning-coverage-update/)
+* [azure: [Launched] Generally Available: Azure DevOps March 2026 updates](https://quintelier.dev/updates/launched-generally-available-azure-devops-march-2026-updates/)
+* [security: Applying security fundamentals to AI: Practical advice for CISOs](https://quintelier.dev/updates/applying-security-fundamentals-to-ai-practical-advice-for-cisos/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
