@@ -91,8 +91,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Codespaces is now generally available for GitHub Enterprise with data residency](https://quintelier.dev/updates/codespaces-is-now-generally-available-for-github-enterprise-with-data-residency/)
-* [azure: [In preview] Public Preview: Unlock Client-Side Configuration at Scale with Azure App Configuration and Azure Front Door](https://quintelier.dev/updates/in-preview-public-preview-unlock-client-side-configuration-at-scale-with-azure-app-configuration-and-azure-front-door/)
-* [security: The threat to critical infrastructure has changed. Has your readiness?](https://quintelier.dev/updates/the-threat-to-critical-infrastructure-has-changed-has-your-readiness/)
+* [azure: Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025](https://quintelier.dev/updates/retirement-service-fabric-support-for-windows-server-2022-ends-on-march-31-2027-upgrade-to-windows-server-2025/)
+* [security: Mitigating the Axios npm supply chain compromise](https://quintelier.dev/updates/mitigating-the-axios-npm-supply-chain-compromise/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
