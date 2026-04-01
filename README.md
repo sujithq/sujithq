@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub secret scanning — coverage update](https://quintelier.dev/updates/github-secret-scanning-coverage-update/)
+* [github: Upcoming deprecation of Claude Sonnet 4 in GitHub Copilot](https://quintelier.dev/updates/upcoming-deprecation-of-claude-sonnet-4-in-github-copilot/)
 * [azure: Retirement: External Data Import & Data Connections in Azure Machine Learning will be retired on September 30, 2026](https://quintelier.dev/updates/retirement-external-data-import-data-connections-in-azure-machine-learning-will-be-retired-on-september-30-2026/)
 * [security: The threat to critical infrastructure has changed. Has your readiness?](https://quintelier.dev/updates/the-threat-to-critical-infrastructure-has-changed-has-your-readiness/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
