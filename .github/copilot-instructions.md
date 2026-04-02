@@ -4,6 +4,27 @@ This is a static GitHub profile repository that showcases professional certifica
 
 Always reference these instructions first and fallback to search or bash commands only when you encounter unexpected information that does not match the info here.
 
+## Lightweight Workflow Overlay
+
+Apply this lightweight workflow for non-trivial updates (multiple files, workflow changes, or structural README edits). Keep it practical for this static repository.
+
+1. **Plan**: Define the intended change in 2-5 clear steps before editing.
+2. **Execute**: Make focused edits only in relevant files.
+3. **Verify**: Validate README rendering, image paths, and external links affected by the change.
+4. **Review**: Check the diff for accidental formatting churn or unrelated edits.
+5. **Learn**: Capture one short lesson when a mistake is corrected or a new pattern is established.
+
+### Scope Rules
+- Do not enforce full software delivery rituals (worktrees, full TDD, heavy branching) for simple content updates.
+- Prefer small, direct commits for profile updates.
+- Escalate to a stricter process only when changing workflows, automation, or repository-wide conventions.
+
+### Verification Minimum
+- README preview renders correctly.
+- All newly added or modified image references resolve.
+- Any edited external links open successfully.
+- If workflow files changed, ensure the workflow can be triggered and monitored to completion.
+
 ## Working Effectively
 
 ### Repository Structure
