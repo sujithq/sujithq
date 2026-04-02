@@ -19,16 +19,6 @@ Currently working on:
 - 🛠️ Building GitHub + Azure training content  
 - ⚡ Exploring AI, Platform Engineering & MCP  
 
-### 🥋 Copilot Agents Dojo
-
-Testing the new PowerShell dojo scripts on Windows:
-
-```powershell
-pwsh ./scripts/init.ps1
-pwsh ./scripts/lesson-updater.ps1
-pwsh ./scripts/verify.ps1
-```
-
 ---
 
 ## 🔗 Connect with Me
