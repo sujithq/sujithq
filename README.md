@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot in Visual Studio — March update](https://quintelier.dev/updates/github-copilot-in-visual-studio-march-update/)
-* [azure: Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027](https://quintelier.dev/updates/retirement-azurednsendpoints-for-azure-storage-accounts-will-be-retired-march-2027/)
+* [github: Copilot usage metrics now includes per-user GitHub Copilot CLI activity in organization reports](https://quintelier.dev/updates/copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports/)
+* [azure: Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027](https://quintelier.dev/updates/retirement-python-support-for-azure-app-service-and-azure-functions-on-windows-will-be-retired-on-march-31-2027/)
 * [security: Threat actor abuse of AI accelerates from tool to cyberattack surface](https://quintelier.dev/updates/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/)
 * [dotnet: Explore union types in C# 15](https://quintelier.dev/updates/explore-union-types-in-c-15/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
