@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot organization custom instructions are generally available](https://quintelier.dev/updates/copilot-organization-custom-instructions-are-generally-available/)
+* [github: The Security tab is now Security & quality](https://quintelier.dev/updates/the-security-tab-is-now-security-quality/)
 * [azure: Retirement: Service Fabric support for Windows Server 2022 ends on March 31, 2027 - upgrade to Windows Server 2025](https://quintelier.dev/updates/retirement-service-fabric-support-for-windows-server-2022-ends-on-march-31-2027-upgrade-to-windows-server-2025/)
 * [security: Mitigating the Axios npm supply chain compromise](https://quintelier.dev/updates/mitigating-the-axios-npm-supply-chain-compromise/)
 * [dotnet: Generative AI for Beginners .NET: Version 2 on .NET 10](https://quintelier.dev/updates/generative-ai-for-beginners-net-version-2-on-net-10/)
