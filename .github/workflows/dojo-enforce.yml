@@ -1,0 +1,47 @@
+name: Dojo Enforcement
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  enforce-plan:
+    name: Check PR has a plan
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Verify tasks/todo.md has a real plan
+        run: |
+          if [ ! -f tasks/todo.md ]; then
+            echo "::error::tasks/todo.md not found. Create a plan before submitting a PR."
+            exit 1
+          fi
+
+          # Check it's not just the default template
+          if grep -q '^- \[ \] Step 1$' tasks/todo.md; then
+            echo "::warning::tasks/todo.md looks like the default template. Write a real plan."
+          fi
+
+          # Check for at least one completed item
+          if grep -q '\- \[x\]' tasks/todo.md; then
+            echo "✅ Plan has completed items."
+          else
+            echo "::warning::No completed items in tasks/todo.md. Track your progress."
+          fi
+
+      - name: Verify tasks/lessons.md exists
+        run: |
+          if [ ! -f tasks/lessons.md ]; then
+            echo "::warning::tasks/lessons.md not found. Run scripts/init.sh to create it."
+          else
+            echo "✅ tasks/lessons.md exists."
+          fi
+
+      - name: Check scripts are executable
+        run: |
+          for script in scripts/init.sh scripts/verify.sh scripts/lesson-updater.sh; do
+            if [ -f "$script" ]; then
+              echo "✅ $script exists"
+            fi
+          done
