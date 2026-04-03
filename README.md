@@ -156,8 +156,9 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 #### Employee Learning
 
 [![EMEA Becoming Frontier Achiever Badge](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/001-emea-becoming-frontier-achiever-badge-100x100.png)](https://www.credly.com/badges/54f97f53-6abf-4e1d-8dfa-6315fbd75734/public_url)
-
-001-emea-becoming-frontier-achiever-badge
+[![Copilot Agent Fundamentals | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/002-copilot-agent-fundamentals-agent-launchpad-100x100.png)](https://www.credly.com/badges/93893e56-4323-4071-ac95-643e995845eb/public_url)
+[![Copilot Agent Discovery | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/003-copilot-agent-discovery-agent-launchpad-100x100.png)](https://www.credly.com/badges/6fa6262c-6643-4cfb-b7e3-859eb80f89c9/public_url)
+[![Copilot Agent Maker | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/004-copilot-agent-maker-agent-launchpad-100x100.png)](https://www.credly.com/badges/2758756a-cdfb-4bf5-802d-79f160446f99/public_url)
 
 ---
 
