@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot cloud agent signs its commits](https://quintelier.dev/updates/copilot-cloud-agent-signs-its-commits/)
+* [github: Organization firewall settings for Copilot cloud agent](https://quintelier.dev/updates/organization-firewall-settings-for-copilot-cloud-agent/)
 * [azure: Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027](https://quintelier.dev/updates/retirement-python-support-for-azure-app-service-and-azure-functions-on-windows-will-be-retired-on-march-31-2027/)
 * [security: Threat actor abuse of AI accelerates from tool to cyberattack surface](https://quintelier.dev/updates/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/)
 * [dotnet: Explore union types in C# 15](https://quintelier.dev/updates/explore-union-types-in-c-15/)
