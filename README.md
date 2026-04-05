@@ -149,6 +149,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 - [Automate Azure Load Testing by using GitHub Actions](https://learn.microsoft.com/api/credentials/share/en-us/SujithQ/35F6E7D4E521B791?sharingId=7E02E186AF4FAF6D)
 - [Streamline business workflows with AI chat](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BD80A9A8C1535B75?sharingId=B2D5696D597C46D3)
 - [Generate reports with AI research agents](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/C44552EEC8624C1B?sharingId=B2D5696D597C46D3)
+- [Get started with classes, properties, and methods in C#](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/8E8FFD9C94585006?sharingId=B2D5696D597C46D3)
 
 #### MCAPS Academy
 
