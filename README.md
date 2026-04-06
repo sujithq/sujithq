@@ -91,8 +91,8 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Organization runner controls for Copilot cloud agent](https://quintelier.dev/updates/organization-runner-controls-for-copilot-cloud-agent/)
-* [azure: Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027](https://quintelier.dev/updates/retirement-python-support-for-azure-app-service-and-azure-functions-on-windows-will-be-retired-on-march-31-2027/)
-* [security: Threat actor abuse of AI accelerates from tool to cyberattack surface](https://quintelier.dev/updates/threat-actor-abuse-of-ai-accelerates-from-tool-to-cyberattack-surface/)
+* [azure: [In preview] Public Preview: Rule impact analysis on Azure Network Watcher](https://quintelier.dev/updates/in-preview-public-preview-rule-impact-analysis-on-azure-network-watcher/)
+* [security: Storm-1175 focuses gaze on vulnerable web-facing assets in high-tempo Medusa ransomware operations](https://quintelier.dev/updates/storm-1175-focuses-gaze-on-vulnerable-web-facing-assets-in-high-tempo-medusa-ransomware-operations/)
 * [dotnet: Explore union types in C# 15](https://quintelier.dev/updates/explore-union-types-in-c-15/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
