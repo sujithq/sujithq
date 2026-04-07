@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Prioritize security alerts with runtime context from Dynatrace](https://quintelier.dev/updates/prioritize-security-alerts-with-runtime-context-from-dynatrace/)
-* [azure: [Launched] Generally Available: Disable HTTP proxy in AKS](https://quintelier.dev/updates/launched-generally-available-disable-http-proxy-in-aks/)
+* [azure: [Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support](https://quintelier.dev/updates/launched-generally-available-azure-red-hat-openshift-adds-nvidia-h100-and-h200-gpu-support/)
 * [security: SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks](https://quintelier.dev/updates/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
