@@ -90,10 +90,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot CLI now supports BYOK and local models](https://quintelier.dev/updates/copilot-cli-now-supports-byok-and-local-models/)
-* [azure: [Launched] Generally Available: Network Security Perimeter for Azure Service Bus](https://quintelier.dev/updates/launched-generally-available-network-security-perimeter-for-azure-service-bus/)
+* [github: Prioritize security alerts with runtime context from Dynatrace](https://quintelier.dev/updates/prioritize-security-alerts-with-runtime-context-from-dynatrace/)
+* [azure: [Launched] Generally Available: Disable HTTP proxy in AKS](https://quintelier.dev/updates/launched-generally-available-disable-http-proxy-in-aks/)
 * [security: SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks](https://quintelier.dev/updates/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/)
-* [dotnet: ASP.NET Core 2.3 end of support announcement](https://quintelier.dev/updates/asp-net-core-2-3-end-of-support-announcement/)
+* [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
 
