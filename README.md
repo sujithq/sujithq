@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Organization runner controls for Copilot cloud agent](https://quintelier.dev/updates/organization-runner-controls-for-copilot-cloud-agent/)
+* [github: Copilot usage metrics now identify active and passive Copilot code review users](https://quintelier.dev/updates/copilot-usage-metrics-now-identify-active-and-passive-copilot-code-review-users/)
 * [azure: [Launched] Generally Available: Network Security Perimeter for Azure Service Bus](https://quintelier.dev/updates/launched-generally-available-network-security-perimeter-for-azure-service-bus/)
 * [security: Inside an AI‑enabled device code phishing campaign](https://quintelier.dev/updates/inside-an-ai-enabled-device-code-phishing-campaign/)
 * [dotnet: Explore union types in C# 15](https://quintelier.dev/updates/explore-union-types-in-c-15/)
