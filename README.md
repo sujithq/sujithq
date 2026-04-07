@@ -93,7 +93,7 @@ Currently working on:
 * [github: Copilot CLI now supports BYOK and local models](https://quintelier.dev/updates/copilot-cli-now-supports-byok-and-local-models/)
 * [azure: [Launched] Generally Available: Network Security Perimeter for Azure Service Bus](https://quintelier.dev/updates/launched-generally-available-network-security-perimeter-for-azure-service-bus/)
 * [security: SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks](https://quintelier.dev/updates/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/)
-* [dotnet: Explore union types in C# 15](https://quintelier.dev/updates/explore-union-types-in-c-15/)
+* [dotnet: ASP.NET Core 2.3 end of support announcement](https://quintelier.dev/updates/asp-net-core-2-3-end-of-support-announcement/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
 <!-- UPDATES-LIST:END -->
 
