@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Code Security risk assessment available for organizations](https://quintelier.dev/updates/code-security-risk-assessment-available-for-organizations/)
-* [azure: [Launched] Generally Available: Azure Red Hat OpenShift adds NVIDIA H100 and H200 GPU support](https://quintelier.dev/updates/launched-generally-available-azure-red-hat-openshift-adds-nvidia-h100-and-h200-gpu-support/)
+* [azure: [Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health](https://quintelier.dev/updates/launched-generally-available-enhancements-to-maintenance-notifications-in-azure-service-health/)
 * [security: SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks](https://quintelier.dev/updates/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: Foundry Agent Service is GA: private networking, Voice Live, and enterprise-grade evaluations](https://quintelier.dev/updates/foundry-agent-service-is-ga-private-networking-voice-live-and-enterprise-grade-evaluations/)
