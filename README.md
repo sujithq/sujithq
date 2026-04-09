@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: New Low Quality option in the Hide comment menu](https://quintelier.dev/updates/new-low-quality-option-in-the-hide-comment-menu/)
+* [github: Ask Copilot in security assessments now available](https://quintelier.dev/updates/ask-copilot-in-security-assessments-now-available/)
 * [azure: [Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health](https://quintelier.dev/updates/launched-generally-available-enhancements-to-maintenance-notifications-in-azure-service-health/)
-* [security: Investigating Storm-2755: “Payroll pirate” attacks targeting Canadian employees](https://quintelier.dev/updates/investigating-storm-2755-payroll-pirate-attacks-targeting-canadian-employees/)
+* [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: Foundry Local is now Generally Available](https://quintelier.dev/updates/foundry-local-is-now-generally-available/)
 <!-- UPDATES-LIST:END -->
