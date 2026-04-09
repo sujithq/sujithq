@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Secret scanning improvements to alert APIs, webhooks, and delegated workflows](https://quintelier.dev/updates/secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows/)
+* [github: Copilot-reviewed pull request merge metrics now in the usage metrics API](https://quintelier.dev/updates/copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api/)
 * [azure: [Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health](https://quintelier.dev/updates/launched-generally-available-enhancements-to-maintenance-notifications-in-azure-service-health/)
 * [security: SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks](https://quintelier.dev/updates/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
