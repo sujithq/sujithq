@@ -94,7 +94,7 @@ Currently working on:
 * [azure: [Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health](https://quintelier.dev/updates/launched-generally-available-enhancements-to-maintenance-notifications-in-azure-service-health/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
-* [ai: Foundry Local is now Generally Available](https://quintelier.dev/updates/foundry-local-is-now-generally-available/)
+* [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
