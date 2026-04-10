@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Ask Copilot in security assessments now available](https://quintelier.dev/updates/ask-copilot-in-security-assessments-now-available/)
-* [azure: [Launched] Generally Available: Enhancements to maintenance notifications in Azure Service Health](https://quintelier.dev/updates/launched-generally-available-enhancements-to-maintenance-notifications-in-azure-service-health/)
+* [github: Copilot cloud agent’s validation tools are now 20% faster](https://quintelier.dev/updates/copilot-cloud-agent-s-validation-tools-are-now-20-faster/)
+* [azure: [In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview](https://quintelier.dev/updates/in-preview-public-preview-event-grid-as-a-destination-for-stripe-events-now-in-public-preview/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
