@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot usage metrics now aggregate Copilot cloud agent active user counts](https://quintelier.dev/updates/copilot-usage-metrics-now-aggregate-copilot-cloud-agent-active-user-counts/)
+* [github: Enforcing new limits and retiring Opus 4.6 Fast from Copilot Pro+](https://quintelier.dev/updates/enforcing-new-limits-and-retiring-opus-4-6-fast-from-copilot-pro/)
 * [azure: [In preview] Public Preview: Event Grid as a destination for Stripe events now in Public Preview](https://quintelier.dev/updates/in-preview-public-preview-event-grid-as-a-destination-for-stripe-events-now-in-public-preview/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
