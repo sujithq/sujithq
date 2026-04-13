@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Remote control CLI sessions on web and mobile in public preview](https://quintelier.dev/updates/remote-control-cli-sessions-on-web-and-mobile-in-public-preview/)
+* [github: Fix merge conflicts in three clicks with Copilot cloud agent](https://quintelier.dev/updates/fix-merge-conflicts-in-three-clicks-with-copilot-cloud-agent/)
 * [azure: [In preview] Public Preview: Managed identity support for graphical session recording](https://quintelier.dev/updates/in-preview-public-preview-managed-identity-support-for-graphical-session-recording/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
