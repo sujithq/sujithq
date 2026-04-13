@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Remote control CLI sessions on web and mobile in public preview](https://quintelier.dev/updates/remote-control-cli-sessions-on-web-and-mobile-in-public-preview/)
-* [azure: [Launched] Public Preview: StandardV2 NAT Gateway as an outbound type for AKS](https://quintelier.dev/updates/launched-public-preview-standardv2-nat-gateway-as-an-outbound-type-for-aks/)
+* [azure: [In preview] Public Preview: Managed identity support for graphical session recording](https://quintelier.dev/updates/in-preview-public-preview-managed-identity-support-for-graphical-session-recording/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
