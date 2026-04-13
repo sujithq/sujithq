@@ -155,6 +155,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 #### MCAPS Academy
 
 [![Agentic AI Solutions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0140-agentic-ai-solutions-expert-100x100.png)](https://www.credly.com/badges/45695232-2d77-45f9-b071-4c301aa75d81/public_url)
+![Q3 Skills Challenge](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-mcaps/001-MCAPS-Skills-Challenge-100x100.png)
+
 
 #### Employee Learning
 
