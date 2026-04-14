@@ -90,10 +90,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Link code scanning alerts to GitHub Issues](https://quintelier.dev/updates/link-code-scanning-alerts-to-github-issues/)
+* [github: OIDC support for Dependabot and code scanning](https://quintelier.dev/updates/oidc-support-for-dependabot-and-code-scanning/)
 * [azure: [Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage)](https://quintelier.dev/updates/launched-generally-available-smart-tier-azure-blob-and-data-lake-storage/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
-* [dotnet: .NET 11 Preview 3 is now available!](https://quintelier.dev/updates/net-11-preview-3-is-now-available/)
+* [dotnet: .NET and .NET Framework April 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-april-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
 <!-- UPDATES-LIST:END -->
 
