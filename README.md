@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Fix merge conflicts in three clicks with Copilot cloud agent](https://quintelier.dev/updates/fix-merge-conflicts-in-three-clicks-with-copilot-cloud-agent/)
-* [azure: [In preview] Public Preview: Managed identity support for graphical session recording](https://quintelier.dev/updates/in-preview-public-preview-managed-identity-support-for-graphical-session-recording/)
+* [github: Copilot data residency in US + EU and FedRAMP compliance now available](https://quintelier.dev/updates/copilot-data-residency-in-us-eu-and-fedramp-compliance-now-available/)
+* [azure: [Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central](https://quintelier.dev/updates/launched-generally-available-azure-file-sync-in-belgium-central-malaysia-west-and-indonesia-central/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
