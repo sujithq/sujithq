@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Code Quality: Improvements to standard findings in public preview](https://quintelier.dev/updates/github-code-quality-improvements-to-standard-findings-in-public-preview/)
+* [github: SBOM exports are now computed asynchronously](https://quintelier.dev/updates/sbom-exports-are-now-computed-asynchronously/)
 * [azure: [Launched] Generally Available: Azure File Sync in Belgium Central, Malaysia West, and Indonesia Central](https://quintelier.dev/updates/launched-generally-available-azure-file-sync-in-belgium-central-malaysia-west-and-indonesia-central/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: Your Migration’s Source of Truth: The Modernization Assessment](https://quintelier.dev/updates/your-migration-s-source-of-truth-the-modernization-assessment/)
