@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: OIDC support for Dependabot and code scanning](https://quintelier.dev/updates/oidc-support-for-dependabot-and-code-scanning/)
-* [azure: [Launched] Generally Available: Smart Tier (Azure Blob and Data Lake Storage)](https://quintelier.dev/updates/launched-generally-available-smart-tier-azure-blob-and-data-lake-storage/)
+* [azure: [In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers.](https://quintelier.dev/updates/in-preview-public-preview-azure-site-recovery-support-for-windows-azure-vms-with-nvme-disk-controllers/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
 * [dotnet: .NET and .NET Framework April 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-april-2026-servicing-releases-updates/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
