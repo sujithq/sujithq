@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [🌍 Copilot data residency for US, EU, FedRAMP](https://quintelier.dev/posts/2026/04/copilot-data-residency-us-eu-fedramp/)
 * [Mastering Asynchronous Programming with C# async/await - Part 7: Testing & Debugging](https://quintelier.dev/posts/2025/10/csharp-async-await-part7/)
 * [Mastering Asynchronous Programming with C# async/await - Part 6: Advanced Topics](https://quintelier.dev/posts/2025/10/csharp-async-await-part6/)
 * [Mastering Asynchronous Programming with C# async/await - Part 5: Real-World Use Cases](https://quintelier.dev/posts/2025/10/csharp-async-await-part5/)
@@ -84,7 +85,6 @@ Currently working on:
 * [🤖 Automating Dependabot at Scale: GitHub Actions Strategy](https://quintelier.dev/posts/2025/09/automating-dependabot-at-scale-github-actions-strategy/)
 * [Mastering Asynchronous Programming with C# async/await - Part 2: Deep Dive](https://quintelier.dev/posts/2025/09/csharp-async-await-part2/)
 * [🤖 When to Use GitHub Models, Azure AI Foundry, and OpenAI](https://quintelier.dev/posts/2025/09/when-to-use-github-models-azure-ai-foundry-openai/)
-* [Mastering Asynchronous Programming with C# async/await](https://quintelier.dev/posts/2025/09/csharp-async-await/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
