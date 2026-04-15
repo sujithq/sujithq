@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Enable Copilot cloud agent via custom properties](https://quintelier.dev/updates/enable-copilot-cloud-agent-via-custom-properties/)
+* [github: CodeQL 2.25.2 adds Kotlin 2.3.20 support and other updates](https://quintelier.dev/updates/codeql-2-25-2-adds-kotlin-2-3-20-support-and-other-updates/)
 * [azure: Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool](https://quintelier.dev/updates/retirement-end-of-lift-reminder-of-hbv2-hc-series-np-series-azure-virtual-machine-in-azure-batch-pool/)
 * [security: Incident response for AI: Same fire, different fuel](https://quintelier.dev/updates/incident-response-for-ai-same-fire-different-fuel/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
