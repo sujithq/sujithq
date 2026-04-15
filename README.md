@@ -93,7 +93,7 @@ Currently working on:
 * [github: OIDC support for Dependabot and code scanning](https://quintelier.dev/updates/oidc-support-for-dependabot-and-code-scanning/)
 * [azure: [In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers.](https://quintelier.dev/updates/in-preview-public-preview-azure-site-recovery-support-for-windows-azure-vms-with-nvme-disk-controllers/)
 * [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
-* [dotnet: .NET and .NET Framework April 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-april-2026-servicing-releases-updates/)
+* [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
 <!-- UPDATES-LIST:END -->
 
