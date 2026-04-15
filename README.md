@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: OIDC support for Dependabot and code scanning](https://quintelier.dev/updates/oidc-support-for-dependabot-and-code-scanning/)
-* [azure: [In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers.](https://quintelier.dev/updates/in-preview-public-preview-azure-site-recovery-support-for-windows-azure-vms-with-nvme-disk-controllers/)
-* [security: The agentic SOC—Rethinking SecOps for the next decade](https://quintelier.dev/updates/the-agentic-soc-rethinking-secops-for-the-next-decade/)
+* [github: Enable Copilot cloud agent via custom properties](https://quintelier.dev/updates/enable-copilot-cloud-agent-via-custom-properties/)
+* [azure: Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool](https://quintelier.dev/updates/retirement-end-of-lift-reminder-of-hbv2-hc-series-np-series-azure-virtual-machine-in-azure-batch-pool/)
+* [security: Incident response for AI: Same fire, different fuel](https://quintelier.dev/updates/incident-response-for-ai-same-fire-different-fuel/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
 * [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
 <!-- UPDATES-LIST:END -->
