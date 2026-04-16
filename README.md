@@ -90,11 +90,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Rule insights dashboard and unified filter bar](https://quintelier.dev/updates/rule-insights-dashboard-and-unified-filter-bar/)
-* [azure: Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool](https://quintelier.dev/updates/retirement-end-of-lift-reminder-of-hbv2-hc-series-np-series-azure-virtual-machine-in-azure-batch-pool/)
-* [security: Dissecting Sapphire Sleet’s macOS intrusion from lure to compromise](https://quintelier.dev/updates/dissecting-sapphire-sleet-s-macos-intrusion-from-lure-to-compromise/)
+* [github: Manage agent skills with GitHub CLI](https://quintelier.dev/updates/manage-agent-skills-with-github-cli/)
+* [azure: [In preview] Generally Available: User and group quota reports in Azure NetApp Files](https://quintelier.dev/updates/in-preview-generally-available-user-and-group-quota-reports-in-azure-netapp-files/)
+* [security: Building your cryptographic inventory: A customer strategy for cryptographic posture management](https://quintelier.dev/updates/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
-* [ai: What’s new in Microsoft Foundry | March 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-march-2026/)
+* [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
