@@ -91,7 +91,7 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Manage agent skills with GitHub CLI](https://quintelier.dev/updates/manage-agent-skills-with-github-cli/)
-* [azure: Retirement: Azure Kubernetes Service support for Ubuntu 22.04](https://quintelier.dev/updates/retirement-azure-kubernetes-service-support-for-ubuntu-22-04/)
+* [azure: Retirement: Azure Functions runtime v3 on Linux Consumption will stop running September 30, 2026](https://quintelier.dev/updates/retirement-azure-functions-runtime-v3-on-linux-consumption-will-stop-running-september-30-2026/)
 * [security: Containing a domain compromise: How predictive shielding shut down lateral movement](https://quintelier.dev/updates/containing-a-domain-compromise-how-predictive-shielding-shut-down-lateral-movement/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
 * [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
