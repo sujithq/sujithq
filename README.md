@@ -92,7 +92,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GitHub Copilot CLI now supports Copilot auto model selection](https://quintelier.dev/updates/github-copilot-cli-now-supports-copilot-auto-model-selection/)
 * [azure: [Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks](https://quintelier.dev/updates/launched-generally-available-anthropic-claude-opus-4-7-on-azure-databricks/)
-* [security: Containing a domain compromise: How predictive shielding shut down lateral movement](https://quintelier.dev/updates/containing-a-domain-compromise-how-predictive-shielding-shut-down-lateral-movement/)
+* [security: Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook](https://quintelier.dev/updates/cross-tenant-helpdesk-impersonation-to-data-exfiltration-a-human-operated-intrusion-playbook/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
 * [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
 <!-- UPDATES-LIST:END -->
