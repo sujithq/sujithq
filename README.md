@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot CLI now supports Copilot auto model selection](https://quintelier.dev/updates/github-copilot-cli-now-supports-copilot-auto-model-selection/)
+* [github: Sunsetting SHA-1 in HTTPS on GitHub](https://quintelier.dev/updates/sunsetting-sha-1-in-https-on-github/)
 * [azure: [Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks](https://quintelier.dev/updates/launched-generally-available-anthropic-claude-opus-4-7-on-azure-databricks/)
 * [security: Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook](https://quintelier.dev/updates/cross-tenant-helpdesk-impersonation-to-data-exfiltration-a-human-operated-intrusion-playbook/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
