@@ -93,7 +93,7 @@ Currently working on:
 * [github: Changes to GitHub Copilot plans for individuals](https://quintelier.dev/updates/changes-to-github-copilot-plans-for-individuals/)
 * [azure: [In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent](https://quintelier.dev/updates/in-preview-public-preview-azure-monitor-supports-native-otlp-ingestion-using-the-azure-monitor-agent/)
 * [security: Making opportunistic cyberattacks harder by design](https://quintelier.dev/updates/making-opportunistic-cyberattacks-harder-by-design/)
-* [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
+* [dotnet: Writing Node.js addons with .NET Native AOT](https://quintelier.dev/updates/writing-node-js-addons-with-net-native-aot/)
 * [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
 <!-- UPDATES-LIST:END -->
 
