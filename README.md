@@ -73,7 +73,7 @@ Currently working on:
 
 ## Latest Posts
 
-### 📝Blog
+### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
 * [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
@@ -164,7 +164,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Copilot Agent Fundamentals | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/002-copilot-agent-fundamentals-agent-launchpad-100x100.png)](https://www.credly.com/badges/93893e56-4323-4071-ac95-643e995845eb/public_url)
 [![Copilot Agent Discovery | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/003-copilot-agent-discovery-agent-launchpad-100x100.png)](https://www.credly.com/badges/6fa6262c-6643-4cfb-b7e3-859eb80f89c9/public_url)
 [![Copilot Agent Maker | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/004-copilot-agent-maker-agent-launchpad-100x100.png)](https://www.credly.com/badges/2758756a-cdfb-4bf5-802d-79f160446f99/public_url)
-
+[![Microsoft AI Nonprofit Advisor AI General Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-global-employee-engagement/006-microsoft-ai-nonprofit-advisor-ai-general-skills-100x100.png)](https://www.credly.com/badges/484891f9-6827-415d-893c-1e08d4a6aa72/public_url)
 ---
 
 ### 🐙 GitHub Certifications
