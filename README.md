@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Sunsetting SHA-1 in HTTPS on GitHub](https://quintelier.dev/updates/sunsetting-sha-1-in-https-on-github/)
-* [azure: [Launched] Generally available: Anthropic Claude Opus 4.7 on Azure Databricks](https://quintelier.dev/updates/launched-generally-available-anthropic-claude-opus-4-7-on-azure-databricks/)
+* [github: Changes to GitHub Copilot plans for individuals](https://quintelier.dev/updates/changes-to-github-copilot-plans-for-individuals/)
+* [azure: [In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent](https://quintelier.dev/updates/in-preview-public-preview-azure-monitor-supports-native-otlp-ingestion-using-the-azure-monitor-agent/)
 * [security: Making opportunistic cyberattacks harder by design](https://quintelier.dev/updates/making-opportunistic-cyberattacks-harder-by-design/)
 * [dotnet: Pin Clustering in .NET MAUI Maps](https://quintelier.dev/updates/pin-clustering-in-net-maui-maps/)
 * [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
