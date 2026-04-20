@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝Blog
 <!-- BLOG-POST-LIST:START -->
+* [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
 * [🧠 Azure Blob Storage Smart Tier is GA](https://quintelier.dev/posts/2026/04/azure-blob-storage-smart-tier-ga/)
 * [🌍 Copilot data residency for US, EU, FedRAMP](https://quintelier.dev/posts/2026/04/copilot-data-residency-us-eu-fedramp/)
@@ -84,7 +85,6 @@ Currently working on:
 * [Mastering Asynchronous Programming with C# async/await - Part 4: Patterns with Async](https://quintelier.dev/posts/2025/10/csharp-async-await-part4/)
 * [🔒 GitHub Advanced Security Certification Guide (GH-500) - Complete Prep](https://quintelier.dev/posts/2025/10/github-certification-journey-gh-500/)
 * [Mastering Asynchronous Programming with C# async/await - Part 3: Common Pitfalls and Best Practices](https://quintelier.dev/posts/2025/10/csharp-async-await-part3/)
-* [🤖 Automating Dependabot at Scale: GitHub Actions Strategy](https://quintelier.dev/posts/2025/09/automating-dependabot-at-scale-github-actions-strategy/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
