@@ -90,10 +90,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Changes to GitHub Copilot plans for individuals](https://quintelier.dev/updates/changes-to-github-copilot-plans-for-individuals/)
-* [azure: [In preview] Public Preview: Azure Monitor supports native OTLP ingestion using the Azure Monitor Agent](https://quintelier.dev/updates/in-preview-public-preview-azure-monitor-supports-native-otlp-ingestion-using-the-azure-monitor-agent/)
-* [security: Making opportunistic cyberattacks harder by design](https://quintelier.dev/updates/making-opportunistic-cyberattacks-harder-by-design/)
-* [dotnet: Writing Node.js addons with .NET Native AOT](https://quintelier.dev/updates/writing-node-js-addons-with-net-native-aot/)
+* [github: CodeQL now supports sanitizers and validators in models-as-data](https://quintelier.dev/updates/codeql-now-supports-sanitizers-and-validators-in-models-as-data/)
+* [azure: [In preview] Generally Available: Azure NetApp Files advanced ransomware protection](https://quintelier.dev/updates/in-preview-generally-available-azure-netapp-files-advanced-ransomware-protection/)
+* [security: Detection strategies across cloud and identities against infiltrating IT workers](https://quintelier.dev/updates/detection-strategies-across-cloud-and-identities-against-infiltrating-it-workers/)
+* [dotnet: .NET 10.0.7 Out-of-Band Security Update](https://quintelier.dev/updates/net-10-0-7-out-of-band-security-update/)
 * [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
 <!-- UPDATES-LIST:END -->
 
