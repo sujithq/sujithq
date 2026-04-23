@@ -90,11 +90,11 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: CodeQL now supports sanitizers and validators in models-as-data](https://quintelier.dev/updates/codeql-now-supports-sanitizers-and-validators-in-models-as-data/)
-* [azure: [Launched] Generally Available: Azure Monitor pipeline](https://quintelier.dev/updates/launched-generally-available-azure-monitor-pipeline/)
-* [security: Detection strategies across cloud and identities against infiltrating IT workers](https://quintelier.dev/updates/detection-strategies-across-cloud-and-identities-against-infiltrating-it-workers/)
+* [github: GitHub Copilot for Jira: Our latest enhancements](https://quintelier.dev/updates/github-copilot-for-jira-our-latest-enhancements/)
+* [azure: [In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target](https://quintelier.dev/updates/in-preview-public-preview-azure-arc-adds-sql-server-on-azure-virtual-machines-as-a-migration-target/)
+* [security: AI-powered defense for an AI-accelerated threat landscape](https://quintelier.dev/updates/ai-powered-defense-for-an-ai-accelerated-threat-landscape/)
 * [dotnet: .NET 10.0.7 Out-of-Band Security Update](https://quintelier.dev/updates/net-10-0-7-out-of-band-security-update/)
-* [ai: What’s New in Microsoft Foundry Fine-Tuning | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-fine-tuning-april-2026/)
+* [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
