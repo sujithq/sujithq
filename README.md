@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
 * [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
 * [🧠 Azure Blob Storage Smart Tier is GA](https://quintelier.dev/posts/2026/04/azure-blob-storage-smart-tier-ga/)
@@ -84,16 +85,15 @@ Currently working on:
 * [Mastering Asynchronous Programming with C# async/await - Part 5: Real-World Use Cases](https://quintelier.dev/posts/2025/10/csharp-async-await-part5/)
 * [Mastering Asynchronous Programming with C# async/await - Part 4: Patterns with Async](https://quintelier.dev/posts/2025/10/csharp-async-await-part4/)
 * [🔒 GitHub Advanced Security Certification Guide (GH-500) - Complete Prep](https://quintelier.dev/posts/2025/10/github-certification-journey-gh-500/)
-* [Mastering Asynchronous Programming with C# async/await - Part 3: Common Pitfalls and Best Practices](https://quintelier.dev/posts/2025/10/csharp-async-await-part3/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot for Jira: Our latest enhancements](https://quintelier.dev/updates/github-copilot-for-jira-our-latest-enhancements/)
-* [azure: [In preview] Public Preview: Azure Arc adds SQL Server on Azure Virtual Machines as a migration target](https://quintelier.dev/updates/in-preview-public-preview-azure-arc-adds-sql-server-on-azure-virtual-machines-as-a-migration-target/)
+* [github: Copilot cloud agent fields added to usage metrics](https://quintelier.dev/updates/copilot-cloud-agent-fields-added-to-usage-metrics/)
+* [azure: [Launched] Generally Available: Capacity Autoscaling](https://quintelier.dev/updates/launched-generally-available-capacity-autoscaling/)
 * [security: AI-powered defense for an AI-accelerated threat landscape](https://quintelier.dev/updates/ai-powered-defense-for-an-ai-accelerated-threat-landscape/)
-* [dotnet: .NET 10.0.7 Out-of-Band Security Update](https://quintelier.dev/updates/net-10-0-7-out-of-band-security-update/)
+* [dotnet: What’s new for .NET in Ubuntu 26.04](https://quintelier.dev/updates/what-s-new-for-net-in-ubuntu-26-04/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
