@@ -90,7 +90,7 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Copilot cloud agent fields added to usage metrics](https://quintelier.dev/updates/copilot-cloud-agent-fields-added-to-usage-metrics/)
+* [github: Copilot Chat improvements for pull requests](https://quintelier.dev/updates/copilot-chat-improvements-for-pull-requests/)
 * [azure: [Launched] Generally Available: Capacity Autoscaling](https://quintelier.dev/updates/launched-generally-available-capacity-autoscaling/)
 * [security: AI-powered defense for an AI-accelerated threat landscape](https://quintelier.dev/updates/ai-powered-defense-for-an-ai-accelerated-threat-landscape/)
 * [dotnet: What’s new for .NET in Ubuntu 26.04](https://quintelier.dev/updates/what-s-new-for-net-in-ubuntu-26-04/)
