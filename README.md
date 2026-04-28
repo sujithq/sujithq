@@ -92,8 +92,8 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot Student GPT-5.3-Codex removal from model picker](https://quintelier.dev/updates/copilot-student-gpt-5-3-codex-removal-from-model-picker/)
 * [azure: [Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service](https://quintelier.dev/updates/launched-generally-available-bring-your-own-ai-gateway-in-foundry-agent-service/)
-* [security: AI-powered defense for an AI-accelerated threat landscape](https://quintelier.dev/updates/ai-powered-defense-for-an-ai-accelerated-threat-landscape/)
-* [dotnet: Combining API versioning with OpenAPI in .NET 10 applications](https://quintelier.dev/updates/combining-api-versioning-with-openapi-in-net-10-applications/)
+* [security: Simplifying AWS defense with Microsoft Sentinel UEBA](https://quintelier.dev/updates/simplifying-aws-defense-with-microsoft-sentinel-ueba/)
+* [dotnet: Welcome to SkiaSharp 4.0 Preview 1](https://quintelier.dev/updates/welcome-to-skiasharp-4-0-preview-1/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
