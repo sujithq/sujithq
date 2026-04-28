@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [🛠️ Agentic Infographic Workflow Postmortem](https://quintelier.dev/posts/2026/04/agentic-infographic-workflow-postmortem/)
 * [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
 * [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
@@ -84,14 +85,13 @@ Currently working on:
 * [Mastering Asynchronous Programming with C# async/await - Part 6: Advanced Topics](https://quintelier.dev/posts/2025/10/csharp-async-await-part6/)
 * [Mastering Asynchronous Programming with C# async/await - Part 5: Real-World Use Cases](https://quintelier.dev/posts/2025/10/csharp-async-await-part5/)
 * [Mastering Asynchronous Programming with C# async/await - Part 4: Patterns with Async](https://quintelier.dev/posts/2025/10/csharp-async-await-part4/)
-* [🔒 GitHub Advanced Security Certification Guide (GH-500) - Complete Prep](https://quintelier.dev/posts/2025/10/github-certification-journey-gh-500/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot Student GPT-5.3-Codex removal from model picker](https://quintelier.dev/updates/copilot-student-gpt-5-3-codex-removal-from-model-picker/)
-* [azure: [In preview] Public Preview: Microsoft HTTP DDoS Ruleset for Azure WAF on Azure Front Door Premium](https://quintelier.dev/updates/in-preview-public-preview-microsoft-http-ddos-ruleset-for-azure-waf-on-azure-front-door-premium/)
+* [azure: [Launched] Generally Available: Connect to Elastic SAN from Windows VM via VM Extension](https://quintelier.dev/updates/launched-generally-available-connect-to-elastic-san-from-windows-vm-via-vm-extension/)
 * [security: Simplifying AWS defense with Microsoft Sentinel UEBA](https://quintelier.dev/updates/simplifying-aws-defense-with-microsoft-sentinel-ueba/)
 * [dotnet: Welcome to SkiaSharp 4.0 Preview 1](https://quintelier.dev/updates/welcome-to-skiasharp-4-0-preview-1/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
