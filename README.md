@@ -90,10 +90,10 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: Notice about upcoming new format for GitHub App installation tokens](https://quintelier.dev/updates/notice-about-upcoming-new-format-for-github-app-installation-tokens/)
-* [azure: [In preview] Public Preview: Azure Backup for Elastic SAN](https://quintelier.dev/updates/in-preview-public-preview-azure-backup-for-elastic-san/)
+* [github: Copilot Student GPT-5.3-Codex removal from model picker](https://quintelier.dev/updates/copilot-student-gpt-5-3-codex-removal-from-model-picker/)
+* [azure: [Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service](https://quintelier.dev/updates/launched-generally-available-bring-your-own-ai-gateway-in-foundry-agent-service/)
 * [security: AI-powered defense for an AI-accelerated threat landscape](https://quintelier.dev/updates/ai-powered-defense-for-an-ai-accelerated-threat-landscape/)
-* [dotnet: What’s new for .NET in Ubuntu 26.04](https://quintelier.dev/updates/what-s-new-for-net-in-ubuntu-26-04/)
+* [dotnet: Combining API versioning with OpenAPI in .NET 10 applications](https://quintelier.dev/updates/combining-api-versioning-with-openapi-in-net-10-applications/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
