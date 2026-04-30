@@ -91,9 +91,9 @@ Currently working on:
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Copilot Student GPT-5.3-Codex removal from model picker](https://quintelier.dev/updates/copilot-student-gpt-5-3-codex-removal-from-model-picker/)
-* [azure: [In preview] Public Preview: Memory in Foundry Agent Service](https://quintelier.dev/updates/in-preview-public-preview-memory-in-foundry-agent-service/)
-* [security: Simplifying AWS defense with Microsoft Sentinel UEBA](https://quintelier.dev/updates/simplifying-aws-defense-with-microsoft-sentinel-ueba/)
-* [dotnet: Welcome to SkiaSharp 4.0 Preview 1](https://quintelier.dev/updates/welcome-to-skiasharp-4-0-preview-1/)
+* [azure: [Launched] Generally Available: Microsoft Azure Red Hat OpenShift is now available in Austria East](https://quintelier.dev/updates/launched-generally-available-microsoft-azure-red-hat-openshift-is-now-available-in-austria-east/)
+* [security: 8 best practices for CISOs conducting risk reviews](https://quintelier.dev/updates/8-best-practices-for-cisos-conducting-risk-reviews/)
+* [dotnet: Governing MCP tool calls in .NET with the Agent Governance Toolkit](https://quintelier.dev/updates/governing-mcp-tool-calls-in-net-with-the-agent-governance-toolkit/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
