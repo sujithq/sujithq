@@ -92,7 +92,7 @@ Currently working on:
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: GitHub Copilot in Visual Studio — April update](https://quintelier.dev/updates/github-copilot-in-visual-studio-april-update/)
 * [azure: [Launched] Generally Available: Prefix-scoped access for User Delegation SAS](https://quintelier.dev/updates/launched-generally-available-prefix-scoped-access-for-user-delegation-sas/)
-* [security: What’s new, updated, or recently released in Microsoft Security](https://quintelier.dev/updates/what-s-new-updated-or-recently-released-in-microsoft-security/)
+* [security: Microsoft Agent 365, now generally available, expands capabilities and integrations](https://quintelier.dev/updates/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)
 * [dotnet: Building an AI-Powered Conference App with .NET’s Composable AI Stack](https://quintelier.dev/updates/building-an-ai-powered-conference-app-with-net-s-composable-ai-stack/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
