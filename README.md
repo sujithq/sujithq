@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
-* [github: GitHub Copilot in Visual Studio — April update](https://quintelier.dev/updates/github-copilot-in-visual-studio-april-update/)
-* [azure: [Launched] Generally Available: Prefix-scoped access for User Delegation SAS](https://quintelier.dev/updates/launched-generally-available-prefix-scoped-access-for-user-delegation-sas/)
-* [security: Microsoft Agent 365, now generally available, expands capabilities and integrations](https://quintelier.dev/updates/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/)
+* [github: Upcoming deprecation of GPT-5.2 and GPT-5.2-Codex](https://quintelier.dev/updates/upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/)
+* [azure: [Launched] Update: Egress and data transfer with Azure in the United Kingdom](https://quintelier.dev/updates/launched-update-egress-and-data-transfer-with-azure-in-the-united-kingdom/)
+* [security: CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://quintelier.dev/updates/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation-across-cloud-environments/)
 * [dotnet: Building an AI-Powered Conference App with .NET’s Composable AI Stack](https://quintelier.dev/updates/building-an-ai-powered-conference-app-with-net-s-composable-ai-stack/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
