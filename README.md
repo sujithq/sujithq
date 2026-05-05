@@ -89,11 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [terraform: 5 tips for credential management across multi-cloud](https://quintelier.dev/updates/5-tips-for-credential-management-across-multi-cloud/)
 * [github: Upcoming deprecation of GPT-5.2 and GPT-5.2-Codex](https://quintelier.dev/updates/upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/)
-* [azure: [Launched] Update: Egress and data transfer with Azure in the United Kingdom](https://quintelier.dev/updates/launched-update-egress-and-data-transfer-with-azure-in-the-united-kingdom/)
-* [security: CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments](https://quintelier.dev/updates/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation-across-cloud-environments/)
-* [dotnet: Building an AI-Powered Conference App with .NET’s Composable AI Stack](https://quintelier.dev/updates/building-an-ai-powered-conference-app-with-net-s-composable-ai-stack/)
+* [azure: [Launched] Generally Available: Azure Functions durable task scheduler Consumption SKU](https://quintelier.dev/updates/launched-generally-available-azure-functions-durable-task-scheduler-consumption-sku/)
+* [security: Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://quintelier.dev/updates/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
+* [dotnet: Microsoft Agent Framework – Building Blocks for AI Part 3](https://quintelier.dev/updates/microsoft-agent-framework-building-blocks-for-ai-part-3/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
