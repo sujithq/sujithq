@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Upcoming deprecation of GPT-5.2 and GPT-5.2-Codex](https://quintelier.dev/updates/upcoming-deprecation-of-gpt-5-2-and-gpt-5-2-codex/)
+* [github: Code-to-cloud risk visibility with Microsoft Defender for Cloud is now generally available](https://quintelier.dev/updates/code-to-cloud-risk-visibility-with-microsoft-defender-for-cloud-is-now-generally-available/)
 * [azure: [Launched] Generally Available: Azure Functions durable task scheduler Consumption SKU](https://quintelier.dev/updates/launched-generally-available-azure-functions-durable-task-scheduler-consumption-sku/)
 * [security: Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://quintelier.dev/updates/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
 * [dotnet: Microsoft Agent Framework – Building Blocks for AI Part 3](https://quintelier.dev/updates/microsoft-agent-framework-building-blocks-for-ai-part-3/)
