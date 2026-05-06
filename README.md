@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Code-to-cloud risk visibility with Microsoft Defender for Cloud is now generally available](https://quintelier.dev/updates/code-to-cloud-risk-visibility-with-microsoft-defender-for-cloud-is-now-generally-available/)
-* [azure: [Launched] Generally Available: Azure Functions durable task scheduler Consumption SKU](https://quintelier.dev/updates/launched-generally-available-azure-functions-durable-task-scheduler-consumption-sku/)
+* [github: Secret scanning with GitHub MCP Server is now generally available](https://quintelier.dev/updates/secret-scanning-with-github-mcp-server-is-now-generally-available/)
+* [azure: Retirement: Azure Reserved Virtual Machines Instances for select VM series](https://quintelier.dev/updates/retirement-azure-reserved-virtual-machines-instances-for-select-vm-series/)
 * [security: Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://quintelier.dev/updates/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
 * [dotnet: Microsoft Agent Framework – Building Blocks for AI Part 3](https://quintelier.dev/updates/microsoft-agent-framework-building-blocks-for-ai-part-3/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
