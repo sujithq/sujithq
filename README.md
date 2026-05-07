@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Secret scanning with GitHub MCP Server is now generally available](https://quintelier.dev/updates/secret-scanning-with-github-mcp-server-is-now-generally-available/)
-* [azure: Retirement: Azure Reserved Virtual Machines Instances for select VM series](https://quintelier.dev/updates/retirement-azure-reserved-virtual-machines-instances-for-select-vm-series/)
-* [security: Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise](https://quintelier.dev/updates/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/)
-* [dotnet: Microsoft Agent Framework – Building Blocks for AI Part 3](https://quintelier.dev/updates/microsoft-agent-framework-building-blocks-for-ai-part-3/)
+* [github: Enterprise-managed plugins in GitHub Copilot CLI are now in public preview](https://quintelier.dev/updates/enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview/)
+* [azure: [In preview] Public Preview: Azure SQL update for early-May 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-update-for-early-may-2026/)
+* [security: ​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​](https://quintelier.dev/updates/microsoft-named-an-overall-leader-in-kuppingercole-analyst-s-2026-emerging-ai-security-operations-center-soc-report/)
+* [dotnet: Durable Workflows in the Microsoft Agent Framework](https://quintelier.dev/updates/durable-workflows-in-the-microsoft-agent-framework/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
