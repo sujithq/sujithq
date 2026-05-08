@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Upcoming deprecation of GPT-4.1](https://quintelier.dev/updates/upcoming-deprecation-of-gpt-4-1/)
+* [github: Disable commit comments on the user level](https://quintelier.dev/updates/disable-commit-comments-on-the-user-level/)
 * [azure: [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-is-now-available-in-all-three-available-zones-in-japan-west/)
 * [security: When prompts become shells: RCE vulnerabilities in AI agent frameworks](https://quintelier.dev/updates/when-prompts-become-shells-rce-vulnerabilities-in-ai-agent-frameworks/)
 * [dotnet: Copilot Studio gets faster with .NET 10 on WebAssembly](https://quintelier.dev/updates/copilot-studio-gets-faster-with-net-10-on-webassembly/)
