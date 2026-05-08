@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise-managed plugins in GitHub Copilot CLI are now in public preview](https://quintelier.dev/updates/enterprise-managed-plugins-in-github-copilot-cli-are-now-in-public-preview/)
-* [azure: [In preview] Public Preview: Azure SQL update for early-May 2026](https://quintelier.dev/updates/in-preview-public-preview-azure-sql-update-for-early-may-2026/)
-* [security: ​​Microsoft named an overall leader in KuppingerCole Analyst’s 2026 Emerging AI Security Operations Center (SOC) report ​​](https://quintelier.dev/updates/microsoft-named-an-overall-leader-in-kuppingercole-analyst-s-2026-emerging-ai-security-operations-center-soc-report/)
-* [dotnet: Durable Workflows in the Microsoft Agent Framework](https://quintelier.dev/updates/durable-workflows-in-the-microsoft-agent-framework/)
+* [github: Upcoming deprecation of GPT-4.1](https://quintelier.dev/updates/upcoming-deprecation-of-gpt-4-1/)
+* [azure: [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-is-now-available-in-all-three-available-zones-in-japan-west/)
+* [security: When prompts become shells: RCE vulnerabilities in AI agent frameworks](https://quintelier.dev/updates/when-prompts-become-shells-rce-vulnerabilities-in-ai-agent-frameworks/)
+* [dotnet: Copilot Studio gets faster with .NET 10 on WebAssembly](https://quintelier.dev/updates/copilot-studio-gets-faster-with-net-10-on-webassembly/)
 * [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
