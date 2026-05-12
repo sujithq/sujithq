@@ -93,7 +93,7 @@ Currently working on:
 * [azure: [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-is-now-available-in-all-three-available-zones-in-japan-west/)
 * [security: Active attack: Dirty Frag Linux vulnerability expands post-compromise risk](https://quintelier.dev/updates/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
 * [dotnet: Copilot Studio gets faster with .NET 10 on WebAssembly](https://quintelier.dev/updates/copilot-studio-gets-faster-with-net-10-on-webassembly/)
-* [ai: Introducing Toolboxes in Foundry](https://quintelier.dev/updates/introducing-toolboxes-in-foundry/)
+* [ai: What’s new in Microsoft Foundry | April 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-april-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
