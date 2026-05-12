@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Upcoming deprecation of Grok Code Fast 1](https://quintelier.dev/updates/upcoming-deprecation-of-grok-code-fast-1/)
+* [github: Create repositories on the go with GitHub Mobile](https://quintelier.dev/updates/create-repositories-on-the-go-with-github-mobile/)
 * [azure: [Launched] Generally Available: Azure Premium SSD v2 Disk is now available in all three available zones in Japan West](https://quintelier.dev/updates/launched-generally-available-azure-premium-ssd-v2-disk-is-now-available-in-all-three-available-zones-in-japan-west/)
 * [security: Active attack: Dirty Frag Linux vulnerability expands post-compromise risk](https://quintelier.dev/updates/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/)
 * [dotnet: Copilot Studio gets faster with .NET 10 on WebAssembly](https://quintelier.dev/updates/copilot-studio-gets-faster-with-net-10-on-webassembly/)
