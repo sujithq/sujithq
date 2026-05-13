@@ -75,6 +75,8 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [🎨 Generate with GPT-image-2](https://quintelier.dev/posts/2026/05/create-image-skill-azure-openai/)
+* [📱 Create repos faster with GitHub Mobile](https://quintelier.dev/posts/2026/05/github-mobile-create-repositories/)
 * [🔑 Easier BYOK for GitHub Copilot CLI](https://quintelier.dev/posts/2026/05/copilot-cli-byok-model-switcher/)
 * [🛠️ Agentic Infographic Workflow Postmortem](https://quintelier.dev/posts/2026/04/agentic-infographic-workflow-postmortem/)
 * [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
@@ -83,8 +85,6 @@ Currently working on:
 * [🧠 Azure Blob Storage Smart Tier is GA](https://quintelier.dev/posts/2026/04/azure-blob-storage-smart-tier-ga/)
 * [🌍 Copilot data residency for US, EU, FedRAMP](https://quintelier.dev/posts/2026/04/copilot-data-residency-us-eu-fedramp/)
 * [Mastering Asynchronous Programming with C# async/await - Part 7: Testing & Debugging](https://quintelier.dev/posts/2025/10/csharp-async-await-part7/)
-* [Mastering Asynchronous Programming with C# async/await - Part 6: Advanced Topics](https://quintelier.dev/posts/2025/10/csharp-async-await-part6/)
-* [Mastering Asynchronous Programming with C# async/await - Part 5: Real-World Use Cases](https://quintelier.dev/posts/2025/10/csharp-async-await-part5/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
