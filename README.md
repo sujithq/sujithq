@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot code review: Comment experience improvements](https://quintelier.dev/updates/copilot-code-review-comment-experience-improvements/)
-* [azure: [Launched] Generally Available: Azure Monitor dashboards with Grafana in Public, Government (Fairfax) and China](https://quintelier.dev/updates/launched-generally-available-azure-monitor-dashboards-with-grafana-in-public-government-fairfax-and-china/)
+* [github: New enterprise installation API now in public preview](https://quintelier.dev/updates/new-enterprise-installation-api-now-in-public-preview/)
+* [azure: [In preview] Public Preview: Azure Container Apps Express](https://quintelier.dev/updates/in-preview-public-preview-azure-container-apps-express/)
 * [security: Accelerating detection engineering using AI-assisted synthetic attack logs generation](https://quintelier.dev/updates/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/)
-* [dotnet: .NET 11 Preview 4 is now available!](https://quintelier.dev/updates/net-11-preview-4-is-now-available/)
+* [dotnet: Process API Improvements in .NET 11](https://quintelier.dev/updates/process-api-improvements-in-net-11/)
 * [ai: Foundry Local 1.1: Live Transcription, Embeddings, and Responses API](https://quintelier.dev/updates/foundry-local-1-1-live-transcription-embeddings-and-responses-api/)
 <!-- UPDATES-LIST:END -->
 
