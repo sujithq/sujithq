@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: New enterprise installation API now in public preview](https://quintelier.dev/updates/new-enterprise-installation-api-now-in-public-preview/)
+* [github: Copilot cloud agent supports auto model selection](https://quintelier.dev/updates/copilot-cloud-agent-supports-auto-model-selection/)
 * [azure: [In preview] Public Preview: Azure Container Apps Express](https://quintelier.dev/updates/in-preview-public-preview-azure-container-apps-express/)
 * [security: Accelerating detection engineering using AI-assisted synthetic attack logs generation](https://quintelier.dev/updates/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/)
 * [dotnet: Process API Improvements in .NET 11](https://quintelier.dev/updates/process-api-improvements-in-net-11/)
