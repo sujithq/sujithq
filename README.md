@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot cloud agent supports auto model selection](https://quintelier.dev/updates/copilot-cloud-agent-supports-auto-model-selection/)
-* [azure: [In preview] Public Preview: Azure Container Apps Express](https://quintelier.dev/updates/in-preview-public-preview-azure-container-apps-express/)
-* [security: Accelerating detection engineering using AI-assisted synthetic attack logs generation](https://quintelier.dev/updates/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/)
+* [github: Team-level Copilot usage metrics now available via API](https://quintelier.dev/updates/team-level-copilot-usage-metrics-now-available-via-api/)
+* [azure: [Launched] Generally Available: Support for workloads with large files in Azure NetApp Files](https://quintelier.dev/updates/launched-generally-available-support-for-workloads-with-large-files-in-azure-netapp-files/)
+* [security: Defense in depth for autonomous AI agents](https://quintelier.dev/updates/defense-in-depth-for-autonomous-ai-agents/)
 * [dotnet: Process API Improvements in .NET 11](https://quintelier.dev/updates/process-api-improvements-in-net-11/)
 * [ai: Foundry Local 1.1: Live Transcription, Embeddings, and Responses API](https://quintelier.dev/updates/foundry-local-1-1-live-transcription-embeddings-and-responses-api/)
 <!-- UPDATES-LIST:END -->
