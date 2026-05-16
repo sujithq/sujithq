@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Team-level Copilot usage metrics now available via API](https://quintelier.dev/updates/team-level-copilot-usage-metrics-now-available-via-api/)
-* [azure: [Launched] Generally Available: Support for workloads with large files in Azure NetApp Files](https://quintelier.dev/updates/launched-generally-available-support-for-workloads-with-large-files-in-azure-netapp-files/)
+* [github: GitHub App installation tokens: Per-request override header](https://quintelier.dev/updates/github-app-installation-tokens-per-request-override-header/)
+* [azure: [Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements](https://quintelier.dev/updates/launched-update-microsoft-foundry-built-in-rbac-role-naming-and-enhancements/)
 * [security: Defense in depth for autonomous AI agents](https://quintelier.dev/updates/defense-in-depth-for-autonomous-ai-agents/)
 * [dotnet: Process API Improvements in .NET 11](https://quintelier.dev/updates/process-api-improvements-in-net-11/)
 * [ai: Foundry Local 1.1: Live Transcription, Embeddings, and Responses API](https://quintelier.dev/updates/foundry-local-1-1-live-transcription-embeddings-and-responses-api/)
