@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GPT-5.3-Codex is now the base model for Copilot Business and Enterprise](https://quintelier.dev/updates/gpt-5-3-codex-is-now-the-base-model-for-copilot-business-and-enterprise/)
-* [azure: [Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements](https://quintelier.dev/updates/launched-update-microsoft-foundry-built-in-rbac-role-naming-and-enhancements/)
-* [security: Defense in depth for autonomous AI agents](https://quintelier.dev/updates/defense-in-depth-for-autonomous-ai-agents/)
-* [dotnet: Process API Improvements in .NET 11](https://quintelier.dev/updates/process-api-improvements-in-net-11/)
+* [github: Audit repository Copilot cloud agent configuration via the REST API](https://quintelier.dev/updates/audit-repository-copilot-cloud-agent-configuration-via-the-rest-api/)
+* [azure: [Launched] Generally Available: Auto activation for SaaS subscriptions in Microsoft Marketplace](https://quintelier.dev/updates/launched-generally-available-auto-activation-for-saas-subscriptions-in-microsoft-marketplace/)
+* [security: How to better protect your growing business in an AI-powered world](https://quintelier.dev/updates/how-to-better-protect-your-growing-business-in-an-ai-powered-world/)
+* [dotnet: NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://quintelier.dev/updates/nuget-package-pruning-cleaner-dependencies-and-actionable-vulnerability-reports/)
 * [ai: Foundry Local 1.1: Live Transcription, Embeddings, and Responses API](https://quintelier.dev/updates/foundry-local-1-1-live-transcription-embeddings-and-responses-api/)
 <!-- UPDATES-LIST:END -->
 
