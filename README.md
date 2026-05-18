@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub App installation tokens: Per-request override header](https://quintelier.dev/updates/github-app-installation-tokens-per-request-override-header/)
+* [github: GPT-5.3-Codex is now the base model for Copilot Business and Enterprise](https://quintelier.dev/updates/gpt-5-3-codex-is-now-the-base-model-for-copilot-business-and-enterprise/)
 * [azure: [Launched] Update: Microsoft Foundry built-in RBAC role naming and enhancements](https://quintelier.dev/updates/launched-update-microsoft-foundry-built-in-rbac-role-naming-and-enhancements/)
 * [security: Defense in depth for autonomous AI agents](https://quintelier.dev/updates/defense-in-depth-for-autonomous-ai-agents/)
 * [dotnet: Process API Improvements in .NET 11](https://quintelier.dev/updates/process-api-improvements-in-net-11/)
