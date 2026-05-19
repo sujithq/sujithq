@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Audit repository Copilot cloud agent configuration via the REST API](https://quintelier.dev/updates/audit-repository-copilot-cloud-agent-configuration-via-the-rest-api/)
+* [github: One-click fixes for failing Actions with Copilot cloud agent](https://quintelier.dev/updates/one-click-fixes-for-failing-actions-with-copilot-cloud-agent/)
 * [azure: [Launched] Generally Available: Auto activation for SaaS subscriptions in Microsoft Marketplace](https://quintelier.dev/updates/launched-generally-available-auto-activation-for-saas-subscriptions-in-microsoft-marketplace/)
-* [security: How to better protect your growing business in an AI-powered world](https://quintelier.dev/updates/how-to-better-protect-your-growing-business-in-an-ai-powered-world/)
+* [security: How Storm-2949 turned a compromised identity into a cloud-wide breach](https://quintelier.dev/updates/how-storm-2949-turned-a-compromised-identity-into-a-cloud-wide-breach/)
 * [dotnet: NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://quintelier.dev/updates/nuget-package-pruning-cleaner-dependencies-and-actionable-vulnerability-reports/)
 * [ai: Foundry Local 1.1: Live Transcription, Embeddings, and Responses API](https://quintelier.dev/updates/foundry-local-1-1-live-transcription-embeddings-and-responses-api/)
 <!-- UPDATES-LIST:END -->
