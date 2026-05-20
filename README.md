@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: One-click fixes for failing Actions with Copilot cloud agent](https://quintelier.dev/updates/one-click-fixes-for-failing-actions-with-copilot-cloud-agent/)
-* [azure: [Launched] Generally Available: Auto activation for SaaS subscriptions in Microsoft Marketplace](https://quintelier.dev/updates/launched-generally-available-auto-activation-for-saas-subscriptions-in-microsoft-marketplace/)
-* [security: How Storm-2949 turned a compromised identity into a cloud-wide breach](https://quintelier.dev/updates/how-storm-2949-turned-a-compromised-identity-into-a-cloud-wide-breach/)
+* [github: Easily apply Copilot code review feedback with Copilot cloud agent](https://quintelier.dev/updates/easily-apply-copilot-code-review-feedback-with-copilot-cloud-agent/)
+* [azure: [In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards](https://quintelier.dev/updates/in-preview-public-preview-evaluate-feature-rollouts-with-azure-app-configuration-scorecards/)
+* [security: Exposing Fox Tempest: A malware-signing service operation](https://quintelier.dev/updates/exposing-fox-tempest-a-malware-signing-service-operation/)
 * [dotnet: NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://quintelier.dev/updates/nuget-package-pruning-cleaner-dependencies-and-actionable-vulnerability-reports/)
-* [ai: Foundry Local 1.1: Live Transcription, Embeddings, and Responses API](https://quintelier.dev/updates/foundry-local-1-1-live-transcription-embeddings-and-responses-api/)
+* [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
