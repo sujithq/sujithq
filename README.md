@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Easily apply Copilot code review feedback with Copilot cloud agent](https://quintelier.dev/updates/easily-apply-copilot-code-review-feedback-with-copilot-cloud-agent/)
-* [azure: [In preview] Public Preview: Evaluate feature rollouts with Azure App Configuration Scorecards](https://quintelier.dev/updates/in-preview-public-preview-evaluate-feature-rollouts-with-azure-app-configuration-scorecards/)
-* [security: Exposing Fox Tempest: A malware-signing service operation](https://quintelier.dev/updates/exposing-fox-tempest-a-malware-signing-service-operation/)
+* [github: Updates to available models in Copilot on web](https://quintelier.dev/updates/updates-to-available-models-in-copilot-on-web/)
+* [azure: [Launched] Generally Available: langchain-azure-cosmosdb python package for Azure Cosmos DB](https://quintelier.dev/updates/launched-generally-available-langchain-azure-cosmosdb-python-package-for-azure-cosmos-db/)
+* [security: Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft](https://quintelier.dev/updates/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/)
 * [dotnet: NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://quintelier.dev/updates/nuget-package-pruning-cleaner-dependencies-and-actionable-vulnerability-reports/)
 * [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
 <!-- UPDATES-LIST:END -->
