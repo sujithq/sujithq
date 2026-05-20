@@ -164,6 +164,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Copilot Agent Discovery | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/003-copilot-agent-discovery-agent-launchpad-100x100.png)](https://www.credly.com/badges/6fa6262c-6643-4cfb-b7e3-859eb80f89c9/public_url)
 [![Copilot Agent Maker | Agent Launchpad](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/004-copilot-agent-maker-agent-launchpad-100x100.png)](https://www.credly.com/badges/2758756a-cdfb-4bf5-802d-79f160446f99/public_url)
 [![Microsoft AI Nonprofit Advisor AI General Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-global-employee-engagement/006-microsoft-ai-nonprofit-advisor-ai-general-skills-100x100.png)](https://www.credly.com/badges/484891f9-6827-415d-893c-1e08d4a6aa72/public_url)
+[![Microsoft AI Nonprofit Advisor AI General Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/001-skill-up-ai-plg-100x100.png)](https://www.credly.com/badges/484891f9-6827-415d-893c-1e08d4a6aa72/public_url)
+[![SkillUp AI: Agent Speed Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/002-skillup-ai-agent-speed-skills-100x100.png)](https://www.credly.com/badges/cbf6db5d-8f65-4ba1-92e2-3f59c20fd87d/public_url)
 ---
 
 ### 🐙 GitHub Certifications
