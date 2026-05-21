@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Updates to available models in Copilot on web](https://quintelier.dev/updates/updates-to-available-models-in-copilot-on-web/)
-* [azure: [Launched] Generally Available: langchain-azure-cosmosdb python package for Azure Cosmos DB](https://quintelier.dev/updates/launched-generally-available-langchain-azure-cosmosdb-python-package-for-azure-cosmos-db/)
+* [github: Copilot usage metrics reports now use GitHub-owned download URLs](https://quintelier.dev/updates/copilot-usage-metrics-reports-now-use-github-owned-download-urls/)
+* [azure: [In preview] Update: Microsoft Entra ID token refresh support for Python, .NET, and JavaScript in Azure Database for PostgreSQL](https://quintelier.dev/updates/in-preview-update-microsoft-entra-id-token-refresh-support-for-python-net-and-javascript-in-azure-database-for-postgresql/)
 * [security: Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft](https://quintelier.dev/updates/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/)
 * [dotnet: NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://quintelier.dev/updates/nuget-package-pruning-cleaner-dependencies-and-actionable-vulnerability-reports/)
 * [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
