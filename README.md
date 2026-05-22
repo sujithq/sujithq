@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot usage metrics reports now use GitHub-owned download URLs](https://quintelier.dev/updates/copilot-usage-metrics-reports-now-use-github-owned-download-urls/)
-* [azure: [In preview] Update: Microsoft Entra ID token refresh support for Python, .NET, and JavaScript in Azure Database for PostgreSQL](https://quintelier.dev/updates/in-preview-update-microsoft-entra-id-token-refresh-support-for-python-net-and-javascript-in-azure-database-for-postgresql/)
-* [security: Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft](https://quintelier.dev/updates/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/)
-* [dotnet: NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://quintelier.dev/updates/nuget-package-pruning-cleaner-dependencies-and-actionable-vulnerability-reports/)
+* [github: GitHub Copilot for Eclipse is open source](https://quintelier.dev/updates/github-copilot-for-eclipse-is-open-source/)
+* [azure: [Launched] Generally Available: Entra-only identities with Azure Files](https://quintelier.dev/updates/launched-generally-available-entra-only-identities-with-azure-files/)
+* [security: What’s new in Microsoft Security: May 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-security-may-2026/)
+* [dotnet: Announcing Agent Governance Toolkit MCP Extensions for .NET](https://quintelier.dev/updates/announcing-agent-governance-toolkit-mcp-extensions-for-net/)
 * [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
 <!-- UPDATES-LIST:END -->
 
