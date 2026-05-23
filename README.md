@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot for Eclipse is open source](https://quintelier.dev/updates/github-copilot-for-eclipse-is-open-source/)
+* [github: Staged publishing and new install-time controls for npm](https://quintelier.dev/updates/staged-publishing-and-new-install-time-controls-for-npm/)
 * [azure: [Launched] Generally Available: Entra-only identities with Azure Files](https://quintelier.dev/updates/launched-generally-available-entra-only-identities-with-azure-files/)
-* [security: What’s new in Microsoft Security: May 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-security-may-2026/)
+* [security: Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms](https://quintelier.dev/updates/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/)
 * [dotnet: Announcing Agent Governance Toolkit MCP Extensions for .NET](https://quintelier.dev/updates/announcing-agent-governance-toolkit-mcp-extensions-for-net/)
 * [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
 <!-- UPDATES-LIST:END -->
