@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Staged publishing and new install-time controls for npm](https://quintelier.dev/updates/staged-publishing-and-new-install-time-controls-for-npm/)
-* [azure: [Launched] Generally Available: Entra-only identities with Azure Files](https://quintelier.dev/updates/launched-generally-available-entra-only-identities-with-azure-files/)
-* [security: Microsoft recognized as a Leader in The Forrester Wave™ for Workforce Identity Security Platforms](https://quintelier.dev/updates/microsoft-recognized-as-a-leader-in-the-forrester-wave-for-workforce-identity-security-platforms/)
-* [dotnet: Announcing Agent Governance Toolkit MCP Extensions for .NET](https://quintelier.dev/updates/announcing-agent-governance-toolkit-mcp-extensions-for-net/)
+* [github: Copilot Memory has more controls for deletion, scope, and the Copilot CLI](https://quintelier.dev/updates/copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli/)
+* [azure: [In preview] Public Preview: Azure Virtual Network Manager integration with Virtual WAN](https://quintelier.dev/updates/in-preview-public-preview-azure-virtual-network-manager-integration-with-virtual-wan/)
+* [security: From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities](https://quintelier.dev/updates/from-poisoned-search-results-to-gpu-mining-a-cryptojacking-campaign-abusing-screenconnect-and-microsoft-net-utilities/)
+* [dotnet: Doing More with GitHub Copilot as a .NET Developer](https://quintelier.dev/updates/doing-more-with-github-copilot-as-a-net-developer/)
 * [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
 <!-- UPDATES-LIST:END -->
 
