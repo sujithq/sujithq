@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot Memory has more controls for deletion, scope, and the Copilot CLI](https://quintelier.dev/updates/copilot-memory-has-more-controls-for-deletion-scope-and-the-copilot-cli/)
+* [github: Hard budget limits now available for GitHub Advanced Security](https://quintelier.dev/updates/hard-budget-limits-now-available-for-github-advanced-security/)
 * [azure: [Launched] Generally Available: Application Gateway for Containers – Service Mesh integration with Istio](https://quintelier.dev/updates/launched-generally-available-application-gateway-for-containers-service-mesh-integration-with-istio/)
-* [security: From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities](https://quintelier.dev/updates/from-poisoned-search-results-to-gpu-mining-a-cryptojacking-campaign-abusing-screenconnect-and-microsoft-net-utilities/)
+* [security: Typosquatted npm packages used to steal cloud and CI/CD secrets](https://quintelier.dev/updates/typosquatted-npm-packages-used-to-steal-cloud-and-ci-cd-secrets/)
 * [dotnet: Doing More with GitHub Copilot as a .NET Developer](https://quintelier.dev/updates/doing-more-with-github-copilot-as-a-net-developer/)
 * [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
 <!-- UPDATES-LIST:END -->
