@@ -330,7 +330,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 </br>
 
-![gh game](./game.gif)
+![gh game](https://raw.githubusercontent.com/sujithq/sujithq/output-space-shooter/game.gif)
 
 ---
 
