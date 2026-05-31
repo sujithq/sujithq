@@ -93,7 +93,7 @@ Currently working on:
 * [azure: [In preview] Public Preview: Azure Site Recovery Support for Performance Plus Managed Disks](https://quintelier.dev/updates/in-preview-public-preview-azure-site-recovery-support-for-performance-plus-managed-disks/)
 * [security: Malicious npm packages abuse dependency confusion to profile developer environments](https://quintelier.dev/updates/malicious-npm-packages-abuse-dependency-confusion-to-profile-developer-environments/)
 * [dotnet: Doing More with GitHub Copilot as a .NET Developer](https://quintelier.dev/updates/doing-more-with-github-copilot-as-a-net-developer/)
-* [ai: How to run evals for the model router](https://quintelier.dev/updates/how-to-run-evals-for-the-model-router/)
+* [ai: What’s new in Microsoft Foundry | May 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-may-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
