@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot usage metrics API adds cohorts for AI adoption](https://quintelier.dev/updates/copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/)
-* [azure: [In preview] Public Preview: Azure Site Recovery Support for Performance Plus Managed Disks](https://quintelier.dev/updates/in-preview-public-preview-azure-site-recovery-support-for-performance-plus-managed-disks/)
+* [github: Evaluation models in auto for individual plans](https://quintelier.dev/updates/evaluation-models-in-auto-for-individual-plans/)
+* [azure: [Launched] Generally Available: Azure Functions Support for Node.js 24](https://quintelier.dev/updates/launched-generally-available-azure-functions-support-for-node-js-24/)
 * [security: Malicious npm packages abuse dependency confusion to profile developer environments](https://quintelier.dev/updates/malicious-npm-packages-abuse-dependency-confusion-to-profile-developer-environments/)
 * [dotnet: Doing More with GitHub Copilot as a .NET Developer](https://quintelier.dev/updates/doing-more-with-github-copilot-as-a-net-developer/)
 * [ai: What’s new in Microsoft Foundry | May 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-may-2026/)
