@@ -167,6 +167,12 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Microsoft AI Nonprofit Advisor AI General Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/001-skill-up-ai-plg-100x100.png)](https://www.credly.com/badges/484891f9-6827-415d-893c-1e08d4a6aa72/public_url)
 [![SkillUp AI: Agent Speed Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/002-skillup-ai-agent-speed-skills-100x100.png)](https://www.credly.com/badges/cbf6db5d-8f65-4ba1-92e2-3f59c20fd87d/public_url)
 [![CAIP Skills Accelerator](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-css/001-caip-skills-accelerator-100x100.png)](https://www.credly.com/badges/9cea2b38-7095-49e1-8f46-6157d309cfdd/public_url)
+
+#### Skillable
+
+[![CAIP Skills Accelerator](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/skillable/001-instructor-recognition-first-class-delivered.1-100x100.png)](https://www.credly.com/badges/3bb7b595-5361-4f11-8f88-2c4f5bf0193b/public_url)
+[![CAIP Skills Accelerator](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/skillable/002-instructor-recognition-first-student-reached-100x100.png)](f6768f48-e2a4-4c14-a33b-c6c162cd5302/public_url)
+
 ---
 
 ### 🐙 GitHub Certifications
@@ -189,6 +195,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Advanced Security PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-github-advanced-security-partner-delivery-credentia-100x100.png)](https://www.credly.com/badges/7edf875e-30b2-4886-a45a-9fb84a789947/public_url)
 [![Copilot Core Skills Application PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-github-copilot-core-skills-application-partner-deli-100x100.png)](https://www.credly.com/badges/a4a89331-5665-4ebc-a086-9097bfe3f4b8/public_url)
 [![Migrations PDC](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-github-migrations-partner-delivery-credential-100x100.png)](https://www.credly.com/badges/39368409-ab07-49fc-be84-5fff28d950e3/public_url)
+
+
 
 ---
 
