@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [📊 Monitor AI Coding Agents with Grafana](https://quintelier.dev/posts/2026/06/monitor-ai-coding-agents-grafana-app-insights/)
 * [🎨 Generate with GPT-image-2](https://quintelier.dev/posts/2026/05/create-image-skill-azure-openai/)
 * [📱 Create repos faster with GitHub Mobile](https://quintelier.dev/posts/2026/05/github-mobile-create-repositories/)
 * [🔑 Easier BYOK for GitHub Copilot CLI](https://quintelier.dev/posts/2026/05/copilot-cli-byok-model-switcher/)
@@ -84,7 +85,6 @@ Currently working on:
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
 * [🧠 Azure Blob Storage Smart Tier is GA](https://quintelier.dev/posts/2026/04/azure-blob-storage-smart-tier-ga/)
 * [🌍 Copilot data residency for US, EU, FedRAMP](https://quintelier.dev/posts/2026/04/copilot-data-residency-us-eu-fedramp/)
-* [Mastering Asynchronous Programming with C# async/await - Part 7: Testing & Debugging](https://quintelier.dev/posts/2025/10/csharp-async-await-part7/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
