@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Expanded technical preview availability for the GitHub Copilot app](https://quintelier.dev/updates/expanded-technical-preview-availability-for-the-github-copilot-app/)
-* [azure: [In preview] Public Preview: Azure Backup for Cosmos DB](https://quintelier.dev/updates/in-preview-public-preview-azure-backup-for-cosmos-db/)
-* [security: Microsoft Build 2026: Securing code, agents, and models across the development lifecycle](https://quintelier.dev/updates/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/)
+* [github: GPT-4.1 deprecated](https://quintelier.dev/updates/gpt-4-1-deprecated/)
+* [azure: [Launched] Generally Available: Simple log alerts in Azure Monitor](https://quintelier.dev/updates/launched-generally-available-simple-log-alerts-in-azure-monitor/)
+* [security: Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign](https://quintelier.dev/updates/preinstall-to-persistence-inside-the-red-hat-npm-miasma-credential-stealing-campaign/)
 * [dotnet: Doing More with GitHub Copilot as a .NET Developer](https://quintelier.dev/updates/doing-more-with-github-copilot-as-a-net-developer/)
 * [ai: A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-managing-models-cost-and-quality-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
