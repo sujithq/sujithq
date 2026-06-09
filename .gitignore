@@ -73,3 +73,6 @@ Thumbs.db
 /tmp/
 *.tmp
 *.temp
+
+# APM dependencies
+apm_modules/
