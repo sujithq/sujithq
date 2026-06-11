@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GPT-4.1 deprecated](https://quintelier.dev/updates/gpt-4-1-deprecated/)
-* [azure: [Launched] Generally Available: Simple log alerts in Azure Monitor](https://quintelier.dev/updates/launched-generally-available-simple-log-alerts-in-azure-monitor/)
-* [security: Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign](https://quintelier.dev/updates/preinstall-to-persistence-inside-the-red-hat-npm-miasma-credential-stealing-campaign/)
-* [dotnet: Doing More with GitHub Copilot as a .NET Developer](https://quintelier.dev/updates/doing-more-with-github-copilot-as-a-net-developer/)
-* [ai: A Developer’s Guide to Managing Models, Cost and Quality in Microsoft Foundry](https://quintelier.dev/updates/a-developer-s-guide-to-managing-models-cost-and-quality-in-microsoft-foundry/)
+* [github: List, view, and create discussions in GitHub CLI](https://quintelier.dev/updates/list-view-and-create-discussions-in-github-cli/)
+* [azure: [Launched] Generally Available: Microsoft Entra server principals on Azure SQL Database](https://quintelier.dev/updates/launched-generally-available-microsoft-entra-server-principals-on-azure-sql-database/)
+* [security: Turn specs into evals for any agent with ASSERT](https://quintelier.dev/updates/turn-specs-into-evals-for-any-agent-with-assert/)
+* [dotnet: Join us for .NET Day on Agentic Modernization Livestream](https://quintelier.dev/updates/join-us-for-net-day-on-agentic-modernization-livestream/)
+* [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
