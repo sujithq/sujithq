@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Enterprise Server 3.21 is now generally available](https://quintelier.dev/updates/github-enterprise-server-3-21-is-now-generally-available/)
+* [github: GitHub Actions: Minimum version enforcement timeline for self-hosted runners](https://quintelier.dev/updates/github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners/)
 * [azure: Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools](https://quintelier.dev/updates/retirement-av2-series-f-series-fs-series-fsv2-series-g-series-gs-series-and-lsv2-series-virtual-machines-for-azure-batch-pools/)
 * [security: Turn specs into evals for any agent with ASSERT](https://quintelier.dev/updates/turn-specs-into-evals-for-any-agent-with-assert/)
 * [dotnet: Join us for .NET Day on Agentic Modernization Livestream](https://quintelier.dev/updates/join-us-for-net-day-on-agentic-modernization-livestream/)
