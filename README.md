@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: List, view, and create discussions in GitHub CLI](https://quintelier.dev/updates/list-view-and-create-discussions-in-github-cli/)
-* [azure: [Launched] Generally Available: Microsoft Entra server principals on Azure SQL Database](https://quintelier.dev/updates/launched-generally-available-microsoft-entra-server-principals-on-azure-sql-database/)
+* [github: GitHub Enterprise Server 3.21 is now generally available](https://quintelier.dev/updates/github-enterprise-server-3-21-is-now-generally-available/)
+* [azure: Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools](https://quintelier.dev/updates/retirement-av2-series-f-series-fs-series-fsv2-series-g-series-gs-series-and-lsv2-series-virtual-machines-for-azure-batch-pools/)
 * [security: Turn specs into evals for any agent with ASSERT](https://quintelier.dev/updates/turn-specs-into-evals-for-any-agent-with-assert/)
 * [dotnet: Join us for .NET Day on Agentic Modernization Livestream](https://quintelier.dev/updates/join-us-for-net-day-on-agentic-modernization-livestream/)
 * [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
