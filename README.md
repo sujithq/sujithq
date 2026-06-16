@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot code review: New configurations and controls](https://quintelier.dev/updates/copilot-code-review-new-configurations-and-controls/)
+* [github: Copilot usage metrics now include more of your active users](https://quintelier.dev/updates/copilot-usage-metrics-now-include-more-of-your-active-users/)
 * [azure: Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools](https://quintelier.dev/updates/retirement-av2-series-f-series-fs-series-fsv2-series-g-series-gs-series-and-lsv2-series-virtual-machines-for-azure-batch-pools/)
-* [security: Turn specs into evals for any agent with ASSERT](https://quintelier.dev/updates/turn-specs-into-evals-for-any-agent-with-assert/)
+* [security: Microsoft Defender email security benchmarking: Key insights from one year of data](https://quintelier.dev/updates/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/)
 * [dotnet: Join us for .NET Day on Agentic Modernization Livestream](https://quintelier.dev/updates/join-us-for-net-day-on-agentic-modernization-livestream/)
 * [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
 <!-- UPDATES-LIST:END -->
