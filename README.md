@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Models is no longer available to new customers](https://quintelier.dev/updates/github-models-is-no-longer-available-to-new-customers/)
-* [azure: [In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code](https://quintelier.dev/updates/in-preview-public-preview-new-project-templates-and-template-gallery-for-azure-functions-in-vs-code/)
-* [security: Microsoft Defender email security benchmarking: Key insights from one year of data](https://quintelier.dev/updates/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/)
-* [dotnet: Join us for .NET Day on Agentic Modernization Livestream](https://quintelier.dev/updates/join-us-for-net-day-on-agentic-modernization-livestream/)
+* [github: Enterprise-managed settings now support bypass permission controls](https://quintelier.dev/updates/enterprise-managed-settings-now-support-bypass-permission-controls/)
+* [azure: [In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-natively-storing-data-in-microsoft-onelake/)
+* [security: AI is accelerating cyberattacks—here’s how to stay ahead](https://quintelier.dev/updates/ai-is-accelerating-cyberattacks-here-s-how-to-stay-ahead/)
+* [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
 * [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
 <!-- UPDATES-LIST:END -->
 
