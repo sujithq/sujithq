@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot usage metrics now include more of your active users](https://quintelier.dev/updates/copilot-usage-metrics-now-include-more-of-your-active-users/)
-* [azure: Retirement: Av2-series, F-series, Fs-series, Fsv2-series, G-series, Gs-series, and Lsv2-series Virtual Machines for Azure Batch pools](https://quintelier.dev/updates/retirement-av2-series-f-series-fs-series-fsv2-series-g-series-gs-series-and-lsv2-series-virtual-machines-for-azure-batch-pools/)
+* [github: GitHub Models is no longer available to new customers](https://quintelier.dev/updates/github-models-is-no-longer-available-to-new-customers/)
+* [azure: [In preview] Public Preview: New project templates and template gallery for Azure Functions in VS Code](https://quintelier.dev/updates/in-preview-public-preview-new-project-templates-and-template-gallery-for-azure-functions-in-vs-code/)
 * [security: Microsoft Defender email security benchmarking: Key insights from one year of data](https://quintelier.dev/updates/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/)
 * [dotnet: Join us for .NET Day on Agentic Modernization Livestream](https://quintelier.dev/updates/join-us-for-net-day-on-agentic-modernization-livestream/)
 * [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
