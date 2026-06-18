@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise-managed settings now support bypass permission controls](https://quintelier.dev/updates/enterprise-managed-settings-now-support-bypass-permission-controls/)
+* [github: Read remote repository content with GitHub CLI](https://quintelier.dev/updates/read-remote-repository-content-with-github-cli/)
 * [azure: [In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-natively-storing-data-in-microsoft-onelake/)
-* [security: AI is accelerating cyberattacks—here’s how to stay ahead](https://quintelier.dev/updates/ai-is-accelerating-cyberattacks-here-s-how-to-stay-ahead/)
+* [security: From package to postinstall payload: Inside the Mastra npm supply chain compromise](https://quintelier.dev/updates/from-package-to-postinstall-payload-inside-the-mastra-npm-supply-chain-compromise/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
 * [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
 <!-- UPDATES-LIST:END -->
