@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Read remote repository content with GitHub CLI](https://quintelier.dev/updates/read-remote-repository-content-with-github-cli/)
+* [github: Upcoming deprecation of Opus 4.6 (fast)](https://quintelier.dev/updates/upcoming-deprecation-of-opus-4-6-fast/)
 * [azure: [In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-natively-storing-data-in-microsoft-onelake/)
-* [security: From package to postinstall payload: Inside the Mastra npm supply chain compromise](https://quintelier.dev/updates/from-package-to-postinstall-payload-inside-the-mastra-npm-supply-chain-compromise/)
+* [security: AutoJack: How a single page can RCE the host running your AI agent](https://quintelier.dev/updates/autojack-how-a-single-page-can-rce-the-host-running-your-ai-agent/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
-* [ai: Accelerate Edge AI Development with Foundry Local](https://quintelier.dev/updates/accelerate-edge-ai-development-with-foundry-local/)
+* [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
