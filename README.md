@@ -156,7 +156,6 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Agentic AI Solutions](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0140-agentic-ai-solutions-expert-100x100.png)](https://www.credly.com/badges/45695232-2d77-45f9-b071-4c301aa75d81/public_url)
 ![Q3 Skills Challenge](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-mcaps/001-MCAPS-Skills-Challenge-100x100.png)
 
-
 #### Employee Learning
 
 [![EMEA Becoming Frontier Achiever Badge](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-employee-learning/001-emea-becoming-frontier-achiever-badge-100x100.png)](https://www.credly.com/badges/54f97f53-6abf-4e1d-8dfa-6315fbd75734/public_url)
@@ -173,6 +172,9 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![CAIP Skills Accelerator](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/skillable/001-instructor-recognition-first-class-delivered.1-100x100.png)](https://www.credly.com/badges/3bb7b595-5361-4f11-8f88-2c4f5bf0193b/public_url)
 [![CAIP Skills Accelerator](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/skillable/002-instructor-recognition-first-student-reached-100x100.png)](f6768f48-e2a4-4c14-a33b-c6c162cd5302/public_url)
 
+#### Other
+
+[![AI Skills Fest 2026](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0003-ai-skills-fest-2026.png-100x100.png)](https://www.credly.com/badges/834958d3-c8cb-44e2-b672-550ed17d932c/public_url)
 ---
 
 ### 🐙 GitHub Certifications
