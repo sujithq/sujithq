@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Upcoming deprecation of Opus 4.6 (fast)](https://quintelier.dev/updates/upcoming-deprecation-of-opus-4-6-fast/)
+* [github: AI credits consumed per user now in the Copilot usage metrics API](https://quintelier.dev/updates/ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api/)
 * [azure: [In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-natively-storing-data-in-microsoft-onelake/)
 * [security: AutoJack: How a single page can RCE the host running your AI agent](https://quintelier.dev/updates/autojack-how-a-single-page-can-rce-the-host-running-your-ai-agent/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
