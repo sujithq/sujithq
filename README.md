@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [Maximising Copilot Token Efficiency 🚀](https://quintelier.dev/posts/2026/06/maximising-copilot-token-efficiency/)
 * [📊 Monitor AI Coding Agents with Grafana](https://quintelier.dev/posts/2026/06/monitor-ai-coding-agents-grafana-app-insights/)
 * [🎨 Generate with GPT-image-2](https://quintelier.dev/posts/2026/05/create-image-skill-azure-openai/)
 * [📱 Create repos faster with GitHub Mobile](https://quintelier.dev/posts/2026/05/github-mobile-create-repositories/)
@@ -84,7 +85,6 @@ Currently working on:
 * [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
 * [🧠 Azure Blob Storage Smart Tier is GA](https://quintelier.dev/posts/2026/04/azure-blob-storage-smart-tier-ga/)
-* [🌍 Copilot data residency for US, EU, FedRAMP](https://quintelier.dev/posts/2026/04/copilot-data-residency-us-eu-fedramp/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
