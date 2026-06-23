@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [🖥️ GitHub Copilot App is Generally Available](https://quintelier.dev/posts/2026/06/github-copilot-app-generally-available/)
 * [Maximising Copilot Token Efficiency 🚀](https://quintelier.dev/posts/2026/06/maximising-copilot-token-efficiency/)
 * [📊 Monitor AI Coding Agents with Grafana](https://quintelier.dev/posts/2026/06/monitor-ai-coding-agents-grafana-app-insights/)
 * [🎨 Generate with GPT-image-2](https://quintelier.dev/posts/2026/05/create-image-skill-azure-openai/)
@@ -84,14 +85,13 @@ Currently working on:
 * [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
 * [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 * [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
-* [🧠 Azure Blob Storage Smart Tier is GA](https://quintelier.dev/posts/2026/04/azure-blob-storage-smart-tier-ga/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: AI credits consumed per user now in the Copilot usage metrics API](https://quintelier.dev/updates/ai-credits-consumed-per-user-now-in-the-copilot-usage-metrics-api/)
+* [github: New features and Claude as agent provider preview in JetBrains IDEs](https://quintelier.dev/updates/new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides/)
 * [azure: [In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-natively-storing-data-in-microsoft-onelake/)
-* [security: AutoJack: How a single page can RCE the host running your AI agent](https://quintelier.dev/updates/autojack-how-a-single-page-can-rce-the-host-running-your-ai-agent/)
+* [security: Guarding AI memory](https://quintelier.dev/updates/guarding-ai-memory/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
