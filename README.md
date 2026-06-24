@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: New features and Claude as agent provider preview in JetBrains IDEs](https://quintelier.dev/updates/new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides/)
-* [azure: [In preview] Public Preview: Azure Databricks natively storing data in Microsoft OneLake](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-natively-storing-data-in-microsoft-onelake/)
+* [github: Secret scanning adds extended metadata for Replicate secrets](https://quintelier.dev/updates/secret-scanning-adds-extended-metadata-for-replicate-secrets/)
+* [azure: [In preview] Generally Available: Azure NetApp Files migration assistant](https://quintelier.dev/updates/in-preview-generally-available-azure-netapp-files-migration-assistant/)
 * [security: Guarding AI memory](https://quintelier.dev/updates/guarding-ai-memory/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
