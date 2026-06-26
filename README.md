@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Secret scanning adds extended metadata for Replicate secrets](https://quintelier.dev/updates/secret-scanning-adds-extended-metadata-for-replicate-secrets/)
-* [azure: [In preview] Generally Available: Azure NetApp Files migration assistant](https://quintelier.dev/updates/in-preview-generally-available-azure-netapp-files-migration-assistant/)
-* [security: Guarding AI memory](https://quintelier.dev/updates/guarding-ai-memory/)
+* [github: Copilot code review: Analysis depth and efficiency updates](https://quintelier.dev/updates/copilot-code-review-analysis-depth-and-efficiency-updates/)
+* [azure: Retirement: Migrate from Azure Blueprints by January 31, 2027](https://quintelier.dev/updates/retirement-migrate-from-azure-blueprints-by-january-31-2027/)
+* [security: Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access](https://quintelier.dev/updates/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-for-persistent-access/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
