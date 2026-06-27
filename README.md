@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot code review: Analysis depth and efficiency updates](https://quintelier.dev/updates/copilot-code-review-analysis-depth-and-efficiency-updates/)
+* [github: Track total merges by adoption phase in enterprise and organization reports](https://quintelier.dev/updates/track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports/)
 * [azure: Retirement: Migrate from Azure Blueprints by January 31, 2027](https://quintelier.dev/updates/retirement-migrate-from-azure-blueprints-by-january-31-2027/)
 * [security: Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access](https://quintelier.dev/updates/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-for-persistent-access/)
 * [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
