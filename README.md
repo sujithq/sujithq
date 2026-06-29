@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Track total merges by adoption phase in enterprise and organization reports](https://quintelier.dev/updates/track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports/)
+* [github: Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot](https://quintelier.dev/updates/claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot/)
 * [azure: Retirement: Migrate from Azure Blueprints by January 31, 2027](https://quintelier.dev/updates/retirement-migrate-from-azure-blueprints-by-january-31-2027/)
-* [security: Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access](https://quintelier.dev/updates/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-for-persistent-access/)
-* [dotnet: AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://quintelier.dev/updates/ai-powered-msbuild-investigation-with-the-microsoft-binlog-mcp-server/)
+* [security: Chromium extension uses AI‑related branding to redirect browser search](https://quintelier.dev/updates/chromium-extension-uses-ai-related-branding-to-redirect-browser-search/)
+* [dotnet: .NET 8 and .NET 9 will reach End of Support on November 10, 2026](https://quintelier.dev/updates/net-8-and-net-9-will-reach-end-of-support-on-november-10-2026/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
 
