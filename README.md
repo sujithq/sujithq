@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Claude Opus 4.8 (fast mode) is now in preview for GitHub Copilot](https://quintelier.dev/updates/claude-opus-4-8-fast-mode-is-now-in-preview-for-github-copilot/)
-* [azure: Retirement: Migrate from Azure Blueprints by January 31, 2027](https://quintelier.dev/updates/retirement-migrate-from-azure-blueprints-by-january-31-2027/)
-* [security: Chromium extension uses AI‑related branding to redirect browser search](https://quintelier.dev/updates/chromium-extension-uses-ai-related-branding-to-redirect-browser-search/)
-* [dotnet: .NET 8 and .NET 9 will reach End of Support on November 10, 2026](https://quintelier.dev/updates/net-8-and-net-9-will-reach-end-of-support-on-november-10-2026/)
+* [github: Claude Sonnet 5 is generally available for GitHub Copilot](https://quintelier.dev/updates/claude-sonnet-5-is-generally-available-for-github-copilot/)
+* [azure: [Launched] Generally Available: Client-side data integrity protections in Azure Blob Storage](https://quintelier.dev/updates/launched-generally-available-client-side-data-integrity-protections-in-azure-blob-storage/)
+* [security: Accelerating the quantum-safe timeline](https://quintelier.dev/updates/accelerating-the-quantum-safe-timeline/)
+* [dotnet: MCP Beyond the Chat Window: Build Diagnostics in CI](https://quintelier.dev/updates/mcp-beyond-the-chat-window-build-diagnostics-in-ci/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
 
