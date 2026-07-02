@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Claude Sonnet 5 is generally available for GitHub Copilot](https://quintelier.dev/updates/claude-sonnet-5-is-generally-available-for-github-copilot/)
-* [azure: [Launched] Generally Available: Client-side data integrity protections in Azure Blob Storage](https://quintelier.dev/updates/launched-generally-available-client-side-data-integrity-protections-in-azure-blob-storage/)
-* [security: Accelerating the quantum-safe timeline](https://quintelier.dev/updates/accelerating-the-quantum-safe-timeline/)
+* [github: Secret scanning public monitoring for enterprises](https://quintelier.dev/updates/secret-scanning-public-monitoring-for-enterprises/)
+* [azure: [Launched] Generally Available: New Powershell module: Az.PostgreSQLFlexibleServer](https://quintelier.dev/updates/launched-generally-available-new-powershell-module-az-postgresqlflexibleserver/)
+* [security: Microsoft named a leader in the Frost Radar for cloud and application runtime security](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-frost-radar-for-cloud-and-application-runtime-security/)
 * [dotnet: MCP Beyond the Chat Window: Build Diagnostics in CI](https://quintelier.dev/updates/mcp-beyond-the-chat-window-build-diagnostics-in-ci/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
