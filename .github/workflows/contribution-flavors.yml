@@ -13,7 +13,7 @@ jobs:
     name: Generate Space Shooter Game
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # - uses: actions/checkout@v4
 
       - uses: czl9707/gh-space-shooter@v1
         with:
