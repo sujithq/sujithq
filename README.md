@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [github: Improved accuracy and coverage in Copilot usage metrics reports](https://quintelier.dev/updates/improved-accuracy-and-coverage-in-copilot-usage-metrics-reports/)
-* [azure: [Launched] Generally available: Anthropic Claude Sonnet 5 on Azure Databricks](https://quintelier.dev/updates/launched-generally-available-anthropic-claude-sonnet-5-on-azure-databricks/)
-* [security: Improving security posture across the Microsoft partner ecosystem](https://quintelier.dev/updates/improving-security-posture-across-the-microsoft-partner-ecosystem/)
+* [azure: [Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP](https://quintelier.dev/updates/launched-generally-available-microsoft-entra-id-based-access-for-azure-blob-storage-sftp/)
+* [security: 5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management](https://quintelier.dev/updates/5-insights-from-frost-sullivan-s-2025-frost-radar-for-cloud-security-posture-management/)
 * [dotnet: MCP Beyond the Chat Window: Build Diagnostics in CI](https://quintelier.dev/updates/mcp-beyond-the-chat-window-build-diagnostics-in-ci/)
 * [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
 <!-- UPDATES-LIST:END -->
