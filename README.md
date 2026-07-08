@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Improved accuracy and coverage in Copilot usage metrics reports](https://quintelier.dev/updates/improved-accuracy-and-coverage-in-copilot-usage-metrics-reports/)
-* [azure: [Launched] Generally Available: Microsoft Entra ID-based access for Azure Blob Storage SFTP](https://quintelier.dev/updates/launched-generally-available-microsoft-entra-id-based-access-for-azure-blob-storage-sftp/)
+* [github: Add review cycles and time to adoption phases in the usage API](https://quintelier.dev/updates/add-review-cycles-and-time-to-adoption-phases-in-the-usage-api/)
+* [azure: [In preview] Public Preview: Exceptions in WAF for Azure Application Gateway and Azure Front Door](https://quintelier.dev/updates/in-preview-public-preview-exceptions-in-waf-for-azure-application-gateway-and-azure-front-door/)
 * [security: 5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management](https://quintelier.dev/updates/5-insights-from-frost-sullivan-s-2025-frost-radar-for-cloud-security-posture-management/)
 * [dotnet: MCP Beyond the Chat Window: Build Diagnostics in CI](https://quintelier.dev/updates/mcp-beyond-the-chat-window-build-diagnostics-in-ci/)
-* [ai: Outcome-driven learning systems: Enterprise RL with OpenEnv and Foundry](https://quintelier.dev/updates/outcome-driven-learning-systems-enterprise-rl-with-openenv-and-foundry/)
+* [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
