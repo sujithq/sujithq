@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Innersource security advisories are generally available](https://quintelier.dev/updates/innersource-security-advisories-are-generally-available/)
-* [azure: [In preview] Public Preview: Exceptions in WAF for Azure Application Gateway and Azure Front Door](https://quintelier.dev/updates/in-preview-public-preview-exceptions-in-waf-for-azure-application-gateway-and-azure-front-door/)
-* [security: Protecting Microsoft at AI speed: How SFI proactively hardens our cloud](https://quintelier.dev/updates/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/)
-* [dotnet: MCP Beyond the Chat Window: Build Diagnostics in CI](https://quintelier.dev/updates/mcp-beyond-the-chat-window-build-diagnostics-in-ci/)
+* [github: OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot](https://quintelier.dev/updates/openai-s-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/)
+* [azure: [In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI](https://quintelier.dev/updates/in-preview-public-preview-manage-azure-chaos-studio-from-the-azure-cli/)
+* [security: GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware](https://quintelier.dev/updates/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/)
+* [dotnet: Modernize .NET applications in the GitHub Copilot app](https://quintelier.dev/updates/modernize-net-applications-in-the-github-copilot-app/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
 
