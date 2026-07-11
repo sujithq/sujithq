@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: OpenAI’s GPT-5.6 Sol, Terra, and Luna are now available in GitHub Copilot](https://quintelier.dev/updates/openai-s-gpt-5-6-sol-terra-and-luna-are-now-available-in-github-copilot/)
-* [azure: [In preview] Public Preview: Manage Azure Chaos Studio from the Azure CLI](https://quintelier.dev/updates/in-preview-public-preview-manage-azure-chaos-studio-from-the-azure-cli/)
-* [security: GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware](https://quintelier.dev/updates/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/)
+* [github: CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection](https://quintelier.dev/updates/codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection/)
+* [azure: Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026](https://quintelier.dev/updates/retirement-support-for-python-2-7-3-8-and-powershell-7-1-7-2-will-be-retired-on-september-30-2026/)
+* [security: Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative](https://quintelier.dev/updates/securing-our-future-july-2026-progress-report-on-microsoft-s-secure-future-initiative/)
 * [dotnet: Modernize .NET applications in the GitHub Copilot app](https://quintelier.dev/updates/modernize-net-applications-in-the-github-copilot-app/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
