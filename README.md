@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection](https://quintelier.dev/updates/codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection/)
-* [azure: Retirement: Support for Python-2.7; 3.8 and PowerShell- 7.1; 7.2 will be retired on September 30, 2026](https://quintelier.dev/updates/retirement-support-for-python-2-7-3-8-and-powershell-7-1-7-2-will-be-retired-on-september-30-2026/)
-* [security: Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative](https://quintelier.dev/updates/securing-our-future-july-2026-progress-report-on-microsoft-s-secure-future-initiative/)
+* [github: Separate SSO and Organizations pages in Settings](https://quintelier.dev/updates/separate-sso-and-organizations-pages-in-settings/)
+* [azure: [Launched] Generally Available: Azure Databricks SQL Serverless in UK West](https://quintelier.dev/updates/launched-generally-available-azure-databricks-sql-serverless-in-uk-west/)
+* [security: Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID](https://quintelier.dev/updates/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/)
 * [dotnet: Modernize .NET applications in the GitHub Copilot app](https://quintelier.dev/updates/modernize-net-applications-in-the-github-copilot-app/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
