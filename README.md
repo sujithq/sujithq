@@ -343,6 +343,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ![gh game](https://raw.githubusercontent.com/sujithq/sujithq/output-space-shooter/game.gif)
 
+![AI Factory](https://raw.githubusercontent.com/sujithq/aicontribution/output/ai-factory.svg)
+
 ---
 
 ⚡ Bridging Azure, GitHub, and AI apps — one pipeline at a time ⚡
