@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Separate SSO and Organizations pages in Settings](https://quintelier.dev/updates/separate-sso-and-organizations-pages-in-settings/)
+* [github: GitHub Code Quality license estimate in public preview](https://quintelier.dev/updates/github-code-quality-license-estimate-in-public-preview/)
 * [azure: [Launched] Generally Available: Azure Databricks SQL Serverless in UK West](https://quintelier.dev/updates/launched-generally-available-azure-databricks-sql-serverless-in-uk-west/)
-* [security: Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID](https://quintelier.dev/updates/microsoft-entra-id-security-updates-passkeys-are-the-default-authentication-method-in-entra-id/)
+* [security: Defending SaaS-based applications against ShinyHunters OAuth abuse](https://quintelier.dev/updates/defending-saas-based-applications-against-shinyhunters-oauth-abuse/)
 * [dotnet: Modernize .NET applications in the GitHub Copilot app](https://quintelier.dev/updates/modernize-net-applications-in-the-github-copilot-app/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
