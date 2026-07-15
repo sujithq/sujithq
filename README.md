@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Code Quality license estimate in public preview](https://quintelier.dev/updates/github-code-quality-license-estimate-in-public-preview/)
-* [azure: [Launched] Generally Available: Azure Databricks SQL Serverless in UK West](https://quintelier.dev/updates/launched-generally-available-azure-databricks-sql-serverless-in-uk-west/)
+* [github: GitHub Copilot in Visual Studio — June update](https://quintelier.dev/updates/github-copilot-in-visual-studio-june-update/)
+* [azure: [In preview] Public Preview: Azure Front Door edge actions](https://quintelier.dev/updates/in-preview-public-preview-azure-front-door-edge-actions/)
 * [security: Defending SaaS-based applications against ShinyHunters OAuth abuse](https://quintelier.dev/updates/defending-saas-based-applications-against-shinyhunters-oauth-abuse/)
-* [dotnet: Modernize .NET applications in the GitHub Copilot app](https://quintelier.dev/updates/modernize-net-applications-in-the-github-copilot-app/)
+* [dotnet: .NET and .NET Framework July 2026 servicing releases updates](https://quintelier.dev/updates/net-and-net-framework-july-2026-servicing-releases-updates/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
 
