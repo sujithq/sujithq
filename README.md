@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Advanced search for Projects is generally available](https://quintelier.dev/updates/advanced-search-for-projects-is-generally-available/)
-* [azure: Announcing: GitHub Copilot and Claude Code connectors in Microsoft Agent Framework](https://quintelier.dev/updates/announcing-github-copilot-and-claude-code-connectors-in-microsoft-agent-framework/)
-* [security: ACR Stealer: Two observed intrusion chains amid increased threat activity](https://quintelier.dev/updates/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/)
+* [github: Repository-level GitHub Copilot usage metrics generally available](https://quintelier.dev/updates/repository-level-github-copilot-usage-metrics-generally-available/)
+* [azure: [Launched] Generally Available: Azure Functions support for Python 3.14](https://quintelier.dev/updates/launched-generally-available-azure-functions-support-for-python-3-14/)
+* [security: Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks](https://quintelier.dev/updates/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/)
 * [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
 <!-- UPDATES-LIST:END -->
