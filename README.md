@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Repository-level GitHub Copilot usage metrics generally available](https://quintelier.dev/updates/repository-level-github-copilot-usage-metrics-generally-available/)
-* [azure: [Launched] Generally Available: Azure Functions support for Python 3.14](https://quintelier.dev/updates/launched-generally-available-azure-functions-support-for-python-3-14/)
+* [github: AI credit pools for cost centers in the billing UI](https://quintelier.dev/updates/ai-credit-pools-for-cost-centers-in-the-billing-ui/)
+* [azure: [In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry](https://quintelier.dev/updates/in-preview-public-preview-protect-sensitive-generative-ai-telemetry-in-application-insights-and-microsoft-foundry/)
 * [security: Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks](https://quintelier.dev/updates/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/)
 * [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
 * [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
