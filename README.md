@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: AI credit pools for cost centers in the billing UI](https://quintelier.dev/updates/ai-credit-pools-for-cost-centers-in-the-billing-ui/)
+* [github: Gemini 3.6 Flash is now available in GitHub Copilot](https://quintelier.dev/updates/gemini-3-6-flash-is-now-available-in-github-copilot/)
 * [azure: [In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry](https://quintelier.dev/updates/in-preview-public-preview-protect-sensitive-generative-ai-telemetry-in-application-insights-and-microsoft-foundry/)
 * [security: Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks](https://quintelier.dev/updates/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/)
 * [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
