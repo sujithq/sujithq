@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Gemini 3.6 Flash is now available in GitHub Copilot](https://quintelier.dev/updates/gemini-3-6-flash-is-now-available-in-github-copilot/)
-* [azure: [In preview] Public Preview: Protect sensitive generative AI telemetry in Application Insights and Microsoft Foundry](https://quintelier.dev/updates/in-preview-public-preview-protect-sensitive-generative-ai-telemetry-in-application-insights-and-microsoft-foundry/)
-* [security: Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks](https://quintelier.dev/updates/microsoft-at-black-hat-usa-2026-defending-trust-in-the-age-of-ai-and-supply-chain-attacks/)
+* [github: New Copilot usage metrics impact dashboard](https://quintelier.dev/updates/new-copilot-usage-metrics-impact-dashboard/)
+* [azure: [In preview] Public Preview: Standard service endpoint](https://quintelier.dev/updates/in-preview-public-preview-standard-service-endpoint/)
+* [security: Real world incident response: Microsoft and AXA XL strengthen cyber resilience](https://quintelier.dev/updates/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/)
 * [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
-* [ai: What’s New in Microsoft Foundry | June 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-june-2026/)
+* [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
