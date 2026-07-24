@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: New Copilot usage metrics impact dashboard](https://quintelier.dev/updates/new-copilot-usage-metrics-impact-dashboard/)
-* [azure: [In preview] Public Preview: Standard service endpoint](https://quintelier.dev/updates/in-preview-public-preview-standard-service-endpoint/)
-* [security: Real world incident response: Microsoft and AXA XL strengthen cyber resilience](https://quintelier.dev/updates/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/)
+* [github: Copilot cloud agent for Linear is now generally available](https://quintelier.dev/updates/copilot-cloud-agent-for-linear-is-now-generally-available/)
+* [azure: [In preview] Public Preview: Azure DDoS Protection custom policy](https://quintelier.dev/updates/in-preview-public-preview-azure-ddos-protection-custom-policy/)
+* [security: Email threat landscape: Q2 2026 trends and insights](https://quintelier.dev/updates/email-threat-landscape-q2-2026-trends-and-insights/)
 * [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
