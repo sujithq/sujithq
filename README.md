@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot cloud agent for Linear is now generally available](https://quintelier.dev/updates/copilot-cloud-agent-for-linear-is-now-generally-available/)
+* [github: Claude Opus 5 is now available in GitHub Copilot](https://quintelier.dev/updates/claude-opus-5-is-now-available-in-github-copilot/)
 * [azure: [In preview] Public Preview: Azure DDoS Protection custom policy](https://quintelier.dev/updates/in-preview-public-preview-azure-ddos-protection-custom-policy/)
 * [security: Email threat landscape: Q2 2026 trends and insights](https://quintelier.dev/updates/email-threat-landscape-q2-2026-trends-and-insights/)
 * [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
