@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Claude Opus 5 is now available in GitHub Copilot](https://quintelier.dev/updates/claude-opus-5-is-now-available-in-github-copilot/)
-* [azure: [In preview] Public Preview: Azure DDoS Protection custom policy](https://quintelier.dev/updates/in-preview-public-preview-azure-ddos-protection-custom-policy/)
-* [security: Email threat landscape: Q2 2026 trends and insights](https://quintelier.dev/updates/email-threat-landscape-q2-2026-trends-and-insights/)
-* [dotnet: Announcing .NET Modernization for Beginners](https://quintelier.dev/updates/announcing-net-modernization-for-beginners/)
+* [github: GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management](https://quintelier.dev/updates/github-copilot-for-jetbrains-adds-improved-opentelemetry-configuration-and-model-management/)
+* [azure: [Launched] Generally Available: Claude Opus 5 on Azure Databricks](https://quintelier.dev/updates/launched-generally-available-claude-opus-5-on-azure-databricks/)
+* [security: Rethinking security for the age of AI](https://quintelier.dev/updates/rethinking-security-for-the-age-of-ai/)
+* [dotnet: Analyze MSBuild Binary Logs with Copilot in VS Code](https://quintelier.dev/updates/analyze-msbuild-binary-logs-with-copilot-in-vs-code/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
