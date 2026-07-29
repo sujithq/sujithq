@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management](https://quintelier.dev/updates/github-copilot-for-jetbrains-adds-improved-opentelemetry-configuration-and-model-management/)
-* [azure: [Launched] Generally Available: Claude Opus 5 on Azure Databricks](https://quintelier.dev/updates/launched-generally-available-claude-opus-5-on-azure-databricks/)
+* [github: GitHub Copilot app usage metrics now expand across report rollups](https://quintelier.dev/updates/github-copilot-app-usage-metrics-now-expand-across-report-rollups/)
+* [azure: [In preview] Public Preview: Azure Enclave](https://quintelier.dev/updates/in-preview-public-preview-azure-enclave/)
 * [security: Rethinking security for the age of AI](https://quintelier.dev/updates/rethinking-security-for-the-age-of-ai/)
-* [dotnet: Analyze MSBuild Binary Logs with Copilot in VS Code](https://quintelier.dev/updates/analyze-msbuild-binary-logs-with-copilot-in-vs-code/)
+* [dotnet: Announcing v2.0 of the official MCP C# SDK](https://quintelier.dev/updates/announcing-v2-0-of-the-official-mcp-c-sdk/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
