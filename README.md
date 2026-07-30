@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot app usage metrics now expand across report rollups](https://quintelier.dev/updates/github-copilot-app-usage-metrics-now-expand-across-report-rollups/)
-* [azure: [In preview] Public Preview: Azure Enclave](https://quintelier.dev/updates/in-preview-public-preview-azure-enclave/)
-* [security: Rethinking security for the age of AI](https://quintelier.dev/updates/rethinking-security-for-the-age-of-ai/)
+* [github: Copilot code review: Agent skills and MCP now generally available](https://quintelier.dev/updates/copilot-code-review-agent-skills-and-mcp-now-generally-available/)
+* [azure: [In preview] Public Preview: Azure Monitor Logs mirroring into Microsoft Fabric](https://quintelier.dev/updates/in-preview-public-preview-azure-monitor-logs-mirroring-into-microsoft-fabric/)
+* [security: ​​Better security starts with better questions](https://quintelier.dev/updates/better-security-starts-with-better-questions/)
 * [dotnet: Announcing v2.0 of the official MCP C# SDK](https://quintelier.dev/updates/announcing-v2-0-of-the-official-mcp-c-sdk/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
