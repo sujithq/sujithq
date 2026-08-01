@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Models is now retired](https://quintelier.dev/updates/github-models-is-now-retired/)
-* [azure: [Launched] Generally Available: Azure Database for PostgreSQL flexible server in India South Central](https://quintelier.dev/updates/launched-generally-available-azure-database-for-postgresql-flexible-server-in-india-south-central/)
-* [security: ​​​​What’s new in Microsoft Security: July 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-security-july-2026/)
-* [dotnet: Announcing v2.0 of the official MCP C# SDK](https://quintelier.dev/updates/announcing-v2-0-of-the-official-mcp-c-sdk/)
+* [github: Gemini 2.5 Pro and Gemini 3 Flash deprecated](https://quintelier.dev/updates/gemini-2-5-pro-and-gemini-3-flash-deprecated/)
+* [azure: [Launched] Generally Available: Single-click purchase for public SaaS offers](https://quintelier.dev/updates/launched-generally-available-single-click-purchase-for-public-saas-offers/)
+* [security: CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft](https://quintelier.dev/updates/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/)
+* [dotnet: From generated code to trusted code with a unit-test agent](https://quintelier.dev/updates/from-generated-code-to-trusted-code-with-a-unit-test-agent/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
