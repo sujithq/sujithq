@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Gemini 2.5 Pro and Gemini 3 Flash deprecated](https://quintelier.dev/updates/gemini-2-5-pro-and-gemini-3-flash-deprecated/)
-* [azure: [Launched] Generally Available: Single-click purchase for public SaaS offers](https://quintelier.dev/updates/launched-generally-available-single-click-purchase-for-public-saas-offers/)
+* [github: Customize the reasoning level for Copilot cloud agent](https://quintelier.dev/updates/customize-the-reasoning-level-for-copilot-cloud-agent/)
+* [azure: [Launched] Generally Available: Trusted Launch as Default](https://quintelier.dev/updates/launched-generally-available-trusted-launch-as-default/)
 * [security: CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft](https://quintelier.dev/updates/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/)
-* [dotnet: From generated code to trusted code with a unit-test agent](https://quintelier.dev/updates/from-generated-code-to-trusted-code-with-a-unit-test-agent/)
+* [dotnet: Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime](https://quintelier.dev/updates/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
