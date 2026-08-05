@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Customize the reasoning level for Copilot cloud agent](https://quintelier.dev/updates/customize-the-reasoning-level-for-copilot-cloud-agent/)
-* [azure: [Launched] Generally Available: Trusted Launch as Default](https://quintelier.dev/updates/launched-generally-available-trusted-launch-as-default/)
-* [security: CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft](https://quintelier.dev/updates/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/)
-* [dotnet: Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime](https://quintelier.dev/updates/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/)
+* [github: Customize code scanning default setup at scale](https://quintelier.dev/updates/customize-code-scanning-default-setup-at-scale/)
+* [azure: Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026](https://quintelier.dev/updates/retirement-nested-confidential-cc-v5-vms-will-be-retired-on-september-1-2026/)
+* [security: ChainDrop supply chain compromise: Anatomy of a self-propagating worm](https://quintelier.dev/updates/chaindrop-supply-chain-compromise-anatomy-of-a-self-propagating-worm/)
+* [dotnet: Beyond Chat: live Speech-to-Text with Foundry Local and C#](https://quintelier.dev/updates/beyond-chat-live-speech-to-text-with-foundry-local-and-c/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
