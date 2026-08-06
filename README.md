@@ -90,8 +90,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [github: Customize code scanning default setup at scale](https://quintelier.dev/updates/customize-code-scanning-default-setup-at-scale/)
-* [azure: Retirement: Nested confidential (cc_v5) VMs will be retired on September 1, 2026](https://quintelier.dev/updates/retirement-nested-confidential-cc-v5-vms-will-be-retired-on-september-1-2026/)
-* [security: ChainDrop supply chain compromise: Anatomy of a self-propagating worm](https://quintelier.dev/updates/chaindrop-supply-chain-compromise-anatomy-of-a-self-propagating-worm/)
+* [azure: [Launched] Generally Available: SharePoint Connector for Azure Databricks](https://quintelier.dev/updates/launched-generally-available-sharepoint-connector-for-azure-databricks/)
+* [security: ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/)
 * [dotnet: Beyond Chat: live Speech-to-Text with Foundry Local and C#](https://quintelier.dev/updates/beyond-chat-live-speech-to-text-with-foundry-local-and-c/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
