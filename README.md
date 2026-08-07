@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Customize code scanning default setup at scale](https://quintelier.dev/updates/customize-code-scanning-default-setup-at-scale/)
-* [azure: [Launched] Generally Available: SharePoint Connector for Azure Databricks](https://quintelier.dev/updates/launched-generally-available-sharepoint-connector-for-azure-databricks/)
+* [github: Kimi K3 is now available in GitHub Copilot](https://quintelier.dev/updates/kimi-k3-is-now-available-in-github-copilot/)
+* [azure: Announcing: Azure Databricks Genie One and Genie Agents Free Usage Extended Through January 31, 2027](https://quintelier.dev/updates/announcing-azure-databricks-genie-one-and-genie-agents-free-usage-extended-through-january-31-2027/)
 * [security: ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/)
-* [dotnet: Beyond Chat: live Speech-to-Text with Foundry Local and C#](https://quintelier.dev/updates/beyond-chat-live-speech-to-text-with-foundry-local-and-c/)
+* [dotnet: Test reporting in Microsoft.Testing.Platform: from red build to root cause](https://quintelier.dev/updates/test-reporting-in-microsoft-testing-platform-from-red-build-to-root-cause/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
 
