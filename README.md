@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Kimi K3 is now available in GitHub Copilot](https://quintelier.dev/updates/kimi-k3-is-now-available-in-github-copilot/)
-* [azure: Announcing: Azure Databricks Genie One and Genie Agents Free Usage Extended Through January 31, 2027](https://quintelier.dev/updates/announcing-azure-databricks-genie-one-and-genie-agents-free-usage-extended-through-january-31-2027/)
+* [github: GitHub Copilot weekly releases — August 3](https://quintelier.dev/updates/github-copilot-weekly-releases-august-3/)
+* [azure: [In preview] Public Preview: Azure ExpressRoute resiliency guard](https://quintelier.dev/updates/in-preview-public-preview-azure-expressroute-resiliency-guard/)
 * [security: ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/)
 * [dotnet: Test reporting in Microsoft.Testing.Platform: from red build to root cause](https://quintelier.dev/updates/test-reporting-in-microsoft-testing-platform-from-red-build-to-root-cause/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
