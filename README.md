@@ -150,6 +150,8 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 - [Generate reports with AI research agents](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/C44552EEC8624C1B?sharingId=B2D5696D597C46D3)
 - [Get started with classes, properties, and methods in C#](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/8E8FFD9C94585006?sharingId=B2D5696D597C46D3)
 - [Get started with Azure management tasks](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/1221041DED706015?sharingId=B2D5696D597C46D3)
+- [Manage GitHub secret scanning by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/5C6BCAEDC48C229F?sharingId=B2D5696D597C46D3)
+- [Resolve GitHub issues by using GitHub Copilot](https://learn.microsoft.com/en-us/users/sujithquintelier/credentials/applied-skills/resolve-github-issues-by-using-github-copilot)
 
 #### MCAPS Academy
 
