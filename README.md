@@ -186,6 +186,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-copilot-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/29732ECDA4353955?sharingId=B2D5696D597C46D3)
 [![Advanced Security](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0146-github-advanced-security-100x100.png)](https://www.credly.com/badges/44577fd5-ff43-41bf-be07-075419e944cc)
 [![Administration](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0147-github-administration-100x100.png)](https://www.credly.com/badges/ff8dd9da-f68f-4529-802f-3ae1ce302ce4)
+[![Agentic AI Developer](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0145-github-agentic-ai-developer-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/BE9967A6B19B56E6?sharingId=B2D5696D597C46D3)
 [![Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0149-github-sales-professional-100x100.png)](https://www.credly.com/badges/a61c8cb7-0861-4a8e-9b56-5b3a06c86c8e)
 [![FY26 Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-github-sales-professional-100x100.png)](https://www.credly.com/badges/24db2c40-fee2-46c4-8990-7eb3a71531d7)
 ![Technical Sales Professional](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0150-github-technical-sales-professional-100x100.png)
