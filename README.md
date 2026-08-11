@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot weekly releases — August 3](https://quintelier.dev/updates/github-copilot-weekly-releases-august-3/)
-* [azure: [In preview] Public Preview: Azure ExpressRoute resiliency guard](https://quintelier.dev/updates/in-preview-public-preview-azure-expressroute-resiliency-guard/)
-* [security: ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/)
+* [github: Copilot on web expands conversation controls](https://quintelier.dev/updates/copilot-on-web-expands-conversation-controls/)
+* [azure: Announcing: Microsoft Fabric Item Recovery will be enabled by default for tenants without an explicit setting](https://quintelier.dev/updates/announcing-microsoft-fabric-item-recovery-will-be-enabled-by-default-for-tenants-without-an-explicit-setting/)
+* [security: Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/)
 * [dotnet: Test reporting in Microsoft.Testing.Platform: from red build to root cause](https://quintelier.dev/updates/test-reporting-in-microsoft-testing-platform-from-red-build-to-root-cause/)
 * [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
 <!-- UPDATES-LIST:END -->
