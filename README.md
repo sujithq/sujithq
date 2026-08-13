@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Enterprise Server 3.22 release candidate](https://quintelier.dev/updates/github-enterprise-server-3-22-release-candidate/)
-* [azure: [Launched] Generally Available: 2.2X IDPS performance optimization in Azure Firewall](https://quintelier.dev/updates/launched-generally-available-2-2x-idps-performance-optimization-in-azure-firewall/)
+* [github: Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app](https://quintelier.dev/updates/agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/)
+* [azure: Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications](https://quintelier.dev/updates/retirement-containerized-data-connector-agent-for-the-microsoft-sentinel-solution-for-sap-applications/)
 * [security: Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/)
-* [dotnet: .NET 11 Preview 7 is now available!](https://quintelier.dev/updates/net-11-preview-7-is-now-available/)
-* [ai: Building Agents that Act on Your Behalf with Toolboxes in Foundry](https://quintelier.dev/updates/building-agents-that-act-on-your-behalf-with-toolboxes-in-foundry/)
+* [dotnet: Instructions Hygiene – What Frontier Models Still Need You to Say](https://quintelier.dev/updates/instructions-hygiene-what-frontier-models-still-need-you-to-say/)
+* [ai: From Sync APIs to support for the GPT-5 model series and agentic workflows: What’s new in Azure Content Understanding – August 2026](https://quintelier.dev/updates/from-sync-apis-to-support-for-the-gpt-5-model-series-and-agentic-workflows-what-s-new-in-azure-content-understanding-august-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
