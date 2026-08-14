@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app](https://quintelier.dev/updates/agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/)
-* [azure: Retirement: Containerized data connector agent for the Microsoft Sentinel solution for SAP applications](https://quintelier.dev/updates/retirement-containerized-data-connector-agent-for-the-microsoft-sentinel-solution-for-sap-applications/)
+* [github: License data quality improvements](https://quintelier.dev/updates/license-data-quality-improvements/)
+* [azure: [Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus](https://quintelier.dev/updates/launched-generally-available-control-plane-metrics-collection-for-aks-with-managed-prometheus/)
 * [security: Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/)
-* [dotnet: Instructions Hygiene – What Frontier Models Still Need You to Say](https://quintelier.dev/updates/instructions-hygiene-what-frontier-models-still-need-you-to-say/)
+* [dotnet: Routing and Failover for Microsoft.Extensions.AI](https://quintelier.dev/updates/routing-and-failover-for-microsoft-extensions-ai/)
 * [ai: From Sync APIs to support for the GPT-5 model series and agentic workflows: What’s new in Azure Content Understanding – August 2026](https://quintelier.dev/updates/from-sync-apis-to-support-for-the-gpt-5-model-series-and-agentic-workflows-what-s-new-in-azure-content-understanding-august-2026/)
 <!-- UPDATES-LIST:END -->
 
