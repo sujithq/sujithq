@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: License data quality improvements](https://quintelier.dev/updates/license-data-quality-improvements/)
-* [azure: [Launched] Generally Available: Control plane metrics collection for AKS with Managed Prometheus](https://quintelier.dev/updates/launched-generally-available-control-plane-metrics-collection-for-aks-with-managed-prometheus/)
+* [github: Multiple redirect URIs and token refresh for OAuth apps](https://quintelier.dev/updates/multiple-redirect-uris-and-token-refresh-for-oauth-apps/)
+* [azure: Announcing: Azure Databricks Runtime 10.4 LTS will reach end of life on November 1, 2026](https://quintelier.dev/updates/announcing-azure-databricks-runtime-10-4-lts-will-reach-end-of-life-on-november-1-2026/)
 * [security: Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/)
 * [dotnet: Routing and Failover for Microsoft.Extensions.AI](https://quintelier.dev/updates/routing-and-failover-for-microsoft-extensions-ai/)
 * [ai: From Sync APIs to support for the GPT-5 model series and agentic workflows: What’s new in Azure Content Understanding – August 2026](https://quintelier.dev/updates/from-sync-apis-to-support-for-the-gpt-5-model-series-and-agentic-workflows-what-s-new-in-azure-content-understanding-august-2026/)
