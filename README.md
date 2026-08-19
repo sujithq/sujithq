@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Multiple redirect URIs and token refresh for OAuth apps](https://quintelier.dev/updates/multiple-redirect-uris-and-token-refresh-for-oauth-apps/)
-* [azure: [In preview] Public Preview: Zone redundancy for Azure SQL Managed Instance Next-gen General Purpose](https://quintelier.dev/updates/in-preview-public-preview-zone-redundancy-for-azure-sql-managed-instance-next-gen-general-purpose/)
-* [security: Microsoft named a Leader in the 2026 IDC MarketScape for MDR/MXDR for the Enterprise](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-idc-marketscape-for-mdr-mxdr-for-the-enterprise/)
+* [github: Enterprise managed settings in GitHub Copilot for JetBrains](https://quintelier.dev/updates/enterprise-managed-settings-in-github-copilot-for-jetbrains/)
+* [azure: Retirement: Azure VMware Solution License-included service will be retired August 30, 2027](https://quintelier.dev/updates/retirement-azure-vmware-solution-license-included-service-will-be-retired-august-30-2027/)
+* [security: Hunting MacSync Stealer infrastructure through behavioral pivots](https://quintelier.dev/updates/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
 * [dotnet: Routing and Failover for Microsoft.Extensions.AI](https://quintelier.dev/updates/routing-and-failover-for-microsoft-extensions-ai/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
