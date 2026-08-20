@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise managed settings in GitHub Copilot for JetBrains](https://quintelier.dev/updates/enterprise-managed-settings-in-github-copilot-for-jetbrains/)
-* [azure: Retirement: Azure VMware Solution License-included service will be retired August 30, 2027](https://quintelier.dev/updates/retirement-azure-vmware-solution-license-included-service-will-be-retired-august-30-2027/)
-* [security: Hunting MacSync Stealer infrastructure through behavioral pivots](https://quintelier.dev/updates/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/)
+* [github: CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling](https://quintelier.dev/updates/codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling/)
+* [azure: [Launched] Generally Available: Azure Databricks Lakebase in four additional regions](https://quintelier.dev/updates/launched-generally-available-azure-databricks-lakebase-in-four-additional-regions/)
+* [security: Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/)
 * [dotnet: Routing and Failover for Microsoft.Extensions.AI](https://quintelier.dev/updates/routing-and-failover-for-microsoft-extensions-ai/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
