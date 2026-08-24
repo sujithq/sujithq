@@ -168,6 +168,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Microsoft AI Nonprofit Advisor AI General Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/001-skill-up-ai-plg-100x100.png)](https://www.credly.com/badges/484891f9-6827-415d-893c-1e08d4a6aa72/public_url)
 [![SkillUp AI: Agent Speed Skills](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/002-skillup-ai-agent-speed-skills-100x100.png)](https://www.credly.com/badges/cbf6db5d-8f65-4ba1-92e2-3f59c20fd87d/public_url)
 [![CAIP Skills Accelerator](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-css/001-caip-skills-accelerator-100x100.png)](https://www.credly.com/badges/9cea2b38-7095-49e1-8f46-6157d309cfdd/public_url)
+[![Hackathon 2026](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft-the-garage/003-microsoft-global-hackathon-2026-100x100.png)](https://www.credly.com/badges/15df9d45-a9f6-4e35-9331-421b720902cc/public_url)
 
 #### Skillable
 
