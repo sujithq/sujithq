@@ -90,9 +90,9 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [github: Better tools for managing blocked users](https://quintelier.dev/updates/better-tools-for-managing-blocked-users/)
-* [azure: [Launched] Generally Available: Summarized advertised gateway prefixes for route advertisement](https://quintelier.dev/updates/launched-generally-available-summarized-advertised-gateway-prefixes-for-route-advertisement/)
+* [azure: Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server](https://quintelier.dev/updates/announcing-extended-support-for-azure-database-for-postgresql-flexible-server/)
 * [security: Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/)
-* [dotnet: Routing and Failover for Microsoft.Extensions.AI](https://quintelier.dev/updates/routing-and-failover-for-microsoft-extensions-ai/)
+* [dotnet: From dotnet run to Foundry Hosted Agent in 3 lines of C#](https://quintelier.dev/updates/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-c/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
