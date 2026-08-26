@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Better tools for managing blocked users](https://quintelier.dev/updates/better-tools-for-managing-blocked-users/)
-* [azure: Announcing: Extended Support for Azure Database for PostgreSQL Flexible Server](https://quintelier.dev/updates/announcing-extended-support-for-azure-database-for-postgresql-flexible-server/)
-* [security: Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/)
-* [dotnet: From dotnet run to Foundry Hosted Agent in 3 lines of C#](https://quintelier.dev/updates/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-c/)
+* [github: Rule insights dashboard generally available](https://quintelier.dev/updates/rule-insights-dashboard-generally-available/)
+* [azure: Announcing: Aspire 13.5 has shipped](https://quintelier.dev/updates/announcing-aspire-13-5-has-shipped/)
+* [security: The patch window is collapsing: Why security needs a new control plane](https://quintelier.dev/updates/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/)
+* [dotnet: .NET Conf 2026](https://quintelier.dev/updates/net-conf-2026/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
