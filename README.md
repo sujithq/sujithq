@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Rule insights dashboard generally available](https://quintelier.dev/updates/rule-insights-dashboard-generally-available/)
-* [azure: Announcing: Aspire 13.5 has shipped](https://quintelier.dev/updates/announcing-aspire-13-5-has-shipped/)
-* [security: The patch window is collapsing: Why security needs a new control plane](https://quintelier.dev/updates/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/)
+* [github: Enterprise-managed settings now support autoUpdate for plugin marketplaces](https://quintelier.dev/updates/enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces/)
+* [azure: [Launched] Generally Available: Azure Bastion shareable link expiration](https://quintelier.dev/updates/launched-generally-available-azure-bastion-shareable-link-expiration/)
+* [security: When AI infrastructure becomes the target: Securing gateways and control points](https://quintelier.dev/updates/when-ai-infrastructure-becomes-the-target-securing-gateways-and-control-points/)
 * [dotnet: .NET Conf 2026](https://quintelier.dev/updates/net-conf-2026/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
