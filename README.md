@@ -178,7 +178,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 #### Other
 
-[![AI Skills Fest 2026](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0003-ai-skills-fest-2026.png-100x100.png)](https://www.credly.com/badges/834958d3-c8cb-44e2-b672-550ed17d932c/public_url)
+[![AI Skills Fest 2026](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0003-ai-skills-fest-2026-100x100.png)](https://www.credly.com/badges/834958d3-c8cb-44e2-b672-550ed17d932c/public_url)
 ---
 
 ### 🐙 GitHub Certifications
