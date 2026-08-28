@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise-managed settings now support autoUpdate for plugin marketplaces](https://quintelier.dev/updates/enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces/)
+* [github: Upcoming changes to GitHub Copilot policies and billing](https://quintelier.dev/updates/upcoming-changes-to-github-copilot-policies-and-billing/)
 * [azure: [Launched] Generally Available: Azure Bastion shareable link expiration](https://quintelier.dev/updates/launched-generally-available-azure-bastion-shareable-link-expiration/)
-* [security: When AI infrastructure becomes the target: Securing gateways and control points](https://quintelier.dev/updates/when-ai-infrastructure-becomes-the-target-securing-gateways-and-control-points/)
-* [dotnet: .NET Conf 2026](https://quintelier.dev/updates/net-conf-2026/)
+* [security: ​​​​​​What’s new in Microsoft Security: August 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-security-august-2026/)
+* [dotnet: How Uno Platform uses .NET, MCP, and AI to build high quality apps](https://quintelier.dev/updates/how-uno-platform-uses-net-mcp-and-ai-to-build-high-quality-apps/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
