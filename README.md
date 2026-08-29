@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Upcoming changes to GitHub Copilot policies and billing](https://quintelier.dev/updates/upcoming-changes-to-github-copilot-policies-and-billing/)
-* [azure: [Launched] Generally Available: Azure Bastion shareable link expiration](https://quintelier.dev/updates/launched-generally-available-azure-bastion-shareable-link-expiration/)
-* [security: ​​​​​​What’s new in Microsoft Security: August 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-security-august-2026/)
+* [github: GitHub Copilot in Visual Studio — August update](https://quintelier.dev/updates/github-copilot-in-visual-studio-august-update/)
+* [azure: [Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure](https://quintelier.dev/updates/launched-generally-available-workload-identity-support-for-azure-files-csi-driver-smb-in-azure/)
+* [security: TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://quintelier.dev/updates/terminalfix-campaign-deploys-a-reverse-tunnel-through-multistage-intrusion/)
 * [dotnet: How Uno Platform uses .NET, MCP, and AI to build high quality apps](https://quintelier.dev/updates/how-uno-platform-uses-net-mcp-and-ai-to-build-high-quality-apps/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
