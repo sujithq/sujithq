@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot in Visual Studio — August update](https://quintelier.dev/updates/github-copilot-in-visual-studio-august-update/)
-* [azure: [Launched] Generally Available: Workload identity support for Azure Files CSI driver (SMB) in Azure](https://quintelier.dev/updates/launched-generally-available-workload-identity-support-for-azure-files-csi-driver-smb-in-azure/)
+* [github: GitHub Copilot in VS Code, August 2026 releases](https://quintelier.dev/updates/github-copilot-in-vs-code-august-2026-releases/)
+* [azure: [In preview] Public Preview: Per-disk resiliency for Azure VMs](https://quintelier.dev/updates/in-preview-public-preview-per-disk-resiliency-for-azure-vms/)
 * [security: TerminalFix campaign deploys a reverse tunnel through multistage intrusion](https://quintelier.dev/updates/terminalfix-campaign-deploys-a-reverse-tunnel-through-multistage-intrusion/)
 * [dotnet: How Uno Platform uses .NET, MCP, and AI to build high quality apps](https://quintelier.dev/updates/how-uno-platform-uses-net-mcp-and-ai-to-build-high-quality-apps/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
