@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise Live Migrations from GHES to ghe.com generally available](https://quintelier.dev/updates/enterprise-live-migrations-from-ghes-to-ghe-com-generally-available/)
-* [azure: [Launched] Generally Available: Microsoft Defender for Cloud support for Azure Container Apps (Serverless Containers Posture)](https://quintelier.dev/updates/launched-generally-available-microsoft-defender-for-cloud-support-for-azure-container-apps-serverless-containers-posture/)
-* [security: Counterfeit installers to system compromise: Tracking a deceptive software download campaign](https://quintelier.dev/updates/counterfeit-installers-to-system-compromise-tracking-a-deceptive-software-download-campaign/)
+* [github: Enterprise-managed settings support any default model](https://quintelier.dev/updates/enterprise-managed-settings-support-any-default-model/)
+* [azure: [In preview] Public Preview: Azure Front Door profile and route level WAF policies](https://quintelier.dev/updates/in-preview-public-preview-azure-front-door-profile-and-route-level-waf-policies/)
+* [security: Impersonating IT support: how threat actors turn a remote session into enterprise-wide access](https://quintelier.dev/updates/impersonating-it-support-how-threat-actors-turn-a-remote-session-into-enterprise-wide-access/)
 * [dotnet: How Uno Platform uses .NET, MCP, and AI to build high quality apps](https://quintelier.dev/updates/how-uno-platform-uses-net-mcp-and-ai-to-build-high-quality-apps/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
