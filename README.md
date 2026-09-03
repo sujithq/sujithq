@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise-managed settings support any default model](https://quintelier.dev/updates/enterprise-managed-settings-support-any-default-model/)
-* [azure: [In preview] Public Preview: Azure Front Door profile and route level WAF policies](https://quintelier.dev/updates/in-preview-public-preview-azure-front-door-profile-and-route-level-waf-policies/)
-* [security: Impersonating IT support: how threat actors turn a remote session into enterprise-wide access](https://quintelier.dev/updates/impersonating-it-support-how-threat-actors-turn-a-remote-session-into-enterprise-wide-access/)
-* [dotnet: How Uno Platform uses .NET, MCP, and AI to build high quality apps](https://quintelier.dev/updates/how-uno-platform-uses-net-mcp-and-ai-to-build-high-quality-apps/)
+* [github: Upcoming deprecation of selected GitHub Copilot models](https://quintelier.dev/updates/upcoming-deprecation-of-selected-github-copilot-models/)
+* [azure: [Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-ipam-in-additional-azure-regions/)
+* [security: ASCII smuggling crosses over from AI prompt injection to phishing evasion](https://quintelier.dev/updates/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/)
+* [dotnet: Test what you ship: MSTest and Native AOT](https://quintelier.dev/updates/test-what-you-ship-mstest-and-native-aot/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
