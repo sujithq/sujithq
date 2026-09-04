@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Upcoming deprecation of selected GitHub Copilot models](https://quintelier.dev/updates/upcoming-deprecation-of-selected-github-copilot-models/)
+* [github: Multiple trusted publishing configurations for npm](https://quintelier.dev/updates/multiple-trusted-publishing-configurations-for-npm/)
 * [azure: [Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-ipam-in-additional-azure-regions/)
 * [security: ASCII smuggling crosses over from AI prompt injection to phishing evasion](https://quintelier.dev/updates/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/)
 * [dotnet: Test what you ship: MSTest and Native AOT](https://quintelier.dev/updates/test-what-you-ship-mstest-and-native-aot/)
