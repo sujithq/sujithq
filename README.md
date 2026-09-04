@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [🧰 Claude vs Copilot in VS Code: Meet the Harness](https://quintelier.dev/posts/2026/09/claude-vs-copilot-harness-vs-code/)
 * [🖥️ GitHub Copilot App is Generally Available](https://quintelier.dev/posts/2026/06/github-copilot-app-generally-available/)
 * [Maximising Copilot Token Efficiency 🚀](https://quintelier.dev/posts/2026/06/maximising-copilot-token-efficiency/)
 * [📊 Monitor AI Coding Agents with Grafana](https://quintelier.dev/posts/2026/06/monitor-ai-coding-agents-grafana-app-insights/)
@@ -84,7 +85,6 @@ Currently working on:
 * [🛠️ Agentic Infographic Workflow Postmortem](https://quintelier.dev/posts/2026/04/agentic-infographic-workflow-postmortem/)
 * [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
 * [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
-* [🧰 Manage agent skills with GitHub CLI](https://quintelier.dev/posts/2026/04/manage-agent-skills-github-cli/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
