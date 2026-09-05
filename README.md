@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Multiple trusted publishing configurations for npm](https://quintelier.dev/updates/multiple-trusted-publishing-configurations-for-npm/)
+* [github: GitHub Copilot weekly releases — August 31](https://quintelier.dev/updates/github-copilot-weekly-releases-august-31/)
 * [azure: [Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-ipam-in-additional-azure-regions/)
-* [security: ASCII smuggling crosses over from AI prompt injection to phishing evasion](https://quintelier.dev/updates/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/)
+* [security: How to secure edge AI in customer-owned environments](https://quintelier.dev/updates/how-to-secure-edge-ai-in-customer-owned-environments/)
 * [dotnet: Test what you ship: MSTest and Native AOT](https://quintelier.dev/updates/test-what-you-ship-mstest-and-native-aot/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
