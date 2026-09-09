@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot weekly releases — August 31](https://quintelier.dev/updates/github-copilot-weekly-releases-august-31/)
-* [azure: [Launched] Generally Available: Azure Virtual Network Manager IPAM in additional Azure regions](https://quintelier.dev/updates/launched-generally-available-azure-virtual-network-manager-ipam-in-additional-azure-regions/)
+* [github: Enterprise-managed sandbox in Copilot for JetBrains](https://quintelier.dev/updates/enterprise-managed-sandbox-in-copilot-for-jetbrains/)
+* [azure: [Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North](https://quintelier.dev/updates/launched-generally-available-playwright-workspaces-in-australia-east-japan-east-and-switzerland-north/)
 * [security: How to secure edge AI in customer-owned environments](https://quintelier.dev/updates/how-to-secure-edge-ai-in-customer-owned-environments/)
-* [dotnet: Test what you ship: MSTest and Native AOT](https://quintelier.dev/updates/test-what-you-ship-mstest-and-native-aot/)
+* [dotnet: Announcing .NET 11 Release Candidate 1](https://quintelier.dev/updates/announcing-net-11-release-candidate-1/)
 * [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
 <!-- UPDATES-LIST:END -->
 
