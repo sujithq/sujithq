@@ -122,7 +122,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![Azure Network Engineer](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0124-azure-network-engineer-associate-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/88BA5C9FD389F907?sharingId=B2D5696D597C46D3)
 [![Azure Identity and Access](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0125-azure-identity-and-access-administrator-associate-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/56BE1BFB86C08DDA?sharingId=B2D5696D597C46D3)
 [![Cosmos DB Developer](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0130-azure-cosmos-db-developer-specialty-100x100.png)](https://learn.microsoft.com/api/credentials/share/en-us/SujithQuintelier/7AA4867AA17160AC?sharingId=B2D5696D597C46D3)
-[![Frontier Transformation Engineer](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0104-frontier-transformation-engineer.png)](https://www.credly.com/badges/f8be721f-4196-415e-b126-1c83bf854de6/public_url)
+[![Frontier Transformation Engineer](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/microsoft/0104-frontier-transformation-engineer-100x100.png)](https://www.credly.com/badges/f8be721f-4196-415e-b126-1c83bf854de6/public_url)
 
 #### Fundamentals
 
