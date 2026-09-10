@@ -76,6 +76,7 @@ Currently working on:
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
 * [🧰 Claude vs Copilot in VS Code: Meet the Harness](https://quintelier.dev/posts/2026/09/claude-vs-copilot-harness-vs-code/)
+* [🤖 Azure AI Services in 2026: What to Use and When](https://quintelier.dev/posts/2026/06/azure-ai-services-in-2026/)
 * [🖥️ GitHub Copilot App is Generally Available](https://quintelier.dev/posts/2026/06/github-copilot-app-generally-available/)
 * [Maximising Copilot Token Efficiency 🚀](https://quintelier.dev/posts/2026/06/maximising-copilot-token-efficiency/)
 * [📊 Monitor AI Coding Agents with Grafana](https://quintelier.dev/posts/2026/06/monitor-ai-coding-agents-grafana-app-insights/)
@@ -84,16 +85,15 @@ Currently working on:
 * [🔑 Easier BYOK for GitHub Copilot CLI](https://quintelier.dev/posts/2026/05/copilot-cli-byok-model-switcher/)
 * [🛠️ Agentic Infographic Workflow Postmortem](https://quintelier.dev/posts/2026/04/agentic-infographic-workflow-postmortem/)
 * [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
-* [🤖 Copilot CLI Auto Model Selection is GA](https://quintelier.dev/posts/2026/04/github-copilot-cli-auto-model-selection/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise-managed sandbox in Copilot for JetBrains](https://quintelier.dev/updates/enterprise-managed-sandbox-in-copilot-for-jetbrains/)
-* [azure: [Launched] Generally Available: Playwright Workspaces in Australia East, Japan East, and Switzerland North](https://quintelier.dev/updates/launched-generally-available-playwright-workspaces-in-australia-east-japan-east-and-switzerland-north/)
-* [security: How to secure edge AI in customer-owned environments](https://quintelier.dev/updates/how-to-secure-edge-ai-in-customer-owned-environments/)
+* [github: CodeQL 2.27.0 adds support for Linux ARM64](https://quintelier.dev/updates/codeql-2-27-0-adds-support-for-linux-arm64/)
+* [azure: [Launched] Generally Available: User-bound user delegation SAS for Azure Storage](https://quintelier.dev/updates/launched-generally-available-user-bound-user-delegation-sas-for-azure-storage/)
+* [security: Threat matrix: Mapping threats across cloud web applications](https://quintelier.dev/updates/threat-matrix-mapping-threats-across-cloud-web-applications/)
 * [dotnet: Announcing .NET 11 Release Candidate 1](https://quintelier.dev/updates/announcing-net-11-release-candidate-1/)
-* [ai: From single call to agents: five new Claude capabilities now available in Microsoft Foundry](https://quintelier.dev/updates/from-single-call-to-agents-five-new-claude-capabilities-now-available-in-microsoft-foundry/)
+* [ai: What’s new in Microsoft Foundry: July and August 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-july-and-august-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
