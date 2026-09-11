@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: CodeQL 2.27.0 adds support for Linux ARM64](https://quintelier.dev/updates/codeql-2-27-0-adds-support-for-linux-arm64/)
-* [azure: [Launched] Generally Available: User-bound user delegation SAS for Azure Storage](https://quintelier.dev/updates/launched-generally-available-user-bound-user-delegation-sas-for-azure-storage/)
-* [security: Threat matrix: Mapping threats across cloud web applications](https://quintelier.dev/updates/threat-matrix-mapping-threats-across-cloud-web-applications/)
-* [dotnet: Announcing .NET 11 Release Candidate 1](https://quintelier.dev/updates/announcing-net-11-release-candidate-1/)
-* [ai: What’s new in Microsoft Foundry: July and August 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-july-and-august-2026/)
+* [github: Refreshed repository pull requests page in public preview](https://quintelier.dev/updates/refreshed-repository-pull-requests-page-in-public-preview/)
+* [azure: [Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption](https://quintelier.dev/updates/launched-generally-available-tls-ssl-certificate-and-end-to-end-tls-encryption-support-for-azure-functions-flex-consumption/)
+* [security: Protecting organizations from AI-assisted executive impersonation and invoice fraud](https://quintelier.dev/updates/protecting-organizations-from-ai-assisted-executive-impersonation-and-invoice-fraud/)
+* [dotnet: Use C# unions and closed hierarchies in ASP.NET Core](https://quintelier.dev/updates/use-c-unions-and-closed-hierarchies-in-asp-net-core/)
+* [ai: Announcing Azure AI Speech LLM 2607: Better Multilingual Accuracy, Easier Customization](https://quintelier.dev/updates/announcing-azure-ai-speech-llm-2607-better-multilingual-accuracy-easier-customization/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
