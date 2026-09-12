@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Refreshed repository pull requests page in public preview](https://quintelier.dev/updates/refreshed-repository-pull-requests-page-in-public-preview/)
-* [azure: [Launched] Generally Available: TLS/SSL certificate and end-to-end TLS encryption support for Azure Functions Flex Consumption](https://quintelier.dev/updates/launched-generally-available-tls-ssl-certificate-and-end-to-end-tls-encryption-support-for-azure-functions-flex-consumption/)
+* [github: Add VS Code Agents to Copilot usage metrics](https://quintelier.dev/updates/add-vs-code-agents-to-copilot-usage-metrics/)
+* [azure: Retirement: Azure Linux with OS Guard in Azure Kubernetes Service](https://quintelier.dev/updates/retirement-azure-linux-with-os-guard-in-azure-kubernetes-service/)
 * [security: Protecting organizations from AI-assisted executive impersonation and invoice fraud](https://quintelier.dev/updates/protecting-organizations-from-ai-assisted-executive-impersonation-and-invoice-fraud/)
 * [dotnet: Use C# unions and closed hierarchies in ASP.NET Core](https://quintelier.dev/updates/use-c-unions-and-closed-hierarchies-in-asp-net-core/)
 * [ai: Announcing Azure AI Speech LLM 2607: Better Multilingual Accuracy, Easier Customization](https://quintelier.dev/updates/announcing-azure-ai-speech-llm-2607-better-multilingual-accuracy-easier-customization/)
