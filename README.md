@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [GitHub Copilot FinOps: From License Management to AI Cost Governance](https://quintelier.dev/posts/2026/09/github-copilot-finops/)
 * [🧰 Claude vs Copilot in VS Code: Meet the Harness](https://quintelier.dev/posts/2026/09/claude-vs-copilot-harness-vs-code/)
 * [🤖 Azure AI Services in 2026: What to Use and When](https://quintelier.dev/posts/2026/06/azure-ai-services-in-2026/)
 * [🖥️ GitHub Copilot App is Generally Available](https://quintelier.dev/posts/2026/06/github-copilot-app-generally-available/)
@@ -84,7 +85,6 @@ Currently working on:
 * [📱 Create repos faster with GitHub Mobile](https://quintelier.dev/posts/2026/05/github-mobile-create-repositories/)
 * [🔑 Easier BYOK for GitHub Copilot CLI](https://quintelier.dev/posts/2026/05/copilot-cli-byok-model-switcher/)
 * [🛠️ Agentic Infographic Workflow Postmortem](https://quintelier.dev/posts/2026/04/agentic-infographic-workflow-postmortem/)
-* [⚙️ Azure Functions Core Tools: Version Mismatch](https://quintelier.dev/posts/2026/04/azure-functions-core-tools-version-mismatch/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
