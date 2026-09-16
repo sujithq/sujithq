@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Configure cost and quality in Copilot auto model selection](https://quintelier.dev/updates/configure-cost-and-quality-in-copilot-auto-model-selection/)
+* [github: Enforce GitHub Advanced Security configurations](https://quintelier.dev/updates/enforce-github-advanced-security-configurations/)
 * [azure: Announcing: New Windows App client-side endpoints for Azure Virtual Desktop](https://quintelier.dev/updates/announcing-new-windows-app-client-side-endpoints-for-azure-virtual-desktop/)
 * [security: Protecting organizations from AI-assisted executive impersonation and invoice fraud](https://quintelier.dev/updates/protecting-organizations-from-ai-assisted-executive-impersonation-and-invoice-fraud/)
-* [dotnet: Share your .NET story with the community](https://quintelier.dev/updates/share-your-net-story-with-the-community/)
-* [ai: Announcing Azure AI Speech LLM 2607: Better Multilingual Accuracy, Easier Customization](https://quintelier.dev/updates/announcing-azure-ai-speech-llm-2607-better-multilingual-accuracy-easier-customization/)
+* [dotnet: Performance Improvements in .NET 11](https://quintelier.dev/updates/performance-improvements-in-net-11/)
+* [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
