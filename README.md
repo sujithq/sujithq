@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enforce GitHub Advanced Security configurations](https://quintelier.dev/updates/enforce-github-advanced-security-configurations/)
-* [azure: Announcing: New Windows App client-side endpoints for Azure Virtual Desktop](https://quintelier.dev/updates/announcing-new-windows-app-client-side-endpoints-for-azure-virtual-desktop/)
+* [github: Automate SSO authorization for classic PATs and SSH keys](https://quintelier.dev/updates/automate-sso-authorization-for-classic-pats-and-ssh-keys/)
+* [azure: Retirement Update: SAP container images removed October 14, 2026](https://quintelier.dev/updates/retirement-update-sap-container-images-removed-october-14-2026/)
 * [security: Protecting organizations from AI-assisted executive impersonation and invoice fraud](https://quintelier.dev/updates/protecting-organizations-from-ai-assisted-executive-impersonation-and-invoice-fraud/)
-* [dotnet: Performance Improvements in .NET 11](https://quintelier.dev/updates/performance-improvements-in-net-11/)
+* [dotnet: Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://quintelier.dev/updates/build-your-own-ai-agent-harness-in-c-the-mafclaw-live-series/)
 * [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
 <!-- UPDATES-LIST:END -->
 
