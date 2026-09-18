@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Automate SSO authorization for classic PATs and SSH keys](https://quintelier.dev/updates/automate-sso-authorization-for-classic-pats-and-ssh-keys/)
-* [azure: Retirement Update: SAP container images removed October 14, 2026](https://quintelier.dev/updates/retirement-update-sap-container-images-removed-october-14-2026/)
-* [security: Protecting organizations from AI-assisted executive impersonation and invoice fraud](https://quintelier.dev/updates/protecting-organizations-from-ai-assisted-executive-impersonation-and-invoice-fraud/)
+* [github: Copilot impact dashboard now shows feature engagement](https://quintelier.dev/updates/copilot-impact-dashboard-now-shows-feature-engagement/)
+* [azure: [In preview] Public Preview: Azure Payments HSM v2](https://quintelier.dev/updates/in-preview-public-preview-azure-payments-hsm-v2/)
+* [security: From guidance to action: Security fundamentals that materially reduce risk](https://quintelier.dev/updates/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/)
 * [dotnet: Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://quintelier.dev/updates/build-your-own-ai-agent-harness-in-c-the-mafclaw-live-series/)
 * [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
 <!-- UPDATES-LIST:END -->
