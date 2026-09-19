@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot impact dashboard now shows feature engagement](https://quintelier.dev/updates/copilot-impact-dashboard-now-shows-feature-engagement/)
-* [azure: [In preview] Public Preview: Azure Payments HSM v2](https://quintelier.dev/updates/in-preview-public-preview-azure-payments-hsm-v2/)
+* [github: Copilot code review: An improved review experience](https://quintelier.dev/updates/copilot-code-review-an-improved-review-experience/)
+* [azure: [In preview] Public Preview: Foundry Routines in Foundry Agent Service](https://quintelier.dev/updates/in-preview-public-preview-foundry-routines-in-foundry-agent-service/)
 * [security: From guidance to action: Security fundamentals that materially reduce risk](https://quintelier.dev/updates/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/)
 * [dotnet: Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://quintelier.dev/updates/build-your-own-ai-agent-harness-in-c-the-mafclaw-live-series/)
 * [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
