@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Refreshed repository pull requests page generally available](https://quintelier.dev/updates/refreshed-repository-pull-requests-page-generally-available/)
-* [azure: [Launched] Generally Available: Azure Sphere OS version 26.09 is now available](https://quintelier.dev/updates/launched-generally-available-azure-sphere-os-version-26-09-is-now-available/)
-* [security: From guidance to action: Security fundamentals that materially reduce risk](https://quintelier.dev/updates/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/)
-* [dotnet: Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://quintelier.dev/updates/build-your-own-ai-agent-harness-in-c-the-mafclaw-live-series/)
+* [github: OpenTelemetry in the GitHub Copilot app](https://quintelier.dev/updates/opentelemetry-in-the-github-copilot-app/)
+* [azure: Retirement: Support for Node.js 22 ends on April 30, 2027](https://quintelier.dev/updates/retirement-support-for-node-js-22-ends-on-april-30-2027/)
+* [security: Unmasking EvilTokens: Getting to the root of device code phishing](https://quintelier.dev/updates/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/)
+* [dotnet: Creating a memory dump in C#](https://quintelier.dev/updates/creating-a-memory-dump-in-c/)
 * [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
 <!-- UPDATES-LIST:END -->
 
