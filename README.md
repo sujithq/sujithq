@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: OpenTelemetry in the GitHub Copilot app](https://quintelier.dev/updates/opentelemetry-in-the-github-copilot-app/)
-* [azure: Retirement: Support for Node.js 22 ends on April 30, 2027](https://quintelier.dev/updates/retirement-support-for-node-js-22-ends-on-april-30-2027/)
-* [security: Unmasking EvilTokens: Getting to the root of device code phishing](https://quintelier.dev/updates/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/)
-* [dotnet: Creating a memory dump in C#](https://quintelier.dev/updates/creating-a-memory-dump-in-c/)
+* [github: More ways to request and configure Copilot code reviews](https://quintelier.dev/updates/more-ways-to-request-and-configure-copilot-code-reviews/)
+* [azure: Retirement: Support for PowerShell 7.4 ends on November 10, 2026](https://quintelier.dev/updates/retirement-support-for-powershell-7-4-ends-on-november-10-2026/)
+* [security: Reimagining the SOC for the agentic era in Microsoft Defender](https://quintelier.dev/updates/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/)
+* [dotnet: Microsoft is updating its author-signing certificate starting September 23, 2026](https://quintelier.dev/updates/microsoft-is-updating-its-author-signing-certificate-starting-september-23-2026/)
 * [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
 <!-- UPDATES-LIST:END -->
 
