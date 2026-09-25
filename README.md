@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: More ways to request and configure Copilot code reviews](https://quintelier.dev/updates/more-ways-to-request-and-configure-copilot-code-reviews/)
-* [azure: Retirement: Support for PowerShell 7.4 ends on November 10, 2026](https://quintelier.dev/updates/retirement-support-for-powershell-7-4-ends-on-november-10-2026/)
-* [security: Reimagining the SOC for the agentic era in Microsoft Defender](https://quintelier.dev/updates/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/)
+* [github: Default Enablement of Copilot Features for Copilot Business and Enterprise](https://quintelier.dev/updates/default-enablement-of-copilot-features-for-copilot-business-and-enterprise/)
+* [azure: Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028](https://quintelier.dev/updates/retirement-azure-communication-services-acs-standalone-services-will-be-retired-on-september-30-2028/)
+* [security: Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments](https://quintelier.dev/updates/beyond-the-ransomware-tracking-storm-2570-s-consistent-tradecraft-across-deployments/)
 * [dotnet: Microsoft is updating its author-signing certificate starting September 23, 2026](https://quintelier.dev/updates/microsoft-is-updating-its-author-signing-certificate-starting-september-23-2026/)
-* [ai: Introducing Foundry Dev Pack: One Command to Start Building](https://quintelier.dev/updates/introducing-foundry-dev-pack-one-command-to-start-building/)
+* [ai: Control where your hosted agent connects with network egress in Foundry Agent Service](https://quintelier.dev/updates/control-where-your-hosted-agent-connects-with-network-egress-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
