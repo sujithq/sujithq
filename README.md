@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Default Enablement of Copilot Features for Copilot Business and Enterprise](https://quintelier.dev/updates/default-enablement-of-copilot-features-for-copilot-business-and-enterprise/)
-* [azure: Retirement: Azure Communication Services (ACS) standalone services will be retired on September 30, 2028](https://quintelier.dev/updates/retirement-azure-communication-services-acs-standalone-services-will-be-retired-on-september-30-2028/)
-* [security: Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments](https://quintelier.dev/updates/beyond-the-ransomware-tracking-storm-2570-s-consistent-tradecraft-across-deployments/)
-* [dotnet: Microsoft is updating its author-signing certificate starting September 23, 2026](https://quintelier.dev/updates/microsoft-is-updating-its-author-signing-certificate-starting-september-23-2026/)
+* [github: Enterprise managed settings in-product validator](https://quintelier.dev/updates/enterprise-managed-settings-in-product-validator/)
+* [azure: [In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18](https://quintelier.dev/updates/in-preview-public-preview-azure-horizondb-supports-postgresql-18/)
+* [security: Storm-3168: Agentic-driven cloud attacks using compromised service principals](https://quintelier.dev/updates/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/)
+* [dotnet: AG-UI Protocol now has a first-class .NET SDK](https://quintelier.dev/updates/ag-ui-protocol-now-has-a-first-class-net-sdk/)
 * [ai: Control where your hosted agent connects with network egress in Foundry Agent Service](https://quintelier.dev/updates/control-where-your-hosted-agent-connects-with-network-egress-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
