@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Enterprise managed settings in-product validator](https://quintelier.dev/updates/enterprise-managed-settings-in-product-validator/)
-* [azure: [In preview] Public Preview: Azure HorizonDB supports PostgreSQL 18](https://quintelier.dev/updates/in-preview-public-preview-azure-horizondb-supports-postgresql-18/)
-* [security: Storm-3168: Agentic-driven cloud attacks using compromised service principals](https://quintelier.dev/updates/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/)
-* [dotnet: AG-UI Protocol now has a first-class .NET SDK](https://quintelier.dev/updates/ag-ui-protocol-now-has-a-first-class-net-sdk/)
+* [github: Self-hosted runner version enforcement date has moved](https://quintelier.dev/updates/self-hosted-runner-version-enforcement-date-has-moved/)
+* [azure: [Launched] Generally Available: Vector search and vector indexes in Azure SQL](https://quintelier.dev/updates/launched-generally-available-vector-search-and-vector-indexes-in-azure-sql/)
+* [security: NeedyMantis: Unpacking a post-compromise malware family used in targeted operations](https://quintelier.dev/updates/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/)
+* [dotnet: Build Agentic UI with the new Blazor AI components](https://quintelier.dev/updates/build-agentic-ui-with-the-new-blazor-ai-components/)
 * [ai: Control where your hosted agent connects with network egress in Foundry Agent Service](https://quintelier.dev/updates/control-where-your-hosted-agent-connects-with-network-egress-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
