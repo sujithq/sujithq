@@ -330,6 +330,18 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 
 ## Contribution
 
+### Contributing
+
+Keep profile updates focused and follow the repository guidance in
+[`AGENTS.md`](AGENTS.md). For changes, update related assets and documentation, then run:
+
+```bash
+bash scripts/verify.sh
+```
+
+Open a pull request using the repository template and include checks for affected image paths, external
+links, and workflows.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output-snake/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujithq/sujithq/output-snake/github-contribution-grid-snake.svg" />
