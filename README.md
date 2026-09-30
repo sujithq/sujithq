@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Self-hosted runner version enforcement date has moved](https://quintelier.dev/updates/self-hosted-runner-version-enforcement-date-has-moved/)
-* [azure: [Launched] Generally Available: Vector search and vector indexes in Azure SQL](https://quintelier.dev/updates/launched-generally-available-vector-search-and-vector-indexes-in-azure-sql/)
-* [security: NeedyMantis: Unpacking a post-compromise malware family used in targeted operations](https://quintelier.dev/updates/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/)
+* [github: Repository custom runner settings for Dependabot](https://quintelier.dev/updates/repository-custom-runner-settings-for-dependabot/)
+* [azure: Retirement: Azure Functions v1 hosting model on Azure Container Apps](https://quintelier.dev/updates/retirement-azure-functions-v1-hosting-model-on-azure-container-apps/)
+* [security: Phishing Abuses RMM Tools for Persistent Access](https://quintelier.dev/updates/phishing-abuses-rmm-tools-for-persistent-access/)
 * [dotnet: Build Agentic UI with the new Blazor AI components](https://quintelier.dev/updates/build-agentic-ui-with-the-new-blazor-ai-components/)
-* [ai: Control where your hosted agent connects with network egress in Foundry Agent Service](https://quintelier.dev/updates/control-where-your-hosted-agent-connects-with-network-egress-in-foundry-agent-service/)
+* [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
