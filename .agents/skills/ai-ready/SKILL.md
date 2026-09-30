@@ -403,4 +403,3 @@ This skill's first obligation is to leave the repo in a **better state than it f
 - **ALWAYS handle PR conflicts proactively** — when creating PRs, sync with the target branch and attempt conflict resolution; if conflicts remain, explicitly ask the user how they want to proceed.
 
 ---
-
