@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Repository custom runner settings for Dependabot](https://quintelier.dev/updates/repository-custom-runner-settings-for-dependabot/)
-* [azure: Retirement: Azure Functions v1 hosting model on Azure Container Apps](https://quintelier.dev/updates/retirement-azure-functions-v1-hosting-model-on-azure-container-apps/)
-* [security: Phishing Abuses RMM Tools for Persistent Access](https://quintelier.dev/updates/phishing-abuses-rmm-tools-for-persistent-access/)
+* [github: Opt-in dist-tag permissions for npm trusted publishing](https://quintelier.dev/updates/opt-in-dist-tag-permissions-for-npm-trusted-publishing/)
+* [azure: [In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines](https://quintelier.dev/updates/in-preview-public-preview-sql-performance-monitoring-for-sql-server-on-azure-virtual-machines/)
+* [security: ​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://quintelier.dev/updates/secure-what-s-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
 * [dotnet: Build Agentic UI with the new Blazor AI components](https://quintelier.dev/updates/build-agentic-ui-with-the-new-blazor-ai-components/)
 * [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
 <!-- UPDATES-LIST:END -->
