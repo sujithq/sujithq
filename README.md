@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Opt-in dist-tag permissions for npm trusted publishing](https://quintelier.dev/updates/opt-in-dist-tag-permissions-for-npm-trusted-publishing/)
-* [azure: [In preview] Public Preview: SQL performance monitoring for SQL Server on Azure Virtual Machines](https://quintelier.dev/updates/in-preview-public-preview-sql-performance-monitoring-for-sql-server-on-azure-virtual-machines/)
-* [security: ​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026](https://quintelier.dev/updates/secure-what-s-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/)
+* [github: Rate limits for private vulnerability reports](https://quintelier.dev/updates/rate-limits-for-private-vulnerability-reports/)
+* [azure: Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029](https://quintelier.dev/updates/retirement-dcsv3-and-dcdsv3-series-azure-virtual-machines-will-be-retired-on-october-31-2029/)
+* [security: Insights from the 2026 Microsoft Digital Defense Report](https://quintelier.dev/updates/insights-from-the-2026-microsoft-digital-defense-report/)
 * [dotnet: Build Agentic UI with the new Blazor AI components](https://quintelier.dev/updates/build-agentic-ui-with-the-new-blazor-ai-components/)
 * [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
 <!-- UPDATES-LIST:END -->
