@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Rate limits for private vulnerability reports](https://quintelier.dev/updates/rate-limits-for-private-vulnerability-reports/)
-* [azure: Retirement: DCsv3 and DCdsv3-series Azure Virtual Machines will be retired on October 31, 2029](https://quintelier.dev/updates/retirement-dcsv3-and-dcdsv3-series-azure-virtual-machines-will-be-retired-on-october-31-2029/)
+* [github: Stateless GitHub App installation tokens rolled out](https://quintelier.dev/updates/stateless-github-app-installation-tokens-rolled-out/)
+* [azure: [In preview] Public Preview: Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters](https://quintelier.dev/updates/in-preview-public-preview-major-version-upgrades-mvu-for-azure-database-for-postgresql-elastic-clusters/)
 * [security: Insights from the 2026 Microsoft Digital Defense Report](https://quintelier.dev/updates/insights-from-the-2026-microsoft-digital-defense-report/)
 * [dotnet: Build Agentic UI with the new Blazor AI components](https://quintelier.dev/updates/build-agentic-ui-with-the-new-blazor-ai-components/)
 * [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
