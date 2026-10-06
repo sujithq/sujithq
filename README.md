@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Stateless GitHub App installation tokens rolled out](https://quintelier.dev/updates/stateless-github-app-installation-tokens-rolled-out/)
-* [azure: [In preview] Public Preview: Major version upgrades (MVU) for Azure Database for PostgreSQL elastic clusters](https://quintelier.dev/updates/in-preview-public-preview-major-version-upgrades-mvu-for-azure-database-for-postgresql-elastic-clusters/)
+* [github: Secret scanning adds detectors for Lovable, Supabase, and more](https://quintelier.dev/updates/secret-scanning-adds-detectors-for-lovable-supabase-and-more/)
+* [azure: [In preview] Public Preview: Azure HorizonDB expands to additional regions](https://quintelier.dev/updates/in-preview-public-preview-azure-horizondb-expands-to-additional-regions/)
 * [security: Insights from the 2026 Microsoft Digital Defense Report](https://quintelier.dev/updates/insights-from-the-2026-microsoft-digital-defense-report/)
-* [dotnet: Build Agentic UI with the new Blazor AI components](https://quintelier.dev/updates/build-agentic-ui-with-the-new-blazor-ai-components/)
+* [dotnet: UWP and WinUI 3 apps: UI testing with MSTest](https://quintelier.dev/updates/uwp-and-winui-3-apps-ui-testing-with-mstest/)
 * [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
 <!-- UPDATES-LIST:END -->
 
