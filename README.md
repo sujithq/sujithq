@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Secret scanning adds detectors for Lovable, Supabase, and more](https://quintelier.dev/updates/secret-scanning-adds-detectors-for-lovable-supabase-and-more/)
-* [azure: [In preview] Public Preview: Azure HorizonDB expands to additional regions](https://quintelier.dev/updates/in-preview-public-preview-azure-horizondb-expands-to-additional-regions/)
-* [security: Insights from the 2026 Microsoft Digital Defense Report](https://quintelier.dev/updates/insights-from-the-2026-microsoft-digital-defense-report/)
-* [dotnet: UWP and WinUI 3 apps: UI testing with MSTest](https://quintelier.dev/updates/uwp-and-winui-3-apps-ui-testing-with-mstest/)
+* [github: Update your IDE to restore agent activity in Copilot usage metrics](https://quintelier.dev/updates/update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics/)
+* [azure: Retirement: Pod name dimension in AKS pod platform metrics](https://quintelier.dev/updates/retirement-pod-name-dimension-in-aks-pod-platform-metrics/)
+* [security: CISO perspectives on managing vulnerability risks in the age of AI](https://quintelier.dev/updates/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
+* [dotnet: A faster, lighter C# Dev Kit](https://quintelier.dev/updates/a-faster-lighter-c-dev-kit/)
 * [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
 <!-- UPDATES-LIST:END -->
 
