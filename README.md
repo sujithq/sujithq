@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Update your IDE to restore agent activity in Copilot usage metrics](https://quintelier.dev/updates/update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics/)
-* [azure: Retirement: Pod name dimension in AKS pod platform metrics](https://quintelier.dev/updates/retirement-pod-name-dimension-in-aks-pod-platform-metrics/)
-* [security: CISO perspectives on managing vulnerability risks in the age of AI](https://quintelier.dev/updates/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/)
+* [github: Claude Haiku 5.5 in GitHub Copilot](https://quintelier.dev/updates/claude-haiku-5-5-in-github-copilot/)
+* [azure: [Launched] Generally Available: Anyscale on Azure](https://quintelier.dev/updates/launched-generally-available-anyscale-on-azure/)
+* [security: 3 lessons from frontier AI vulnerability research](https://quintelier.dev/updates/3-lessons-from-frontier-ai-vulnerability-research/)
 * [dotnet: A faster, lighter C# Dev Kit](https://quintelier.dev/updates/a-faster-lighter-c-dev-kit/)
-* [ai: Why content extraction still matters in the GenAI era](https://quintelier.dev/updates/why-content-extraction-still-matters-in-the-genai-era/)
+* [ai: Azure Document Intelligence and Azure Content Understanding: a practical guide](https://quintelier.dev/updates/azure-document-intelligence-and-azure-content-understanding-a-practical-guide/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
