@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Triage role users or higher can now archive pull requests](https://quintelier.dev/updates/triage-role-users-or-higher-can-now-archive-pull-requests/)
-* [azure: [Launched] Generally Available: Managed StandardV2 NAT Gateway for AKS](https://quintelier.dev/updates/launched-generally-available-managed-standardv2-nat-gateway-for-aks/)
-* [security: 3 lessons from frontier AI vulnerability research](https://quintelier.dev/updates/3-lessons-from-frontier-ai-vulnerability-research/)
+* [github: GitHub Copilot weekly releases — October 5](https://quintelier.dev/updates/github-copilot-weekly-releases-october-5/)
+* [azure: Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://quintelier.dev/updates/retirement-azure-key-vault-secrets-provider-extension-for-azure-arc-enabled-kubernetes-clusters/)
+* [security: Post-quantum authentication: Why organizations should start testing certificate ecosystems now](https://quintelier.dev/updates/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/)
 * [dotnet: A faster, lighter C# Dev Kit](https://quintelier.dev/updates/a-faster-lighter-c-dev-kit/)
 * [ai: Azure Document Intelligence and Azure Content Understanding: a practical guide](https://quintelier.dev/updates/azure-document-intelligence-and-azure-content-understanding-a-practical-guide/)
 <!-- UPDATES-LIST:END -->
