@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot weekly releases — October 5](https://quintelier.dev/updates/github-copilot-weekly-releases-october-5/)
+* [github: New controls and chat improvements in Copilot for JetBrains](https://quintelier.dev/updates/new-controls-and-chat-improvements-in-copilot-for-jetbrains/)
 * [azure: Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://quintelier.dev/updates/retirement-azure-key-vault-secrets-provider-extension-for-azure-arc-enabled-kubernetes-clusters/)
 * [security: Post-quantum authentication: Why organizations should start testing certificate ecosystems now](https://quintelier.dev/updates/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/)
 * [dotnet: A faster, lighter C# Dev Kit](https://quintelier.dev/updates/a-faster-lighter-c-dev-kit/)
