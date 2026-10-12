@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: New controls and chat improvements in Copilot for JetBrains](https://quintelier.dev/updates/new-controls-and-chat-improvements-in-copilot-for-jetbrains/)
+* [github: Push attribution for commits in limited public preview](https://quintelier.dev/updates/push-attribution-for-commits-in-limited-public-preview/)
 * [azure: Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://quintelier.dev/updates/retirement-azure-key-vault-secrets-provider-extension-for-azure-arc-enabled-kubernetes-clusters/)
 * [security: Post-quantum authentication: Why organizations should start testing certificate ecosystems now](https://quintelier.dev/updates/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/)
-* [dotnet: A faster, lighter C# Dev Kit](https://quintelier.dev/updates/a-faster-lighter-c-dev-kit/)
+* [dotnet: Durable Task in the Real World: What Problems Does It Actually Solve?](https://quintelier.dev/updates/durable-task-in-the-real-world-what-problems-does-it-actually-solve/)
 * [ai: Azure Document Intelligence and Azure Content Understanding: a practical guide](https://quintelier.dev/updates/azure-document-intelligence-and-azure-content-understanding-a-practical-guide/)
 <!-- UPDATES-LIST:END -->
 
