@@ -89,7 +89,7 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Push attribution for commits in limited public preview](https://quintelier.dev/updates/push-attribution-for-commits-in-limited-public-preview/)
+* [github: Client telemetry user attribution and configurable capture](https://quintelier.dev/updates/client-telemetry-user-attribution-and-configurable-capture/)
 * [azure: Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://quintelier.dev/updates/retirement-azure-key-vault-secrets-provider-extension-for-azure-arc-enabled-kubernetes-clusters/)
 * [security: Post-quantum authentication: Why organizations should start testing certificate ecosystems now](https://quintelier.dev/updates/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/)
 * [dotnet: Durable Task in the Real World: What Problems Does It Actually Solve?](https://quintelier.dev/updates/durable-task-in-the-real-world-what-problems-does-it-actually-solve/)
