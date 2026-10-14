@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Client telemetry user attribution and configurable capture](https://quintelier.dev/updates/client-telemetry-user-attribution-and-configurable-capture/)
+* [github: GitHub App improvements for least privilege and management](https://quintelier.dev/updates/github-app-improvements-for-least-privilege-and-management/)
 * [azure: Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://quintelier.dev/updates/retirement-azure-key-vault-secrets-provider-extension-for-azure-arc-enabled-kubernetes-clusters/)
 * [security: Post-quantum authentication: Why organizations should start testing certificate ecosystems now](https://quintelier.dev/updates/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/)
-* [dotnet: Durable Task in the Real World: What Problems Does It Actually Solve?](https://quintelier.dev/updates/durable-task-in-the-real-world-what-problems-does-it-actually-solve/)
-* [ai: Azure Document Intelligence and Azure Content Understanding: a practical guide](https://quintelier.dev/updates/azure-document-intelligence-and-azure-content-understanding-a-practical-guide/)
+* [dotnet: Announcing .NET 11 Release Candidate 2](https://quintelier.dev/updates/announcing-net-11-release-candidate-2/)
+* [ai: Azure Content Understanding Prebuilt Analyzers: packaging domain knowledge for document AI](https://quintelier.dev/updates/azure-content-understanding-prebuilt-analyzers-packaging-domain-knowledge-for-document-ai/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
