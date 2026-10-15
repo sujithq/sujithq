@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub App improvements for least privilege and management](https://quintelier.dev/updates/github-app-improvements-for-least-privilege-and-management/)
-* [azure: Retirement: Azure Key Vault Secrets Provider Extension for Azure Arc enabled Kubernetes clusters](https://quintelier.dev/updates/retirement-azure-key-vault-secrets-provider-extension-for-azure-arc-enabled-kubernetes-clusters/)
-* [security: Post-quantum authentication: Why organizations should start testing certificate ecosystems now](https://quintelier.dev/updates/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/)
+* [github: HydraFusion updates and new Max option](https://quintelier.dev/updates/hydrafusion-updates-and-new-max-option/)
+* [azure: [Launched] Generally Available: Azure Cloud HSM hardware audit logging](https://quintelier.dev/updates/launched-generally-available-azure-cloud-hsm-hardware-audit-logging/)
+* [security: The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime](https://quintelier.dev/updates/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/)
 * [dotnet: Announcing .NET 11 Release Candidate 2](https://quintelier.dev/updates/announcing-net-11-release-candidate-2/)
-* [ai: Azure Content Understanding Prebuilt Analyzers: packaging domain knowledge for document AI](https://quintelier.dev/updates/azure-content-understanding-prebuilt-analyzers-packaging-domain-knowledge-for-document-ai/)
+* [ai: From extraction to action: Using grounding and confidence to build reliable document workflows](https://quintelier.dev/updates/from-extraction-to-action-using-grounding-and-confidence-to-build-reliable-document-workflows/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
