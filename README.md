@@ -75,6 +75,7 @@ Currently working on:
 
 ### 📝 Blog
 <!-- BLOG-POST-LIST:START -->
+* [🐉 Using HydraFusion Across Copilot Surfaces](https://quintelier.dev/posts/2026/10/hydrafusion-github-copilot-orchestration/)
 * [GitHub Copilot FinOps: From License Management to AI Cost Governance](https://quintelier.dev/posts/2026/09/github-copilot-finops/)
 * [🧰 Claude vs Copilot in VS Code: Meet the Harness](https://quintelier.dev/posts/2026/09/claude-vs-copilot-harness-vs-code/)
 * [🤖 Azure AI Services in 2026: What to Use and When](https://quintelier.dev/posts/2026/06/azure-ai-services-in-2026/)
@@ -84,16 +85,15 @@ Currently working on:
 * [🎨 Generate with GPT-image-2](https://quintelier.dev/posts/2026/05/create-image-skill-azure-openai/)
 * [📱 Create repos faster with GitHub Mobile](https://quintelier.dev/posts/2026/05/github-mobile-create-repositories/)
 * [🔑 Easier BYOK for GitHub Copilot CLI](https://quintelier.dev/posts/2026/05/copilot-cli-byok-model-switcher/)
-* [🛠️ Agentic Infographic Workflow Postmortem](https://quintelier.dev/posts/2026/04/agentic-infographic-workflow-postmortem/)
 <!-- BLOG-POST-LIST:END -->
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Download GitHub Code Quality license usage as a CSV](https://quintelier.dev/updates/download-github-code-quality-license-usage-as-a-csv/)
+* [github: Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams](https://quintelier.dev/updates/multi-repo-support-and-other-improvements-for-github-copilot-in-slack-and-microsoft-teams/)
 * [azure: [In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover](https://quintelier.dev/updates/in-preview-public-preview-azure-files-cross-region-data-copy-and-synchronization-with-azure-storage-mover/)
 * [security: The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime](https://quintelier.dev/updates/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/)
 * [dotnet: Introducing dotnetup: A toolchain manager for .NET](https://quintelier.dev/updates/introducing-dotnetup-a-toolchain-manager-for-net/)
-* [ai: From extraction to action: Using grounding and confidence to build reliable document workflows](https://quintelier.dev/updates/from-extraction-to-action-using-grounding-and-confidence-to-build-reliable-document-workflows/)
+* [ai: What’s new in Microsoft Foundry | September 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-september-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
