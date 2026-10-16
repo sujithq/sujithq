@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: HydraFusion updates and new Max option](https://quintelier.dev/updates/hydrafusion-updates-and-new-max-option/)
-* [azure: [Launched] Generally Available: Azure Cloud HSM hardware audit logging](https://quintelier.dev/updates/launched-generally-available-azure-cloud-hsm-hardware-audit-logging/)
+* [github: Download GitHub Code Quality license usage as a CSV](https://quintelier.dev/updates/download-github-code-quality-license-usage-as-a-csv/)
+* [azure: [In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover](https://quintelier.dev/updates/in-preview-public-preview-azure-files-cross-region-data-copy-and-synchronization-with-azure-storage-mover/)
 * [security: The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime](https://quintelier.dev/updates/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/)
-* [dotnet: Announcing .NET 11 Release Candidate 2](https://quintelier.dev/updates/announcing-net-11-release-candidate-2/)
+* [dotnet: Introducing dotnetup: A toolchain manager for .NET](https://quintelier.dev/updates/introducing-dotnetup-a-toolchain-manager-for-net/)
 * [ai: From extraction to action: Using grounding and confidence to build reliable document workflows](https://quintelier.dev/updates/from-extraction-to-action-using-grounding-and-confidence-to-build-reliable-document-workflows/)
 <!-- UPDATES-LIST:END -->
 
