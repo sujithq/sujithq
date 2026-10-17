@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams](https://quintelier.dev/updates/multi-repo-support-and-other-improvements-for-github-copilot-in-slack-and-microsoft-teams/)
-* [azure: [In preview] Public Preview: Azure Files cross-region data copy and synchronization with Azure Storage Mover](https://quintelier.dev/updates/in-preview-public-preview-azure-files-cross-region-data-copy-and-synchronization-with-azure-storage-mover/)
-* [security: The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime](https://quintelier.dev/updates/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/)
+* [github: Open source license compliance generally available](https://quintelier.dev/updates/open-source-license-compliance-generally-available/)
+* [azure: [In preview] Public Preview: Azure Databricks Private network gateway](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-private-network-gateway/)
+* [security: Managing open-weight model risk in enterprise deployments](https://quintelier.dev/updates/managing-open-weight-model-risk-in-enterprise-deployments/)
 * [dotnet: Introducing dotnetup: A toolchain manager for .NET](https://quintelier.dev/updates/introducing-dotnetup-a-toolchain-manager-for-net/)
 * [ai: What’s new in Microsoft Foundry | September 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-september-2026/)
 <!-- UPDATES-LIST:END -->
