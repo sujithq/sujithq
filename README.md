@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Open source license compliance generally available](https://quintelier.dev/updates/open-source-license-compliance-generally-available/)
-* [azure: [In preview] Public Preview: Azure Databricks Private network gateway](https://quintelier.dev/updates/in-preview-public-preview-azure-databricks-private-network-gateway/)
-* [security: Managing open-weight model risk in enterprise deployments](https://quintelier.dev/updates/managing-open-weight-model-risk-in-enterprise-deployments/)
-* [dotnet: Introducing dotnetup: A toolchain manager for .NET](https://quintelier.dev/updates/introducing-dotnetup-a-toolchain-manager-for-net/)
-* [ai: What’s new in Microsoft Foundry | September 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-september-2026/)
+* [github: Copilot model policy API for enterprise, orgs, and teams](https://quintelier.dev/updates/copilot-model-policy-api-for-enterprise-orgs-and-teams/)
+* [azure: [Launched] Generally Available: Metrics usage insights for Azure Monitor workspace](https://quintelier.dev/updates/launched-generally-available-metrics-usage-insights-for-azure-monitor-workspace/)
+* [security: Agents are your newest insiders. Security must move at their speed.](https://quintelier.dev/updates/agents-are-your-newest-insiders-security-must-move-at-their-speed/)
+* [dotnet: Get Your .NET MAUI App Ready for Xcode 27](https://quintelier.dev/updates/get-your-net-maui-app-ready-for-xcode-27/)
+* [ai: Browser automation tool in Microsoft Foundry is now GA](https://quintelier.dev/updates/browser-automation-tool-in-microsoft-foundry-is-now-ga/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
