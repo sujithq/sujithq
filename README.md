@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot model policy API for enterprise, orgs, and teams](https://quintelier.dev/updates/copilot-model-policy-api-for-enterprise-orgs-and-teams/)
-* [azure: [Launched] Generally Available: Metrics usage insights for Azure Monitor workspace](https://quintelier.dev/updates/launched-generally-available-metrics-usage-insights-for-azure-monitor-workspace/)
+* [github: Bulk migrate branch protections to rulesets for a repository](https://quintelier.dev/updates/bulk-migrate-branch-protections-to-rulesets-for-a-repository/)
+* [azure: [In preview] Public Preview: Disable VNet peering route](https://quintelier.dev/updates/in-preview-public-preview-disable-vnet-peering-route/)
 * [security: Agents are your newest insiders. Security must move at their speed.](https://quintelier.dev/updates/agents-are-your-newest-insiders-security-must-move-at-their-speed/)
 * [dotnet: Get Your .NET MAUI App Ready for Xcode 27](https://quintelier.dev/updates/get-your-net-maui-app-ready-for-xcode-27/)
 * [ai: Browser automation tool in Microsoft Foundry is now GA](https://quintelier.dev/updates/browser-automation-tool-in-microsoft-foundry-is-now-ga/)
