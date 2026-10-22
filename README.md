@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Bulk migrate branch protections to rulesets for a repository](https://quintelier.dev/updates/bulk-migrate-branch-protections-to-rulesets-for-a-repository/)
-* [azure: [In preview] Public Preview: Disable VNet peering route](https://quintelier.dev/updates/in-preview-public-preview-disable-vnet-peering-route/)
-* [security: Agents are your newest insiders. Security must move at their speed.](https://quintelier.dev/updates/agents-are-your-newest-insiders-security-must-move-at-their-speed/)
+* [github: GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens](https://quintelier.dev/updates/github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens/)
+* [azure: Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra](https://quintelier.dev/updates/announcing-choose-your-own-telephony-cyot-for-microsoft-entra/)
+* [security: AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://quintelier.dev/updates/ai-driven-large-scale-nation-state-campaign-using-artex-enables-supply-chain-compromise/)
 * [dotnet: Get Your .NET MAUI App Ready for Xcode 27](https://quintelier.dev/updates/get-your-net-maui-app-ready-for-xcode-27/)
 * [ai: Browser automation tool in Microsoft Foundry is now GA](https://quintelier.dev/updates/browser-automation-tool-in-microsoft-foundry-is-now-ga/)
 <!-- UPDATES-LIST:END -->
