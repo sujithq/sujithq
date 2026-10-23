@@ -89,8 +89,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens](https://quintelier.dev/updates/github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens/)
-* [azure: Announcing: Choose Your Own Telephony (CYOT) for Microsoft Entra](https://quintelier.dev/updates/announcing-choose-your-own-telephony-cyot-for-microsoft-entra/)
+* [github: GitHub Copilot in Visual Studio — September update](https://quintelier.dev/updates/github-copilot-in-visual-studio-september-update/)
+* [azure: [Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage](https://quintelier.dev/updates/launched-generally-available-abfs-vectored-read-for-azure-data-lake-storage/)
 * [security: AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://quintelier.dev/updates/ai-driven-large-scale-nation-state-campaign-using-artex-enables-supply-chain-compromise/)
 * [dotnet: Get Your .NET MAUI App Ready for Xcode 27](https://quintelier.dev/updates/get-your-net-maui-app-ready-for-xcode-27/)
 * [ai: Browser automation tool in Microsoft Foundry is now GA](https://quintelier.dev/updates/browser-automation-tool-in-microsoft-foundry-is-now-ga/)
