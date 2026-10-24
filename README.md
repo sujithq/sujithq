@@ -89,9 +89,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot in Visual Studio — September update](https://quintelier.dev/updates/github-copilot-in-visual-studio-september-update/)
-* [azure: [Launched] Generally Available: ABFS Vectored Read for Azure Data Lake Storage](https://quintelier.dev/updates/launched-generally-available-abfs-vectored-read-for-azure-data-lake-storage/)
-* [security: AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise](https://quintelier.dev/updates/ai-driven-large-scale-nation-state-campaign-using-artex-enables-supply-chain-compromise/)
+* [github: Usage metrics API adds usage from tools like OpenCode](https://quintelier.dev/updates/usage-metrics-api-adds-usage-from-tools-like-opencode/)
+* [azure: [Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup](https://quintelier.dev/updates/launched-generally-available-item-level-recovery-for-azure-vms-with-premium-ssdv2-and-ultra-disks-in-azure-backup/)
+* [security: Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks](https://quintelier.dev/updates/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/)
 * [dotnet: Get Your .NET MAUI App Ready for Xcode 27](https://quintelier.dev/updates/get-your-net-maui-app-ready-for-xcode-27/)
 * [ai: Browser automation tool in Microsoft Foundry is now GA](https://quintelier.dev/updates/browser-automation-tool-in-microsoft-foundry-is-now-ga/)
 <!-- UPDATES-LIST:END -->
