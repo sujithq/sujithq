@@ -89,11 +89,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Usage metrics API adds usage from tools like OpenCode](https://quintelier.dev/updates/usage-metrics-api-adds-usage-from-tools-like-opencode/)
-* [azure: [Launched] Generally Available: Item Level Recovery for Azure VMs with Premium SSDv2 and Ultra Disks in Azure Backup](https://quintelier.dev/updates/launched-generally-available-item-level-recovery-for-azure-vms-with-premium-ssdv2-and-ultra-disks-in-azure-backup/)
+* [github: GitHub Copilot assisted permissions generally available](https://quintelier.dev/updates/github-copilot-assisted-permissions-generally-available/)
+* [azure: [Launched] Generally Available: Network Watcher VNet flow logs filtering](https://quintelier.dev/updates/launched-generally-available-network-watcher-vnet-flow-logs-filtering/)
 * [security: Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks](https://quintelier.dev/updates/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/)
 * [dotnet: .NET October 2026 Out-of-Band Security Updates](https://quintelier.dev/updates/net-october-2026-out-of-band-security-updates/)
-* [ai: Browser automation tool in Microsoft Foundry is now GA](https://quintelier.dev/updates/browser-automation-tool-in-microsoft-foundry-is-now-ga/)
+* [ai: Announcing Azure AI Speech LLM 09-2026: Broader locale support](https://quintelier.dev/updates/announcing-azure-ai-speech-llm-09-2026-broader-locale-support/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
