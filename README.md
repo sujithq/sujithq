@@ -47,6 +47,23 @@ Currently working on:
   - GitHub Migrations
   - GitHub Enterprise Importer
   - Github Copilot for Business Fundamentals
+- GitHub Certifications
+  - Actions
+  - Copilot
+  - Advanced Security
+  - Administration
+  - Foundations
+  - Agentic AI Developer
+- GitHub Delivery Credentials
+  - GitHub Migrations
+  - GitHub Advanced Security
+  - GitHub Copilot Core Skill & Application  
+  - GitHub Copilot Deploying and Scaling AI in the Enterprise
+  - Modernizing Enterprise CI/CD with GitHub Actions
+  - Azure DevOps To GitHub Migration
+- Microsoft
+  - Pro Badge: GitHub Copilot Proficient
+
 - 📦 Terraform Associate
 - 🛠️ Platform Engineering
   - Practitioner  
@@ -203,8 +220,7 @@ I hold multiple certifications across **Azure, GitHub, Terraform, Platform Engin
 [![FY26 GitHub Advanced Security](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-advanced-100x100.png)](https://www.credly.com/badges/0d42e4c1-a0f7-46e5-bf9c-851c56694116)
 [![FY26 GitHub Copilot](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-copilot-100x100.png)](https://www.credly.com/badges/1b2b36c4-7442-4c9e-b0b5-3dd95a365ed2)
 [![FY26 GitHub Platform](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/fy26-GitHub-platform-100x100.png)](https://www.credly.com/badges/988f564f-b58e-4439-b51c-2b6823c5d38d)
-
-
+[![Microsoft Pro Badge: GitHub Copilot - Proficient](https://raw.githubusercontent.com/sujithq/sujithq/master/assets/github/0151-microsoft-pro-badge-github-copilot-proficient-100x100.png)](https://www.credly.com/badges/c58f29e9-59de-4bfd-9db8-61feb14c43ca/public_url)
 
 ---
 
