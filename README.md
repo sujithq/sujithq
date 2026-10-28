@@ -89,10 +89,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot assisted permissions generally available](https://quintelier.dev/updates/github-copilot-assisted-permissions-generally-available/)
-* [azure: [Launched] Generally Available: Network Watcher VNet flow logs filtering](https://quintelier.dev/updates/launched-generally-available-network-watcher-vnet-flow-logs-filtering/)
+* [github: GitHub Copilot supports server-to-server authentication](https://quintelier.dev/updates/github-copilot-supports-server-to-server-authentication/)
+* [azure: [Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription](https://quintelier.dev/updates/launched-generally-available-higher-limit-of-azure-blob-storage-accounts-per-region-per-subscription/)
 * [security: Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks](https://quintelier.dev/updates/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/)
-* [dotnet: .NET October 2026 Out-of-Band Security Updates](https://quintelier.dev/updates/net-october-2026-out-of-band-security-updates/)
+* [dotnet: Blazor Welcomes Open-Source Contributions from Infragistics](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-infragistics/)
 * [ai: Announcing Azure AI Speech LLM 09-2026: Broader locale support](https://quintelier.dev/updates/announcing-azure-ai-speech-llm-09-2026-broader-locale-support/)
 <!-- UPDATES-LIST:END -->
 
