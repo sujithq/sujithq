@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub Copilot supports server-to-server authentication](https://quintelier.dev/updates/github-copilot-supports-server-to-server-authentication/)
-* [azure: [Launched] Generally Available: Higher limit of Azure Blob Storage accounts per region per subscription](https://quintelier.dev/updates/launched-generally-available-higher-limit-of-azure-blob-storage-accounts-per-region-per-subscription/)
-* [security: Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks](https://quintelier.dev/updates/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/)
+* [github: Route and orchestrate models with GitHub Copilot Fusion](https://quintelier.dev/updates/route-and-orchestrate-models-with-github-copilot-fusion/)
+* [azure: Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor](https://quintelier.dev/updates/announcing-migrate-azure-container-apps-logging-destination-from-log-analytics-to-azure-monitor/)
+* [security: The CISO’s evolving role: Protecting and defending in the agentic era](https://quintelier.dev/updates/the-ciso-s-evolving-role-protecting-and-defending-in-the-agentic-era/)
 * [dotnet: Blazor Welcomes Open-Source Contributions from Infragistics](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-infragistics/)
-* [ai: Announcing Azure AI Speech LLM 09-2026: Broader locale support](https://quintelier.dev/updates/announcing-azure-ai-speech-llm-09-2026-broader-locale-support/)
+* [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
