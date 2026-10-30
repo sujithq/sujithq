@@ -106,10 +106,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Route and orchestrate models with GitHub Copilot Fusion](https://quintelier.dev/updates/route-and-orchestrate-models-with-github-copilot-fusion/)
-* [azure: Announcing: Migrate Azure Container Apps logging destination from Log Analytics to Azure Monitor](https://quintelier.dev/updates/announcing-migrate-azure-container-apps-logging-destination-from-log-analytics-to-azure-monitor/)
-* [security: The CISO’s evolving role: Protecting and defending in the agentic era](https://quintelier.dev/updates/the-ciso-s-evolving-role-protecting-and-defending-in-the-agentic-era/)
-* [dotnet: Blazor Welcomes Open-Source Contributions from Infragistics](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-infragistics/)
+* [github: Webhook IP ranges added to the Meta API](https://quintelier.dev/updates/webhook-ip-ranges-added-to-the-meta-api/)
+* [azure: [Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations](https://quintelier.dev/updates/launched-generally-available-large-os-disk-encryption-for-azure-confidential-vm-migrations/)
+* [security: IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://quintelier.dev/updates/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/)
+* [dotnet: Blazor Welcomes Open-Source Contributions from Syncfusion](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-syncfusion/)
 * [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
