@@ -107,8 +107,8 @@ Currently working on:
 
 <!-- UPDATES-LIST:START -->
 * [github: Webhook IP ranges added to the Meta API](https://quintelier.dev/updates/webhook-ip-ranges-added-to-the-meta-api/)
-* [azure: [Launched] Generally Available: Large OS Disk Encryption for Azure Confidential VM migrations](https://quintelier.dev/updates/launched-generally-available-large-os-disk-encryption-for-azure-confidential-vm-migrations/)
-* [security: IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment](https://quintelier.dev/updates/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/)
+* [azure: [In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL](https://quintelier.dev/updates/in-preview-public-preview-support-database-level-managed-identity-including-fic-in-create-database-scoped-credential-t-sql/)
+* [security: Inside a malicious Claude Code-branded extension and its persistent SSH backdoor](https://quintelier.dev/updates/inside-a-malicious-claude-code-branded-extension-and-its-persistent-ssh-backdoor/)
 * [dotnet: Blazor Welcomes Open-Source Contributions from Syncfusion](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-syncfusion/)
 * [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
