@@ -106,9 +106,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Webhook IP ranges added to the Meta API](https://quintelier.dev/updates/webhook-ip-ranges-added-to-the-meta-api/)
-* [azure: [In preview] Public Preview: Support database-level managed identity (including FIC) in Create Database Scoped Credential T-SQL](https://quintelier.dev/updates/in-preview-public-preview-support-database-level-managed-identity-including-fic-in-create-database-scoped-credential-t-sql/)
-* [security: Inside a malicious Claude Code-branded extension and its persistent SSH backdoor](https://quintelier.dev/updates/inside-a-malicious-claude-code-branded-extension-and-its-persistent-ssh-backdoor/)
+* [github: Security risk assessments include repository protection status](https://quintelier.dev/updates/security-risk-assessments-include-repository-protection-status/)
+* [azure: [In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate](https://quintelier.dev/updates/in-preview-public-preview-on-prem-nas-share-discovery-and-assessment-are-now-available-using-azure-migrate/)
+* [security: What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks](https://quintelier.dev/updates/what-exploited-vulnerabilities-have-in-common-a-data-driven-analysis-of-real-world-attacks/)
 * [dotnet: Blazor Welcomes Open-Source Contributions from Syncfusion](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-syncfusion/)
 * [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
