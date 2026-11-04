@@ -106,10 +106,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Security risk assessments include repository protection status](https://quintelier.dev/updates/security-risk-assessments-include-repository-protection-status/)
-* [azure: [In preview] Public Preview: On-prem NAS share discovery and assessment are now available using Azure Migrate](https://quintelier.dev/updates/in-preview-public-preview-on-prem-nas-share-discovery-and-assessment-are-now-available-using-azure-migrate/)
-* [security: What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks](https://quintelier.dev/updates/what-exploited-vulnerabilities-have-in-common-a-data-driven-analysis-of-real-world-attacks/)
-* [dotnet: Blazor Welcomes Open-Source Contributions from Syncfusion](https://quintelier.dev/updates/blazor-welcomes-open-source-contributions-from-syncfusion/)
+* [github: BYOK and enterprise custom models in the Copilot usage API](https://quintelier.dev/updates/byok-and-enterprise-custom-models-in-the-copilot-usage-api/)
+* [azure: [In preview] Public Preview: JWT validation for Application Gateway for Containers](https://quintelier.dev/updates/in-preview-public-preview-jwt-validation-for-application-gateway-for-containers/)
+* [security: Fake-download campaign uses trojanized installers to deliver monetization payloads](https://quintelier.dev/updates/fake-download-campaign-uses-trojanized-installers-to-deliver-monetization-payloads/)
+* [dotnet: Delivering Skills in NuGet packages](https://quintelier.dev/updates/delivering-skills-in-nuget-packages/)
 * [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
 <!-- UPDATES-LIST:END -->
 
