@@ -106,8 +106,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: BYOK and enterprise custom models in the Copilot usage API](https://quintelier.dev/updates/byok-and-enterprise-custom-models-in-the-copilot-usage-api/)
-* [azure: [In preview] Public Preview: JWT validation for Application Gateway for Containers](https://quintelier.dev/updates/in-preview-public-preview-jwt-validation-for-application-gateway-for-containers/)
+* [github: CodeQL 2.27.4 improves accuracy and query metadata](https://quintelier.dev/updates/codeql-2-27-4-improves-accuracy-and-query-metadata/)
+* [azure: [Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01](https://quintelier.dev/updates/launched-generally-available-azure-database-for-postgresql-stable-rest-api-version-2026-10-01/)
 * [security: Fake-download campaign uses trojanized installers to deliver monetization payloads](https://quintelier.dev/updates/fake-download-campaign-uses-trojanized-installers-to-deliver-monetization-payloads/)
 * [dotnet: Delivering Skills in NuGet packages](https://quintelier.dev/updates/delivering-skills-in-nuget-packages/)
 * [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
