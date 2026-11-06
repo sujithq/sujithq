@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: CodeQL 2.27.4 improves accuracy and query metadata](https://quintelier.dev/updates/codeql-2-27-4-improves-accuracy-and-query-metadata/)
-* [azure: [Launched] Generally Available: Azure Database for PostgreSQL stable REST API version 2026-10-01](https://quintelier.dev/updates/launched-generally-available-azure-database-for-postgresql-stable-rest-api-version-2026-10-01/)
-* [security: Fake-download campaign uses trojanized installers to deliver monetization payloads](https://quintelier.dev/updates/fake-download-campaign-uses-trojanized-installers-to-deliver-monetization-payloads/)
-* [dotnet: Delivering Skills in NuGet packages](https://quintelier.dev/updates/delivering-skills-in-nuget-packages/)
-* [ai: Introducing the Microsoft Copilot harness in Foundry Agent Service](https://quintelier.dev/updates/introducing-the-microsoft-copilot-harness-in-foundry-agent-service/)
+* [github: Usage metrics API adds code review details and addressed rate](https://quintelier.dev/updates/usage-metrics-api-adds-code-review-details-and-addressed-rate/)
+* [azure: [Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support](https://quintelier.dev/updates/launched-generally-available-azure-front-door-tls-key-exchange-policy-with-post-quantum-support/)
+* [security: Threat actors use agentic AI tooling to find and abuse exposed secrets](https://quintelier.dev/updates/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/)
+* [dotnet: Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://quintelier.dev/updates/help-shape-the-future-of-net-take-the-2026-net-developer-survey/)
+* [ai: Microsoft Foundry extension for Azure Developer CLI is generally available](https://quintelier.dev/updates/microsoft-foundry-extension-for-azure-developer-cli-is-generally-available/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
