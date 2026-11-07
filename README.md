@@ -106,9 +106,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Usage metrics API adds code review details and addressed rate](https://quintelier.dev/updates/usage-metrics-api-adds-code-review-details-and-addressed-rate/)
+* [github: Copilot code review: API management and review overview updates](https://quintelier.dev/updates/copilot-code-review-api-management-and-review-overview-updates/)
 * [azure: [Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support](https://quintelier.dev/updates/launched-generally-available-azure-front-door-tls-key-exchange-policy-with-post-quantum-support/)
-* [security: Threat actors use agentic AI tooling to find and abuse exposed secrets](https://quintelier.dev/updates/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/)
+* [security: ARTEX abuse expands as cybercriminals target financial sector](https://quintelier.dev/updates/artex-abuse-expands-as-cybercriminals-target-financial-sector/)
 * [dotnet: Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://quintelier.dev/updates/help-shape-the-future-of-net-take-the-2026-net-developer-survey/)
 * [ai: Microsoft Foundry extension for Azure Developer CLI is generally available](https://quintelier.dev/updates/microsoft-foundry-extension-for-azure-developer-cli-is-generally-available/)
 <!-- UPDATES-LIST:END -->
