@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Copilot code review: API management and review overview updates](https://quintelier.dev/updates/copilot-code-review-api-management-and-review-overview-updates/)
-* [azure: [Launched] Generally Available: Azure Front Door TLS key exchange policy with post-quantum support](https://quintelier.dev/updates/launched-generally-available-azure-front-door-tls-key-exchange-policy-with-post-quantum-support/)
-* [security: ARTEX abuse expands as cybercriminals target financial sector](https://quintelier.dev/updates/artex-abuse-expands-as-cybercriminals-target-financial-sector/)
+* [github: Claude Fable 5.2 in GitHub Copilot](https://quintelier.dev/updates/claude-fable-5-2-in-github-copilot/)
+* [azure: Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026](https://quintelier.dev/updates/retirement-support-for-net-8-and-net-9-on-static-web-apps-is-ending-november-10-2026/)
+* [security: FORGE Lab uses agentic tools to identify memory safety issues in Rust](https://quintelier.dev/updates/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/)
 * [dotnet: Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://quintelier.dev/updates/help-shape-the-future-of-net-take-the-2026-net-developer-survey/)
-* [ai: Microsoft Foundry extension for Azure Developer CLI is generally available](https://quintelier.dev/updates/microsoft-foundry-extension-for-azure-developer-cli-is-generally-available/)
+* [ai: When one pass isn’t enough: agentic mode in Azure Content Understanding](https://quintelier.dev/updates/when-one-pass-isn-t-enough-agentic-mode-in-azure-content-understanding/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
