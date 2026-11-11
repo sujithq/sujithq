@@ -106,10 +106,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Claude Fable 5.2 in GitHub Copilot](https://quintelier.dev/updates/claude-fable-5-2-in-github-copilot/)
-* [azure: Retirement: Support for .NET 8 and .NET 9 on Static Web Apps is ending November 10, 2026](https://quintelier.dev/updates/retirement-support-for-net-8-and-net-9-on-static-web-apps-is-ending-november-10-2026/)
-* [security: FORGE Lab uses agentic tools to identify memory safety issues in Rust](https://quintelier.dev/updates/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/)
-* [dotnet: Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://quintelier.dev/updates/help-shape-the-future-of-net-take-the-2026-net-developer-survey/)
+* [github: GitHub App support for Enterprise Copilot seat management](https://quintelier.dev/updates/github-app-support-for-enterprise-copilot-seat-management/)
+* [azure: [In preview] Public Preview: Distributed accelerator for cloud storage on AKS](https://quintelier.dev/updates/in-preview-public-preview-distributed-accelerator-for-cloud-storage-on-aks/)
+* [security: Detecting sleeper agents hiding in AI model neurons](https://quintelier.dev/updates/detecting-sleeper-agents-hiding-in-ai-model-neurons/)
+* [dotnet: Announcing .NET 11](https://quintelier.dev/updates/announcing-net-11/)
 * [ai: When one pass isn’t enough: agentic mode in Azure Content Understanding](https://quintelier.dev/updates/when-one-pass-isn-t-enough-agentic-mode-in-azure-content-understanding/)
 <!-- UPDATES-LIST:END -->
 
