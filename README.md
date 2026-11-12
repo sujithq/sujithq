@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: GitHub App support for Enterprise Copilot seat management](https://quintelier.dev/updates/github-app-support-for-enterprise-copilot-seat-management/)
-* [azure: [In preview] Public Preview: Distributed accelerator for cloud storage on AKS](https://quintelier.dev/updates/in-preview-public-preview-distributed-accelerator-for-cloud-storage-on-aks/)
-* [security: Detecting sleeper agents hiding in AI model neurons](https://quintelier.dev/updates/detecting-sleeper-agents-hiding-in-ai-model-neurons/)
+* [github: Issue types and fields are available for personal accounts](https://quintelier.dev/updates/issue-types-and-fields-are-available-for-personal-accounts/)
+* [azure: [In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF](https://quintelier.dev/updates/in-preview-public-preview-rate-limit-grouping-for-azure-front-door-premium-waf/)
+* [security: The global socket: how threat actors are weaponizing GSocket for stealthy C2](https://quintelier.dev/updates/the-global-socket-how-threat-actors-are-weaponizing-gsocket-for-stealthy-c2/)
 * [dotnet: Announcing .NET 11](https://quintelier.dev/updates/announcing-net-11/)
-* [ai: When one pass isn’t enough: agentic mode in Azure Content Understanding](https://quintelier.dev/updates/when-one-pass-isn-t-enough-agentic-mode-in-azure-content-understanding/)
+* [ai: Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload](https://quintelier.dev/updates/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
