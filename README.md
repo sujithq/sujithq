@@ -106,9 +106,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Issue types and fields are available for personal accounts](https://quintelier.dev/updates/issue-types-and-fields-are-available-for-personal-accounts/)
-* [azure: [In preview] Public Preview: Rate limit grouping for Azure Front Door Premium WAF](https://quintelier.dev/updates/in-preview-public-preview-rate-limit-grouping-for-azure-front-door-premium-waf/)
-* [security: The global socket: how threat actors are weaponizing GSocket for stealthy C2](https://quintelier.dev/updates/the-global-socket-how-threat-actors-are-weaponizing-gsocket-for-stealthy-c2/)
+* [github: Actions for ARM32 Linux & Windows retirement](https://quintelier.dev/updates/actions-for-arm32-linux-windows-retirement/)
+* [azure: [In preview] Public Preview: JWT validation with Azure Front Door Auth Policy](https://quintelier.dev/updates/in-preview-public-preview-jwt-validation-with-azure-front-door-auth-policy/)
+* [security: Trained to betray: How post-training supply chain attacks hijack coding agents](https://quintelier.dev/updates/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/)
 * [dotnet: Announcing .NET 11](https://quintelier.dev/updates/announcing-net-11/)
 * [ai: Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload](https://quintelier.dev/updates/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/)
 <!-- UPDATES-LIST:END -->
