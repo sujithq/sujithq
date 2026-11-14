@@ -106,9 +106,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Actions for ARM32 Linux & Windows retirement](https://quintelier.dev/updates/actions-for-arm32-linux-windows-retirement/)
-* [azure: [In preview] Public Preview: JWT validation with Azure Front Door Auth Policy](https://quintelier.dev/updates/in-preview-public-preview-jwt-validation-with-azure-front-door-auth-policy/)
-* [security: Trained to betray: How post-training supply chain attacks hijack coding agents](https://quintelier.dev/updates/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/)
+* [github: Upcoming deprecation of selected GitHub Copilot models in December](https://quintelier.dev/updates/upcoming-deprecation-of-selected-github-copilot-models-in-december/)
+* [azure: Retirement: Azure Data Share will be retired on November 12, 2029](https://quintelier.dev/updates/retirement-azure-data-share-will-be-retired-on-november-12-2029/)
+* [security: SCKit abuses ScreenConnect to deploy remote access and target technician sessions](https://quintelier.dev/updates/sckit-abuses-screenconnect-to-deploy-remote-access-and-target-technician-sessions/)
 * [dotnet: Announcing .NET 11](https://quintelier.dev/updates/announcing-net-11/)
 * [ai: Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload](https://quintelier.dev/updates/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/)
 <!-- UPDATES-LIST:END -->
