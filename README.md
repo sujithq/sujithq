@@ -106,10 +106,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Dependabot alert dismissal requests now last one year](https://quintelier.dev/updates/dependabot-alert-dismissal-requests-now-last-one-year/)
-* [azure: Retirement: Azure Data Share will be retired on November 12, 2029](https://quintelier.dev/updates/retirement-azure-data-share-will-be-retired-on-november-12-2029/)
-* [security: High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors](https://quintelier.dev/updates/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-to-target-multiple-industry-sectors/)
-* [dotnet: Announcing .NET 11](https://quintelier.dev/updates/announcing-net-11/)
+* [github: OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available](https://quintelier.dev/updates/openai-s-gpt-6-2-astra-and-gpt-6-2-sol-now-available/)
+* [azure: [In preview] Public Preview: Immutable snapshots for Azure Disk Storage](https://quintelier.dev/updates/in-preview-public-preview-immutable-snapshots-for-azure-disk-storage/)
+* [security: Security for the agentic era, powered by Microsoft Perception](https://quintelier.dev/updates/security-for-the-agentic-era-powered-by-microsoft-perception/)
+* [dotnet: Introducing staged publishing on NuGet.org](https://quintelier.dev/updates/introducing-staged-publishing-on-nuget-org/)
 * [ai: Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload](https://quintelier.dev/updates/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/)
 <!-- UPDATES-LIST:END -->
 
