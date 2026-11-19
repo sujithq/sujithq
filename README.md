@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available](https://quintelier.dev/updates/openai-s-gpt-6-2-astra-and-gpt-6-2-sol-now-available/)
-* [azure: [In preview] Public Preview: Immutable snapshots for Azure Disk Storage](https://quintelier.dev/updates/in-preview-public-preview-immutable-snapshots-for-azure-disk-storage/)
+* [github: Wait for pull request events with GitHub CLI](https://quintelier.dev/updates/wait-for-pull-request-events-with-github-cli/)
+* [azure: [In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF](https://quintelier.dev/updates/in-preview-public-preview-ai-bot-ruleset-for-azure-front-door-premium-waf/)
 * [security: Security for the agentic era, powered by Microsoft Perception](https://quintelier.dev/updates/security-for-the-agentic-era-powered-by-microsoft-perception/)
 * [dotnet: Introducing staged publishing on NuGet.org](https://quintelier.dev/updates/introducing-staged-publishing-on-nuget-org/)
-* [ai: Content Understanding adds GPT-5.6, GPT-6, and GPT-6.1: Choose the right model for your workload](https://quintelier.dev/updates/content-understanding-adds-gpt-5-6-gpt-6-and-gpt-6-1-choose-the-right-model-for-your-workload/)
+* [ai: Hosted agents in Foundry Agent Service at Ignite 2026: from pilot to production inside your enterprise boundaries](https://quintelier.dev/updates/hosted-agents-in-foundry-agent-service-at-ignite-2026-from-pilot-to-production-inside-your-enterprise-boundaries/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
