@@ -106,8 +106,8 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Wait for pull request events with GitHub CLI](https://quintelier.dev/updates/wait-for-pull-request-events-with-github-cli/)
-* [azure: [In preview] Public Preview: AI bot ruleset for Azure Front Door Premium WAF](https://quintelier.dev/updates/in-preview-public-preview-ai-bot-ruleset-for-azure-front-door-premium-waf/)
+* [github: Improvements on the pull request overview in public preview](https://quintelier.dev/updates/improvements-on-the-pull-request-overview-in-public-preview/)
+* [azure: Announcing: Multiparty private offers in Microsoft Marketplace expands to Malaysia and Saudi Arabia](https://quintelier.dev/updates/announcing-multiparty-private-offers-in-microsoft-marketplace-expands-to-malaysia-and-saudi-arabia/)
 * [security: Security for the agentic era, powered by Microsoft Perception](https://quintelier.dev/updates/security-for-the-agentic-era-powered-by-microsoft-perception/)
 * [dotnet: Introducing staged publishing on NuGet.org](https://quintelier.dev/updates/introducing-staged-publishing-on-nuget-org/)
 * [ai: Hosted agents in Foundry Agent Service at Ignite 2026: from pilot to production inside your enterprise boundaries](https://quintelier.dev/updates/hosted-agents-in-foundry-agent-service-at-ignite-2026-from-pilot-to-production-inside-your-enterprise-boundaries/)
