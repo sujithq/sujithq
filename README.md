@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Improvements on the pull request overview in public preview](https://quintelier.dev/updates/improvements-on-the-pull-request-overview-in-public-preview/)
-* [azure: Announcing: Multiparty private offers in Microsoft Marketplace expands to Malaysia and Saudi Arabia](https://quintelier.dev/updates/announcing-multiparty-private-offers-in-microsoft-marketplace-expands-to-malaysia-and-saudi-arabia/)
-* [security: Security for the agentic era, powered by Microsoft Perception](https://quintelier.dev/updates/security-for-the-agentic-era-powered-by-microsoft-perception/)
-* [dotnet: Introducing staged publishing on NuGet.org](https://quintelier.dev/updates/introducing-staged-publishing-on-nuget-org/)
-* [ai: Hosted agents in Foundry Agent Service at Ignite 2026: from pilot to production inside your enterprise boundaries](https://quintelier.dev/updates/hosted-agents-in-foundry-agent-service-at-ignite-2026-from-pilot-to-production-inside-your-enterprise-boundaries/)
+* [github: Security advisory permissions are now generally available](https://quintelier.dev/updates/security-advisory-permissions-are-now-generally-available/)
+* [azure: [Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code](https://quintelier.dev/updates/launched-generally-available-governance-policy-guidance-in-foundry-canvas-and-vs-code/)
+* [security: Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/)
+* [dotnet: AI is Changing the Cross-Platform Decision Matrix](https://quintelier.dev/updates/ai-is-changing-the-cross-platform-decision-matrix/)
+* [ai: Serve open models in production with Foundry Managed Compute](https://quintelier.dev/updates/serve-open-models-in-production-with-foundry-managed-compute/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
