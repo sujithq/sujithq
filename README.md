@@ -110,7 +110,7 @@ Currently working on:
 * [azure: [Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code](https://quintelier.dev/updates/launched-generally-available-governance-policy-guidance-in-foundry-canvas-and-vs-code/)
 * [security: Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/)
 * [dotnet: AI is Changing the Cross-Platform Decision Matrix](https://quintelier.dev/updates/ai-is-changing-the-cross-platform-decision-matrix/)
-* [ai: Serve open models in production with Foundry Managed Compute](https://quintelier.dev/updates/serve-open-models-in-production-with-foundry-managed-compute/)
+* [ai: Hosted agents in your own virtual network: five checks when the Agents page times out](https://quintelier.dev/updates/hosted-agents-in-your-own-virtual-network-five-checks-when-the-agents-page-times-out/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
