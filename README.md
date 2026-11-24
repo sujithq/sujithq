@@ -106,10 +106,10 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Security advisory permissions are now generally available](https://quintelier.dev/updates/security-advisory-permissions-are-now-generally-available/)
-* [azure: [Launched] Generally Available: Governance policy guidance in Foundry Canvas and VS Code](https://quintelier.dev/updates/launched-generally-available-governance-policy-guidance-in-foundry-canvas-and-vs-code/)
+* [github: Issue statuses and repository boards are in public preview](https://quintelier.dev/updates/issue-statuses-and-repository-boards-are-in-public-preview/)
+* [azure: [In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ](https://quintelier.dev/updates/in-preview-public-preview-enterprise-knowledge-graph-in-foundry-iq/)
 * [security: Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/)
-* [dotnet: AI is Changing the Cross-Platform Decision Matrix](https://quintelier.dev/updates/ai-is-changing-the-cross-platform-decision-matrix/)
+* [dotnet: Run local models in your .NET apps with Llama on Windows](https://quintelier.dev/updates/run-local-models-in-your-net-apps-with-llama-on-windows/)
 * [ai: Hosted agents in your own virtual network: five checks when the Agents page times out](https://quintelier.dev/updates/hosted-agents-in-your-own-virtual-network-five-checks-when-the-agents-page-times-out/)
 <!-- UPDATES-LIST:END -->
 
