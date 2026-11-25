@@ -106,11 +106,11 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: Issue statuses and repository boards are in public preview](https://quintelier.dev/updates/issue-statuses-and-repository-boards-are-in-public-preview/)
-* [azure: [In preview] Public Preview: Enterprise Knowledge Graph in Foundry IQ](https://quintelier.dev/updates/in-preview-public-preview-enterprise-knowledge-graph-in-foundry-iq/)
+* [github: More predictable notifications on GitHub.com](https://quintelier.dev/updates/more-predictable-notifications-on-github-com/)
+* [azure: [Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-zonal-disaster-recovery-for-ultra-disks/)
 * [security: Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/)
-* [dotnet: Run local models in your .NET apps with Llama on Windows](https://quintelier.dev/updates/run-local-models-in-your-net-apps-with-llama-on-windows/)
-* [ai: Hosted agents in your own virtual network: five checks when the Agents page times out](https://quintelier.dev/updates/hosted-agents-in-your-own-virtual-network-five-checks-when-the-agents-page-times-out/)
+* [dotnet: Introducing DocumentExtractionClient (preview): Extract documents in .NET](https://quintelier.dev/updates/introducing-documentextractionclient-preview-extract-documents-in-net/)
+* [ai: What’s new in Microsoft Foundry | Ignite 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-ignite-2026/)
 <!-- UPDATES-LIST:END -->
 
 #### (Auto-updated via GitHub Action)
