@@ -106,9 +106,9 @@ Currently working on:
 ### 🔃 Latest Updates
 
 <!-- UPDATES-LIST:START -->
-* [github: More predictable notifications on GitHub.com](https://quintelier.dev/updates/more-predictable-notifications-on-github-com/)
-* [azure: [Launched] Generally Available: Azure Site Recovery support for zonal disaster recovery for Ultra disks](https://quintelier.dev/updates/launched-generally-available-azure-site-recovery-support-for-zonal-disaster-recovery-for-ultra-disks/)
-* [security: Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM](https://quintelier.dev/updates/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/)
+* [github: Copilot code review billing will default to the organization](https://quintelier.dev/updates/copilot-code-review-billing-will-default-to-the-organization/)
+* [azure: [In preview] Public Preview: ECMP Nexthop](https://quintelier.dev/updates/in-preview-public-preview-ecmp-nexthop/)
+* [security: What defenders need to know about ARTEX, the agentic AI framework threat actors abuse](https://quintelier.dev/updates/what-defenders-need-to-know-about-artex-the-agentic-ai-framework-threat-actors-abuse/)
 * [dotnet: Introducing DocumentExtractionClient (preview): Extract documents in .NET](https://quintelier.dev/updates/introducing-documentextractionclient-preview-extract-documents-in-net/)
 * [ai: What’s new in Microsoft Foundry | Ignite 2026](https://quintelier.dev/updates/what-s-new-in-microsoft-foundry-ignite-2026/)
 <!-- UPDATES-LIST:END -->
